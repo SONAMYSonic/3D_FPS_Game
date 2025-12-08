@@ -9,6 +9,7 @@ public class PlayerMove : MonoBehaviour
 
     public float Gravity = -9.81f;
     private float _yVelocity = 0f;      // 중력에 의해 누적될 y값 변수
+    public float JumpForce = 5f;
 
     private CharacterController _characterController;
 
@@ -33,6 +34,14 @@ public class PlayerMove : MonoBehaviour
 
         // - 글로벌 좌표 방향을 구한다
         Vector3 direction = new Vector3(h, 0, v).normalized;
+
+        Debug.Log(_characterController.collisionFlags);
+
+        // - 점프 처리
+        if (Input.GetButtonDown("Jump") && _characterController.isGrounded)
+        {
+            _yVelocity = JumpForce;
+        }
 
         // - 카메라가 쳐다보는 방향으로 변환한다
         direction = Camera.main.transform.TransformDirection(direction);
