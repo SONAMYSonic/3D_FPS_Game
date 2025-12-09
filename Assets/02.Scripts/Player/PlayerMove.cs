@@ -14,7 +14,7 @@ public class PlayerMove : MonoBehaviour
         public float JumpStamina;
     }
 
-    public MoveConfig _config;
+    public MoveConfig Config;
 
 
     private CharacterController _controller;
@@ -31,7 +31,7 @@ public class PlayerMove : MonoBehaviour
     private void Update()
     {
         // 0. 중력을 누적한다.
-        _yVelocity += _config.Gravity * Time.deltaTime;
+        _yVelocity += Config.Gravity * Time.deltaTime;
 
         // 1. 키보드 입력 받기
         float x = Input.GetAxis("Horizontal");
@@ -60,7 +60,7 @@ public class PlayerMove : MonoBehaviour
 
 
         float moveSpeed = _stats.MoveSpeed.Value;
-        if (Input.GetKey(KeyCode.LeftShift) && _stats.Stamina.TryConsume(_config.RunStamina * Time.deltaTime))
+        if (Input.GetKey(KeyCode.LeftShift) && _stats.Stamina.TryConsume(Config.RunStamina * Time.deltaTime))
         {
             moveSpeed = _stats.RunSpeed.Value;
         }

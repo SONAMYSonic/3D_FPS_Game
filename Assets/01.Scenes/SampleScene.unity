@@ -274,9 +274,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 53d16b8bf92fc2f479728c6df5a65273, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _config:
+  Config:
     Gravity: -9.81
-    RunStamina: 3
+    RunStamina: 10
     JumpStamina: 10
 --- !u!143 &142320880
 CharacterController:

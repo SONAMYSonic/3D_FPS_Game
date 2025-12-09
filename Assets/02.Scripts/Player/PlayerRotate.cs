@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerRotate : MonoBehaviour
 {
-    public float rotateSpeed = 200f;    // 0 ~ 360
+    public float RotateSpeed = 200f;    // 0 ~ 360
 
     private float _accumulationX = 0;
 
@@ -17,7 +17,7 @@ public class PlayerRotate : MonoBehaviour
         float mouseX = Input.GetAxis("Mouse X");
 
         // 2. 마우스 입력을 누적한다.
-        _accumulationX += mouseX * rotateSpeed * Time.deltaTime;
+        _accumulationX += mouseX * RotateSpeed * Time.deltaTime;
 
         // 4. 누적한 회전 방향으로 카메라 회전하기
         transform.eulerAngles = new Vector3(0f, _accumulationX, 0f);

@@ -4,7 +4,7 @@ using UnityEngine;
 // 마우스를 조작하면 카메라를 그 방향으로 회전시키고 싶다.
 public class CameraRotate : MonoBehaviour
 {
-    public float rotateSpeed = 200f;    // 0 ~ 360
+    public float RotateSpeed = 200f;    // 0 ~ 360
 
     // 유니티는 0~360각도 체계이므로 우리가 따로 저장할 -360 ~ 360 체계로 누적할 변수
     private float _accumulationX = 0;
@@ -23,8 +23,8 @@ public class CameraRotate : MonoBehaviour
         float mouseY = Input.GetAxis("Mouse Y");
 
         // 2. 마우스 입력을 누적한다.
-        _accumulationX += mouseX * rotateSpeed * Time.deltaTime;
-        _accumulationY += mouseY * rotateSpeed * Time.deltaTime;
+        _accumulationX += mouseX * RotateSpeed * Time.deltaTime;
+        _accumulationY += mouseY * RotateSpeed * Time.deltaTime;
 
         // 3. 사람처럼 -90 ~ 90도 사이로 제한한다.
         _accumulationY = Mathf.Clamp(_accumulationY, -90f, 90f);

@@ -16,7 +16,7 @@ public class UI_PlayerStats : MonoBehaviour
     {
         _healthSlider.value = _stats.Health.Value / _stats.Health.MaxValue;
         _staminaSlider.value = _stats.Stamina.Value / _stats.Stamina.MaxValue;
-        _bombText.text = $"X {_stats.Bomb.Value}";
+        _bombText.SetText("X {0}", _stats.Bomb.Value);
     }
 
 }
