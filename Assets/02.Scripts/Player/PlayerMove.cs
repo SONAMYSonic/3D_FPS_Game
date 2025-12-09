@@ -1,98 +1,72 @@
+using System;
 using UnityEngine;
 
+// 키보드를 누르면 캐릭터를 그 방향으로 이동 시키고 싶다.
 [RequireComponent(typeof(CharacterController))]
+[RequireComponent(typeof(PlayerStats))]
 public class PlayerMove : MonoBehaviour
 {
-    // 필요 속성
-    // - 이동속도
-    public float MoveSpeed = 7f;
+    [Serializable] // json, sciptableObject 혹은 DB에서 읽어오게 하면된다.
+    public class MoveConfig
+    {
+        public float Gravity;
+        public float RunStamina;
+        public float JumpStamina;
+    }
 
-    public float Gravity = -9.81f;
-    private float _yVelocity = 0f;      // 중력에 의해 누적될 y값 변수
-    public float JumpForce = 5f;
-    public float DashMultiplier = 2f;   // 대시 시 배수
-    [SerializeField]private float _playerStamina = 100f; // 플레이어 스태미나
-    public bool isDoubleJumping = false; // 더블 점프 중인지 여부
+    public MoveConfig _config;
 
-    public UI_PlayerStats UI_PlayerStats; // 플레이어 스탯 UI 참조
 
-    private CharacterController _characterController;
+    private CharacterController _controller;
+    private PlayerStats _stats;
 
+    private float _yVelocity = 0f;   // 중력에 의해 누적될 y값 변수
 
     private void Awake()
     {
-        _characterController = GetComponent<CharacterController>();
+        _controller = GetComponent<CharacterController>();
+        _stats = GetComponent<PlayerStats>();
     }
 
     private void Update()
     {
-        // 0. 중력을 누적한다
-        _yVelocity += Gravity * Time.deltaTime;
+        // 0. 중력을 누적한다.
+        _yVelocity += _config.Gravity * Time.deltaTime;
 
         // 1. 키보드 입력 받기
-        float h = Input.GetAxis("Horizontal");
-        float v = Input.GetAxis("Vertical");
+        float x = Input.GetAxis("Horizontal");
+        float y = Input.GetAxis("Vertical");
 
-        // 2. 입력에 따라 방향 구하기
+        // 2. 입력에 따른 방향 구하기 
         // 현재는 유니티 세상의 절대적인 방향이 기준 (글로벌/월드 좌표계)
-        // 내가 원하는 것은 카메라가 쳐다보는 방향이 기준
+        // 내가 원하는 것은 카메라가 쳐다보는 방향이 기준으로
 
-        // - 글로벌 좌표 방향을 구한다
-        Vector3 direction = new Vector3(h, 0, v).normalized;
+        // - 글로벌 좌표 방향을 구한다. 
+        Vector3 direction = new Vector3(x, 0, y);
+        direction.Normalize();
 
-        //Debug.Log(_characterController.collisionFlags);
 
-        // - 점프 처리
-        // 스태미너가 10 이상일 때 더블 점프 가능, 더블 점프 시 스태미나 10 감소, 기본 점프 시에는 스태미나 감소 없음
-        if (_characterController.isGrounded)
+
+        // - 점프! : 점프 키를 누르고 && 땅이라면
+        if (Input.GetButtonDown("Jump") && _controller.isGrounded)
         {
-            // 땅에 닿아있을 때
-            _yVelocity = 0f; // y속도 초기화
-            isDoubleJumping = false; // 더블 점프 상태 초기화
-            if (Input.GetKeyDown(KeyCode.Space))
-            {
-                _yVelocity = JumpForce;
-            }
-        }
-        else
-        {
-            // 공중에 떠 있을 때
-            if (Input.GetKeyDown(KeyCode.Space))
-            {
-                if (!isDoubleJumping && _playerStamina >= 10f)
-                {
-                    _yVelocity = JumpForce;
-                    isDoubleJumping = true;
-                    _playerStamina -= 10f; // 스태미나 10 감소
-                }
-            }
+            _yVelocity = _stats.JumpPower.Value;
         }
 
-        // - 카메라가 쳐다보는 방향으로 변환한다
+        // - 카메라가 쳐다보는 방향으로 변환한다. (월드 -> 로컬)
         direction = Camera.main.transform.TransformDirection(direction);
-        direction.y = _yVelocity;   // 중력에 의한 y값 적용
+        direction.y = _yVelocity; // 중력 적용
 
-        // 3. 방향으로 이동시키기
-        _characterController.Move(direction * MoveSpeed * Time.deltaTime);
 
-        // 대시 처리
-        // 대시 키를 누르고 있으면서 이동 중일 때, 스태미나는 1초에 1씩 감소
-        if (Input.GetKey(KeyCode.LeftShift) && direction.magnitude > 0.1f)
+
+        float moveSpeed = _stats.MoveSpeed.Value;
+        if (Input.GetKey(KeyCode.LeftShift) && _stats.Stamina.TryConsume(_config.RunStamina * Time.deltaTime))
         {
-            if (_playerStamina > 0f)
-            {
-                _characterController.Move(direction * MoveSpeed * DashMultiplier * Time.deltaTime);
-                _playerStamina -= 1f * Time.deltaTime;
+            moveSpeed = _stats.RunSpeed.Value;
+        }
 
-            }
-        }
-        else
-        {
-            // 대시 키를 떼었거나 이동하지 않을 때, 스태미나는 1초에 0.5씩 회복
-            if (_playerStamina < 100f)
-            {
-                _playerStamina += 0.5f * Time.deltaTime;
-            }
-        }
+        // 3. 방향으로 이동시키기  
+        _controller.Move(direction * moveSpeed * Time.deltaTime);
     }
+
 }
