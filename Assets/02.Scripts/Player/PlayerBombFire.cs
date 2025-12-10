@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(PlayerStats))]
-public class PlayerFire : MonoBehaviour
+public class PlayerBombFire : MonoBehaviour
 {
     // 마우스 오른쪽 버튼을 누르면 카메라(플레이어)가 바라보는 방향으로 폭탄을 던지고 싶다.
 
