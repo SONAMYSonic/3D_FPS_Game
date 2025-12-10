@@ -4152,7 +4152,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1649068945}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.2477955, y: -0, z: -0, w: 0.96881235}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.882, y: 0.69273585, z: -0.46813288}
   m_LocalScale: {x: 0.1, y: 0.3, z: 0.1}
   m_ConstrainProportionsScale: 0
@@ -4161,7 +4161,7 @@ Transform:
   - {fileID: 1126494857}
   - {fileID: 1400509512}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 28.694, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1649068950
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4176,6 +4176,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _maxGapDistance: 0.5
   _extensionSpeed: 5
+  _extensionDirection: {x: 0, y: 1, z: 0}
   _segments:
   - {fileID: 114243800}
   - {fileID: 1375023782}
@@ -4184,8 +4185,8 @@ MonoBehaviour:
   - {fileID: 1354818978}
   - {fileID: 1996930879}
   _chainIK: {fileID: 1786359879}
-  _currentExtensionFactor: 0
-  _isWhipMode: 0
+  _targetSource: {fileID: 1400509512}
+  IsWhipMode: 0
 --- !u!1 &1666237130
 GameObject:
   m_ObjectHideFlags: 0
@@ -4500,8 +4501,8 @@ MonoBehaviour:
     m_TipRotationWeight: 1
     m_MaxIterations: 15
     m_Tolerance: 0.0001
-    m_MaintainTargetPositionOffset: 0
-    m_MaintainTargetRotationOffset: 0
+    m_MaintainTargetPositionOffset: 1
+    m_MaintainTargetRotationOffset: 1
 --- !u!1 &1910335575
 GameObject:
   m_ObjectHideFlags: 0

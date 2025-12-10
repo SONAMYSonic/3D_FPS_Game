@@ -4,9 +4,6 @@ using UnityEngine.Animations.Rigging;
 
 namespace Game.Weapons
 {
-    /// <summary>
-    /// 사미환(Whip Sword)의 늘어남과 휘어짐을 제어하는 클래스입니다.
-    /// </summary>
     public class ZabimaruController : MonoBehaviour
     {
         [Header("Settings")]
@@ -16,75 +13,91 @@ namespace Game.Weapons
         [Tooltip("검이 늘어나는 속도입니다.")]
         [SerializeField] private float _extensionSpeed = 5f;
 
-        [Header("References")]
-        [Tooltip("칼날 마디들의 리스트입니다. 순서대로 할당해야 합니다.")]
-        [SerializeField] private List<Transform> _segments = new List<Transform>();
+        [Tooltip("칼이 늘어나는 방향입니다. (님 설정대로라면 Y축이므로 0, 1, 0)")]
+        [SerializeField] private Vector3 _extensionDirection = Vector3.up;
 
-        [Tooltip("Animation Rigging의 Chain IK Constraint입니다.")]
+        [Header("References")]
+        [SerializeField] private List<Transform> _segments = new List<Transform>();
         [SerializeField] private ChainIKConstraint _chainIK;
 
-        // 내부 상태 변수
-        public float _currentExtensionFactor = 0f; // 0: 검(수축), 1: 채찍(이완)
-        public bool _isWhipMode = false;
+        [Tooltip("Damped Transform의 Source가 되는 오브젝트 (Goal Source)")]
+        [SerializeField] private Transform _targetSource;
 
-        /// <summary>
-        /// 외부에서 검/채찍 모드를 토글할 때 호출합니다.
-        /// </summary>
-        public void ToggleMode()
+        // 내부 상태 변수
+        private float _currentExtensionFactor = 0f;
+        public bool IsWhipMode = false;
+
+        // [핵심] 각 마디의 '원래 위치'를 기억할 리스트
+        private List<Vector3> _initialSegmentPositions = new List<Vector3>();
+        private Vector3 _initialTargetSourcePosition; // 타겟 소스의 원래 위치
+
+        private void Start()
         {
-            _isWhipMode = !_isWhipMode;
+            // 1. 게임 시작 시, 님이 배치해둔 마디들의 위치를 저장합니다.
+            foreach (var seg in _segments)
+            {
+                _initialSegmentPositions.Add(seg.localPosition);
+            }
+
+            // 2. 타겟 소스의 원래 위치도 저장합니다.
+            if (_targetSource != null)
+            {
+                _initialTargetSourcePosition = _targetSource.localPosition;
+            }
         }
 
-        /// <summary>
-        /// 현재 모드에 따라 마디 간격을 조절하고 IK 가중치를 설정합니다.
-        /// </summary>
         private void Update()
         {
             UpdateExtensionFactor();
             UpdateSegmentPositions();
             UpdateIKWeight();
+            UpdateTargetPosition();
         }
 
-        /// <summary>
-        /// 목표 확장 수치(0 또는 1)로 현재 수치를 보간합니다.
-        /// </summary>
         private void UpdateExtensionFactor()
         {
-            float targetFactor = _isWhipMode ? 1f : 0f;
-
-            // 부드러운 전환을 위해 Lerp 사용
+            float targetFactor = IsWhipMode ? 1f : 0f;
             _currentExtensionFactor = Mathf.Lerp(_currentExtensionFactor, targetFactor, Time.deltaTime * _extensionSpeed);
         }
 
-        /// <summary>
-        /// 확장 수치에 맞춰 마디 사이의 로컬 위치를 변경합니다.
-        /// </summary>
         private void UpdateSegmentPositions()
         {
-            // 첫 번째 마디는 고정이므로 인덱스 1부터 시작
+            // 인덱스 0번(손잡이/시작점)은 안 움직이므로 1번부터 시작
             for (int i = 1; i < _segments.Count; i++)
             {
-                Transform currentSeg = _segments[i];
+                // 공식: 원래 위치 + (방향 * (늘어남계수 * 거리 * 순서))
+                // 순서(i)를 곱하는 이유: 뒤에 있는 뼈일수록 앞 뼈들이 늘어난 만큼 더 많이 이동해야 하니까요.
 
-                // 마디가 늘어날 방향(로컬 Z축 가정)으로 위치 이동
-                // 기본 위치(0)에서 _maxGapDistance만큼 벌어짐
-                Vector3 newLocalPos = currentSeg.localPosition;
-                newLocalPos.z = _currentExtensionFactor * _maxGapDistance; // 축이 다르면 x, y 수정 필요
+                // 간단하게 '이전 마디로부터 벌어지는 방식'이 아니라 '원래 위치에서 추가로 이동'하는 방식 적용
+                Vector3 initialPos = _initialSegmentPositions[i];
 
-                currentSeg.localPosition = newLocalPos;
+                // 내가 이동해야 할 추가 거리 = (최대 간격 * 0~1계수 * 내 순서)
+                // 만약 계층구조(부모-자식)라면 '* i'를 뺍니다. (부모가 움직이면 자식도 가니까)
+                // ★ 중요: 마디들이 부모-자식 관계라면 아래 코드를 쓰세요.
+                Vector3 offset = _extensionDirection * (_maxGapDistance * _currentExtensionFactor);
+
+                // 만약 마디들이 부모-자식이 아니라 평행한 관계라면 offset에 * i 를 해야 합니다.
+                // 일단 부모-자식 관계라고 가정하고 작성합니다.
+
+                _segments[i].localPosition = initialPos + offset;
             }
         }
 
-        /// <summary>
-        /// 검 모드일 때는 IK를 끄고(직선 유지), 채찍 모드일 때는 IK를 켭니다.
-        /// </summary>
         private void UpdateIKWeight()
         {
-            if (_chainIK == null) return;
+            if (_chainIK != null) _chainIK.weight = _currentExtensionFactor;
+        }
 
-            // 채찍 모드일 때만 IK가 작동하여 휘어짐. 
-            // 검 모드일 때는 0이 되어 일자로 펴진 원래 애니메이션/트랜스폼 유지.
-            _chainIK.weight = _currentExtensionFactor;
+        private void UpdateTargetPosition()
+        {
+            if (_targetSource == null) return;
+
+            // 전체 늘어난 길이 계산
+            // (마디 개수 - 1) * 간격 * 늘어남 계수
+            float totalExtraLength = (_segments.Count - 1) * _maxGapDistance * _currentExtensionFactor;
+
+            // 타겟도 원래 위치에서 방향대로 쭉 밀어줍니다.
+            _targetSource.localPosition = _initialTargetSourcePosition + (_extensionDirection * totalExtraLength);
         }
     }
 }
