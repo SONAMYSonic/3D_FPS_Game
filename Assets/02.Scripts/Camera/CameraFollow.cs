@@ -30,12 +30,10 @@ public class CameraFollow : MonoBehaviour
             if (IsFPS)
             {
                 transform.position = FPSTarget.position;
-                transform.rotation = FPSTarget.rotation; // 회전도 같이 맞춰주면 더 자연스럽습니다
             }
             else
             {
                 transform.position = TPSTarget.position;
-                transform.rotation = TPSTarget.rotation;
             }
         }
     }
