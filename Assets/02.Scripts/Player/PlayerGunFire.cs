@@ -11,9 +11,13 @@ public class PlayerGunFire : MonoBehaviour
 
     [Header("총 반동 효과 설정")]
     public GameObject PlayerGunObject;
-    [SerializeField] private Vector3 _initialPlayerGunRotation;
+    [SerializeField] private Vector3 _initialPlayerGunRotation = new Vector3(0, 0, 0);
     [SerializeField] private float recoilAngle = 5f; // 반동 각도
     [SerializeField] private float recoilDuration = 0.1f; // 반동 지속 시간
+    public Camera playerCamera;
+    [SerializeField] private Vector3 _cameraInitialRotation;
+    [SerializeField] private float _cameraRecoilAmount = 0.1f;
+    [SerializeField] private float _cameraRecoilDuration = 0.1f;
 
     [SerializeField] private UI_Crosshair _uiCrosshair;
 
@@ -28,7 +32,11 @@ public class PlayerGunFire : MonoBehaviour
         // GunStat 컴포넌트 가져오기
         _gunStat = GetComponent<GunStat>();
 
-        _initialPlayerGunRotation = PlayerGunObject.transform.eulerAngles;
+        playerCamera = Camera.main;
+
+        // 실제 초기 "로컬" 회전을 캐싱 (부모 회전 영향 제거)
+        _initialPlayerGunRotation = PlayerGunObject.transform.localEulerAngles;
+        _cameraInitialRotation = playerCamera.transform.localEulerAngles;
     }
 
     private void Update()
@@ -46,7 +54,6 @@ public class PlayerGunFire : MonoBehaviour
             {  
                 _uiCrosshair.ReactToFire();
             }
-
 
             // 2. Ray를 생성하고 발사할 위치와 방향, 거리를 설정한다. (쏜다)
             Ray ray = new Ray(_fireTransform.position, Camera.main.transform.forward);
@@ -78,7 +85,7 @@ public class PlayerGunFire : MonoBehaviour
 
         // Ray: 레이저 (시작위치, 방향, 거리)
         // RayCast: 레이저를 발사
-        // RayCastHit: 레이저가 물체에 충돌했다면 그 정보를 저장하는 구조체
+        // RayCastHit: 레이저가 물체에 충돌했다면 그 정보를 저장하는 구조ㅇㄴ체
 
     }
 
@@ -87,12 +94,23 @@ public class PlayerGunFire : MonoBehaviour
     {
         // 1. 기존에 실행 중이던 트윈이 있다면 즉시 종료 (연사 시 꼬임 방지)
         PlayerGunObject.transform.DOKill();
-        // 2. 반동 각도만큼 위로 회전
-        Vector3 recoilRotation = new Vector3(_initialPlayerGunRotation.x - recoilAngle, _initialPlayerGunRotation.y, _initialPlayerGunRotation.z);
-        PlayerGunObject.transform.DORotate(recoilRotation, recoilDuration / 2).SetEase(Ease.OutQuad).OnComplete(() =>
+        // 2. 총 반동 회전 적용 (로컬 기준)
+        Vector3 currentLocal = PlayerGunObject.transform.localEulerAngles;
+        Vector3 recoilRotation = new Vector3(currentLocal.x - recoilAngle, currentLocal.y, currentLocal.z);
+        PlayerGunObject.transform.DOLocalRotate(recoilRotation, recoilDuration / 2).SetEase(Ease.OutQuad).OnComplete(() =>
         {
-            // 3. 원래 각도로 부드럽게 복귀
-            PlayerGunObject.transform.DORotate(_initialPlayerGunRotation, recoilDuration / 2).SetEase(Ease.InQuad);
+            PlayerGunObject.transform.DOLocalRotate(_initialPlayerGunRotation, recoilDuration / 2).SetEase(Ease.InQuad);
+        });
+
+        // 카메라 반동 효과 (로컬 기준)
+        playerCamera.transform.DOKill();
+        _cameraInitialRotation = playerCamera.transform.localEulerAngles;
+
+        Vector3 camLocal = playerCamera.transform.localEulerAngles;
+        Vector3 cameraRecoilRotation = new Vector3(camLocal.x - _cameraRecoilAmount, camLocal.y, camLocal.z);
+        playerCamera.transform.DOLocalRotate(cameraRecoilRotation, _cameraRecoilDuration / 2).SetEase(Ease.OutQuad).OnComplete(() =>
+        {
+            playerCamera.transform.DOLocalRotate(_cameraInitialRotation, _cameraRecoilDuration / 2).SetEase(Ease.InQuad);
         });
     }
 }
