@@ -79,6 +79,12 @@ public class PlayerGunFire : MonoBehaviour
                 _hitEffect.transform.position = hitInfo.point;
                 _hitEffect.transform.forward = hitInfo.normal;
                 _hitEffect.Play();
+
+                Monster monster = hitInfo.collider.gameObject.GetComponent<Monster>();
+                if (monster != null)
+                {
+                    monster.TryTakeDamage(_gunStat.Damage, ray.direction);
+                }
             }
 
         }
