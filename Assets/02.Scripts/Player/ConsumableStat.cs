@@ -59,11 +59,11 @@ public class ConsumableStat
         _value -= amount;
     }
 
-
     public void SetMaxValue(float value)
     {
         _maxValue = value;
     }
+
     public void SetValue(float value)
     {
         _value = value;
@@ -73,5 +73,4 @@ public class ConsumableStat
             _value = _maxValue;
         }
     }
-
 }

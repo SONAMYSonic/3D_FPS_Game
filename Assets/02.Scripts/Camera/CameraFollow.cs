@@ -10,6 +10,8 @@ public class CameraFollow : MonoBehaviour
     [Header("Settings")]
     public float CameraMoveDuration = 0.5f;
 
+
+
     // 상태 확인용 (public이지만 내부에서만 조작하므로 private set 권장)
     public bool IsFPS { get; private set; } = true;
 
@@ -30,12 +32,10 @@ public class CameraFollow : MonoBehaviour
             if (IsFPS)
             {
                 transform.position = FPSTarget.position;
-                transform.rotation = FPSTarget.rotation; // 회전도 같이 맞춰주면 더 자연스럽습니다
             }
             else
             {
                 transform.position = TPSTarget.position;
-                transform.rotation = TPSTarget.rotation;
             }
         }
     }
@@ -65,4 +65,5 @@ public class CameraFollow : MonoBehaviour
         transform.DORotateQuaternion(targetTransform.rotation, CameraMoveDuration)
             .SetEase(Ease.OutQuad);
     }
+
 }
