@@ -51,6 +51,16 @@ public class Monster : MonoBehaviour
     public float KnockbackDuration = 0.2f;
     private Coroutine _hitCoroutine;
 
+    public float PatrolRadius = 3f;
+    public float PatrolMinTime = 2f;
+    public float PatrolMaxTime = 10f;
+    public float IdleDurationMin = 2f;
+    public float IdleDurationMax = 5f;
+
+    // 코루틴 중복 실행 방지용 핸들
+    private Coroutine _idleCoroutine;
+    private Coroutine _patrolCoroutine;
+
     private void Start()
     {
         _initialPosition = transform.position;
@@ -72,9 +82,11 @@ public class Monster : MonoBehaviour
             case EMonsterState.Comeback:
                 Comeback();
                 break;
-
             case EMonsterState.Attack:
                 Attack();
+                break;
+            case EMonsterState.Patrol:
+                Patrol();
                 break;
         }
     }
@@ -89,8 +101,21 @@ public class Monster : MonoBehaviour
         // 플레이어가 탐지범위 안에 있다면...
         if (Vector3.Distance(transform.position, _player.transform.position) <= DetectDistance)
         {
+            // 진행 중인 Idle/Patrol 코루틴이 있다면 정리
+            if (_idleCoroutine != null) { StopCoroutine(_idleCoroutine); _idleCoroutine = null; }
+            if (_patrolCoroutine != null) { StopCoroutine(_patrolCoroutine); _patrolCoroutine = null; }
+
             State = EMonsterState.Trace;
             Debug.Log("상태 전환: Idle -> Trace");
+        }
+        else
+        {
+            // 이미 Idle 대기 코루틴이 돌고 있지 않을 때만 시작
+            if (_idleCoroutine == null)
+            {
+                float idleTime = Random.Range(IdleDurationMin, IdleDurationMax);
+                _idleCoroutine = StartCoroutine(Idle_Coroutine(idleTime));
+            }
         }
     }
 
@@ -109,6 +134,10 @@ public class Monster : MonoBehaviour
         // 플레이어와의 거리가 공격범위내라면
         if (distance <= AttackDistance)
         {
+            // 상태 전환 시 코루틴 정리
+            if (_idleCoroutine != null) { StopCoroutine(_idleCoroutine); _idleCoroutine = null; }
+            if (_patrolCoroutine != null) { StopCoroutine(_patrolCoroutine); _patrolCoroutine = null; }
+
             State = EMonsterState.Attack;
         }
 
@@ -116,6 +145,9 @@ public class Monster : MonoBehaviour
         if (distance > DetectDistance)
         {
             // 제자리로 돌아가는 상태로 전환
+            if (_idleCoroutine != null) { StopCoroutine(_idleCoroutine); _idleCoroutine = null; }
+            if (_patrolCoroutine != null) { StopCoroutine(_patrolCoroutine); _patrolCoroutine = null; }
+
             State = EMonsterState.Comeback;
         }
     }
@@ -128,6 +160,10 @@ public class Monster : MonoBehaviour
         _controller.Move(direction * MoveSpeed * Time.deltaTime);
         if (distance <= 0.1f)
         {
+            // 상태 전환 시 코루틴 정리
+            if (_idleCoroutine != null) { StopCoroutine(_idleCoroutine); _idleCoroutine = null; }
+            if (_patrolCoroutine != null) { StopCoroutine(_patrolCoroutine); _patrolCoroutine = null; }
+
             State = EMonsterState.Idle;
         }
     }
@@ -174,6 +210,10 @@ public class Monster : MonoBehaviour
             State = EMonsterState.Death;
             // 죽었으니 실행 중이던 넉백 코루틴이 있다면 멈춤
             if (_hitCoroutine != null) StopCoroutine(_hitCoroutine);
+            // 다른 진행 중 코루틴도 모두 정리
+            if (_idleCoroutine != null) { StopCoroutine(_idleCoroutine); _idleCoroutine = null; }
+            if (_patrolCoroutine != null) { StopCoroutine(_patrolCoroutine); _patrolCoroutine = null; }
+
             StartCoroutine(Death_Coroutine());
             return true;
         }
@@ -186,6 +226,10 @@ public class Monster : MonoBehaviour
 
         // 2. 상태를 Hit로 설정 (이미 Hit여도 다시 설정)
         State = EMonsterState.Hit;
+
+        // 다른 상태 코루틴 정리
+        if (_idleCoroutine != null) { StopCoroutine(_idleCoroutine); _idleCoroutine = null; }
+        if (_patrolCoroutine != null) { StopCoroutine(_patrolCoroutine); _patrolCoroutine = null; }
 
         // 3. 넉백 코루틴을 '새로' 시작하고 변수에 저장합니다.
         _hitCoroutine = StartCoroutine(Hit_Coroutine(hitDirection));
@@ -220,4 +264,53 @@ public class Monster : MonoBehaviour
         Destroy(gameObject);
     }
 
+    private void Patrol()
+    {
+        // 이미 순찰 코루틴이 돌고 있지 않을 때만 시작
+        if (_patrolCoroutine == null)
+        {
+            float patrolTime = Random.Range(PatrolMinTime, PatrolMaxTime);
+            Vector3 patrolTarget = _initialPosition + new Vector3(Random.Range(-PatrolRadius, PatrolRadius), 0, Random.Range(-PatrolRadius, PatrolRadius));
+            _patrolCoroutine = StartCoroutine(Patrol_Coroutine(patrolTarget, patrolTime));
+        }
+    }
+
+    private IEnumerator Patrol_Coroutine(Vector3 target, float duration)
+    {
+        float timer = 0f;
+        while (timer < duration)
+        {
+            Vector3 direction = (target - transform.position).normalized;
+            _controller.Move(direction * MoveSpeed * Time.deltaTime);
+            timer += Time.deltaTime;
+            yield return null;
+
+            // 순찰 중 플레이어가 탐지범위에 들어오면 즉시 추적 상태로
+            if (Vector3.Distance(transform.position, _player.transform.position) <= DetectDistance)
+            {
+                State = EMonsterState.Trace;
+                break;
+            }
+        }
+
+        // 코루틴 종료 처리
+        _patrolCoroutine = null;
+
+        if (State == EMonsterState.Patrol)
+        {
+            State = EMonsterState.Idle;
+        }
+    }
+
+    private IEnumerator Idle_Coroutine(float duration)
+    {
+        yield return new WaitForSeconds(duration);
+        _idleCoroutine = null;
+
+        // 여전히 Idle 상태라면 순찰로 전환
+        if (State == EMonsterState.Idle)
+        {
+            State = EMonsterState.Patrol;
+        }
+    }
 }
