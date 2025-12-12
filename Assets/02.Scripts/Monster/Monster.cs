@@ -51,7 +51,7 @@ public class Monster : MonoBehaviour
     public float KnockbackForce = 5f;
     public float KnockbackDuration = 0.2f;
 
-    public float PatrolRadius = 3f;
+    public float PatrolSquareRange = 3f;
     public float PatrolMinTime = 2f;
     public float PatrolMaxTime = 10f;
     public float IdleDurationMin = 2f;
@@ -111,7 +111,6 @@ public class Monster : MonoBehaviour
 
         // 새 상태로 전환
         State = newState;
-        Debug.Log($"상태 전환: {State} -> {newState}");
 
         // 새 상태 진입 (Enter)
         EnterState(newState);
@@ -342,7 +341,7 @@ public class Monster : MonoBehaviour
         if (_patrolCoroutine == null)
         {
             float patrolTime = Random.Range(PatrolMinTime, PatrolMaxTime);
-            Vector3 patrolTarget = _initialPosition + new Vector3(Random.Range(-PatrolRadius, PatrolRadius), 0, Random.Range(-PatrolRadius, PatrolRadius));
+            Vector3 patrolTarget = _initialPosition + new Vector3(Random.Range(-PatrolSquareRange, PatrolSquareRange), 0, Random.Range(-PatrolSquareRange, PatrolSquareRange));
             _patrolCoroutine = StartCoroutine(Patrol_Coroutine(patrolTarget, patrolTime));
         }
     }
@@ -350,7 +349,7 @@ public class Monster : MonoBehaviour
     private IEnumerator Patrol_Coroutine(Vector3 target, float duration)
     {
         float timer = 0f;
-        while (timer < duration)
+        while (timer < duration && Vector3.Distance(transform.position, target) > 0.1f)
         {
             Vector3 direction = (target - transform.position).normalized;
             _controller.Move(direction * MoveSpeed * Time.deltaTime);
