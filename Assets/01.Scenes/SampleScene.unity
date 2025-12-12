@@ -285,6 +285,7 @@ GameObject:
   - component: {fileID: 142320885}
   - component: {fileID: 142320886}
   - component: {fileID: 142320887}
+  - component: {fileID: 142320888}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -572,6 +573,18 @@ MonoBehaviour:
   _reloadDuration: 1.6
   _reloadTimer: 0
   ui_Reload: {fileID: 743841151}
+--- !u!114 &142320888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 142320873}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66136939e82155a47b4c49195589d451, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &156763793
 GameObject:
   m_ObjectHideFlags: 0
@@ -3066,7 +3079,7 @@ GameObject:
   - component: {fileID: 979926273}
   m_Layer: 0
   m_Name: Zombie
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3083,8 +3096,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66234adfd553125468faf20c3fdea751, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  State: 0
-  _player: {fileID: 142320873}
+  _player: {fileID: 142320888}
   _controller: {fileID: 979926274}
   _initialPosition: {x: 0, y: 0, z: 0}
   DetectDistance: 4
@@ -3096,11 +3108,13 @@ MonoBehaviour:
   MonsterDamage: 10
   KnockbackForce: 5
   KnockbackDuration: 0.2
-  PatrolRadius: 3
+  PatrolSquareRange: 3
   PatrolMinTime: 2
   PatrolMaxTime: 10
   IdleDurationMin: 2
   IdleDurationMax: 5
+  _arrivalThreshold: 0.1
+  _deathDuration: 2
 --- !u!143 &979926274
 CharacterController:
   m_ObjectHideFlags: 0
