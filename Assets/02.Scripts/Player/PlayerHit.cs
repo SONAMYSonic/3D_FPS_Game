@@ -6,6 +6,11 @@ public class PlayerHit : MonoBehaviour
 {
     private PlayerStats _stats;
 
+    /// <summary>
+    /// 플레이어의 월드 위치를 반환합니다.
+    /// </summary>
+    public Vector3 Position => transform.position;
+
     private void Awake()
     {
         _stats = GetComponent<PlayerStats>();
