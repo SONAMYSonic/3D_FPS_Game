@@ -13,11 +13,6 @@ public class CameraRotate : MonoBehaviour
 
     private void Update()
     {
-        if (!Input.GetMouseButton(1))
-        {
-            return;
-        }
-
         // 게임 시작하면 y축이 0도에서 -> -1도
 
         // 1. 마우스 입력 받기

@@ -80,11 +80,8 @@ public class PlayerGunFire : MonoBehaviour
                 _hitEffect.transform.forward = hitInfo.normal;
                 _hitEffect.Play();
 
-                Monster monster = hitInfo.collider.gameObject.GetComponent<Monster>();
-                if (monster != null)
-                {
-                    monster.TryTakeDamage(_gunStat.Damage, ray.direction);
-                }
+                // 대미지 처리
+                ApplyDamage(hitInfo.collider.gameObject, ray.direction);
             }
 
         }
@@ -93,6 +90,28 @@ public class PlayerGunFire : MonoBehaviour
         // RayCast: 레이저를 발사
         // RayCastHit: 레이저가 물체에 충돌했다면 그 정보를 저장하는 구조ㅇㄴ체
 
+    }
+
+    /// <summary>
+    /// 충돌한 오브젝트에 대미지 적용
+    /// </summary>
+    private void ApplyDamage(GameObject target, Vector3 hitDirection)
+    {
+        // 몬스터
+        Monster monster = target.GetComponent<Monster>();
+        if (monster != null)
+        {
+            monster.TryTakeDamage(_gunStat.Damage, hitDirection);
+            return;
+        }
+
+        // 드럼통
+        Barrel barrel = target.GetComponent<Barrel>();
+        if (barrel != null)
+        {
+            barrel.TakeDamage(_gunStat.Damage);
+            return;
+        }
     }
 
     // 총 반동 효과 메서드

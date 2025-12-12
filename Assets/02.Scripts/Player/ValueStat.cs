@@ -17,6 +17,7 @@ using UnityEngine;
 public class ValueStat
 {
     [SerializeField] private float _value;
+    [SerializeField] private float _maxValue;
     public float Value => _value;
 
     public void Increase(float amount)
@@ -32,5 +33,10 @@ public class ValueStat
     public void SetValue(float value)
     {
         _value = value;
+    }
+
+    public void Initialize()
+    {
+        _value = _maxValue;
     }
 }
