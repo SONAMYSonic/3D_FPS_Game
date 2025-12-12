@@ -325,7 +325,7 @@ public class Monster : MonoBehaviour
             yield return null;
         }
 
-        _hitCoroutine = null;
+        // 코루틴 핸들 정리는 ChangeState -> ExitState에서 처리됨
         ChangeState(EMonsterState.Trace);
     }
 
@@ -360,15 +360,13 @@ public class Monster : MonoBehaviour
             // 순찰 중 플레이어가 탐지범위에 들어오면 즉시 추적 상태로
             if (GetDistanceToPlayer() <= DetectDistance)
             {
-                _patrolCoroutine = null;
+                // 코루틴 핸들 정리는 ChangeState -> ExitState에서 처리됨
                 ChangeState(EMonsterState.Trace);
                 yield break;
             }
         }
 
-        // 코루틴 종료 처리
-        _patrolCoroutine = null;
-
+        // 코루틴 핸들 정리는 ChangeState -> ExitState에서 처리됨
         if (State == EMonsterState.Patrol)
         {
             ChangeState(EMonsterState.Idle);
@@ -378,8 +376,8 @@ public class Monster : MonoBehaviour
     private IEnumerator Idle_Coroutine(float duration)
     {
         yield return new WaitForSeconds(duration);
-        _idleCoroutine = null;
 
+        // 코루틴 핸들 정리는 ChangeState -> ExitState에서 처리됨
         // 여전히 Idle 상태라면 순찰로 전환
         if (State == EMonsterState.Idle)
         {
