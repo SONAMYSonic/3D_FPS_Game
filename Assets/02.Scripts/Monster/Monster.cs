@@ -38,24 +38,37 @@ public class Monster : MonoBehaviour
     [SerializeField] private CharacterController _controller;
     [SerializeField] private Vector3 _initialPosition;
 
+    [Header("탐지 및 공격")]
     public float DetectDistance = 4f;
     public float AttackDistance = 1.2f;
 
+    [Header("이동")]
     public float MoveSpeed = 5f;
+    
+    [Header("공격")]
     public float AttackSpeed = 2f;
     public float AttackTimer = 0f;
 
+    [Header("체력 및 데미지")]
     public float Health = 100f;
     public float MonsterDamage = 10f;
 
+    [Header("넉백")]
     public float KnockbackForce = 5f;
     public float KnockbackDuration = 0.2f;
 
+    [Header("순찰")]
     public float PatrolSquareRange = 3f;
     public float PatrolMinTime = 2f;
     public float PatrolMaxTime = 10f;
+
+    [Header("대기")]
     public float IdleDurationMin = 2f;
     public float IdleDurationMax = 5f;
+
+    [Header("기타")]
+    [SerializeField] private float _arrivalThreshold = 0.1f;    // 목표 지점 도착 판정 거리
+    [SerializeField] private float _deathDuration = 2.0f;       // 죽음 상태 지속 시간
 
     // 코루틴 중복 실행 방지용 핸들
     private Coroutine _idleCoroutine;
@@ -68,6 +81,8 @@ public class Monster : MonoBehaviour
     private void Start()
     {
         _initialPosition = transform.position;
+        // 초기 상태 진입 처리
+        EnterState(State);
     }
 
     private void Update()
@@ -148,6 +163,21 @@ public class Monster : MonoBehaviour
     {
         switch (enteringState)
         {
+            case EMonsterState.Idle:
+                float idleTime = Random.Range(IdleDurationMin, IdleDurationMax);
+                _idleCoroutine = StartCoroutine(Idle_Coroutine(idleTime));
+                break;
+
+            case EMonsterState.Patrol:
+                float patrolTime = Random.Range(PatrolMinTime, PatrolMaxTime);
+                Vector3 patrolTarget = _initialPosition + new Vector3(
+                    Random.Range(-PatrolSquareRange, PatrolSquareRange),
+                    0,
+                    Random.Range(-PatrolSquareRange, PatrolSquareRange)
+                );
+                _patrolCoroutine = StartCoroutine(Patrol_Coroutine(patrolTarget, patrolTime));
+                break;
+
             case EMonsterState.Death:
                 StopAllStateCoroutines();
                 StartCoroutine(Death_Coroutine());
@@ -197,7 +227,17 @@ public class Monster : MonoBehaviour
         return (PlayerPosition - transform.position).normalized;
     }
 
+    /// <summary>
+    /// 지정한 위치까지의 거리가 도착 임계값 이하인지 확인
+    /// </summary>
+    private bool HasArrivedAt(Vector3 target)
+    {
+        return Vector3.Distance(transform.position, target) <= _arrivalThreshold;
+    }
+
     #endregion
+
+    #region 상태별 Update 로직 (전환 조건 검사에 집중)
 
     // 1. 함수는 한 가지 일만 잘해야 한다.
     // 2. 상태별 행동을 함수로 만든다.
@@ -211,15 +251,7 @@ public class Monster : MonoBehaviour
         {
             ChangeState(EMonsterState.Trace);
         }
-        else
-        {
-            // 이미 Idle 대기 코루틴이 돌고 있지 않을 때만 시작
-            if (_idleCoroutine == null)
-            {
-                float idleTime = Random.Range(IdleDurationMin, IdleDurationMax);
-                _idleCoroutine = StartCoroutine(Idle_Coroutine(idleTime));
-            }
-        }
+        // 코루틴 시작은 EnterState에서 처리됨
     }
 
     private void Trace()
@@ -249,11 +281,10 @@ public class Monster : MonoBehaviour
     private void Comeback()
     {
         // 과제 1. 제자리로 복귀하는 상태
-        float distance = Vector3.Distance(transform.position, _initialPosition);
         Vector3 direction = (_initialPosition - transform.position).normalized;
         _controller.Move(direction * MoveSpeed * Time.deltaTime);
 
-        if (distance <= 0.1f)
+        if (HasArrivedAt(_initialPosition))
         {
             ChangeState(EMonsterState.Idle);
         }
@@ -281,8 +312,22 @@ public class Monster : MonoBehaviour
             // PlayerHit을 직접 참조하므로 GetComponent 불필요
             _player.TakeDamage(MonsterDamage);
         }
-
     }
+
+    private void Patrol()
+    {
+        // 순찰 상태의 매 프레임 로직
+        // 실제 이동은 코루틴에서 처리되고, 여기서는 전환 조건만 검사
+        if (GetDistanceToPlayer() <= DetectDistance)
+        {
+            ChangeState(EMonsterState.Trace);
+        }
+        // 코루틴 시작은 EnterState에서 처리됨
+    }
+
+    #endregion
+
+    #region 데미지 및 코루틴
 
     public bool TryTakeDamage(float damage, Vector3 hitDirection)
     {
@@ -331,38 +376,25 @@ public class Monster : MonoBehaviour
     private IEnumerator Death_Coroutine()
     {
         // Todo. Death 애니메이션 실행
-        yield return new WaitForSeconds(2.0f);
+        yield return new WaitForSeconds(_deathDuration);
         Destroy(gameObject);
-    }
-
-    private void Patrol()
-    {
-        // 이미 순찰 코루틴이 돌고 있지 않을 때만 시작
-        if (_patrolCoroutine == null)
-        {
-            float patrolTime = Random.Range(PatrolMinTime, PatrolMaxTime);
-            Vector3 patrolTarget = _initialPosition + new Vector3(Random.Range(-PatrolSquareRange, PatrolSquareRange), 0, Random.Range(-PatrolSquareRange, PatrolSquareRange));
-            _patrolCoroutine = StartCoroutine(Patrol_Coroutine(patrolTarget, patrolTime));
-        }
     }
 
     private IEnumerator Patrol_Coroutine(Vector3 target, float duration)
     {
         float timer = 0f;
-        while (timer < duration && Vector3.Distance(transform.position, target) > 0.1f)
+        while (timer < duration && !HasArrivedAt(target))
         {
+            // 플레이어 감지는 Patrol() Update 메서드에서 처리됨
+            if (State != EMonsterState.Patrol)
+            {
+                yield break;
+            }
+
             Vector3 direction = (target - transform.position).normalized;
             _controller.Move(direction * MoveSpeed * Time.deltaTime);
             timer += Time.deltaTime;
             yield return null;
-
-            // 순찰 중 플레이어가 탐지범위에 들어오면 즉시 추적 상태로
-            if (GetDistanceToPlayer() <= DetectDistance)
-            {
-                // 코루틴 핸들 정리는 ChangeState -> ExitState에서 처리됨
-                ChangeState(EMonsterState.Trace);
-                yield break;
-            }
         }
 
         // 코루틴 핸들 정리는 ChangeState -> ExitState에서 처리됨
@@ -383,4 +415,6 @@ public class Monster : MonoBehaviour
             ChangeState(EMonsterState.Patrol);
         }
     }
+
+    #endregion
 }
