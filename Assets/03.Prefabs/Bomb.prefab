@@ -149,6 +149,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05e01fc3d3b2a4b448fe85be8ab680eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _explosionEffectPrefab: {fileID: 1007127540951276732, guid: e123a4741ce6cff41b335656227f5d42, type: 3}
+  ExplosionEffectPrefab: {fileID: 1007127540951276732, guid: e123a4741ce6cff41b335656227f5d42, type: 3}
   ExplosionRadius: 3
   Damage: 1000

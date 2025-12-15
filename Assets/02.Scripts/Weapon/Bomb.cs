@@ -23,7 +23,7 @@ public class Bomb : MonoBehaviour
             monster.TryTakeDamage(Damage, transform.position);
         }
 
-        // 충돌하면 나 자신을 삭제한다.
-        Destroy(gameObject);
+        // 충돌하면 나 자신을 삭제(풀 반환)한다.
+        gameObject.SetActive(false);
     }
 }

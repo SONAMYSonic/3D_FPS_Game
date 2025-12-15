@@ -6,7 +6,7 @@ public class Drum : MonoBehaviour
 {
     private Rigidbody _rigidbody;
 
-    public LayerMask DamageLayer;
+    [SerializeField] private LayerMask _damageLayer;
 
 
     [SerializeField] private ConsumableStat _health;
@@ -29,13 +29,13 @@ public class Drum : MonoBehaviour
 
         if (_health.Value <= 0)
         {
-            StartCoroutine(Explode_Coroutine());
+            StartCoroutine(ExplodeCoroutine());
         }
 
         return true;
     }
 
-    private IEnumerator Explode_Coroutine()
+    private IEnumerator ExplodeCoroutine()
     {
         ParticleSystem explosionParticle = Instantiate(_explosionParticePrefab);
         explosionParticle.transform.position = this.transform.position;
@@ -46,7 +46,7 @@ public class Drum : MonoBehaviour
         _rigidbody.AddTorque(UnityEngine.Random.insideUnitSphere * 90f);
 
 
-        Collider[] colliders = Physics.OverlapSphere(transform.position, _explosionRadius.Value, DamageLayer);
+        Collider[] colliders = Physics.OverlapSphere(transform.position, _explosionRadius.Value, _damageLayer);
         for (int i = 0; i < colliders.Length; i++)
         {
             if (colliders[i].TryGetComponent<Monster>(out Monster monster))
