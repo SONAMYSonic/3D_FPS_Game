@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Bomb : MonoBehaviour
 {
-    public GameObject _explosionEffectPrefab;
+    public GameObject ExplosionEffectPrefab;
 
     public float ExplosionRadius = 2;
     public float Damage = 1000;
@@ -10,7 +10,7 @@ public class Bomb : MonoBehaviour
     private void OnCollisionEnter(Collision collision)
     {
         // 내 위치에 폭발 이펙트 생성
-        GameObject effectObject = Instantiate(_explosionEffectPrefab);
+        GameObject effectObject = Instantiate(ExplosionEffectPrefab);
         effectObject.transform.position = transform.position;
 
         // 가상의 구를 만들어서 그 구 영역에 안에있는 모든 콜라이더를 찾아서 배열로 반환한다..
@@ -19,9 +19,6 @@ public class Bomb : MonoBehaviour
         {
             Monster monster = colliders[i].GetComponent<Monster>();
             if (monster == null) continue;
-
-            float distance = Vector3.Distance(transform.position, monster.transform.position);
-            distance = Mathf.Max(1f, distance); // Min -> Max (0으로 나누기 방지)
 
             monster.TryTakeDamage(Damage, transform.position);
         }

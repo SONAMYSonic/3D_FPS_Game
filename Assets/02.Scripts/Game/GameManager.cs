@@ -23,10 +23,10 @@ public class GameManager : MonoBehaviour
         _stateText.gameObject.SetActive(true);
         _state = EGameState.Ready;
         _stateText.text = "준비중...";
-        StartCoroutine(StartToPlay_Corutine());
+        StartCoroutine(StartToPlay_Coroutine());
     }
 
-    private IEnumerator StartToPlay_Corutine()
+    private IEnumerator StartToPlay_Coroutine()
     {
         yield return new WaitForSeconds(2f);
 

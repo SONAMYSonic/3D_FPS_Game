@@ -1,12 +1,18 @@
+using System.Collections;
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody))]
 public class Drum : MonoBehaviour
 {
     private Rigidbody _rigidbody;
-    [SerializeField] private ValueStat _health;
+
+    public LayerMask DamageLayer;
+
+
+    [SerializeField] private ConsumableStat _health;
     [SerializeField] private ValueStat _damage;
-    [SerializeField] private ParticleSystem _explosionParticle;
+    [SerializeField] private ValueStat _explosionRadius;
+    [SerializeField] private ParticleSystem _explosionParticePrefab;
 
     private void Awake()
     {
@@ -15,25 +21,50 @@ public class Drum : MonoBehaviour
         _health.Initialize();
     }
 
-    private bool TryTakeDamage(float damage)
+    public bool TryTakeDamage(float damage)
     {
-        if (_health.Value <= 0f) return false;
+        if (_health.Value <= 0) return false;
 
         _health.Decrease(damage);
 
-        if (_health.Value <= 0f)
+        if (_health.Value <= 0)
         {
-            Explode();
+            StartCoroutine(Explode_Coroutine());
         }
 
         return true;
     }
 
-    private void Explode()
+    private IEnumerator Explode_Coroutine()
     {
-        _explosionParticle.transform.position = this.transform.position;
-        _explosionParticle.Play();
+        ParticleSystem explosionParticle = Instantiate(_explosionParticePrefab);
+        explosionParticle.transform.position = this.transform.position;
+        explosionParticle.Play();
 
-        Destroy(gameObject);
+        // 
+        _rigidbody.AddForce(Vector3.up * 1200f);
+        _rigidbody.AddTorque(UnityEngine.Random.insideUnitSphere * 90f);
+
+
+        Collider[] colliders = Physics.OverlapSphere(transform.position, _explosionRadius.Value, DamageLayer);
+        for (int i = 0; i < colliders.Length; i++)
+        {
+            if (colliders[i].TryGetComponent<Monster>(out Monster monster))
+            {
+                monster.TryTakeDamage(_damage.Value, transform.position);
+            }
+
+            if (colliders[i].TryGetComponent<Drum>(out Drum drum))
+            {
+                drum.TryTakeDamage(_damage.Value);
+            }
+        }
+
+
+
+
+        yield return new WaitForSeconds(7f);
+
+        Destroy(this.gameObject);
     }
 }
