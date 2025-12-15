@@ -16,10 +16,11 @@ public class MonsterHealthBar : MonoBehaviour
     [SerializeField] private float _flashDuration = 0.1f;       // 흰색 플래시 지속 시간
     [SerializeField] private float _shakeDuration = 0.2f;       // 흔들림 지속 시간
     [SerializeField] private float _shakeStrength = 5f;         // 흔들림 강도
+    [SerializeField] private int _shakeVibrato = 20;            // 흔들림 세기 (진동)
+    [SerializeField] private float _shakeRandomness = 90f;      // 흔들림 무작위성
 
     private float _lastHealth = -1f;
     private Color _gaugeOriginalColor;
-    private Tweener _gaugeBackTweener;
 
     private void Awake()
     {
@@ -29,17 +30,18 @@ public class MonsterHealthBar : MonoBehaviour
     private void Start()
     {
         _gaugeOriginalColor = _gaugeImage.color;
-        _lastHealth = _monster.Health.Value;
+        _lastHealth = _monster.CurrentHealth;
     }
 
     private void LateUpdate()
     {
-        if (_lastHealth != _monster.Health.Value)
+        // 디미터 법칙 준수: Monster의 프로퍼티를 통해 체력 정보에 접근
+        if (_lastHealth != _monster.CurrentHealth)
         {
-            float newFillAmount = _monster.Health.Value / _monster.Health.MaxValue;
+            float newFillAmount = _monster.HealthRatio;
             
             // 체력이 감소했을 때만 이펙트 재생
-            if (_monster.Health.Value < _lastHealth)
+            if (_monster.CurrentHealth < _lastHealth)
             {
                 PlayDamageEffect(newFillAmount);
             }
@@ -50,40 +52,41 @@ public class MonsterHealthBar : MonoBehaviour
                 _gaugeBackImage.fillAmount = newFillAmount;
             }
 
-            _lastHealth = _monster.Health.Value;
+            _lastHealth = _monster.CurrentHealth;
         }
 
-        // 빌보드 기법
+        // 빌보드 기법: 카메라의 위치와 회전에 상관없이 항상 정면을 바라보게 하는 기법
         _healthBarTransform.forward = Camera.main.transform.forward;
     }
 
     private void PlayDamageEffect(float targetFillAmount)
     {
+        // 기존 트윈 정리
+        DOTween.Kill(this);
+
         // 1. 흰색 플래시 효과
-        _gaugeImage.DOKill();
         _gaugeImage.color = Color.white;
-        _gaugeImage.DOColor(_gaugeOriginalColor, _flashDuration).SetEase(Ease.OutQuad);
+        _gaugeImage.DOColor(_gaugeOriginalColor, _flashDuration)
+            .SetEase(Ease.OutQuad)
+            .SetId(this);
 
         // 2. 앞 게이지 즉시 감소
         _gaugeImage.fillAmount = targetFillAmount;
 
         // 3. 뒷 게이지 딜레이 후 천천히 감소
-        _gaugeBackTweener?.Kill();
-        _gaugeBackTweener = _gaugeBackImage
-            .DOFillAmount(targetFillAmount, _gaugeBackDuration)
+        _gaugeBackImage.DOFillAmount(targetFillAmount, _gaugeBackDuration)
             .SetDelay(_gaugeBackDelay)
-            .SetEase(Ease.OutQuad);
+            .SetEase(Ease.OutQuad)
+            .SetId(this);
 
         // 4. HP바 흔들림 효과
-        _healthBarTransform.DOKill();
-        _healthBarTransform.DOShakePosition(_shakeDuration, _shakeStrength, 20, 90, false, true);
+        _healthBarTransform.DOShakePosition(_shakeDuration, _shakeStrength, _shakeVibrato, _shakeRandomness, false, true)
+            .SetId(this);
     }
 
     private void OnDestroy()
     {
-        // 트윈 정리
-        _gaugeImage.DOKill();
-        _gaugeBackImage.DOKill();
-        _healthBarTransform.DOKill();
+        // 이 컴포넌트에 할당된 모든 트윈을 한 번에 정리
+        DOTween.Kill(this);
     }
 }
