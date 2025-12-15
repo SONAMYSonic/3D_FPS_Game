@@ -50,7 +50,7 @@ public class Monster : MonoBehaviour
     public float AttackTimer = 0f;
 
     [Header("체력 및 데미지")]
-    public float Health = 100f;
+    public ConsumableStat Health;
     public float MonsterDamage = 10f;
 
     [Header("넉백")]
@@ -78,6 +78,12 @@ public class Monster : MonoBehaviour
     // 플레이어 위치 접근용 프로퍼티 (한 곳에서만 transform 접근)
     private Vector3 PlayerPosition => _player.Position;
 
+    private void Awake()
+    {
+        // ConsumableStat 초기화
+        Health.Initialize();
+    }
+
     private void Start()
     {
         _initialPosition = transform.position;
@@ -87,6 +93,11 @@ public class Monster : MonoBehaviour
 
     private void Update()
     {
+        if (GameManager.Instance.State != EGameState.Playing)
+        {
+            return;
+        }
+
         // 몬스터의 상태에 따라 다른 행동을한다. (다른 메서드를 호출한다.)
         switch (State)
         {
@@ -336,9 +347,11 @@ public class Monster : MonoBehaviour
             return false;
         }
 
-        Health -= damage;
+        // ConsumableStat의 Decrease 메서드 사용
+        Health.Decrease(damage);
 
-        if (Health <= 0)
+        // ConsumableStat의 Value 프로퍼티로 체력 확인
+        if (Health.Value <= 0)
         {
             ChangeState(EMonsterState.Death);
             return true;

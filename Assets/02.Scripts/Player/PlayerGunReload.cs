@@ -24,6 +24,10 @@ public class PlayerGunReload : MonoBehaviour
 
     private void Update()
     {
+        if (GameManager.Instance.State != EGameState.Playing)
+        {
+            return;
+        }
 
         // R 키를 누르면 재장전
         if (Input.GetKeyDown(KeyCode.R) && _gunStat.Ammo.Value < _gunStat.Ammo.MaxValue)

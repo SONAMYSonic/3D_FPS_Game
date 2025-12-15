@@ -20,5 +20,11 @@ public class PlayerHit : MonoBehaviour
     {
         _stats.Health.Decrease(damage);
         Debug.Log("플레이어가 대미지를 입었다!");
+
+        if (_stats.Health.Value <= 0f)
+        {
+            Debug.Log("플레이어가 사망했다!");
+            GameManager.Instance.GameOver();
+        }
     }
 }
