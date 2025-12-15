@@ -3,32 +3,27 @@ using UnityEngine;
 public class Bomb : MonoBehaviour
 {
     public GameObject ExplosionEffectPrefab;
-    [SerializeField] private float _bombDamage = 20f;
+
+    public float ExplosionRadius = 2;
+    public float Damage = 1000;
 
     private void OnCollisionEnter(Collision collision)
     {
-        // Enemy에 닿으면 대미지 주고 폭발 이펙트 생성
-        if (collision.gameObject.CompareTag("Enemy"))
-        {
-            if (collision.gameObject.TryGetComponent<Monster>(out var monster))
-            {
-                monster.TryTakeDamage(_bombDamage, transform.position); // 예시로 50 대미지
-                Explode();
-            }
-        }
-        else
-        {
-            Explode();
-        }
-        
-    }
-
-    private void Explode()
-    {
+        // 내 위치에 폭발 이펙트 생성
         GameObject effectObject = Instantiate(ExplosionEffectPrefab);
         effectObject.transform.position = transform.position;
 
-        // 자기 자신 풀에 반납
+        // 가상의 구를 만들어서 그 구 영역에 안에있는 모든 콜라이더를 찾아서 배열로 반환한다..
+        Collider[] colliders = Physics.OverlapSphere(transform.position, ExplosionRadius, LayerMask.GetMask("Monster"));
+        for (int i = 0; i < colliders.Length; i++)
+        {
+            Monster monster = colliders[i].GetComponent<Monster>();
+            if (monster == null) continue;
+
+            monster.TryTakeDamage(Damage, transform.position);
+        }
+
+        // 충돌하면 나 자신을 삭제(풀 반환)한다.
         gameObject.SetActive(false);
     }
 }

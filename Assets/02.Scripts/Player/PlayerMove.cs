@@ -30,6 +30,11 @@ public class PlayerMove : MonoBehaviour
 
     private void Update()
     {
+        if (GameManager.Instance.State != EGameState.Playing)
+        {
+            return;
+        }
+
         // 0. 중력을 누적한다.
         _yVelocity += _config.Gravity * Time.deltaTime;
 

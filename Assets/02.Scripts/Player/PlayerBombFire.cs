@@ -22,6 +22,11 @@ public class PlayerBombFire : MonoBehaviour
 
     private void Update()
     {
+        if (GameManager.Instance.State != EGameState.Playing)
+        {
+            return;
+        }
+
         if (Input.GetMouseButtonDown(1) && _stats.Bomb.TryConsume(1f))
         {
             // 폭탄 오브젝트 풀에서 폭탄 오브젝트를 가져온다.

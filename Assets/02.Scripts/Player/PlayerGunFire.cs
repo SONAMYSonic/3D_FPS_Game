@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.EventSystems;
 using DG.Tweening;
 
 public class PlayerGunFire : MonoBehaviour
@@ -41,10 +42,21 @@ public class PlayerGunFire : MonoBehaviour
 
     private void Update()
     {
+        if (GameManager.Instance.State != EGameState.Playing)
+        {
+            return;
+        }
+
         // 타이머 증가
         _fireTimer += Time.deltaTime;
 
-        // 1. 마우스 왼쪽 버튼이 눌림과 탄약이 0개 이상인지 확인하고 true 면 1개 감소
+        // UI 위에서 클릭한 경우 발사하지 않음
+        if (EventSystem.current.IsPointerOverGameObject())
+        {
+            return;
+        }
+
+        // 1. 마우스 왼쪽 버튼이 눌림과 탄약이 0개 이상인지 확인하고 true 면 1개 감소, 레이어 UI 클릭 시에는 발사 안되게
         if (Input.GetMouseButton(0) && _fireTimer > _fireDuration && _gunStat.Ammo.TryConsume(1))
         {
             // 1. 타이머 초기화
@@ -80,11 +92,8 @@ public class PlayerGunFire : MonoBehaviour
                 _hitEffect.transform.forward = hitInfo.normal;
                 _hitEffect.Play();
 
-                Monster monster = hitInfo.collider.gameObject.GetComponent<Monster>();
-                if (monster != null)
-                {
-                    monster.TryTakeDamage(_gunStat.Damage, ray.direction);
-                }
+                // 대미지 처리
+                ApplyDamage(hitInfo.collider.gameObject, ray.direction);
             }
 
         }
@@ -93,6 +102,28 @@ public class PlayerGunFire : MonoBehaviour
         // RayCast: 레이저를 발사
         // RayCastHit: 레이저가 물체에 충돌했다면 그 정보를 저장하는 구조ㅇㄴ체
 
+    }
+
+    /// <summary>
+    /// 충돌한 오브젝트에 대미지 적용
+    /// </summary>
+    private void ApplyDamage(GameObject target, Vector3 hitDirection)
+    {
+        // 몬스터
+        Monster monster = target.GetComponent<Monster>();
+        if (monster != null)
+        {
+            monster.TryTakeDamage(_gunStat.Damage, hitDirection);
+            return;
+        }
+
+        // 드럼통
+        Barrel barrel = target.GetComponent<Barrel>();
+        if (barrel != null)
+        {
+            barrel.TakeDamage(_gunStat.Damage);
+            return;
+        }
     }
 
     // 총 반동 효과 메서드
