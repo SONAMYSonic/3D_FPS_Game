@@ -50,8 +50,13 @@ public class Monster : MonoBehaviour
     public float AttackTimer = 0f;
 
     [Header("체력 및 데미지")]
-    public ConsumableStat Health;
+    [SerializeField] private ConsumableStat _health;
     public float MonsterDamage = 10f;
+
+    // 디미터 법칙 준수: 체력 관련 프로퍼티 직접 노출
+    public float CurrentHealth => _health.Value;
+    public float MaxHealth => _health.MaxValue;
+    public float HealthRatio => _health.Value / _health.MaxValue;
 
     [Header("넉백")]
     public float KnockbackForce = 5f;
@@ -81,7 +86,7 @@ public class Monster : MonoBehaviour
     private void Awake()
     {
         // ConsumableStat 초기화
-        Health.Initialize();
+        _health.Initialize();
     }
 
     private void Start()
@@ -348,10 +353,10 @@ public class Monster : MonoBehaviour
         }
 
         // ConsumableStat의 Decrease 메서드 사용
-        Health.Decrease(damage);
+        _health.Decrease(damage);
 
         // ConsumableStat의 Value 프로퍼티로 체력 확인
-        if (Health.Value <= 0)
+        if (_health.Value <= 0)
         {
             ChangeState(EMonsterState.Death);
             return true;

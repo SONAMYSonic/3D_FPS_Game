@@ -912,4 +912,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _gaugeImage: {fileID: 4454338781947784991}
+  _gaugeBackImage: {fileID: 2003411530584761863}
   _healthBarTransform: {fileID: 8019628816809801070}
+  _gaugeBackDelay: 0.3
+  _gaugeBackDuration: 0.4
+  _flashDuration: 0.2
+  _shakeDuration: 0.2
+  _shakeStrength: 15
