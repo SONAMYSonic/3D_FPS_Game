@@ -4,66 +4,99 @@ using DG.Tweening;
 public class CameraFollow : MonoBehaviour
 {
     [Header("Targets")]
-    public Transform FPSTarget;
-    public Transform TPSTarget;
+    public Transform[] CameraTargets;
 
     [Header("Settings")]
     public float CameraMoveDuration = 0.5f;
 
+    // 현재 카메라 인덱스
+    private int _currentTargetIndex = 0;
 
-
-    // 상태 확인용 (public이지만 내부에서만 조작하므로 private set 권장)
-    public bool IsFPS { get; private set; } = true;
+    // 현재 타겟 반환
+    public Transform CurrentTarget => CameraTargets[_currentTargetIndex];
 
     // 이동 중인지 체크하는 플래그
     private bool _isTransitioning = false;
 
+    private void Start()
+    {
+        // 초기 위치 설정
+        if (CameraTargets != null && CameraTargets.Length > 0)
+        {
+            transform.position = CurrentTarget.position;
+            transform.rotation = CurrentTarget.rotation;
+        }
+    }
+
     private void LateUpdate()
     {
+        if (CameraTargets == null || CameraTargets.Length == 0) return;
+
         // 1. 입력 처리
         if (Input.GetKeyDown(KeyCode.T))
         {
-            SwitchCamera();
+            SwitchToNextCamera();
         }
 
         // 2. 이동 중이 아닐 때만 타겟을 '딱' 붙여서 따라다님
         if (!_isTransitioning)
         {
-            if (IsFPS)
-            {
-                transform.position = FPSTarget.position;
-            }
-            else
-            {
-                transform.position = TPSTarget.position;
-            }
+            transform.position = CurrentTarget.position;
         }
     }
 
-    private void SwitchCamera()
+    private void SwitchToNextCamera()
     {
-        // 상태 반전
-        IsFPS = !IsFPS;
-        _isTransitioning = true; // "이제부터 기계(DOTween)가 운전한다, 건드리지 마라"
+        // 다음 인덱스로 순환 (마지막이면 0으로 돌아감)
+        _currentTargetIndex = (_currentTargetIndex + 1) % CameraTargets.Length;
 
-        // 목표 지점 설정
-        Transform targetTransform = IsFPS ? FPSTarget : TPSTarget;
+        _isTransitioning = true;
 
         // 기존 트윈 제거 (안전장치)
         transform.DOKill();
 
-        // ★ 핵심: DOMove가 끝나는 순간(OnComplete) 다시 따라다니기 모드로 전환
-        transform.DOMove(targetTransform.position, CameraMoveDuration)
+        // 위치 이동
+        transform.DOMove(CurrentTarget.position, CameraMoveDuration)
             .SetEase(Ease.OutQuad)
+            .SetId(this)
             .OnComplete(() =>
             {
-                // 이 괄호 안의 코드는 0.5초 뒤 이동이 끝났을 때 실행됩니다.
                 _isTransitioning = false;
             });
 
-        // (선택 사항) 회전도 부드럽게 하고 싶다면 같이 실행
-        transform.DORotateQuaternion(targetTransform.rotation, CameraMoveDuration)
-            .SetEase(Ease.OutQuad);
+        // 회전도 부드럽게
+        transform.DORotateQuaternion(CurrentTarget.rotation, CameraMoveDuration)
+            .SetEase(Ease.OutQuad)
+            .SetId(this);
     }
 
+    /// <summary>
+    /// 특정 인덱스의 카메라로 전환
+    /// </summary>
+    public void SwitchToCamera(int index)
+    {
+        if (index < 0 || index >= CameraTargets.Length) return;
+
+        _currentTargetIndex = index;
+        _isTransitioning = true;
+
+        transform.DOKill();
+
+        transform.DOMove(CurrentTarget.position, CameraMoveDuration)
+            .SetEase(Ease.OutQuad)
+            .SetId(this)
+            .OnComplete(() =>
+            {
+                _isTransitioning = false;
+            });
+
+        transform.DORotateQuaternion(CurrentTarget.rotation, CameraMoveDuration)
+            .SetEase(Ease.OutQuad)
+            .SetId(this);
+    }
+
+    private void OnDestroy()
+    {
+        DOTween.Kill(this);
+    }
 }
