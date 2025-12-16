@@ -21,7 +21,7 @@ public class MonsterHealthBar : MonoBehaviour
 
     private float _lastHealth = -1f;
     private Color _gaugeOriginalColor;
-
+    private Color _gaugeColor;
     private void Awake()
     {
         _monster = GetComponent<Monster>();
