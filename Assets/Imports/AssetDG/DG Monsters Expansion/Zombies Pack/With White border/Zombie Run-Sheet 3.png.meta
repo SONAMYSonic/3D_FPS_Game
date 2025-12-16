@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: dc13ee826cdd1ae48af78351e256f927
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4087280416436490269
+    second: Zombie Run-Sheet 3_0
+  - first:
+      213: 2429207259486215195
+    second: Zombie Run-Sheet 3_1
+  - first:
+      213: 5689217261746125353
+    second: Zombie Run-Sheet 3_2
+  - first:
+      213: -5931438066057535070
+    second: Zombie Run-Sheet 3_3
+  - first:
+      213: -8262655269534646479
+    second: Zombie Run-Sheet 3_4
+  - first:
+      213: 8059046184519883888
+    second: Zombie Run-Sheet 3_5
+  - first:
+      213: -8373982957639145151
+    second: Zombie Run-Sheet 3_6
+  - first:
+      213: -7964014671462539068
+    second: Zombie Run-Sheet 3_7
+  - first:
+      213: 3544042058291782191
+    second: Zombie Run-Sheet 3_8
+  - first:
+      213: -6203611333091438321
+    second: Zombie Run-Sheet 3_9
+  - first:
+      213: -2426897374445853620
+    second: Zombie Run-Sheet 3_10
+  - first:
+      213: 6608259051469527145
+    second: Zombie Run-Sheet 3_11
+  - first:
+      213: -1397497952269119697
+    second: Zombie Run-Sheet 3_12
+  - first:
+      213: 5119277586381516573
+    second: Zombie Run-Sheet 3_13
+  - first:
+      213: -1464258009695862659
+    second: Zombie Run-Sheet 3_14
+  - first:
+      213: -2945295895106559190
+    second: Zombie Run-Sheet 3_15
+  - first:
+      213: 3323610267074181851
+    second: Zombie Run-Sheet 3_16
+  - first:
+      213: 6494853001826573862
+    second: Zombie Run-Sheet 3_17
+  - first:
+      213: 7628913131227784643
+    second: Zombie Run-Sheet 3_18
+  - first:
+      213: -3129418952247276701
+    second: Zombie Run-Sheet 3_19
+  - first:
+      213: -8051343747020463705
+    second: Zombie Run-Sheet 3_20
+  - first:
+      213: -5736433170868659857
+    second: Zombie Run-Sheet 3_21
+  - first:
+      213: -50539424714444579
+    second: Zombie Run-Sheet 3_22
+  - first:
+      213: 5293509816354831286
+    second: Zombie Run-Sheet 3_23
+  - first:
+      213: -9079959677475594306
+    second: Zombie Run-Sheet 3_24
+  - first:
+      213: -8587893020886261026
+    second: Zombie Run-Sheet 3_25
+  - first:
+      213: 5709676010536723675
+    second: Zombie Run-Sheet 3_26
+  - first:
+      213: -5848053009037456118
+    second: Zombie Run-Sheet 3_27
+  - first:
+      213: 376037822052951133
+    second: Zombie Run-Sheet 3_28
+  - first:
+      213: 1318489012453465468
+    second: Zombie Run-Sheet 3_29
+  - first:
+      213: 7127800494363822719
+    second: Zombie Run-Sheet 3_30
+  - first:
+      213: 7859222162220085826
+    second: Zombie Run-Sheet 3_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef64e8dd101747c0800000000000000
+      internalID: -4087280416436490269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 111
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cd97bc12746b120800000000000000
+      internalID: 2429207259486215195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 111
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92af560f4f824fe40800000000000000
+      internalID: 5689217261746125353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a12969418c4fada0800000000000000
+      internalID: -5931438066057535070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fb0ed4fc6255d80800000000000000
+      internalID: -8262655269534646479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 111
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c56c06ecb77df60800000000000000
+      internalID: 8059046184519883888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 111
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1496eb60ed2a9cb80800000000000000
+      internalID: -8373982957639145151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0e979f9d22a7190800000000000000
+      internalID: -7964014671462539068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 79
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22a6819977fe2130800000000000000
+      internalID: 3544042058291782191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f015f765c5858e9a0800000000000000
+      internalID: -6203611333091438321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44a3d932bde15ed0800000000000000
+      internalID: -2426897374445853620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 79
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968d992689045bb50800000000000000
+      internalID: 6608259051469527145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 79
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fc9a444071b9ce0800000000000000
+      internalID: -1397497952269119697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 79
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fa3ea77d35b0740800000000000000
+      internalID: 5119277586381516573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 79
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70ce802919edabe0800000000000000
+      internalID: -1464258009695862659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 79
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23e1cdfcf43027d0800000000000000
+      internalID: -2945295895106559190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda3cccbde5df1e20800000000000000
+      internalID: 3323610267074181851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e904ad46a522a50800000000000000
+      internalID: 6494853001826573862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 47
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c52529b2185fd960800000000000000
+      internalID: 7628913131227784643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b0de51b021294d0800000000000000
+      internalID: -3129418952247276701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1684a1581e34090800000000000000
+      internalID: -8051343747020463705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 47
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f691b9c8c681460b0800000000000000
+      internalID: -5736433170868659857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 47
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd03eb639a27c4ff0800000000000000
+      internalID: -50539424714444579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 47
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb7fdab123567940800000000000000
+      internalID: 5293509816354831286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf5231f7c08df180800000000000000
+      internalID: -9079959677475594306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2a4015ccca1d880800000000000000
+      internalID: -8587893020886261026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 15
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd46c969418dc3f40800000000000000
+      internalID: 5709676010536723675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d0ba8c5ca87dea0800000000000000
+      internalID: -5848053009037456118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 15
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54e3952864f73500800000000000000
+      internalID: 376037822052951133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 15
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d5b8b65c63c4210800000000000000
+      internalID: 1318489012453465468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ac860f8c80be260800000000000000
+      internalID: 7127800494363822719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Run-Sheet 3_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 15
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2427106aae0911d60800000000000000
+      internalID: 7859222162220085826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Zombie Run-Sheet 3_0: -4087280416436490269
+      Zombie Run-Sheet 3_1: 2429207259486215195
+      Zombie Run-Sheet 3_10: -2426897374445853620
+      Zombie Run-Sheet 3_11: 6608259051469527145
+      Zombie Run-Sheet 3_12: -1397497952269119697
+      Zombie Run-Sheet 3_13: 5119277586381516573
+      Zombie Run-Sheet 3_14: -1464258009695862659
+      Zombie Run-Sheet 3_15: -2945295895106559190
+      Zombie Run-Sheet 3_16: 3323610267074181851
+      Zombie Run-Sheet 3_17: 6494853001826573862
+      Zombie Run-Sheet 3_18: 7628913131227784643
+      Zombie Run-Sheet 3_19: -3129418952247276701
+      Zombie Run-Sheet 3_2: 5689217261746125353
+      Zombie Run-Sheet 3_20: -8051343747020463705
+      Zombie Run-Sheet 3_21: -5736433170868659857
+      Zombie Run-Sheet 3_22: -50539424714444579
+      Zombie Run-Sheet 3_23: 5293509816354831286
+      Zombie Run-Sheet 3_24: -9079959677475594306
+      Zombie Run-Sheet 3_25: -8587893020886261026
+      Zombie Run-Sheet 3_26: 5709676010536723675
+      Zombie Run-Sheet 3_27: -5848053009037456118
+      Zombie Run-Sheet 3_28: 376037822052951133
+      Zombie Run-Sheet 3_29: 1318489012453465468
+      Zombie Run-Sheet 3_3: -5931438066057535070
+      Zombie Run-Sheet 3_30: 7127800494363822719
+      Zombie Run-Sheet 3_31: 7859222162220085826
+      Zombie Run-Sheet 3_4: -8262655269534646479
+      Zombie Run-Sheet 3_5: 8059046184519883888
+      Zombie Run-Sheet 3_6: -8373982957639145151
+      Zombie Run-Sheet 3_7: -7964014671462539068
+      Zombie Run-Sheet 3_8: 3544042058291782191
+      Zombie Run-Sheet 3_9: -6203611333091438321
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

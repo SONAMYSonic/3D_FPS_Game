@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 95ae1a4f68d73874d93a2973574f6a85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7901778399076021380
+    second: Dark Yellow Run_0
+  - first:
+      213: 9165989641686182598
+    second: Dark Yellow Run_1
+  - first:
+      213: -6393975655351790492
+    second: Dark Yellow Run_2
+  - first:
+      213: 5932848729669546712
+    second: Dark Yellow Run_3
+  - first:
+      213: 7442089168636650169
+    second: Dark Yellow Run_4
+  - first:
+      213: -3592963624839211068
+    second: Dark Yellow Run_5
+  - first:
+      213: -7367851285827349630
+    second: Dark Yellow Run_6
+  - first:
+      213: -1711413126727310598
+    second: Dark Yellow Run_7
+  - first:
+      213: 411892906510482559
+    second: Dark Yellow Run_8
+  - first:
+      213: 937090397793336724
+    second: Dark Yellow Run_9
+  - first:
+      213: -4512234854794242489
+    second: Dark Yellow Run_10
+  - first:
+      213: 4983899408847004388
+    second: Dark Yellow Run_11
+  - first:
+      213: 3656753187837091319
+    second: Dark Yellow Run_12
+  - first:
+      213: 8783505704459151707
+    second: Dark Yellow Run_13
+  - first:
+      213: -6810298548830470138
+    second: Dark Yellow Run_14
+  - first:
+      213: 6644334785426774452
+    second: Dark Yellow Run_15
+  - first:
+      213: -6097279321080540055
+    second: Dark Yellow Run_16
+  - first:
+      213: 2239891223553313973
+    second: Dark Yellow Run_17
+  - first:
+      213: 5099493157031169077
+    second: Dark Yellow Run_18
+  - first:
+      213: 8264151374267093547
+    second: Dark Yellow Run_19
+  - first:
+      213: 4401775956539498814
+    second: Dark Yellow Run_20
+  - first:
+      213: 2768111159094375726
+    second: Dark Yellow Run_21
+  - first:
+      213: 1090725576674863888
+    second: Dark Yellow Run_22
+  - first:
+      213: -5463399308008929949
+    second: Dark Yellow Run_23
+  - first:
+      213: 508646635483475449
+    second: Dark Yellow Run_24
+  - first:
+      213: 2906560042675536991
+    second: Dark Yellow Run_25
+  - first:
+      213: -3499671727118068090
+    second: Dark Yellow Run_26
+  - first:
+      213: -3230991945770687839
+    second: Dark Yellow Run_27
+  - first:
+      213: -4666548820768649501
+    second: Dark Yellow Run_28
+  - first:
+      213: 7217037757696181859
+    second: Dark Yellow Run_29
+  - first:
+      213: 5435593735241343198
+    second: Dark Yellow Run_30
+  - first:
+      213: 7682192505667744236
+    second: Dark Yellow Run_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark Yellow Run_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484f7caa691c8ad60800000000000000
+      internalID: 7901778399076021380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 67
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca6d9ff303243f70800000000000000
+      internalID: 9165989641686182598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 68
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464d248a4090447a0800000000000000
+      internalID: -6393975655351790492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 67
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2b41e6c76b55250800000000000000
+      internalID: 5932848729669546712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 67
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2ae534bac974760800000000000000
+      internalID: 7442089168636650169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 67
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c71f8a9e9a332ec0800000000000000
+      internalID: -3592963624839211068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 68
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2831b56ca4220c990800000000000000
+      internalID: -7367851285827349630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 67
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af26a7524d6df38e0800000000000000
+      internalID: -1711413126727310598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c7f0a8a6657b500800000000000000
+      internalID: 411892906510482559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 47
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49db6ea70c6310d00800000000000000
+      internalID: 937090397793336724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7465ad07e425161c0800000000000000
+      internalID: -4512234854794242489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2ea944b1e5a2540800000000000000
+      internalID: 4983899408847004388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 47
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd9e4866a56fb230800000000000000
+      internalID: 3656753187837091319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 47
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59a7e4b6e745e970800000000000000
+      internalID: 8783505704459151707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6000a966d85fc71a0800000000000000
+      internalID: -6810298548830470138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 47
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9522eb84b653c50800000000000000
+      internalID: 6644334785426774452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964d8a223cc126ba0800000000000000
+      internalID: -6097279321080540055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 27
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc096b4331b51f10800000000000000
+      internalID: 2239891223553313973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 28
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cc06f020a05c640800000000000000
+      internalID: 5099493157031169077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 27
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b221f39b3e920b270800000000000000
+      internalID: 8264151374267093547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 27
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31646e29ef361d30800000000000000
+      internalID: 4401775956539498814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 27
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e257d90ee6e4a6620800000000000000
+      internalID: 2768111159094375726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 28
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b63211229032f00800000000000000
+      internalID: 1090725576674863888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 27
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3654304964b1e24b0800000000000000
+      internalID: -5463399308008929949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fda0388b631f0700800000000000000
+      internalID: 508646635483475449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 7
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54050e85fc265820800000000000000
+      internalID: 2906560042675536991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 8
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68656a23b1bae6fc0800000000000000
+      internalID: -3499671727118068090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2a030a1f53923d0800000000000000
+      internalID: -3230991945770687839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee011b62961d3fb0800000000000000
+      internalID: -4666548820768649501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 7
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36600166a91182460800000000000000
+      internalID: 7217037757696181859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 8
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0266404bb1f6b40800000000000000
+      internalID: 5435593735241343198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Run_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce17e74c161ac9a60800000000000000
+      internalID: 7682192505667744236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark Yellow Run_0: 7901778399076021380
+      Dark Yellow Run_1: 9165989641686182598
+      Dark Yellow Run_10: -4512234854794242489
+      Dark Yellow Run_11: 4983899408847004388
+      Dark Yellow Run_12: 3656753187837091319
+      Dark Yellow Run_13: 8783505704459151707
+      Dark Yellow Run_14: -6810298548830470138
+      Dark Yellow Run_15: 6644334785426774452
+      Dark Yellow Run_16: -6097279321080540055
+      Dark Yellow Run_17: 2239891223553313973
+      Dark Yellow Run_18: 5099493157031169077
+      Dark Yellow Run_19: 8264151374267093547
+      Dark Yellow Run_2: -6393975655351790492
+      Dark Yellow Run_20: 4401775956539498814
+      Dark Yellow Run_21: 2768111159094375726
+      Dark Yellow Run_22: 1090725576674863888
+      Dark Yellow Run_23: -5463399308008929949
+      Dark Yellow Run_24: 508646635483475449
+      Dark Yellow Run_25: 2906560042675536991
+      Dark Yellow Run_26: -3499671727118068090
+      Dark Yellow Run_27: -3230991945770687839
+      Dark Yellow Run_28: -4666548820768649501
+      Dark Yellow Run_29: 7217037757696181859
+      Dark Yellow Run_3: 5932848729669546712
+      Dark Yellow Run_30: 5435593735241343198
+      Dark Yellow Run_31: 7682192505667744236
+      Dark Yellow Run_4: 7442089168636650169
+      Dark Yellow Run_5: -3592963624839211068
+      Dark Yellow Run_6: -7367851285827349630
+      Dark Yellow Run_7: -1711413126727310598
+      Dark Yellow Run_8: 411892906510482559
+      Dark Yellow Run_9: 937090397793336724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

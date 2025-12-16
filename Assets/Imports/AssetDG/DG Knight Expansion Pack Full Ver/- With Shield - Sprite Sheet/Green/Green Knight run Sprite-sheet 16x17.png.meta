@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: b8cd8cbfa57f44f4fb090011990798ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8932763969183085401
+    second: Green Knight run Sprite-sheet 16x17_0
+  - first:
+      213: 3202822378896012738
+    second: Green Knight run Sprite-sheet 16x17_1
+  - first:
+      213: -4076323911291077676
+    second: Green Knight run Sprite-sheet 16x17_2
+  - first:
+      213: 6807817932952630602
+    second: Green Knight run Sprite-sheet 16x17_3
+  - first:
+      213: -7453529804148206188
+    second: Green Knight run Sprite-sheet 16x17_4
+  - first:
+      213: -7004143538264785782
+    second: Green Knight run Sprite-sheet 16x17_5
+  - first:
+      213: 7011659430134595530
+    second: Green Knight run Sprite-sheet 16x17_6
+  - first:
+      213: -5218667220416445294
+    second: Green Knight run Sprite-sheet 16x17_7
+  - first:
+      213: -9091378443497487559
+    second: Green Knight run Sprite-sheet 16x17_8
+  - first:
+      213: 3126384231894424079
+    second: Green Knight run Sprite-sheet 16x17_9
+  - first:
+      213: -8275793763082605718
+    second: Green Knight run Sprite-sheet 16x17_10
+  - first:
+      213: -6949038970480649223
+    second: Green Knight run Sprite-sheet 16x17_11
+  - first:
+      213: 2620264749422475738
+    second: Green Knight run Sprite-sheet 16x17_12
+  - first:
+      213: -8818113414143013837
+    second: Green Knight run Sprite-sheet 16x17_13
+  - first:
+      213: 3572924380814607692
+    second: Green Knight run Sprite-sheet 16x17_14
+  - first:
+      213: 4897057630149127075
+    second: Green Knight run Sprite-sheet 16x17_15
+  - first:
+      213: 7152424542016930605
+    second: Green Knight run Sprite-sheet 16x17_16
+  - first:
+      213: -6506003461682727331
+    second: Green Knight run Sprite-sheet 16x17_17
+  - first:
+      213: -7386968034703632302
+    second: Green Knight run Sprite-sheet 16x17_18
+  - first:
+      213: 1042564653293934857
+    second: Green Knight run Sprite-sheet 16x17_19
+  - first:
+      213: 8662103823365396665
+    second: Green Knight run Sprite-sheet 16x17_20
+  - first:
+      213: -7985313176895519430
+    second: Green Knight run Sprite-sheet 16x17_21
+  - first:
+      213: 8427975395494420791
+    second: Green Knight run Sprite-sheet 16x17_22
+  - first:
+      213: 8546854188279511304
+    second: Green Knight run Sprite-sheet 16x17_23
+  - first:
+      213: -6763063553027333425
+    second: Green Knight run Sprite-sheet 16x17_24
+  - first:
+      213: -5212315843967763162
+    second: Green Knight run Sprite-sheet 16x17_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953f09d808d87fb70800000000000000
+      internalID: 8932763969183085401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5b4ccfbf5b27c20800000000000000
+      internalID: 3202822378896012738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 18
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db701efffcfd67c0800000000000000
+      internalID: -4076323911291077676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 51
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45fc25375a3a7e50800000000000000
+      internalID: 6807817932952630602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49595f4322ebf8890800000000000000
+      internalID: -7453529804148206188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 50
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c31edbf884cce90800000000000000
+      internalID: -7004143538264785782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 33
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfb0333a1b6e4160800000000000000
+      internalID: 7011659430134595530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 50
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2944a1e00d19397b0800000000000000
+      internalID: -5218667220416445294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93340bc497fe4d180800000000000000
+      internalID: -9091378443497487559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 18
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a137505e5236b20800000000000000
+      internalID: 3126384231894424079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 51
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b61156b69762d80800000000000000
+      internalID: -8275793763082605718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 34
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb972abfdd009f90800000000000000
+      internalID: -6949038970480649223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 50
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9fdc628ec0d5420800000000000000
+      internalID: 2620264749422475738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 33
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c06e8f194cf9580800000000000000
+      internalID: -8818113414143013837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4589cf4bc3959130800000000000000
+      internalID: 3572924380814607692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aba7a908f7d5f340800000000000000
+      internalID: 4897057630149127075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 17
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2384bdc934824360800000000000000
+      internalID: 7152424542016930605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5670f6625806b5a0800000000000000
+      internalID: -6506003461682727331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 16
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2581354d5b73c7990800000000000000
+      internalID: -7386968034703632302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90996f6470fe77e00800000000000000
+      internalID: 1042564653293934857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b85f379889f53870800000000000000
+      internalID: 8662103823365396665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3585ee39f77e2190800000000000000
+      internalID: -7985313176895519430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 17
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7316d2808fe26f470800000000000000
+      internalID: 8427975395494420791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809b57fd9968c9670800000000000000
+      internalID: 8546854188279511304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 16
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc22a60e785c422a0800000000000000
+      internalID: -6763063553027333425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight run Sprite-sheet 16x17_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d392f1b522aa7b0800000000000000
+      internalID: -5212315843967763162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green Knight run Sprite-sheet 16x17_0: 8932763969183085401
+      Green Knight run Sprite-sheet 16x17_1: 3202822378896012738
+      Green Knight run Sprite-sheet 16x17_10: -8275793763082605718
+      Green Knight run Sprite-sheet 16x17_11: -6949038970480649223
+      Green Knight run Sprite-sheet 16x17_12: 2620264749422475738
+      Green Knight run Sprite-sheet 16x17_13: -8818113414143013837
+      Green Knight run Sprite-sheet 16x17_14: 3572924380814607692
+      Green Knight run Sprite-sheet 16x17_15: 4897057630149127075
+      Green Knight run Sprite-sheet 16x17_16: 7152424542016930605
+      Green Knight run Sprite-sheet 16x17_17: -6506003461682727331
+      Green Knight run Sprite-sheet 16x17_18: -7386968034703632302
+      Green Knight run Sprite-sheet 16x17_19: 1042564653293934857
+      Green Knight run Sprite-sheet 16x17_2: -4076323911291077676
+      Green Knight run Sprite-sheet 16x17_20: 8662103823365396665
+      Green Knight run Sprite-sheet 16x17_21: -7985313176895519430
+      Green Knight run Sprite-sheet 16x17_22: 8427975395494420791
+      Green Knight run Sprite-sheet 16x17_23: 8546854188279511304
+      Green Knight run Sprite-sheet 16x17_24: -6763063553027333425
+      Green Knight run Sprite-sheet 16x17_25: -5212315843967763162
+      Green Knight run Sprite-sheet 16x17_3: 6807817932952630602
+      Green Knight run Sprite-sheet 16x17_4: -7453529804148206188
+      Green Knight run Sprite-sheet 16x17_5: -7004143538264785782
+      Green Knight run Sprite-sheet 16x17_6: 7011659430134595530
+      Green Knight run Sprite-sheet 16x17_7: -5218667220416445294
+      Green Knight run Sprite-sheet 16x17_8: -9091378443497487559
+      Green Knight run Sprite-sheet 16x17_9: 3126384231894424079
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

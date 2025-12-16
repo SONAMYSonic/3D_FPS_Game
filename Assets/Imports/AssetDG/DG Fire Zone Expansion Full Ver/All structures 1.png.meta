@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 63eaed223a076204cb27921520f31f38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9198804115233248071
+    second: All structures_0
+  - first:
+      213: -8865896398911906232
+    second: All structures_1
+  - first:
+      213: -3960823425239087011
+    second: All structures_2
+  - first:
+      213: 2000728213314639028
+    second: All structures_3
+  - first:
+      213: -465144198973800314
+    second: All structures_4
+  - first:
+      213: -5048903617711318325
+    second: All structures_5
+  - first:
+      213: -8938275470339395883
+    second: All structures_6
+  - first:
+      213: -7950878041587056118
+    second: All structures_7
+  - first:
+      213: 5649715974339323478
+    second: All structures_8
+  - first:
+      213: -7025130836275872256
+    second: All structures_9
+  - first:
+      213: -528348716474022669
+    second: All structures_10
+  - first:
+      213: -8617876715218569647
+    second: All structures_11
+  - first:
+      213: -3830914382974363676
+    second: All structures_12
+  - first:
+      213: -8519046227570868254
+    second: All structures_13
+  - first:
+      213: 4269918246696377163
+    second: All structures_14
+  - first:
+      213: 819295210721737317
+    second: All structures_15
+  - first:
+      213: 3924769359227452552
+    second: All structures_16
+  - first:
+      213: -5884280533358134338
+    second: All structures_17
+  - first:
+      213: -1504915182706321923
+    second: All structures_18
+  - first:
+      213: 6795654063511297936
+    second: All structures_19
+  - first:
+      213: -4135067309977718222
+    second: All structures_20
+  - first:
+      213: 8027820608148999718
+    second: All structures_21
+  - first:
+      213: -6353930477316938065
+    second: All structures_22
+  - first:
+      213: -3869672540426160125
+    second: All structures_23
+  - first:
+      213: 6191795727215632781
+    second: All structures_24
+  - first:
+      213: -6313374857411064417
+    second: All structures_25
+  - first:
+      213: 2200554191967053692
+    second: All structures_26
+  - first:
+      213: -6550130205584966670
+    second: All structures_27
+  - first:
+      213: 1943368138604599957
+    second: All structures_28
+  - first:
+      213: -1386466277260375050
+    second: All structures_29
+  - first:
+      213: -3233930181810482997
+    second: All structures_30
+  - first:
+      213: -6188107735554669282
+    second: All structures_31
+  - first:
+      213: 7806660370404942308
+    second: All structures_32
+  - first:
+      213: -827711045207812231
+    second: All structures_33
+  - first:
+      213: -2992970070051440848
+    second: All structures_34
+  - first:
+      213: 415585296882628097
+    second: All structures_35
+  - first:
+      213: 5582131318591833057
+    second: All structures_36
+  - first:
+      213: 2914961531514761925
+    second: All structures_37
+  - first:
+      213: 2659727913725641548
+    second: All structures_38
+  - first:
+      213: -7408598929281531938
+    second: All structures_39
+  - first:
+      213: 569044923720297365
+    second: All structures_40
+  - first:
+      213: -212536165560516489
+    second: All structures_41
+  - first:
+      213: -7587291800490470671
+    second: All structures_42
+  - first:
+      213: 7759537200924046902
+    second: All structures_43
+  - first:
+      213: -4696370221115949671
+    second: All structures_44
+  - first:
+      213: -6900019065313561032
+    second: All structures_45
+  - first:
+      213: 4488570053793260587
+    second: All structures_46
+  - first:
+      213: 8050235570428843280
+    second: All structures_47
+  - first:
+      213: 8851364665786965793
+    second: All structures_48
+  - first:
+      213: -4210624369449236198
+    second: All structures_49
+  - first:
+      213: 934021362486786559
+    second: All structures_50
+  - first:
+      213: -3144868649931193152
+    second: All structures_51
+  - first:
+      213: -3863402978047444445
+    second: All structures_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All structures 1_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40f4be5e2e26184c95b66ddfa62fda3
+      internalID: 528778831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dc41b50c3d8bd46badf09f54e642b0
+      internalID: -129824761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 353
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecca82168594021429d2ad5c6dcf457e
+      internalID: 86673186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 196
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c0f087a12a65b45a75aff84d97fa46
+      internalID: 507013317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 196
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5858f044003da47af422f34caaf749
+      internalID: 737896908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 352
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78df87675eba8d94dab3b870d50eae37
+      internalID: -1580754606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 304
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d040ffbacab704793f33478dc74c6d
+      internalID: -2038936736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc088d83bb0d7f1418b13a29fbf4ca29
+      internalID: 1255928378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430bc14d2cca78045876c4c0fa1c7161
+      internalID: 1477616512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 304
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6cdac532f0b164c8e5184edbb80888
+      internalID: 394704931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60f272d8fadaa44986c05b50bc77301
+      internalID: -950218589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8230924b6d06d894ab2b8c76ccc22bfd
+      internalID: -946792192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 304
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fc98be932e0c94a93f2277f60694d4
+      internalID: -96448382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 305
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de12385480bf6e84785da12d47b00d23
+      internalID: 1050492790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 240
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860ff56ab2bf3dc42b0183b443197b38
+      internalID: 190124037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 240
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77457c7b8aac3f74795a182969a1824e
+      internalID: 175031558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 240
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceb78a6efc12944cbdbeee62c3bbabd
+      internalID: 1952684653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 240
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5731b87b0368145b2c33417ad94ad6
+      internalID: -1642015446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_18
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 240
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5142cac1ba6944cb90c0c1c850575d
+      internalID: 1628757181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 240
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6c07c67e774cb40b5ef6ee032a1e41
+      internalID: -853074066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 192
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1573062a750a40c4bae900634e96065e
+      internalID: 312743345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 192
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae528dc2a5309a34fbad7601c4c1b3ff
+      internalID: -1802508937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 196
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f01605842dbc44ea65cc12a5bc94cb
+      internalID: -1134766184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_23
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 194
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6dbd52d090e544d9fc3ca5112bd974
+      internalID: 1361769094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_24
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 194
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644611fe87ae27c4b839ee2134dc9a7d
+      internalID: -1459250510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_25
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 194
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b87169f75d930439cfbdc040d3855b
+      internalID: 828472848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_26
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 194
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e397dc2f3d6a5514bba1c07110e278da
+      internalID: 1673905347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_27
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 194
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6d4f134b71c3848ac3bc6a78e00506
+      internalID: 1810918381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_28
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 194
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878a942a7aaf4464184d61ef5a6493f6
+      internalID: 903093935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 139
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a677c8e775734429cfb55a80583a64
+      internalID: 938701982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 139
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ffed0606b146641beff98de94f272c
+      internalID: 1204051634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 139
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b630995a75474794a959258946878a55
+      internalID: -976128834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 139
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5f979cf36761a4cbe2bd57f30af852
+      internalID: 834610078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 139
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6daeb273ce57df44b748a8aa761c125
+      internalID: -226719809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 139
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2138cbf5c83841342acf888527c18f78
+      internalID: 940480622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_35
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 139
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd08cce99314bc149b3a9735198b8623
+      internalID: 1470603673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_36
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 131
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2955e34a7750cc54a9926549ab7b0ad9
+      internalID: -884066499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 75
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8a68f2257101146a657f7054e667a3
+      internalID: 1442076391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf459ad3978bfd4890ebad6722c5ac5
+      internalID: -1439763837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 75
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a53d558ed154d947b79e04044bc3dd9
+      internalID: -1279011823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 75
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9db6f8139185134fa2adca211990903
+      internalID: 217713266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 75
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123fcaa64d90a264dad0c7118b758ecf
+      internalID: -852364976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_42
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 75
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeaf34abc28f234a88d4ab64013ca96
+      internalID: -437449343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_43
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 75
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b86d525eef18844da090a3821d3228f
+      internalID: 516673675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_44
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 96
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2680b2f70a142f04f8244606d5ba6c69
+      internalID: -397662044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_45
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 96
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01431e999e1d5449a6868eed179074d
+      internalID: -1771484193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecf8f4728c041644a6bc0cd832763ad
+      internalID: -1529676445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_47
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 27
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6d588d6a2b7054b95c2437cbe33067
+      internalID: 370473275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82059d5003362cf4880246fcc04029fd
+      internalID: 528821020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_49
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bd8002ae32824499ab18232cfdec5c
+      internalID: 1459881065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_50
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0255c906d1733418e7dfb5c91ef6fb
+      internalID: 566794910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_51
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 27
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de185616878a2cc4381e8d73ce0e2099
+      internalID: -36456246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All structures 1_52
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 27
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4186f6d0ce0124b8e71bbbdbef9da0
+      internalID: -2004481125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 028a866ce4d857742ab2fadfc8a3d786
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      All structures 1_0: 528778831
+      All structures 1_1: -129824761
+      All structures 1_10: -950218589
+      All structures 1_11: -946792192
+      All structures 1_12: -96448382
+      All structures 1_13: 1050492790
+      All structures 1_14: 190124037
+      All structures 1_15: 175031558
+      All structures 1_16: 1952684653
+      All structures 1_17: -1642015446
+      All structures 1_18: 1628757181
+      All structures 1_19: -853074066
+      All structures 1_2: 86673186
+      All structures 1_20: 312743345
+      All structures 1_21: -1802508937
+      All structures 1_22: -1134766184
+      All structures 1_23: 1361769094
+      All structures 1_24: -1459250510
+      All structures 1_25: 828472848
+      All structures 1_26: 1673905347
+      All structures 1_27: 1810918381
+      All structures 1_28: 903093935
+      All structures 1_29: 938701982
+      All structures 1_3: 507013317
+      All structures 1_30: 1204051634
+      All structures 1_31: -976128834
+      All structures 1_32: 834610078
+      All structures 1_33: -226719809
+      All structures 1_34: 940480622
+      All structures 1_35: 1470603673
+      All structures 1_36: -884066499
+      All structures 1_37: 1442076391
+      All structures 1_38: -1439763837
+      All structures 1_39: -1279011823
+      All structures 1_4: 737896908
+      All structures 1_40: 217713266
+      All structures 1_41: -852364976
+      All structures 1_42: -437449343
+      All structures 1_43: 516673675
+      All structures 1_44: -397662044
+      All structures 1_45: -1771484193
+      All structures 1_46: -1529676445
+      All structures 1_47: 370473275
+      All structures 1_48: 528821020
+      All structures 1_49: 1459881065
+      All structures 1_5: -1580754606
+      All structures 1_50: 566794910
+      All structures 1_51: -36456246
+      All structures 1_52: -2004481125
+      All structures 1_6: -2038936736
+      All structures 1_7: 1255928378
+      All structures 1_8: 1477616512
+      All structures 1_9: 394704931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 5fa65b944e00a7049b58774f10614bcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6317493047849327384
+    second: Dark Yellow Knight death Sprite-sheet 20x22_0
+  - first:
+      213: 7933213699665737540
+    second: Dark Yellow Knight death Sprite-sheet 20x22_1
+  - first:
+      213: -7003314015244565432
+    second: Dark Yellow Knight death Sprite-sheet 20x22_2
+  - first:
+      213: 1697545742557531289
+    second: Dark Yellow Knight death Sprite-sheet 20x22_3
+  - first:
+      213: 1910349390462310022
+    second: Dark Yellow Knight death Sprite-sheet 20x22_4
+  - first:
+      213: 5325459850696679787
+    second: Dark Yellow Knight death Sprite-sheet 20x22_5
+  - first:
+      213: 5826213144130409468
+    second: Dark Yellow Knight death Sprite-sheet 20x22_6
+  - first:
+      213: 1120193919508751934
+    second: Dark Yellow Knight death Sprite-sheet 20x22_7
+  - first:
+      213: 8063188181055339540
+    second: Dark Yellow Knight death Sprite-sheet 20x22_8
+  - first:
+      213: 3035938081604797177
+    second: Dark Yellow Knight death Sprite-sheet 20x22_9
+  - first:
+      213: 5781640388339695185
+    second: Dark Yellow Knight death Sprite-sheet 20x22_10
+  - first:
+      213: -853379718752164107
+    second: Dark Yellow Knight death Sprite-sheet 20x22_11
+  - first:
+      213: 6471232790475681966
+    second: Dark Yellow Knight death Sprite-sheet 20x22_12
+  - first:
+      213: -2579309476735209022
+    second: Dark Yellow Knight death Sprite-sheet 20x22_13
+  - first:
+      213: -4501850463751746076
+    second: Dark Yellow Knight death Sprite-sheet 20x22_14
+  - first:
+      213: 3098567538884670196
+    second: Dark Yellow Knight death Sprite-sheet 20x22_15
+  - first:
+      213: 4226440745851626764
+    second: Dark Yellow Knight death Sprite-sheet 20x22_16
+  - first:
+      213: -8867826776613598773
+    second: Dark Yellow Knight death Sprite-sheet 20x22_17
+  - first:
+      213: -2904644220984646073
+    second: Dark Yellow Knight death Sprite-sheet 20x22_18
+  - first:
+      213: -5361049175040997745
+    second: Dark Yellow Knight death Sprite-sheet 20x22_19
+  - first:
+      213: -5115388122228160830
+    second: Dark Yellow Knight death Sprite-sheet 20x22_20
+  - first:
+      213: 7275653866670116310
+    second: Dark Yellow Knight death Sprite-sheet 20x22_21
+  - first:
+      213: 1099344701276269126
+    second: Dark Yellow Knight death Sprite-sheet 20x22_22
+  - first:
+      213: 2106687678550867847
+    second: Dark Yellow Knight death Sprite-sheet 20x22_23
+  - first:
+      213: 3433898674632833368
+    second: Dark Yellow Knight death Sprite-sheet 20x22_24
+  - first:
+      213: -1074434862524494223
+    second: Dark Yellow Knight death Sprite-sheet 20x22_25
+  - first:
+      213: 7048124511437082888
+    second: Dark Yellow Knight death Sprite-sheet 20x22_26
+  - first:
+      213: 233870966017412831
+    second: Dark Yellow Knight death Sprite-sheet 20x22_27
+  - first:
+      213: -2558658764655167630
+    second: Dark Yellow Knight death Sprite-sheet 20x22_28
+  - first:
+      213: -8167044366857025786
+    second: Dark Yellow Knight death Sprite-sheet 20x22_29
+  - first:
+      213: -3584783742490655923
+    second: Dark Yellow Knight death Sprite-sheet 20x22_30
+  - first:
+      213: -6423754707659066381
+    second: Dark Yellow Knight death Sprite-sheet 20x22_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4e0f36b81c358a0800000000000000
+      internalID: -6317493047849327384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447b6dfe3df681e60800000000000000
+      internalID: 7933213699665737540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 70
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84445de120b3fce90800000000000000
+      internalID: -7003314015244565432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c4e1fdbd4ee8710800000000000000
+      internalID: 1697545742557531289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686d36f26ace28a10800000000000000
+      internalID: 1910349390462310022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 65
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61616ac485d7e940800000000000000
+      internalID: 5325459850696679787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 65
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3da996cfddad050800000000000000
+      internalID: 5826213144130409468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 65
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e362fdb4f6abb8f00800000000000000
+      internalID: 1120193919508751934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c7ee81ee236ef60800000000000000
+      internalID: 8063188181055339540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f28222a991d12a20800000000000000
+      internalID: 3035938081604797177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 43
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ef90efc438c3050800000000000000
+      internalID: 5781640388339695185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 43
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6214dcaaf2824f0800000000000000
+      internalID: -853379718752164107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 43
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0b927dfef6ec950800000000000000
+      internalID: 6471232790475681966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 43
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1366952b3743cd0800000000000000
+      internalID: -2579309476735209022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 43
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed4624ead63681c0800000000000000
+      internalID: -4501850463751746076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 43
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2f6cb72c2500b20800000000000000
+      internalID: 3098567538884670196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 21
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0529b8377557aa30800000000000000
+      internalID: 4226440745851626764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 21
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9cf3ac7862fe480800000000000000
+      internalID: -8867826776613598773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 21
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746a1517871a0b7d0800000000000000
+      internalID: -2904644220984646073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 21
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86c74aed2ab995b0800000000000000
+      internalID: -5361049175040997745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 21
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c68656fa9d7209b0800000000000000
+      internalID: -5115388122228160830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 21
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddc197c4a058f460800000000000000
+      internalID: 7275653866670116310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 21
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64aa7456e28a14f00800000000000000
+      internalID: 1099344701276269126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 21
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f77bc28457c3d10800000000000000
+      internalID: 2106687678550867847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859bc28a6a8a7af20800000000000000
+      internalID: 3433898674632833368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e8ee46f27d611f0800000000000000
+      internalID: -1074434862524494223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8015eec86e7ffc160800000000000000
+      internalID: 7048124511437082888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_27
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdecebc8760ee3300800000000000000
+      internalID: 233870966017412831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277f94fe861dd7cd0800000000000000
+      internalID: -2558658764655167630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607c1a05b64d8ae80800000000000000
+      internalID: -8167044366857025786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43cf30ed2a404ec0800000000000000
+      internalID: -3584783742490655923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight death Sprite-sheet 20x22_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3fcbdb02d3ad6a0800000000000000
+      internalID: -6423754707659066381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark Yellow Knight death Sprite-sheet 20x22_0: -6317493047849327384
+      Dark Yellow Knight death Sprite-sheet 20x22_1: 7933213699665737540
+      Dark Yellow Knight death Sprite-sheet 20x22_10: 5781640388339695185
+      Dark Yellow Knight death Sprite-sheet 20x22_11: -853379718752164107
+      Dark Yellow Knight death Sprite-sheet 20x22_12: 6471232790475681966
+      Dark Yellow Knight death Sprite-sheet 20x22_13: -2579309476735209022
+      Dark Yellow Knight death Sprite-sheet 20x22_14: -4501850463751746076
+      Dark Yellow Knight death Sprite-sheet 20x22_15: 3098567538884670196
+      Dark Yellow Knight death Sprite-sheet 20x22_16: 4226440745851626764
+      Dark Yellow Knight death Sprite-sheet 20x22_17: -8867826776613598773
+      Dark Yellow Knight death Sprite-sheet 20x22_18: -2904644220984646073
+      Dark Yellow Knight death Sprite-sheet 20x22_19: -5361049175040997745
+      Dark Yellow Knight death Sprite-sheet 20x22_2: -7003314015244565432
+      Dark Yellow Knight death Sprite-sheet 20x22_20: -5115388122228160830
+      Dark Yellow Knight death Sprite-sheet 20x22_21: 7275653866670116310
+      Dark Yellow Knight death Sprite-sheet 20x22_22: 1099344701276269126
+      Dark Yellow Knight death Sprite-sheet 20x22_23: 2106687678550867847
+      Dark Yellow Knight death Sprite-sheet 20x22_24: 3433898674632833368
+      Dark Yellow Knight death Sprite-sheet 20x22_25: -1074434862524494223
+      Dark Yellow Knight death Sprite-sheet 20x22_26: 7048124511437082888
+      Dark Yellow Knight death Sprite-sheet 20x22_27: 233870966017412831
+      Dark Yellow Knight death Sprite-sheet 20x22_28: -2558658764655167630
+      Dark Yellow Knight death Sprite-sheet 20x22_29: -8167044366857025786
+      Dark Yellow Knight death Sprite-sheet 20x22_3: 1697545742557531289
+      Dark Yellow Knight death Sprite-sheet 20x22_30: -3584783742490655923
+      Dark Yellow Knight death Sprite-sheet 20x22_31: -6423754707659066381
+      Dark Yellow Knight death Sprite-sheet 20x22_4: 1910349390462310022
+      Dark Yellow Knight death Sprite-sheet 20x22_5: 5325459850696679787
+      Dark Yellow Knight death Sprite-sheet 20x22_6: 5826213144130409468
+      Dark Yellow Knight death Sprite-sheet 20x22_7: 1120193919508751934
+      Dark Yellow Knight death Sprite-sheet 20x22_8: 8063188181055339540
+      Dark Yellow Knight death Sprite-sheet 20x22_9: 3035938081604797177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: 15d6a7e93c0b2b2499a73d17b0492c5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8305723005268671144
+    second: Green Charged attack 1 48x48_0
+  - first:
+      213: -3019969989467324188
+    second: Green Charged attack 1 48x48_1
+  - first:
+      213: 7154558788798225401
+    second: Green Charged attack 1 48x48_2
+  - first:
+      213: 328794272201955635
+    second: Green Charged attack 1 48x48_3
+  - first:
+      213: -687220169078118263
+    second: Green Charged attack 1 48x48_4
+  - first:
+      213: -6449015155940718445
+    second: Green Charged attack 1 48x48_5
+  - first:
+      213: 7880581746011640599
+    second: Green Charged attack 1 48x48_6
+  - first:
+      213: -3698126281966811383
+    second: Green Charged attack 1 48x48_7
+  - first:
+      213: -7444827597793651280
+    second: Green Charged attack 1 48x48_8
+  - first:
+      213: 5247823174112848084
+    second: Green Charged attack 1 48x48_9
+  - first:
+      213: 419055832342671011
+    second: Green Charged attack 1 48x48_10
+  - first:
+      213: -5086849500909987691
+    second: Green Charged attack 1 48x48_11
+  - first:
+      213: -3771226658959411705
+    second: Green Charged attack 1 48x48_12
+  - first:
+      213: -4976879240626379805
+    second: Green Charged attack 1 48x48_13
+  - first:
+      213: -5800589666757676957
+    second: Green Charged attack 1 48x48_14
+  - first:
+      213: 1414862869075399292
+    second: Green Charged attack 1 48x48_15
+  - first:
+      213: -7343216373294698803
+    second: Green Charged attack 1 48x48_16
+  - first:
+      213: 5122284194332701880
+    second: Green Charged attack 1 48x48_17
+  - first:
+      213: 1571823663643038725
+    second: Green Charged attack 1 48x48_18
+  - first:
+      213: 8015672669845430223
+    second: Green Charged attack 1 48x48_19
+  - first:
+      213: 2691194388294694238
+    second: Green Charged attack 1 48x48_20
+  - first:
+      213: 8566380445503799313
+    second: Green Charged attack 1 48x48_21
+  - first:
+      213: 795830999040364672
+    second: Green Charged attack 1 48x48_22
+  - first:
+      213: 1603474876381023975
+    second: Green Charged attack 1 48x48_23
+  - first:
+      213: -6439489058663089686
+    second: Green Charged attack 1 48x48_24
+  - first:
+      213: 4921980983288301373
+    second: Green Charged attack 1 48x48_25
+  - first:
+      213: 364044733567841612
+    second: Green Charged attack 1 48x48_26
+  - first:
+      213: -5498968417475132253
+    second: Green Charged attack 1 48x48_27
+  - first:
+      213: 6805468724353708664
+    second: Green Charged attack 1 48x48_28
+  - first:
+      213: 3970604220543251977
+    second: Green Charged attack 1 48x48_29
+  - first:
+      213: -5446272468711375074
+    second: Green Charged attack 1 48x48_30
+  - first:
+      213: -6904344475041511088
+    second: Green Charged attack 1 48x48_31
+  - first:
+      213: -3804776522843497861
+    second: Green Charged attack 1 48x48_32
+  - first:
+      213: 8891119834012383941
+    second: Green Charged attack 1 48x48_33
+  - first:
+      213: 2119575350366109925
+    second: Green Charged attack 1 48x48_34
+  - first:
+      213: 4399750748118781377
+    second: Green Charged attack 1 48x48_35
+  - first:
+      213: 3544285790979069444
+    second: Green Charged attack 1 48x48_36
+  - first:
+      213: 3264326979821279582
+    second: Green Charged attack 1 48x48_37
+  - first:
+      213: 3291407799747403272
+    second: Green Charged attack 1 48x48_38
+  - first:
+      213: 6502822901308169058
+    second: Green Charged attack 1 48x48_39
+  - first:
+      213: -6750978189571052970
+    second: Green Charged attack 1 48x48_40
+  - first:
+      213: -7885305092883723638
+    second: Green Charged attack 1 48x48_41
+  - first:
+      213: -2071915424754891034
+    second: Green Charged attack 1 48x48_42
+  - first:
+      213: -3531987003227325356
+    second: Green Charged attack 1 48x48_43
+  - first:
+      213: 1187010537866002927
+    second: Green Charged attack 1 48x48_44
+  - first:
+      213: 1843648660130276725
+    second: Green Charged attack 1 48x48_45
+  - first:
+      213: 8162969281945509819
+    second: Green Charged attack 1 48x48_46
+  - first:
+      213: 7957536543187902661
+    second: Green Charged attack 1 48x48_47
+  - first:
+      213: -499932585750442306
+    second: Green Charged attack 1 48x48_48
+  - first:
+      213: 8429431782430525155
+    second: Green Charged attack 1 48x48_49
+  - first:
+      213: -5372893508038600938
+    second: Green Charged attack 1 48x48_50
+  - first:
+      213: -6906024546658630482
+    second: Green Charged attack 1 48x48_51
+  - first:
+      213: -5278681230457792205
+    second: Green Charged attack 1 48x48_52
+  - first:
+      213: -8450115578441553679
+    second: Green Charged attack 1 48x48_53
+  - first:
+      213: 1608292147936110357
+    second: Green Charged attack 1 48x48_54
+  - first:
+      213: -4528511102693476612
+    second: Green Charged attack 1 48x48_55
+  - first:
+      213: 7328013052914659752
+    second: Green Charged attack 1 48x48_56
+  - first:
+      213: 1666218313859330406
+    second: Green Charged attack 1 48x48_57
+  - first:
+      213: -202934824794418396
+    second: Green Charged attack 1 48x48_58
+  - first:
+      213: -2439107108558711499
+    second: Green Charged attack 1 48x48_59
+  - first:
+      213: 4425704044855374483
+    second: Green Charged attack 1 48x48_60
+  - first:
+      213: -3937358128075382659
+    second: Green Charged attack 1 48x48_61
+  - first:
+      213: -4428445717206608176
+    second: Green Charged attack 1 48x48_62
+  - first:
+      213: -5943441665367676932
+    second: Green Charged attack 1 48x48_63
+  - first:
+      213: -4794551039146270818
+    second: Green Charged attack 1 48x48_64
+  - first:
+      213: -8247817882079996826
+    second: Green Charged attack 1 48x48_65
+  - first:
+      213: 6456101529460792393
+    second: Green Charged attack 1 48x48_66
+  - first:
+      213: 3347082612998258006
+    second: Green Charged attack 1 48x48_67
+  - first:
+      213: -2540494371272850818
+    second: Green Charged attack 1 48x48_68
+  - first:
+      213: 3390004490392827019
+    second: Green Charged attack 1 48x48_69
+  - first:
+      213: -5093303526881495124
+    second: Green Charged attack 1 48x48_70
+  - first:
+      213: 7330009124689639215
+    second: Green Charged attack 1 48x48_71
+  - first:
+      213: -1105117792025634294
+    second: Green Charged attack 1 48x48_72
+  - first:
+      213: 6731910845676956001
+    second: Green Charged attack 1 48x48_73
+  - first:
+      213: -3240084511961595344
+    second: Green Charged attack 1 48x48_74
+  - first:
+      213: -4829153114878087114
+    second: Green Charged attack 1 48x48_75
+  - first:
+      213: -4801189712939980604
+    second: Green Charged attack 1 48x48_76
+  - first:
+      213: -1225183487620963742
+    second: Green Charged attack 1 48x48_77
+  - first:
+      213: -4295352551024158108
+    second: Green Charged attack 1 48x48_78
+  - first:
+      213: -1602171704494382954
+    second: Green Charged attack 1 48x48_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855cb2caee42cbc80800000000000000
+      internalID: -8305723005268671144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0c5798b49e616d0800000000000000
+      internalID: -3019969989467324188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb97fadf491a4360800000000000000
+      internalID: 7154558788798225401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339d7c606ac109400800000000000000
+      internalID: 328794272201955635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9886d93b5e08676f0800000000000000
+      internalID: -687220169078118263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3980b0f42ee7086a0800000000000000
+      internalID: -6449015155940718445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 159
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713937a48537d5d60800000000000000
+      internalID: 7880581746011640599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 159
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90705d47dbd9dacc0800000000000000
+      internalID: -3698126281966811383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 159
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b51c738eb8aea890800000000000000
+      internalID: -7444827597793651280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 150
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d82f096f5304d840800000000000000
+      internalID: 5247823174112848084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 149
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae27db2f09c0d500800000000000000
+      internalID: 419055832342671011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 150
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59813688451e769b0800000000000000
+      internalID: -5086849500909987691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 149
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706bd31a559e9abc0800000000000000
+      internalID: -3771226658959411705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 150
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3e27403b29eeab0800000000000000
+      internalID: -4976879240626379805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_14
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 150
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3607b115e6a208fa0800000000000000
+      internalID: -5800589666757676957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 151
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72112d784a92a310800000000000000
+      internalID: 1414862869075399292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 151
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceefe05d97a71a90800000000000000
+      internalID: -7343216373294698803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_17
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 151
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b47cc1f552061740800000000000000
+      internalID: 5122284194332701880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_18
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 151
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5041ff05b4d30d510800000000000000
+      internalID: 1571823663643038725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_19
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 150
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf91f903d36d3f60800000000000000
+      internalID: 8015672669845430223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 103
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5574df990b095520800000000000000
+      internalID: 2691194388294694238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 103
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1104b19e0a5e1e670800000000000000
+      internalID: 8566380445503799313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 103
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0809b0fb31c5b0b00800000000000000
+      internalID: 795830999040364672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 103
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee44fc87efa04610800000000000000
+      internalID: 1603474876381023975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 103
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae93f5ba1d652a6a0800000000000000
+      internalID: -6439489058663089686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 101
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37802460a36e4440800000000000000
+      internalID: 4921980983288301373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_26
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 99
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45b9a2a1c85d0500800000000000000
+      internalID: 364044733567841612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_27
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 97
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a48d4deb5dbfa3b0800000000000000
+      internalID: -5498968417475132253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 95
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87232257fb1e17e50800000000000000
+      internalID: 6805468724353708664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_29
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 100
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906b52d508b6a1730800000000000000
+      internalID: 3970604220543251977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_30
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 101
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ff7789b04fa64b0800000000000000
+      internalID: -5446272468711375074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_31
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 102
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059483ed747de20a0800000000000000
+      internalID: -6904344475041511088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_32
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 101
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ada2a39e7b23bc0800000000000000
+      internalID: -3804776522843497861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_33
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 102
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cafcb1c16a936b70800000000000000
+      internalID: 8891119834012383941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_34
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 100
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e00f391d8e3a6d10800000000000000
+      internalID: 2119575350366109925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_35
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 106
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd01e99efd0f0d30800000000000000
+      internalID: 4399750748118781377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_36
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 111
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40695c10625df2130800000000000000
+      internalID: 3544285790979069444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_37
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 111
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5998fec7183d4d20800000000000000
+      internalID: 3264326979821279582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_38
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 111
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ed4ea84fd6dad20800000000000000
+      internalID: 3291407799747403272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_39
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 111
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b9fbda9faae3a50800000000000000
+      internalID: 6502822901308169058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a2534da15bf42a0800000000000000
+      internalID: -6750978189571052970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_41
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 63
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a4611dbc4c19290800000000000000
+      internalID: -7885305092883723638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_42
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 63
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e605de06e31f33e0800000000000000
+      internalID: -2071915424754891034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 63
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cb659a88cdbfec0800000000000000
+      internalID: -3531987003227325356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_44
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 63
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1062e8bcb197010800000000000000
+      internalID: 1187010537866002927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_45
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 63
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575a0b530b4f59910800000000000000
+      internalID: 1843648660130276725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_46
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 63
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf99ca0051b84170800000000000000
+      internalID: 8162969281945509819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_47
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 63
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0a7ef3359de6e60800000000000000
+      internalID: 7957536543187902661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_48
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 63
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebec3b646f1ef09f0800000000000000
+      internalID: -499932585750442306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_49
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 61
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6c82a8b8b5bf470800000000000000
+      internalID: 8429431782430525155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_50
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 53
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6175b5d32d5af65b0800000000000000
+      internalID: -5372893508038600938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_51
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 54
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4c846b34fd820a0800000000000000
+      internalID: -6906024546658630482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_52
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 53
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3399a08736b5eb6b0800000000000000
+      internalID: -5278681230457792205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_53
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 54
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f82ffbe6a82bba80800000000000000
+      internalID: -8450115578441553679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_54
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 58
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51728ccff2dc15610800000000000000
+      internalID: 1608292147936110357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_55
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 54
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6fa8a252f7721c0800000000000000
+      internalID: -4528511102693476612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_56
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 54
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a17760db0552b560800000000000000
+      internalID: 7328013052914659752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_57
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661f5db7ab89f1710800000000000000
+      internalID: 1666218313859330406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_58
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 60
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423929f1ad70f2df0800000000000000
+      internalID: -202934824794418396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_59
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5355a39f10d862ed0800000000000000
+      internalID: -2439107108558711499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3923d9261624b6d30800000000000000
+      internalID: 4425704044855374483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70e19eb4a1bb59c0800000000000000
+      internalID: -3937358128075382659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 10
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6dcc645100b82c0800000000000000
+      internalID: -4428445717206608176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 10
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7e0888b47a48da0800000000000000
+      internalID: -5943441665367676932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 9
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fd4368b35567db0800000000000000
+      internalID: -4794551039146270818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_65
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 7
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664d186c55dd98d80800000000000000
+      internalID: -8247817882079996826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_66
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 6
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cdd59922ea89950800000000000000
+      internalID: 6456101529460792393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_67
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 4
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65db5a527e9337e20800000000000000
+      internalID: 3347082612998258006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_68
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72076654d95ebcd0800000000000000
+      internalID: -2540494371272850818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_69
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 15
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84f7dc7f17bb0f20800000000000000
+      internalID: 3390004490392827019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_70
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 5
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7fbf28d63f059b0800000000000000
+      internalID: -5093303526881495124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_71
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 6
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f277f7d767c69b560800000000000000
+      internalID: 7330009124689639215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_72
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 5
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a195b2935d9a0f0800000000000000
+      internalID: -1105117792025634294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_73
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 6
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169ac283f3d8c6d50800000000000000
+      internalID: 6731910845676956001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_74
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 15
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032c8469d48e803d0800000000000000
+      internalID: -3240084511961595344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_75
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 15
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63078b5f3d66bfcb0800000000000000
+      internalID: -4829153114878087114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_76
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 15
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8e3f4d46fbe5db0800000000000000
+      internalID: -4801189712939980604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_77
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 15
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262adabfb164ffee0800000000000000
+      internalID: -1225183487620963742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_78
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 15
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a1323dc97d364c0800000000000000
+      internalID: -4295352551024158108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Charged attack 1 48x48_79
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 15
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6902e6cc251f3c9e0800000000000000
+      internalID: -1602171704494382954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green Charged attack 1 48x48_0: -8305723005268671144
+      Green Charged attack 1 48x48_1: -3019969989467324188
+      Green Charged attack 1 48x48_10: 419055832342671011
+      Green Charged attack 1 48x48_11: -5086849500909987691
+      Green Charged attack 1 48x48_12: -3771226658959411705
+      Green Charged attack 1 48x48_13: -4976879240626379805
+      Green Charged attack 1 48x48_14: -5800589666757676957
+      Green Charged attack 1 48x48_15: 1414862869075399292
+      Green Charged attack 1 48x48_16: -7343216373294698803
+      Green Charged attack 1 48x48_17: 5122284194332701880
+      Green Charged attack 1 48x48_18: 1571823663643038725
+      Green Charged attack 1 48x48_19: 8015672669845430223
+      Green Charged attack 1 48x48_2: 7154558788798225401
+      Green Charged attack 1 48x48_20: 2691194388294694238
+      Green Charged attack 1 48x48_21: 8566380445503799313
+      Green Charged attack 1 48x48_22: 795830999040364672
+      Green Charged attack 1 48x48_23: 1603474876381023975
+      Green Charged attack 1 48x48_24: -6439489058663089686
+      Green Charged attack 1 48x48_25: 4921980983288301373
+      Green Charged attack 1 48x48_26: 364044733567841612
+      Green Charged attack 1 48x48_27: -5498968417475132253
+      Green Charged attack 1 48x48_28: 6805468724353708664
+      Green Charged attack 1 48x48_29: 3970604220543251977
+      Green Charged attack 1 48x48_3: 328794272201955635
+      Green Charged attack 1 48x48_30: -5446272468711375074
+      Green Charged attack 1 48x48_31: -6904344475041511088
+      Green Charged attack 1 48x48_32: -3804776522843497861
+      Green Charged attack 1 48x48_33: 8891119834012383941
+      Green Charged attack 1 48x48_34: 2119575350366109925
+      Green Charged attack 1 48x48_35: 4399750748118781377
+      Green Charged attack 1 48x48_36: 3544285790979069444
+      Green Charged attack 1 48x48_37: 3264326979821279582
+      Green Charged attack 1 48x48_38: 3291407799747403272
+      Green Charged attack 1 48x48_39: 6502822901308169058
+      Green Charged attack 1 48x48_4: -687220169078118263
+      Green Charged attack 1 48x48_40: -6750978189571052970
+      Green Charged attack 1 48x48_41: -7885305092883723638
+      Green Charged attack 1 48x48_42: -2071915424754891034
+      Green Charged attack 1 48x48_43: -3531987003227325356
+      Green Charged attack 1 48x48_44: 1187010537866002927
+      Green Charged attack 1 48x48_45: 1843648660130276725
+      Green Charged attack 1 48x48_46: 8162969281945509819
+      Green Charged attack 1 48x48_47: 7957536543187902661
+      Green Charged attack 1 48x48_48: -499932585750442306
+      Green Charged attack 1 48x48_49: 8429431782430525155
+      Green Charged attack 1 48x48_5: -6449015155940718445
+      Green Charged attack 1 48x48_50: -5372893508038600938
+      Green Charged attack 1 48x48_51: -6906024546658630482
+      Green Charged attack 1 48x48_52: -5278681230457792205
+      Green Charged attack 1 48x48_53: -8450115578441553679
+      Green Charged attack 1 48x48_54: 1608292147936110357
+      Green Charged attack 1 48x48_55: -4528511102693476612
+      Green Charged attack 1 48x48_56: 7328013052914659752
+      Green Charged attack 1 48x48_57: 1666218313859330406
+      Green Charged attack 1 48x48_58: -202934824794418396
+      Green Charged attack 1 48x48_59: -2439107108558711499
+      Green Charged attack 1 48x48_6: 7880581746011640599
+      Green Charged attack 1 48x48_60: 4425704044855374483
+      Green Charged attack 1 48x48_61: -3937358128075382659
+      Green Charged attack 1 48x48_62: -4428445717206608176
+      Green Charged attack 1 48x48_63: -5943441665367676932
+      Green Charged attack 1 48x48_64: -4794551039146270818
+      Green Charged attack 1 48x48_65: -8247817882079996826
+      Green Charged attack 1 48x48_66: 6456101529460792393
+      Green Charged attack 1 48x48_67: 3347082612998258006
+      Green Charged attack 1 48x48_68: -2540494371272850818
+      Green Charged attack 1 48x48_69: 3390004490392827019
+      Green Charged attack 1 48x48_7: -3698126281966811383
+      Green Charged attack 1 48x48_70: -5093303526881495124
+      Green Charged attack 1 48x48_71: 7330009124689639215
+      Green Charged attack 1 48x48_72: -1105117792025634294
+      Green Charged attack 1 48x48_73: 6731910845676956001
+      Green Charged attack 1 48x48_74: -3240084511961595344
+      Green Charged attack 1 48x48_75: -4829153114878087114
+      Green Charged attack 1 48x48_76: -4801189712939980604
+      Green Charged attack 1 48x48_77: -1225183487620963742
+      Green Charged attack 1 48x48_78: -4295352551024158108
+      Green Charged attack 1 48x48_79: -1602171704494382954
+      Green Charged attack 1 48x48_8: -7444827597793651280
+      Green Charged attack 1 48x48_9: 5247823174112848084
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

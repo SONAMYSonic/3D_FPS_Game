@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 10660a6ecb4f93248a0031cfd030c557
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7770070030063965072
+    second: Green Asha Standby 32x32 (3 Rows)_0
+  - first:
+      213: -5132884941138465246
+    second: Green Asha Standby 32x32 (3 Rows)_1
+  - first:
+      213: -118663633335438619
+    second: Green Asha Standby 32x32 (3 Rows)_2
+  - first:
+      213: 2621929094390276858
+    second: Green Asha Standby 32x32 (3 Rows)_3
+  - first:
+      213: -2949040385326559516
+    second: Green Asha Standby 32x32 (3 Rows)_4
+  - first:
+      213: -1888309528123631615
+    second: Green Asha Standby 32x32 (3 Rows)_5
+  - first:
+      213: 1128650541245138982
+    second: Green Asha Standby 32x32 (3 Rows)_6
+  - first:
+      213: 662103824433768812
+    second: Green Asha Standby 32x32 (3 Rows)_7
+  - first:
+      213: 6551790014042879587
+    second: Green Asha Standby 32x32 (3 Rows)_8
+  - first:
+      213: -3397211183110479815
+    second: Green Asha Standby 32x32 (3 Rows)_9
+  - first:
+      213: -8706206037692761294
+    second: Green Asha Standby 32x32 (3 Rows)_10
+  - first:
+      213: 5485965797157890896
+    second: Green Asha Standby 32x32 (3 Rows)_11
+  - first:
+      213: -5386267229771954463
+    second: Green Asha Standby 32x32 (3 Rows)_12
+  - first:
+      213: 6777115627040921664
+    second: Green Asha Standby 32x32 (3 Rows)_13
+  - first:
+      213: 4336094684807385622
+    second: Green Asha Standby 32x32 (3 Rows)_14
+  - first:
+      213: -2490584683840623273
+    second: Green Asha Standby 32x32 (3 Rows)_15
+  - first:
+      213: -6953631441970705713
+    second: Green Asha Standby 32x32 (3 Rows)_16
+  - first:
+      213: 920255907235837034
+    second: Green Asha Standby 32x32 (3 Rows)_17
+  - first:
+      213: 8280244970992556756
+    second: Green Asha Standby 32x32 (3 Rows)_18
+  - first:
+      213: -8051417656244764492
+    second: Green Asha Standby 32x32 (3 Rows)_19
+  - first:
+      213: 7895756966997733667
+    second: Green Asha Standby 32x32 (3 Rows)_20
+  - first:
+      213: 6881723840964057605
+    second: Green Asha Standby 32x32 (3 Rows)_21
+  - first:
+      213: -3054136555146663217
+    second: Green Asha Standby 32x32 (3 Rows)_22
+  - first:
+      213: -6627979532392886512
+    second: Green Asha Standby 32x32 (3 Rows)_23
+  - first:
+      213: -6241829924597174299
+    second: Green Asha Standby 32x32 (3 Rows)_24
+  - first:
+      213: -4925447191423378633
+    second: Green Asha Standby 32x32 (3 Rows)_25
+  - first:
+      213: 5387960726628887032
+    second: Green Asha Standby 32x32 (3 Rows)_26
+  - first:
+      213: -8961979184449523344
+    second: Green Asha Standby 32x32 (3 Rows)_27
+  - first:
+      213: 5126547229009375743
+    second: Green Asha Standby 32x32 (3 Rows)_28
+  - first:
+      213: -4475584210789594312
+    second: Green Asha Standby 32x32 (3 Rows)_29
+  - first:
+      213: -4695771510049318451
+    second: Green Asha Standby 32x32 (3 Rows)_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ce02aa97a2b2490800000000000000
+      internalID: -7770070030063965072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e6d7a575454c8b0800000000000000
+      internalID: -5132884941138465246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2b84fdd0c6a5ef0800000000000000
+      internalID: -118663633335438619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2e469ae96f26420800000000000000
+      internalID: 2621929094390276858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee445ce467e217d0800000000000000
+      internalID: -2949040385326559516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10894362d706bc5e0800000000000000
+      internalID: -1888309528123631615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628087affa5c9af00800000000000000
+      internalID: 1128650541245138982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c696dcb9be3403900800000000000000
+      internalID: 662103824433768812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3663afd0e42acea50800000000000000
+      internalID: 6551790014042879587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 71
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93027bb9d6eaad0d0800000000000000
+      internalID: -3397211183110479815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b36f57cb75d2780800000000000000
+      internalID: -8706206037692761294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05be98d93d0122c40800000000000000
+      internalID: 5485965797157890896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e68d100e722045b0800000000000000
+      internalID: -5386267229771954463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 39
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048d58f81c62d0e50800000000000000
+      internalID: 6777115627040921664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 39
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61257686427ec2c30800000000000000
+      internalID: 4336094684807385622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 39
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75da6acfc6aaf6dd0800000000000000
+      internalID: -2490584683840623273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca4952ab0dbf7f90800000000000000
+      internalID: -6953631441970705713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a643f353fd765cc00800000000000000
+      internalID: 920255907235837034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dad9353ee659e270800000000000000
+      internalID: 8280244970992556756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 39
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b00935cc4e934090800000000000000
+      internalID: -8051417656244764492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 39
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32137b2c02d539d60800000000000000
+      internalID: 7895756966997733667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50adff65f5bc08f50800000000000000
+      internalID: 6881723840964057605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaa2fe0cf68d95d0800000000000000
+      internalID: -3054136555146663217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f89295bbfa404a0800000000000000
+      internalID: -6627979532392886512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef6bf311c09069a0800000000000000
+      internalID: -6241829924597174299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b934320eb45abb0800000000000000
+      internalID: -4925447191423378633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 7
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f96876fbb1e5ca40800000000000000
+      internalID: 5387960726628887032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071f0721a67a0a380800000000000000
+      internalID: -8961979184449523344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_28
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1fd5d0b87252740800000000000000
+      internalID: 5126547229009375743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b0a897fd783e1c0800000000000000
+      internalID: -4475584210789594312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Standby 32x32 (3 Rows)_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc95c1dd0b445deb0800000000000000
+      internalID: -4695771510049318451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green Asha Standby 32x32 (3 Rows)_0: -7770070030063965072
+      Green Asha Standby 32x32 (3 Rows)_1: -5132884941138465246
+      Green Asha Standby 32x32 (3 Rows)_10: -8706206037692761294
+      Green Asha Standby 32x32 (3 Rows)_11: 5485965797157890896
+      Green Asha Standby 32x32 (3 Rows)_12: -5386267229771954463
+      Green Asha Standby 32x32 (3 Rows)_13: 6777115627040921664
+      Green Asha Standby 32x32 (3 Rows)_14: 4336094684807385622
+      Green Asha Standby 32x32 (3 Rows)_15: -2490584683840623273
+      Green Asha Standby 32x32 (3 Rows)_16: -6953631441970705713
+      Green Asha Standby 32x32 (3 Rows)_17: 920255907235837034
+      Green Asha Standby 32x32 (3 Rows)_18: 8280244970992556756
+      Green Asha Standby 32x32 (3 Rows)_19: -8051417656244764492
+      Green Asha Standby 32x32 (3 Rows)_2: -118663633335438619
+      Green Asha Standby 32x32 (3 Rows)_20: 7895756966997733667
+      Green Asha Standby 32x32 (3 Rows)_21: 6881723840964057605
+      Green Asha Standby 32x32 (3 Rows)_22: -3054136555146663217
+      Green Asha Standby 32x32 (3 Rows)_23: -6627979532392886512
+      Green Asha Standby 32x32 (3 Rows)_24: -6241829924597174299
+      Green Asha Standby 32x32 (3 Rows)_25: -4925447191423378633
+      Green Asha Standby 32x32 (3 Rows)_26: 5387960726628887032
+      Green Asha Standby 32x32 (3 Rows)_27: -8961979184449523344
+      Green Asha Standby 32x32 (3 Rows)_28: 5126547229009375743
+      Green Asha Standby 32x32 (3 Rows)_29: -4475584210789594312
+      Green Asha Standby 32x32 (3 Rows)_3: 2621929094390276858
+      Green Asha Standby 32x32 (3 Rows)_30: -4695771510049318451
+      Green Asha Standby 32x32 (3 Rows)_4: -2949040385326559516
+      Green Asha Standby 32x32 (3 Rows)_5: -1888309528123631615
+      Green Asha Standby 32x32 (3 Rows)_6: 1128650541245138982
+      Green Asha Standby 32x32 (3 Rows)_7: 662103824433768812
+      Green Asha Standby 32x32 (3 Rows)_8: 6551790014042879587
+      Green Asha Standby 32x32 (3 Rows)_9: -3397211183110479815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

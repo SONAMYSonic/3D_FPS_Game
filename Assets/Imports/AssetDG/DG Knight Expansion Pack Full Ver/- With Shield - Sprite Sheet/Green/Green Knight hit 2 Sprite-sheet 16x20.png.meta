@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 3448b69563c50ab4099efec93ce23334
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3384206662503821449
+    second: Green Knight hit 2 Sprite-sheet 16x20_0
+  - first:
+      213: -8405261671821470936
+    second: Green Knight hit 2 Sprite-sheet 16x20_1
+  - first:
+      213: 2128794116642053922
+    second: Green Knight hit 2 Sprite-sheet 16x20_2
+  - first:
+      213: -7728049257398592031
+    second: Green Knight hit 2 Sprite-sheet 16x20_3
+  - first:
+      213: -2849101201584304077
+    second: Green Knight hit 2 Sprite-sheet 16x20_4
+  - first:
+      213: -517341088019962053
+    second: Green Knight hit 2 Sprite-sheet 16x20_5
+  - first:
+      213: -165961138441616346
+    second: Green Knight hit 2 Sprite-sheet 16x20_6
+  - first:
+      213: 4464591567568532816
+    second: Green Knight hit 2 Sprite-sheet 16x20_7
+  - first:
+      213: -3154294273727281579
+    second: Green Knight hit 2 Sprite-sheet 16x20_8
+  - first:
+      213: -2751639647309680506
+    second: Green Knight hit 2 Sprite-sheet 16x20_9
+  - first:
+      213: 8730733546624639763
+    second: Green Knight hit 2 Sprite-sheet 16x20_10
+  - first:
+      213: -1119130131034562586
+    second: Green Knight hit 2 Sprite-sheet 16x20_11
+  - first:
+      213: 6034083933039986103
+    second: Green Knight hit 2 Sprite-sheet 16x20_12
+  - first:
+      213: 8706562044918739369
+    second: Green Knight hit 2 Sprite-sheet 16x20_13
+  - first:
+      213: 4141160701285201678
+    second: Green Knight hit 2 Sprite-sheet 16x20_14
+  - first:
+      213: 6710361759094777015
+    second: Green Knight hit 2 Sprite-sheet 16x20_15
+  - first:
+      213: 8615095520322804602
+    second: Green Knight hit 2 Sprite-sheet 16x20_16
+  - first:
+      213: 5778209114712221582
+    second: Green Knight hit 2 Sprite-sheet 16x20_17
+  - first:
+      213: 4009189347352643790
+    second: Green Knight hit 2 Sprite-sheet 16x20_18
+  - first:
+      213: -1760413120872993446
+    second: Green Knight hit 2 Sprite-sheet 16x20_19
+  - first:
+      213: 4424356608002507470
+    second: Green Knight hit 2 Sprite-sheet 16x20_20
+  - first:
+      213: -3199100900267033054
+    second: Green Knight hit 2 Sprite-sheet 16x20_21
+  - first:
+      213: 4666179703297619278
+    second: Green Knight hit 2 Sprite-sheet 16x20_22
+  - first:
+      213: -1692101567413731173
+    second: Green Knight hit 2 Sprite-sheet 16x20_23
+  - first:
+      213: -3566173007388279476
+    second: Green Knight hit 2 Sprite-sheet 16x20_24
+  - first:
+      213: 3937239170077031902
+    second: Green Knight hit 2 Sprite-sheet 16x20_25
+  - first:
+      213: 5930152401738112539
+    second: Green Knight hit 2 Sprite-sheet 16x20_26
+  - first:
+      213: -8283305879471573740
+    second: Green Knight hit 2 Sprite-sheet 16x20_27
+  - first:
+      213: 6355062740230822167
+    second: Green Knight hit 2 Sprite-sheet 16x20_28
+  - first:
+      213: -6091354723660763441
+    second: Green Knight hit 2 Sprite-sheet 16x20_29
+  - first:
+      213: 3208439241395714771
+    second: Green Knight hit 2 Sprite-sheet 16x20_30
+  - first:
+      213: 184439216039094923
+    second: Green Knight hit 2 Sprite-sheet 16x20_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f03f288f1e801d0800000000000000
+      internalID: -3384206662503821449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82310eeda038a5b80800000000000000
+      internalID: -8405261671821470936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f146268fefa8d10800000000000000
+      internalID: 2128794116642053922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed1906352470c490800000000000000
+      internalID: -7728049257398592031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330dd666d85f578d0800000000000000
+      internalID: -2849101201584304077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 62
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b372bdc750902d8f0800000000000000
+      internalID: -517341088019962053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 61
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6240ba0593362bdf0800000000000000
+      internalID: -165961138441616346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 61
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0557024506a65fd30800000000000000
+      internalID: 4464591567568532816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556cf69f112b934d0800000000000000
+      internalID: -3154294273727281579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680b930d15630d9d0800000000000000
+      internalID: -2751639647309680506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313e52b37ebc92970800000000000000
+      internalID: 8730733546624639763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef9f32431d0870f0800000000000000
+      internalID: -1119130131034562586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b58dbdfd5f5db350800000000000000
+      internalID: 6034083933039986103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1b74eec0ce3d870800000000000000
+      internalID: 8706562044918739369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0779ed87bb587930800000000000000
+      internalID: 4141160701285201678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4a535877eff1d50800000000000000
+      internalID: 6710361759094777015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b56e22bb7fe8770800000000000000
+      internalID: 8615095520322804602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 20
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87a8585392503050800000000000000
+      internalID: 5778209114712221582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 19
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec80c36487083a730800000000000000
+      internalID: 4009189347352643790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 19
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dad68f791c197e0800000000000000
+      internalID: -1760413120872993446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 20
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec244abc4e8766d30800000000000000
+      internalID: 4424356608002507470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 21
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e73f64ea28a93d0800000000000000
+      internalID: -3199100900267033054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 21
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e453139b7b991c040800000000000000
+      internalID: 4666179703297619278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 21
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b904c6ee6927488e0800000000000000
+      internalID: -1692101567413731173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4df80f4b88628ec0800000000000000
+      internalID: -3566173007388279476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddf1303a22e3a630800000000000000
+      internalID: 3937239170077031902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e9789a0322c4250800000000000000
+      internalID: 5930152401738112539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41531308039cb0d80800000000000000
+      internalID: -8283305879471573740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71957c444e7b13850800000000000000
+      internalID: 6355062740230822167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce6d47f629277ba0800000000000000
+      internalID: -6091354723660763441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dab0d2bd7aa68c20800000000000000
+      internalID: 3208439241395714771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight hit 2 Sprite-sheet 16x20_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a69a26d724f8200800000000000000
+      internalID: 184439216039094923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green Knight hit 2 Sprite-sheet 16x20_0: -3384206662503821449
+      Green Knight hit 2 Sprite-sheet 16x20_1: -8405261671821470936
+      Green Knight hit 2 Sprite-sheet 16x20_10: 8730733546624639763
+      Green Knight hit 2 Sprite-sheet 16x20_11: -1119130131034562586
+      Green Knight hit 2 Sprite-sheet 16x20_12: 6034083933039986103
+      Green Knight hit 2 Sprite-sheet 16x20_13: 8706562044918739369
+      Green Knight hit 2 Sprite-sheet 16x20_14: 4141160701285201678
+      Green Knight hit 2 Sprite-sheet 16x20_15: 6710361759094777015
+      Green Knight hit 2 Sprite-sheet 16x20_16: 8615095520322804602
+      Green Knight hit 2 Sprite-sheet 16x20_17: 5778209114712221582
+      Green Knight hit 2 Sprite-sheet 16x20_18: 4009189347352643790
+      Green Knight hit 2 Sprite-sheet 16x20_19: -1760413120872993446
+      Green Knight hit 2 Sprite-sheet 16x20_2: 2128794116642053922
+      Green Knight hit 2 Sprite-sheet 16x20_20: 4424356608002507470
+      Green Knight hit 2 Sprite-sheet 16x20_21: -3199100900267033054
+      Green Knight hit 2 Sprite-sheet 16x20_22: 4666179703297619278
+      Green Knight hit 2 Sprite-sheet 16x20_23: -1692101567413731173
+      Green Knight hit 2 Sprite-sheet 16x20_24: -3566173007388279476
+      Green Knight hit 2 Sprite-sheet 16x20_25: 3937239170077031902
+      Green Knight hit 2 Sprite-sheet 16x20_26: 5930152401738112539
+      Green Knight hit 2 Sprite-sheet 16x20_27: -8283305879471573740
+      Green Knight hit 2 Sprite-sheet 16x20_28: 6355062740230822167
+      Green Knight hit 2 Sprite-sheet 16x20_29: -6091354723660763441
+      Green Knight hit 2 Sprite-sheet 16x20_3: -7728049257398592031
+      Green Knight hit 2 Sprite-sheet 16x20_30: 3208439241395714771
+      Green Knight hit 2 Sprite-sheet 16x20_31: 184439216039094923
+      Green Knight hit 2 Sprite-sheet 16x20_4: -2849101201584304077
+      Green Knight hit 2 Sprite-sheet 16x20_5: -517341088019962053
+      Green Knight hit 2 Sprite-sheet 16x20_6: -165961138441616346
+      Green Knight hit 2 Sprite-sheet 16x20_7: 4464591567568532816
+      Green Knight hit 2 Sprite-sheet 16x20_8: -3154294273727281579
+      Green Knight hit 2 Sprite-sheet 16x20_9: -2751639647309680506
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

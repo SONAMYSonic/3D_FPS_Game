@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 4f6559f6749bf71428c02bd06ecc1cd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4988842912007303953
+    second: Green Asha Run 32x32_0
+  - first:
+      213: 3644445730027739265
+    second: Green Asha Run 32x32_1
+  - first:
+      213: 5336039853897113949
+    second: Green Asha Run 32x32_2
+  - first:
+      213: 3290800826902887391
+    second: Green Asha Run 32x32_3
+  - first:
+      213: -1419906539413110745
+    second: Green Asha Run 32x32_4
+  - first:
+      213: 4397219121702368355
+    second: Green Asha Run 32x32_5
+  - first:
+      213: -7990651279691493663
+    second: Green Asha Run 32x32_6
+  - first:
+      213: 1972978906210977927
+    second: Green Asha Run 32x32_7
+  - first:
+      213: -6872581747090383816
+    second: Green Asha Run 32x32_8
+  - first:
+      213: 2773023912080460827
+    second: Green Asha Run 32x32_9
+  - first:
+      213: -4402444053118373758
+    second: Green Asha Run 32x32_10
+  - first:
+      213: -6840022984438164344
+    second: Green Asha Run 32x32_11
+  - first:
+      213: 6250650447639845980
+    second: Green Asha Run 32x32_12
+  - first:
+      213: 5937082187301075989
+    second: Green Asha Run 32x32_13
+  - first:
+      213: 1945155572680441044
+    second: Green Asha Run 32x32_14
+  - first:
+      213: 7249930680998631134
+    second: Green Asha Run 32x32_15
+  - first:
+      213: -2038294464086934022
+    second: Green Asha Run 32x32_16
+  - first:
+      213: 8192154684188246673
+    second: Green Asha Run 32x32_17
+  - first:
+      213: -5265711098669917953
+    second: Green Asha Run 32x32_18
+  - first:
+      213: -1708309259143705997
+    second: Green Asha Run 32x32_19
+  - first:
+      213: 5000362014814650600
+    second: Green Asha Run 32x32_20
+  - first:
+      213: 4675542234331402640
+    second: Green Asha Run 32x32_21
+  - first:
+      213: -9037065629659699069
+    second: Green Asha Run 32x32_22
+  - first:
+      213: 298887742425089327
+    second: Green Asha Run 32x32_23
+  - first:
+      213: -1064107262127657562
+    second: Green Asha Run 32x32_24
+  - first:
+      213: 5028155877018203850
+    second: Green Asha Run 32x32_25
+  - first:
+      213: 937664773844989736
+    second: Green Asha Run 32x32_26
+  - first:
+      213: -8248589138975058401
+    second: Green Asha Run 32x32_27
+  - first:
+      213: 1068896256048064401
+    second: Green Asha Run 32x32_28
+  - first:
+      213: -784955992092457587
+    second: Green Asha Run 32x32_29
+  - first:
+      213: -4895988441057656319
+    second: Green Asha Run 32x32_30
+  - first:
+      213: -7151847327948400533
+    second: Green Asha Run 32x32_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec4495bdc114cab0800000000000000
+      internalID: -4988842912007303953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 103
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1881e75151ca39230800000000000000
+      internalID: 3644445730027739265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 103
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d516ddeb9fb6d0a40800000000000000
+      internalID: 5336039853897113949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 103
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbbb1aaae54bad20800000000000000
+      internalID: 3290800826902887391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 103
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7200700868a7b4ce0800000000000000
+      internalID: -1419906539413110745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 103
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364ff946e7f060d30800000000000000
+      internalID: 4397219121702368355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 103
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eec7f55ff08b1190800000000000000
+      internalID: -7990651279691493663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 103
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7884b06acdd616b10800000000000000
+      internalID: 1972978906210977927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c18d2405faf90a0800000000000000
+      internalID: -6872581747090383816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 71
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c48315e82cb7620800000000000000
+      internalID: 2773023912080460827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 72
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2803956757067e2c0800000000000000
+      internalID: -4402444053118373758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 71
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8845e0de55b5311a0800000000000000
+      internalID: -6840022984438164344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 71
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c95baf675ceb650800000000000000
+      internalID: 6250650447639845980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 71
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c31681bc0c46250800000000000000
+      internalID: 5937082187301075989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 72
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc3d7effa49efa10800000000000000
+      internalID: 1945155572680441044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 71
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed61127ea8dec9460800000000000000
+      internalID: 7249930680998631134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdf378fbf586b3e0800000000000000
+      internalID: -2038294464086934022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192c718084160b170800000000000000
+      internalID: 8192154684188246673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 39
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff892f997af6ce6b0800000000000000
+      internalID: -5265711098669917953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a8a32a7cdda48e0800000000000000
+      internalID: -1708309259143705997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0426962cad46540800000000000000
+      internalID: 5000362014814650600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 39
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091d8a9d3ecd2e040800000000000000
+      internalID: 4675542234331402640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 39
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388ed34b0b4e59280800000000000000
+      internalID: -9037065629659699069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2547f271dcd52400800000000000000
+      internalID: 298887742425089327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ada7fd35188b31f0800000000000000
+      internalID: -1064107262127657562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 7
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac676fc312997c540800000000000000
+      internalID: 5028155877018203850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 8
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8277d63d421430d00800000000000000
+      internalID: 937664773844989736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 7
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f161f3981ef178d80800000000000000
+      internalID: -8248589138975058401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1976d7b4b7b75de00800000000000000
+      internalID: 1068896256048064401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 7
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85c30f1fa64b15f0800000000000000
+      internalID: -784955992092457587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 8
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1020752f374fd0cb0800000000000000
+      internalID: -4895988441057656319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Run 32x32_31
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 7
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b681fc15fb88fbc90800000000000000
+      internalID: -7151847327948400533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green Asha Run 32x32_0: -4988842912007303953
+      Green Asha Run 32x32_1: 3644445730027739265
+      Green Asha Run 32x32_10: -4402444053118373758
+      Green Asha Run 32x32_11: -6840022984438164344
+      Green Asha Run 32x32_12: 6250650447639845980
+      Green Asha Run 32x32_13: 5937082187301075989
+      Green Asha Run 32x32_14: 1945155572680441044
+      Green Asha Run 32x32_15: 7249930680998631134
+      Green Asha Run 32x32_16: -2038294464086934022
+      Green Asha Run 32x32_17: 8192154684188246673
+      Green Asha Run 32x32_18: -5265711098669917953
+      Green Asha Run 32x32_19: -1708309259143705997
+      Green Asha Run 32x32_2: 5336039853897113949
+      Green Asha Run 32x32_20: 5000362014814650600
+      Green Asha Run 32x32_21: 4675542234331402640
+      Green Asha Run 32x32_22: -9037065629659699069
+      Green Asha Run 32x32_23: 298887742425089327
+      Green Asha Run 32x32_24: -1064107262127657562
+      Green Asha Run 32x32_25: 5028155877018203850
+      Green Asha Run 32x32_26: 937664773844989736
+      Green Asha Run 32x32_27: -8248589138975058401
+      Green Asha Run 32x32_28: 1068896256048064401
+      Green Asha Run 32x32_29: -784955992092457587
+      Green Asha Run 32x32_3: 3290800826902887391
+      Green Asha Run 32x32_30: -4895988441057656319
+      Green Asha Run 32x32_31: -7151847327948400533
+      Green Asha Run 32x32_4: -1419906539413110745
+      Green Asha Run 32x32_5: 4397219121702368355
+      Green Asha Run 32x32_6: -7990651279691493663
+      Green Asha Run 32x32_7: 1972978906210977927
+      Green Asha Run 32x32_8: -6872581747090383816
+      Green Asha Run 32x32_9: 2773023912080460827
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

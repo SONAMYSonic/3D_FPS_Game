@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 473c34ddd2afcc842a10823b4191b3a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2956548806951787370
+    second: Dark Knight death Sprite-sheet 20x22_0
+  - first:
+      213: -9026001195006389143
+    second: Dark Knight death Sprite-sheet 20x22_1
+  - first:
+      213: -4330377792080438636
+    second: Dark Knight death Sprite-sheet 20x22_2
+  - first:
+      213: 7895672189903407349
+    second: Dark Knight death Sprite-sheet 20x22_3
+  - first:
+      213: 7939780627983299443
+    second: Dark Knight death Sprite-sheet 20x22_4
+  - first:
+      213: -6055278250636385303
+    second: Dark Knight death Sprite-sheet 20x22_5
+  - first:
+      213: 1788194771045094571
+    second: Dark Knight death Sprite-sheet 20x22_6
+  - first:
+      213: 5101466918104847042
+    second: Dark Knight death Sprite-sheet 20x22_7
+  - first:
+      213: -5459053839551529318
+    second: Dark Knight death Sprite-sheet 20x22_8
+  - first:
+      213: 2097573333959996971
+    second: Dark Knight death Sprite-sheet 20x22_9
+  - first:
+      213: -738544214657681783
+    second: Dark Knight death Sprite-sheet 20x22_10
+  - first:
+      213: -2536542435670498904
+    second: Dark Knight death Sprite-sheet 20x22_11
+  - first:
+      213: -8546810417150164796
+    second: Dark Knight death Sprite-sheet 20x22_12
+  - first:
+      213: 4993353210613240673
+    second: Dark Knight death Sprite-sheet 20x22_13
+  - first:
+      213: 7599832600842430691
+    second: Dark Knight death Sprite-sheet 20x22_14
+  - first:
+      213: -8134050203602715030
+    second: Dark Knight death Sprite-sheet 20x22_15
+  - first:
+      213: 6352969534565928497
+    second: Dark Knight death Sprite-sheet 20x22_16
+  - first:
+      213: -3764539025728242841
+    second: Dark Knight death Sprite-sheet 20x22_17
+  - first:
+      213: 8156065467639088307
+    second: Dark Knight death Sprite-sheet 20x22_18
+  - first:
+      213: 855343373241514229
+    second: Dark Knight death Sprite-sheet 20x22_19
+  - first:
+      213: 1840310299709856611
+    second: Dark Knight death Sprite-sheet 20x22_20
+  - first:
+      213: 8849037081260096674
+    second: Dark Knight death Sprite-sheet 20x22_21
+  - first:
+      213: -2762670927684719411
+    second: Dark Knight death Sprite-sheet 20x22_22
+  - first:
+      213: -8753709549787275439
+    second: Dark Knight death Sprite-sheet 20x22_23
+  - first:
+      213: -8507409355026719099
+    second: Dark Knight death Sprite-sheet 20x22_24
+  - first:
+      213: 7251358718920351466
+    second: Dark Knight death Sprite-sheet 20x22_25
+  - first:
+      213: 5239875076757637123
+    second: Dark Knight death Sprite-sheet 20x22_26
+  - first:
+      213: -4996043391562614751
+    second: Dark Knight death Sprite-sheet 20x22_27
+  - first:
+      213: -1244812532471378733
+    second: Dark Knight death Sprite-sheet 20x22_28
+  - first:
+      213: 184233136588143528
+    second: Dark Knight death Sprite-sheet 20x22_29
+  - first:
+      213: -5671444883357040057
+    second: Dark Knight death Sprite-sheet 20x22_30
+  - first:
+      213: -1013916728370922187
+    second: Dark Knight death Sprite-sheet 20x22_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b5777b975c70920800000000000000
+      internalID: 2956548806951787370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96494652cb33db280800000000000000
+      internalID: -9026001195006389143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 70
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a1ec7675867e3c0800000000000000
+      internalID: -4330377792080438636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f88f1e0600139d60800000000000000
+      internalID: 7895672189903407349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373f8751a64cf2e60800000000000000
+      internalID: 7939780627983299443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 65
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e36ba6638457fba0800000000000000
+      internalID: -6055278250636385303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 65
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba49a558ba1f0d810800000000000000
+      internalID: 1788194771045094571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 65
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2db0f122d0cc640800000000000000
+      internalID: 5101466918104847042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e7ccbc47b8d34b0800000000000000
+      internalID: -5459053839551529318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26740575d31c1d10800000000000000
+      internalID: 2097573333959996971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 43
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986b86223f920c5f0800000000000000
+      internalID: -738544214657681783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 43
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1e72c08146cccd0800000000000000
+      internalID: -2536542435670498904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 43
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c008236531a36980800000000000000
+      internalID: -8546810417150164796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 43
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16398a40a44fb4540800000000000000
+      internalID: 4993353210613240673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 43
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e865ad1c77087960800000000000000
+      internalID: 7599832600842430691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 43
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ef0159f6c0e1f80800000000000000
+      internalID: -8134050203602715030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 21
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e4ea8d1284a2850800000000000000
+      internalID: 6352969534565928497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 21
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b7f5493bba1cbc0800000000000000
+      internalID: -3764539025728242841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 21
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b44573845a203170800000000000000
+      internalID: 8156065467639088307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 21
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f87b03244acedb00800000000000000
+      internalID: 855343373241514229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 21
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bd2ba97781a8910800000000000000
+      internalID: 1840310299709856611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 21
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac74c857581eca70800000000000000
+      internalID: 8849037081260096674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 21
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccad04bd6509a9d0800000000000000
+      internalID: -2762670927684719411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 21
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f1cf92b83948680800000000000000
+      internalID: -8753709549787275439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e1cca044c9fe980800000000000000
+      internalID: -8507409355026719099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeedd24e55002a460800000000000000
+      internalID: 7251358718920351466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308cf89ce96c7b840800000000000000
+      internalID: 5239875076757637123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_27
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128f87b610d7aaab0800000000000000
+      internalID: -4996043391562614751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcc616d89989bee0800000000000000
+      internalID: -1244812532471378733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab3136cf078e8200800000000000000
+      internalID: 184233136588143528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7420c4c5deafa41b0800000000000000
+      internalID: -5671444883357040057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight death Sprite-sheet 20x22_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dff958b18dde1f0800000000000000
+      internalID: -1013916728370922187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark Knight death Sprite-sheet 20x22_0: 2956548806951787370
+      Dark Knight death Sprite-sheet 20x22_1: -9026001195006389143
+      Dark Knight death Sprite-sheet 20x22_10: -738544214657681783
+      Dark Knight death Sprite-sheet 20x22_11: -2536542435670498904
+      Dark Knight death Sprite-sheet 20x22_12: -8546810417150164796
+      Dark Knight death Sprite-sheet 20x22_13: 4993353210613240673
+      Dark Knight death Sprite-sheet 20x22_14: 7599832600842430691
+      Dark Knight death Sprite-sheet 20x22_15: -8134050203602715030
+      Dark Knight death Sprite-sheet 20x22_16: 6352969534565928497
+      Dark Knight death Sprite-sheet 20x22_17: -3764539025728242841
+      Dark Knight death Sprite-sheet 20x22_18: 8156065467639088307
+      Dark Knight death Sprite-sheet 20x22_19: 855343373241514229
+      Dark Knight death Sprite-sheet 20x22_2: -4330377792080438636
+      Dark Knight death Sprite-sheet 20x22_20: 1840310299709856611
+      Dark Knight death Sprite-sheet 20x22_21: 8849037081260096674
+      Dark Knight death Sprite-sheet 20x22_22: -2762670927684719411
+      Dark Knight death Sprite-sheet 20x22_23: -8753709549787275439
+      Dark Knight death Sprite-sheet 20x22_24: -8507409355026719099
+      Dark Knight death Sprite-sheet 20x22_25: 7251358718920351466
+      Dark Knight death Sprite-sheet 20x22_26: 5239875076757637123
+      Dark Knight death Sprite-sheet 20x22_27: -4996043391562614751
+      Dark Knight death Sprite-sheet 20x22_28: -1244812532471378733
+      Dark Knight death Sprite-sheet 20x22_29: 184233136588143528
+      Dark Knight death Sprite-sheet 20x22_3: 7895672189903407349
+      Dark Knight death Sprite-sheet 20x22_30: -5671444883357040057
+      Dark Knight death Sprite-sheet 20x22_31: -1013916728370922187
+      Dark Knight death Sprite-sheet 20x22_4: 7939780627983299443
+      Dark Knight death Sprite-sheet 20x22_5: -6055278250636385303
+      Dark Knight death Sprite-sheet 20x22_6: 1788194771045094571
+      Dark Knight death Sprite-sheet 20x22_7: 5101466918104847042
+      Dark Knight death Sprite-sheet 20x22_8: -5459053839551529318
+      Dark Knight death Sprite-sheet 20x22_9: 2097573333959996971
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

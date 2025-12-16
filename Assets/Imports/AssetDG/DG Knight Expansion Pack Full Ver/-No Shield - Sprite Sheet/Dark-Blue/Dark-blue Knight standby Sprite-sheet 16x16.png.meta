@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 3543f9d9f6bc07741b1ff321a97d0e9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8958363345749738477
+    second: Dark-blue Knight standby Sprite-sheet 16x16_0
+  - first:
+      213: 2894496539300821421
+    second: Dark-blue Knight standby Sprite-sheet 16x16_1
+  - first:
+      213: 146516530202647113
+    second: Dark-blue Knight standby Sprite-sheet 16x16_2
+  - first:
+      213: -7391892765329103893
+    second: Dark-blue Knight standby Sprite-sheet 16x16_3
+  - first:
+      213: 243646180757825601
+    second: Dark-blue Knight standby Sprite-sheet 16x16_4
+  - first:
+      213: -8234006999173699559
+    second: Dark-blue Knight standby Sprite-sheet 16x16_5
+  - first:
+      213: -3238252484085167729
+    second: Dark-blue Knight standby Sprite-sheet 16x16_6
+  - first:
+      213: -7899347048602323937
+    second: Dark-blue Knight standby Sprite-sheet 16x16_7
+  - first:
+      213: -5434273805067078682
+    second: Dark-blue Knight standby Sprite-sheet 16x16_8
+  - first:
+      213: 4887369938356285183
+    second: Dark-blue Knight standby Sprite-sheet 16x16_9
+  - first:
+      213: -4768509686406995180
+    second: Dark-blue Knight standby Sprite-sheet 16x16_10
+  - first:
+      213: 4038090845669381886
+    second: Dark-blue Knight standby Sprite-sheet 16x16_11
+  - first:
+      213: 1108723532603531485
+    second: Dark-blue Knight standby Sprite-sheet 16x16_12
+  - first:
+      213: 3244622506100129357
+    second: Dark-blue Knight standby Sprite-sheet 16x16_13
+  - first:
+      213: -3625147107340202265
+    second: Dark-blue Knight standby Sprite-sheet 16x16_14
+  - first:
+      213: -1715598390774385338
+    second: Dark-blue Knight standby Sprite-sheet 16x16_15
+  - first:
+      213: 7282346624526375060
+    second: Dark-blue Knight standby Sprite-sheet 16x16_16
+  - first:
+      213: 6593356729697336893
+    second: Dark-blue Knight standby Sprite-sheet 16x16_17
+  - first:
+      213: -1010365036529681968
+    second: Dark-blue Knight standby Sprite-sheet 16x16_18
+  - first:
+      213: -3484479748497244683
+    second: Dark-blue Knight standby Sprite-sheet 16x16_19
+  - first:
+      213: -1025336418862232292
+    second: Dark-blue Knight standby Sprite-sheet 16x16_20
+  - first:
+      213: 8642061408783006606
+    second: Dark-blue Knight standby Sprite-sheet 16x16_21
+  - first:
+      213: 2894194580238188800
+    second: Dark-blue Knight standby Sprite-sheet 16x16_22
+  - first:
+      213: -5332066547568208195
+    second: Dark-blue Knight standby Sprite-sheet 16x16_23
+  - first:
+      213: 3542252781699441780
+    second: Dark-blue Knight standby Sprite-sheet 16x16_24
+  - first:
+      213: 4537261223652212957
+    second: Dark-blue Knight standby Sprite-sheet 16x16_25
+  - first:
+      213: -8152183308302253529
+    second: Dark-blue Knight standby Sprite-sheet 16x16_26
+  - first:
+      213: -8367887757738669068
+    second: Dark-blue Knight standby Sprite-sheet 16x16_27
+  - first:
+      213: 5883881363500529664
+    second: Dark-blue Knight standby Sprite-sheet 16x16_28
+  - first:
+      213: -6407105820430115692
+    second: Dark-blue Knight standby Sprite-sheet 16x16_29
+  - first:
+      213: -4657438920093247120
+    second: Dark-blue Knight standby Sprite-sheet 16x16_30
+  - first:
+      213: 1188992336305220377
+    second: Dark-blue Knight standby Sprite-sheet 16x16_31
+  - first:
+      213: -8428077623371452
+    second: Dark-blue Knight standby Sprite-sheet 16x16_32
+  - first:
+      213: -1246035234651757510
+    second: Dark-blue Knight standby Sprite-sheet 16x16_33
+  - first:
+      213: 6908936345891353878
+    second: Dark-blue Knight standby Sprite-sheet 16x16_34
+  - first:
+      213: -6798503945365611571
+    second: Dark-blue Knight standby Sprite-sheet 16x16_35
+  - first:
+      213: -7160901116927957663
+    second: Dark-blue Knight standby Sprite-sheet 16x16_36
+  - first:
+      213: -1892474904166048199
+    second: Dark-blue Knight standby Sprite-sheet 16x16_37
+  - first:
+      213: -1459058972422686063
+    second: Dark-blue Knight standby Sprite-sheet 16x16_38
+  - first:
+      213: 2360982735485584057
+    second: Dark-blue Knight standby Sprite-sheet 16x16_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cf4bf10008da380800000000000000
+      internalID: -8958363345749738477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da97f9c44415b2820800000000000000
+      internalID: 2894496539300821421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a93780208880200800000000000000
+      internalID: 146516530202647113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be367c0a1b8ba6990800000000000000
+      internalID: -7391892765329103893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14863f619ea916300800000000000000
+      internalID: 243646180757825601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918eb28824eeabd80800000000000000
+      internalID: -8234006999173699559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89c311d58a6f03d0800000000000000
+      internalID: -3238252484085167729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14378a36b1ef5290800000000000000
+      internalID: -7899347048602323937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e334cc24c49594b0800000000000000
+      internalID: -5434273805067078682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe26a5801d63d340800000000000000
+      internalID: 4887369938356285183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413a3b174b9d2ddb0800000000000000
+      internalID: -4768509686406995180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef651eaba3e2a0830800000000000000
+      internalID: 4038090845669381886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd023fabd2af26f00800000000000000
+      internalID: 1108723532603531485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ef5528af6370d20800000000000000
+      internalID: 3244622506100129357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eec378a9e3e0bdc0800000000000000
+      internalID: -3625147107340202265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64539ac6a58f038e0800000000000000
+      internalID: -1715598390774385338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498d826eba7101560800000000000000
+      internalID: 7282346624526375060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e7a07330f408b50800000000000000
+      internalID: 6593356729697336893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d97c283a567af1f0800000000000000
+      internalID: -1010365036529681968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd77cb5124a4afc0800000000000000
+      internalID: -3484479748497244683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d0272a5f545c1f0800000000000000
+      internalID: -1025336418862232292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b7f9d4015cee770800000000000000
+      internalID: 8642061408783006606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00145f9f2ae3a2820800000000000000
+      internalID: 2894194580238188800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db61479b9b1b006b0800000000000000
+      internalID: -5332066547568208195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474a5d5232c982130800000000000000
+      internalID: 3542252781699441780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0c1f02b0797fe30800000000000000
+      internalID: 4537261223652212957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72286c42970adde80800000000000000
+      internalID: -8152183308302253529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb85a75b6a4fdb80800000000000000
+      internalID: -8367887757738669068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0087dfb0deeb7a150800000000000000
+      internalID: 5883881363500529664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cdceed3336517a0800000000000000
+      internalID: -6407105820430115692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07953c47af37d5fb0800000000000000
+      internalID: -4657438920093247120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b6226fa36208010800000000000000
+      internalID: 1188992336305220377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4499e1345be02eff0800000000000000
+      internalID: -8428077623371452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3426fc4e8135bee0800000000000000
+      internalID: -1246035234651757510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615b3a0600971ef50800000000000000
+      internalID: 6908936345891353878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb14648eacd6a1a0800000000000000
+      internalID: -6798503945365611571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165afcdcf5e5f9c90800000000000000
+      internalID: -7160901116927957663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e57d6f9149cb5e0800000000000000
+      internalID: -1892474904166048199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a3662589160cbe0800000000000000
+      internalID: -1459058972422686063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight standby Sprite-sheet 16x16_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2c275f945e3c020800000000000000
+      internalID: 2360982735485584057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark-blue Knight standby Sprite-sheet 16x16_0: -8958363345749738477
+      Dark-blue Knight standby Sprite-sheet 16x16_1: 2894496539300821421
+      Dark-blue Knight standby Sprite-sheet 16x16_10: -4768509686406995180
+      Dark-blue Knight standby Sprite-sheet 16x16_11: 4038090845669381886
+      Dark-blue Knight standby Sprite-sheet 16x16_12: 1108723532603531485
+      Dark-blue Knight standby Sprite-sheet 16x16_13: 3244622506100129357
+      Dark-blue Knight standby Sprite-sheet 16x16_14: -3625147107340202265
+      Dark-blue Knight standby Sprite-sheet 16x16_15: -1715598390774385338
+      Dark-blue Knight standby Sprite-sheet 16x16_16: 7282346624526375060
+      Dark-blue Knight standby Sprite-sheet 16x16_17: 6593356729697336893
+      Dark-blue Knight standby Sprite-sheet 16x16_18: -1010365036529681968
+      Dark-blue Knight standby Sprite-sheet 16x16_19: -3484479748497244683
+      Dark-blue Knight standby Sprite-sheet 16x16_2: 146516530202647113
+      Dark-blue Knight standby Sprite-sheet 16x16_20: -1025336418862232292
+      Dark-blue Knight standby Sprite-sheet 16x16_21: 8642061408783006606
+      Dark-blue Knight standby Sprite-sheet 16x16_22: 2894194580238188800
+      Dark-blue Knight standby Sprite-sheet 16x16_23: -5332066547568208195
+      Dark-blue Knight standby Sprite-sheet 16x16_24: 3542252781699441780
+      Dark-blue Knight standby Sprite-sheet 16x16_25: 4537261223652212957
+      Dark-blue Knight standby Sprite-sheet 16x16_26: -8152183308302253529
+      Dark-blue Knight standby Sprite-sheet 16x16_27: -8367887757738669068
+      Dark-blue Knight standby Sprite-sheet 16x16_28: 5883881363500529664
+      Dark-blue Knight standby Sprite-sheet 16x16_29: -6407105820430115692
+      Dark-blue Knight standby Sprite-sheet 16x16_3: -7391892765329103893
+      Dark-blue Knight standby Sprite-sheet 16x16_30: -4657438920093247120
+      Dark-blue Knight standby Sprite-sheet 16x16_31: 1188992336305220377
+      Dark-blue Knight standby Sprite-sheet 16x16_32: -8428077623371452
+      Dark-blue Knight standby Sprite-sheet 16x16_33: -1246035234651757510
+      Dark-blue Knight standby Sprite-sheet 16x16_34: 6908936345891353878
+      Dark-blue Knight standby Sprite-sheet 16x16_35: -6798503945365611571
+      Dark-blue Knight standby Sprite-sheet 16x16_36: -7160901116927957663
+      Dark-blue Knight standby Sprite-sheet 16x16_37: -1892474904166048199
+      Dark-blue Knight standby Sprite-sheet 16x16_38: -1459058972422686063
+      Dark-blue Knight standby Sprite-sheet 16x16_39: 2360982735485584057
+      Dark-blue Knight standby Sprite-sheet 16x16_4: 243646180757825601
+      Dark-blue Knight standby Sprite-sheet 16x16_5: -8234006999173699559
+      Dark-blue Knight standby Sprite-sheet 16x16_6: -3238252484085167729
+      Dark-blue Knight standby Sprite-sheet 16x16_7: -7899347048602323937
+      Dark-blue Knight standby Sprite-sheet 16x16_8: -5434273805067078682
+      Dark-blue Knight standby Sprite-sheet 16x16_9: 4887369938356285183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

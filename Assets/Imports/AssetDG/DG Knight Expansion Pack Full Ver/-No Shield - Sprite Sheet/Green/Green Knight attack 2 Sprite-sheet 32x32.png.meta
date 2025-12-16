@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: f33fe9029bebe7e45b7cfcbdfe5494ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5379176892806200191
+    second: Green Knight attack 2 Sprite-sheet 32x32_0
+  - first:
+      213: 4992830019927378060
+    second: Green Knight attack 2 Sprite-sheet 32x32_1
+  - first:
+      213: 5074537796981806281
+    second: Green Knight attack 2 Sprite-sheet 32x32_2
+  - first:
+      213: 2052522025229707090
+    second: Green Knight attack 2 Sprite-sheet 32x32_3
+  - first:
+      213: 1318768922483550507
+    second: Green Knight attack 2 Sprite-sheet 32x32_4
+  - first:
+      213: 5645803615461230704
+    second: Green Knight attack 2 Sprite-sheet 32x32_5
+  - first:
+      213: -4848777809455859919
+    second: Green Knight attack 2 Sprite-sheet 32x32_6
+  - first:
+      213: 4810926936792480248
+    second: Green Knight attack 2 Sprite-sheet 32x32_7
+  - first:
+      213: 3334583505473955437
+    second: Green Knight attack 2 Sprite-sheet 32x32_8
+  - first:
+      213: -6241262512273020354
+    second: Green Knight attack 2 Sprite-sheet 32x32_9
+  - first:
+      213: 1009171589871832420
+    second: Green Knight attack 2 Sprite-sheet 32x32_10
+  - first:
+      213: 2996264617464432810
+    second: Green Knight attack 2 Sprite-sheet 32x32_11
+  - first:
+      213: -962641895843083951
+    second: Green Knight attack 2 Sprite-sheet 32x32_12
+  - first:
+      213: 3634859537490237974
+    second: Green Knight attack 2 Sprite-sheet 32x32_13
+  - first:
+      213: 5992582702791205721
+    second: Green Knight attack 2 Sprite-sheet 32x32_14
+  - first:
+      213: -1993822185456461125
+    second: Green Knight attack 2 Sprite-sheet 32x32_15
+  - first:
+      213: -617917096600305076
+    second: Green Knight attack 2 Sprite-sheet 32x32_16
+  - first:
+      213: -263330967215703014
+    second: Green Knight attack 2 Sprite-sheet 32x32_17
+  - first:
+      213: 3684820827170200776
+    second: Green Knight attack 2 Sprite-sheet 32x32_18
+  - first:
+      213: 1645885218219835170
+    second: Green Knight attack 2 Sprite-sheet 32x32_19
+  - first:
+      213: 3554249017370774287
+    second: Green Knight attack 2 Sprite-sheet 32x32_20
+  - first:
+      213: -545093844219770119
+    second: Green Knight attack 2 Sprite-sheet 32x32_21
+  - first:
+      213: -2261063071434142939
+    second: Green Knight attack 2 Sprite-sheet 32x32_22
+  - first:
+      213: 1368424782733350226
+    second: Green Knight attack 2 Sprite-sheet 32x32_23
+  - first:
+      213: 8647122820098140222
+    second: Green Knight attack 2 Sprite-sheet 32x32_24
+  - first:
+      213: 6051736533419558307
+    second: Green Knight attack 2 Sprite-sheet 32x32_25
+  - first:
+      213: 59921806789843563
+    second: Green Knight attack 2 Sprite-sheet 32x32_26
+  - first:
+      213: 8051128166361863720
+    second: Green Knight attack 2 Sprite-sheet 32x32_27
+  - first:
+      213: 6212848960823979172
+    second: Green Knight attack 2 Sprite-sheet 32x32_28
+  - first:
+      213: -7466967777574436075
+    second: Green Knight attack 2 Sprite-sheet 32x32_29
+  - first:
+      213: -5644630376419914732
+    second: Green Knight attack 2 Sprite-sheet 32x32_30
+  - first:
+      213: -2478166316379915576
+    second: Green Knight attack 2 Sprite-sheet 32x32_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 152
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bf3b742eca6aa40800000000000000
+      internalID: 5379176892806200191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 153
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c888da133781a4540800000000000000
+      internalID: 4992830019927378060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 153
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4d4648d316c6640800000000000000
+      internalID: 5074537796981806281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 148
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2576b7f38e50c7c10800000000000000
+      internalID: 2052522025229707090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 145
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29e47d09553d4210800000000000000
+      internalID: 1318768922483550507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 144
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078ce2bb97ce95e40800000000000000
+      internalID: 5645803615461230704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 143
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1373690b54ea5bcb0800000000000000
+      internalID: -4848777809455859919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 150
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9bfd34f88d3c240800000000000000
+      internalID: 4810926936792480248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66e6a5e702d64e20800000000000000
+      internalID: 3334583505473955437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 111
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a210e00d49269a0800000000000000
+      internalID: -6241262512273020354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d0ab3d63c410e00800000000000000
+      internalID: 1009171589871832420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 111
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa80a017bced49920800000000000000
+      internalID: 2996264617464432810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 111
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1594d58cb4204a2f0800000000000000
+      internalID: -962641895843083951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 111
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61adb84bd7d917230800000000000000
+      internalID: 3634859537490237974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_14
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 111
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9532507d73ee92350800000000000000
+      internalID: 5992582702791205721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba139a39458454e0800000000000000
+      internalID: -1993822185456461125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c428f7caca7bc67f0800000000000000
+      internalID: -617917096600305076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c7fb861e5785cf0800000000000000
+      internalID: -263330967215703014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccd070f40d132330800000000000000
+      internalID: 3684820827170200776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f3f0db2eb57d610800000000000000
+      internalID: 1645885218219835170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b8aab66aa335130800000000000000
+      internalID: 3554249017370774287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 63
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa470669007f68f0800000000000000
+      internalID: -545093844219770119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 63
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b0a6cbd171f90e0800000000000000
+      internalID: -2261063071434142939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 63
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25599a4f61f9df210800000000000000
+      internalID: 1368424782733350226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38af15f360c00870800000000000000
+      internalID: 8647122820098140222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 15
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a50abc40561cf350800000000000000
+      internalID: 6051736533419558307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 15
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a1208d092e4d000800000000000000
+      internalID: 59921806789843563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 15
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826142d196a5bbf60800000000000000
+      internalID: 8051128166361863720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 15
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac61197639783650800000000000000
+      internalID: 6212848960823979172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 15
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51343643e50006890800000000000000
+      internalID: -7466967777574436075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_30
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 15
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c8c15449e3aa1b0800000000000000
+      internalID: -5644630376419914732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight attack 2 Sprite-sheet 32x32_31
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 15
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca36d97dd8cb9dd0800000000000000
+      internalID: -2478166316379915576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green Knight attack 2 Sprite-sheet 32x32_0: 5379176892806200191
+      Green Knight attack 2 Sprite-sheet 32x32_1: 4992830019927378060
+      Green Knight attack 2 Sprite-sheet 32x32_10: 1009171589871832420
+      Green Knight attack 2 Sprite-sheet 32x32_11: 2996264617464432810
+      Green Knight attack 2 Sprite-sheet 32x32_12: -962641895843083951
+      Green Knight attack 2 Sprite-sheet 32x32_13: 3634859537490237974
+      Green Knight attack 2 Sprite-sheet 32x32_14: 5992582702791205721
+      Green Knight attack 2 Sprite-sheet 32x32_15: -1993822185456461125
+      Green Knight attack 2 Sprite-sheet 32x32_16: -617917096600305076
+      Green Knight attack 2 Sprite-sheet 32x32_17: -263330967215703014
+      Green Knight attack 2 Sprite-sheet 32x32_18: 3684820827170200776
+      Green Knight attack 2 Sprite-sheet 32x32_19: 1645885218219835170
+      Green Knight attack 2 Sprite-sheet 32x32_2: 5074537796981806281
+      Green Knight attack 2 Sprite-sheet 32x32_20: 3554249017370774287
+      Green Knight attack 2 Sprite-sheet 32x32_21: -545093844219770119
+      Green Knight attack 2 Sprite-sheet 32x32_22: -2261063071434142939
+      Green Knight attack 2 Sprite-sheet 32x32_23: 1368424782733350226
+      Green Knight attack 2 Sprite-sheet 32x32_24: 8647122820098140222
+      Green Knight attack 2 Sprite-sheet 32x32_25: 6051736533419558307
+      Green Knight attack 2 Sprite-sheet 32x32_26: 59921806789843563
+      Green Knight attack 2 Sprite-sheet 32x32_27: 8051128166361863720
+      Green Knight attack 2 Sprite-sheet 32x32_28: 6212848960823979172
+      Green Knight attack 2 Sprite-sheet 32x32_29: -7466967777574436075
+      Green Knight attack 2 Sprite-sheet 32x32_3: 2052522025229707090
+      Green Knight attack 2 Sprite-sheet 32x32_30: -5644630376419914732
+      Green Knight attack 2 Sprite-sheet 32x32_31: -2478166316379915576
+      Green Knight attack 2 Sprite-sheet 32x32_4: 1318768922483550507
+      Green Knight attack 2 Sprite-sheet 32x32_5: 5645803615461230704
+      Green Knight attack 2 Sprite-sheet 32x32_6: -4848777809455859919
+      Green Knight attack 2 Sprite-sheet 32x32_7: 4810926936792480248
+      Green Knight attack 2 Sprite-sheet 32x32_8: 3334583505473955437
+      Green Knight attack 2 Sprite-sheet 32x32_9: -6241262512273020354
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 8b099b0a58ca6f54eb492ec45b3a1034
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1457321631484239755
+    second: Slime King Idle & Hit 1_0
+  - first:
+      213: 3702138076766750710
+    second: Slime King Idle & Hit 1_1
+  - first:
+      213: 7821068987791087288
+    second: Slime King Idle & Hit 1_2
+  - first:
+      213: 3025008503188796010
+    second: Slime King Idle & Hit 1_3
+  - first:
+      213: 8762266331124695404
+    second: Slime King Idle & Hit 1_4
+  - first:
+      213: 8311653633503556376
+    second: Slime King Idle & Hit 1_5
+  - first:
+      213: -447453790733419270
+    second: Slime King Idle & Hit 1_6
+  - first:
+      213: -8659409537281147564
+    second: Slime King Idle & Hit 1_7
+  - first:
+      213: 7826912391785021668
+    second: Slime King Idle & Hit 1_8
+  - first:
+      213: -2657714500424097609
+    second: Slime King Idle & Hit 1_9
+  - first:
+      213: -237606807364889808
+    second: Slime King Idle & Hit 1_10
+  - first:
+      213: -240205099056985484
+    second: Slime King Idle & Hit 1_11
+  - first:
+      213: -4504194118557806982
+    second: Slime King Idle & Hit 1_12
+  - first:
+      213: -2178913987799726075
+    second: Slime King Idle & Hit 1_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime King Idle & Hit 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570a3e782bd86cbe0800000000000000
+      internalID: -1457321631484239755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime King Idle & Hit 1_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 53
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7412f47f2a06330800000000000000
+      internalID: 3702138076766750710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime King Idle & Hit 1_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 53
+        width: 98
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b69c1d7ec40a8c60800000000000000
+      internalID: 7821068987791087288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime King Idle & Hit 1_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 53
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62ba1bd43dfaf920800000000000000
+      internalID: 3025008503188796010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime King Idle & Hit 1_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 53
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c618d0ebdc2d99970800000000000000
+      internalID: 8762266331124695404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime King Idle & Hit 1_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 53
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813701151fce85370800000000000000
+      internalID: 8311653633503556376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime King Idle & Hit 1_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 53
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcbee5e5235ac9f0800000000000000
+      internalID: -447453790733419270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime King Idle & Hit 1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d3ab5c7e893d780800000000000000
+      internalID: -8659409537281147564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime King Idle & Hit 1_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 5
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e003700a57ce9c60800000000000000
+      internalID: 7826912391785021668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime King Idle & Hit 1_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5
+        width: 98
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b021d73eb6ed1bd0800000000000000
+      internalID: -2657714500424097609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime King Idle & Hit 1_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 5
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0331dca1ed9d3bcf0800000000000000
+      internalID: -237606807364889808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime King Idle & Hit 1_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 5
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a887d2cbe9aacf0800000000000000
+      internalID: -240205099056985484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime King Idle & Hit 1_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 5
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e45fb3053ed71c0800000000000000
+      internalID: -4504194118557806982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime King Idle & Hit 1_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 5
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5084111c541f2c1e0800000000000000
+      internalID: -2178913987799726075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Slime King Idle & Hit 1_0: -1457321631484239755
+      Slime King Idle & Hit 1_1: 3702138076766750710
+      Slime King Idle & Hit 1_10: -237606807364889808
+      Slime King Idle & Hit 1_11: -240205099056985484
+      Slime King Idle & Hit 1_12: -4504194118557806982
+      Slime King Idle & Hit 1_13: -2178913987799726075
+      Slime King Idle & Hit 1_2: 7821068987791087288
+      Slime King Idle & Hit 1_3: 3025008503188796010
+      Slime King Idle & Hit 1_4: 8762266331124695404
+      Slime King Idle & Hit 1_5: 8311653633503556376
+      Slime King Idle & Hit 1_6: -447453790733419270
+      Slime King Idle & Hit 1_7: -8659409537281147564
+      Slime King Idle & Hit 1_8: 7826912391785021668
+      Slime King Idle & Hit 1_9: -2657714500424097609
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

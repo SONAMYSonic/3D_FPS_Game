@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 224175bd658eced419b45bfc9636f389
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8490704085664520779
+    second: red Knight run Sprite-sheet 16x17_0
+  - first:
+      213: -2275234560750168469
+    second: red Knight run Sprite-sheet 16x17_1
+  - first:
+      213: -891006418259798095
+    second: red Knight run Sprite-sheet 16x17_2
+  - first:
+      213: -5934426010452005587
+    second: red Knight run Sprite-sheet 16x17_3
+  - first:
+      213: 8022418853252039730
+    second: red Knight run Sprite-sheet 16x17_4
+  - first:
+      213: 4032537895015163961
+    second: red Knight run Sprite-sheet 16x17_5
+  - first:
+      213: 8978709095183240997
+    second: red Knight run Sprite-sheet 16x17_6
+  - first:
+      213: -9215384777572928975
+    second: red Knight run Sprite-sheet 16x17_7
+  - first:
+      213: -7042142584559121671
+    second: red Knight run Sprite-sheet 16x17_8
+  - first:
+      213: 8393629404584804898
+    second: red Knight run Sprite-sheet 16x17_9
+  - first:
+      213: -7098696482063357080
+    second: red Knight run Sprite-sheet 16x17_10
+  - first:
+      213: -8157023695614020562
+    second: red Knight run Sprite-sheet 16x17_11
+  - first:
+      213: -6693207353230519548
+    second: red Knight run Sprite-sheet 16x17_12
+  - first:
+      213: -5915791185957977461
+    second: red Knight run Sprite-sheet 16x17_13
+  - first:
+      213: -1495727511456246444
+    second: red Knight run Sprite-sheet 16x17_14
+  - first:
+      213: -2579298844435053087
+    second: red Knight run Sprite-sheet 16x17_15
+  - first:
+      213: 2415274780236659248
+    second: red Knight run Sprite-sheet 16x17_16
+  - first:
+      213: 7451044108758964384
+    second: red Knight run Sprite-sheet 16x17_17
+  - first:
+      213: -3920959685347805848
+    second: red Knight run Sprite-sheet 16x17_18
+  - first:
+      213: -650092088728936873
+    second: red Knight run Sprite-sheet 16x17_19
+  - first:
+      213: -1027662631515486730
+    second: red Knight run Sprite-sheet 16x17_20
+  - first:
+      213: 1568241101936802006
+    second: red Knight run Sprite-sheet 16x17_21
+  - first:
+      213: -5242551112259772838
+    second: red Knight run Sprite-sheet 16x17_22
+  - first:
+      213: -6623796599900526374
+    second: red Knight run Sprite-sheet 16x17_23
+  - first:
+      213: -2367389395827960646
+    second: red Knight run Sprite-sheet 16x17_24
+  - first:
+      213: -6520638035304030212
+    second: red Knight run Sprite-sheet 16x17_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4addf6516a05d570800000000000000
+      internalID: 8490704085664520779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b665bc1c83ebc60e0800000000000000
+      internalID: -2275234560750168469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 15
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b71803226282a3f0800000000000000
+      internalID: -891006418259798095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d6b254cfea4ada0800000000000000
+      internalID: -5934426010452005587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 51
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2340c73417b555f60800000000000000
+      internalID: 8022418853252039730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 33
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9382ea7a9d376f730800000000000000
+      internalID: 4032537895015163961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f47ffc958ca9c70800000000000000
+      internalID: 8978709095183240997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 50
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1323938be506c1080800000000000000
+      internalID: -9215384777572928975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fac3b551a8454e90800000000000000
+      internalID: -7042142584559121671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 15
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2220d8cd8792c7470800000000000000
+      internalID: 8393629404584804898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 34
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b6c4af82d5c7d90800000000000000
+      internalID: -7098696482063357080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 51
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e247b76aa2e6cce80800000000000000
+      internalID: -8157023695614020562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 50
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40399a6df53fc13a0800000000000000
+      internalID: -6693207353230519548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 33
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8286937243e6eda0800000000000000
+      internalID: -5915791185957977461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4551fd6c0cb1e3be0800000000000000
+      internalID: -1495727511456246444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e58fdfdd5d743cd0800000000000000
+      internalID: -2579298844435053087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 17
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a37fead97c48120800000000000000
+      internalID: 2415274780236659248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8585cb32d676760800000000000000
+      internalID: 7451044108758964384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 16
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8657738b0f3f599c0800000000000000
+      internalID: -3920959685347805848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e150c80b86af6f0800000000000000
+      internalID: -650092088728936873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5839b08420db1f0800000000000000
+      internalID: -1027662631515486730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d83c1b29f283c510800000000000000
+      internalID: 1568241101936802006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 17
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e5de42a87be37b0800000000000000
+      internalID: -5242551112259772838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad82d76361c8314a0800000000000000
+      internalID: -6623796599900526374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 16
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4d5a033e7552fd0800000000000000
+      internalID: -2367389395827960646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red Knight run Sprite-sheet 16x17_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff5dc4314a0285a0800000000000000
+      internalID: -6520638035304030212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      red Knight run Sprite-sheet 16x17_0: 8490704085664520779
+      red Knight run Sprite-sheet 16x17_1: -2275234560750168469
+      red Knight run Sprite-sheet 16x17_10: -7098696482063357080
+      red Knight run Sprite-sheet 16x17_11: -8157023695614020562
+      red Knight run Sprite-sheet 16x17_12: -6693207353230519548
+      red Knight run Sprite-sheet 16x17_13: -5915791185957977461
+      red Knight run Sprite-sheet 16x17_14: -1495727511456246444
+      red Knight run Sprite-sheet 16x17_15: -2579298844435053087
+      red Knight run Sprite-sheet 16x17_16: 2415274780236659248
+      red Knight run Sprite-sheet 16x17_17: 7451044108758964384
+      red Knight run Sprite-sheet 16x17_18: -3920959685347805848
+      red Knight run Sprite-sheet 16x17_19: -650092088728936873
+      red Knight run Sprite-sheet 16x17_2: -891006418259798095
+      red Knight run Sprite-sheet 16x17_20: -1027662631515486730
+      red Knight run Sprite-sheet 16x17_21: 1568241101936802006
+      red Knight run Sprite-sheet 16x17_22: -5242551112259772838
+      red Knight run Sprite-sheet 16x17_23: -6623796599900526374
+      red Knight run Sprite-sheet 16x17_24: -2367389395827960646
+      red Knight run Sprite-sheet 16x17_25: -6520638035304030212
+      red Knight run Sprite-sheet 16x17_3: -5934426010452005587
+      red Knight run Sprite-sheet 16x17_4: 8022418853252039730
+      red Knight run Sprite-sheet 16x17_5: 4032537895015163961
+      red Knight run Sprite-sheet 16x17_6: 8978709095183240997
+      red Knight run Sprite-sheet 16x17_7: -9215384777572928975
+      red Knight run Sprite-sheet 16x17_8: -7042142584559121671
+      red Knight run Sprite-sheet 16x17_9: 8393629404584804898
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

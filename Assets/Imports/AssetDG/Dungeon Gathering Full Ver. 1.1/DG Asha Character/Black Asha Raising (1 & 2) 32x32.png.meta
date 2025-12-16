@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 05a6019fa66b9a143846390413c674c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4534116606562872648
+    second: Black Asha Raising (1 & 2) 32x32_0
+  - first:
+      213: -2844482688390814954
+    second: Black Asha Raising (1 & 2) 32x32_1
+  - first:
+      213: 8911837659912883476
+    second: Black Asha Raising (1 & 2) 32x32_2
+  - first:
+      213: 5382536464582640426
+    second: Black Asha Raising (1 & 2) 32x32_3
+  - first:
+      213: -8965184148437431280
+    second: Black Asha Raising (1 & 2) 32x32_4
+  - first:
+      213: 682037956971618621
+    second: Black Asha Raising (1 & 2) 32x32_5
+  - first:
+      213: -1916175578702242016
+    second: Black Asha Raising (1 & 2) 32x32_6
+  - first:
+      213: -2999152815988351764
+    second: Black Asha Raising (1 & 2) 32x32_7
+  - first:
+      213: 5238497259785987001
+    second: Black Asha Raising (1 & 2) 32x32_8
+  - first:
+      213: 3912151098141221799
+    second: Black Asha Raising (1 & 2) 32x32_9
+  - first:
+      213: -3440448628928962387
+    second: Black Asha Raising (1 & 2) 32x32_10
+  - first:
+      213: 8897464126747026227
+    second: Black Asha Raising (1 & 2) 32x32_11
+  - first:
+      213: -3498742067581974658
+    second: Black Asha Raising (1 & 2) 32x32_12
+  - first:
+      213: 236913382388925307
+    second: Black Asha Raising (1 & 2) 32x32_13
+  - first:
+      213: 4224198506173883245
+    second: Black Asha Raising (1 & 2) 32x32_14
+  - first:
+      213: -6343341770837161631
+    second: Black Asha Raising (1 & 2) 32x32_15
+  - first:
+      213: -5496337552753441599
+    second: Black Asha Raising (1 & 2) 32x32_16
+  - first:
+      213: 7177871928196170682
+    second: Black Asha Raising (1 & 2) 32x32_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d2168e70b6cee30800000000000000
+      internalID: 4534116606562872648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613a7bcc01e5688d0800000000000000
+      internalID: -2844482688390814954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 52
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d4e0f72253dab70800000000000000
+      internalID: 8911837659912883476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 39
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23090a856c92ba40800000000000000
+      internalID: 5382536464582640426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 52
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c8c6e3484459380800000000000000
+      internalID: -8965184148437431280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 39
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3160a488e5177900800000000000000
+      internalID: 682037956971618621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 39
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f9c28a6706865e0800000000000000
+      internalID: -1916175578702242016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 39
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecd6ef676ed066d0800000000000000
+      internalID: -2999152815988351764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_8
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3a666c081e2b840800000000000000
+      internalID: 5238497259785987001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_9
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3ac5042b0ca4630800000000000000
+      internalID: 3912151098141221799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0a5b443321140d0800000000000000
+      internalID: -3440448628928962387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333a9848b742a7b70800000000000000
+      internalID: 8897464126747026227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e778f0d60a8f17fc0800000000000000
+      internalID: -3498742067581974658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7304df477fa94300800000000000000
+      internalID: 236913382388925307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63ea3d192e5f9a30800000000000000
+      internalID: 4224198506173883245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1698a54944ce7f7a0800000000000000
+      internalID: -6343341770837161631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4cd7add1619b3b0800000000000000
+      internalID: -5496337552753441599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Raising (1 & 2) 32x32_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3816b1d7cec9360800000000000000
+      internalID: 7177871928196170682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black Asha Raising (1 & 2) 32x32_0: 4534116606562872648
+      Black Asha Raising (1 & 2) 32x32_1: -2844482688390814954
+      Black Asha Raising (1 & 2) 32x32_10: -3440448628928962387
+      Black Asha Raising (1 & 2) 32x32_11: 8897464126747026227
+      Black Asha Raising (1 & 2) 32x32_12: -3498742067581974658
+      Black Asha Raising (1 & 2) 32x32_13: 236913382388925307
+      Black Asha Raising (1 & 2) 32x32_14: 4224198506173883245
+      Black Asha Raising (1 & 2) 32x32_15: -6343341770837161631
+      Black Asha Raising (1 & 2) 32x32_16: -5496337552753441599
+      Black Asha Raising (1 & 2) 32x32_17: 7177871928196170682
+      Black Asha Raising (1 & 2) 32x32_2: 8911837659912883476
+      Black Asha Raising (1 & 2) 32x32_3: 5382536464582640426
+      Black Asha Raising (1 & 2) 32x32_4: -8965184148437431280
+      Black Asha Raising (1 & 2) 32x32_5: 682037956971618621
+      Black Asha Raising (1 & 2) 32x32_6: -1916175578702242016
+      Black Asha Raising (1 & 2) 32x32_7: -2999152815988351764
+      Black Asha Raising (1 & 2) 32x32_8: 5238497259785987001
+      Black Asha Raising (1 & 2) 32x32_9: 3912151098141221799
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

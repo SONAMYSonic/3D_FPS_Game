@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: ff01b83c73798d749ac18395678576ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9153163235432782008
+    second: Blue Knight standby Sprite-sheet 16x16_0
+  - first:
+      213: -7312623858986340785
+    second: Blue Knight standby Sprite-sheet 16x16_1
+  - first:
+      213: 3009710210456340705
+    second: Blue Knight standby Sprite-sheet 16x16_2
+  - first:
+      213: 9150967055628912340
+    second: Blue Knight standby Sprite-sheet 16x16_3
+  - first:
+      213: 8785664434897045567
+    second: Blue Knight standby Sprite-sheet 16x16_4
+  - first:
+      213: -158553580341550909
+    second: Blue Knight standby Sprite-sheet 16x16_5
+  - first:
+      213: 40154411738020149
+    second: Blue Knight standby Sprite-sheet 16x16_6
+  - first:
+      213: -3195850752828621534
+    second: Blue Knight standby Sprite-sheet 16x16_7
+  - first:
+      213: 186287436720294357
+    second: Blue Knight standby Sprite-sheet 16x16_8
+  - first:
+      213: -5424909818249392405
+    second: Blue Knight standby Sprite-sheet 16x16_9
+  - first:
+      213: 7589179770810310323
+    second: Blue Knight standby Sprite-sheet 16x16_10
+  - first:
+      213: -4010926248195414762
+    second: Blue Knight standby Sprite-sheet 16x16_11
+  - first:
+      213: -986933314090685878
+    second: Blue Knight standby Sprite-sheet 16x16_12
+  - first:
+      213: -7059375010233649998
+    second: Blue Knight standby Sprite-sheet 16x16_13
+  - first:
+      213: 1465076547958891708
+    second: Blue Knight standby Sprite-sheet 16x16_14
+  - first:
+      213: -7555058411467996561
+    second: Blue Knight standby Sprite-sheet 16x16_15
+  - first:
+      213: 8385643114920821273
+    second: Blue Knight standby Sprite-sheet 16x16_16
+  - first:
+      213: 7855070804145528833
+    second: Blue Knight standby Sprite-sheet 16x16_17
+  - first:
+      213: 3757506579721819886
+    second: Blue Knight standby Sprite-sheet 16x16_18
+  - first:
+      213: -1636492708328445226
+    second: Blue Knight standby Sprite-sheet 16x16_19
+  - first:
+      213: -6431447056890321645
+    second: Blue Knight standby Sprite-sheet 16x16_20
+  - first:
+      213: 8237973044311923726
+    second: Blue Knight standby Sprite-sheet 16x16_21
+  - first:
+      213: -6171319119674526400
+    second: Blue Knight standby Sprite-sheet 16x16_22
+  - first:
+      213: -6650440300405791334
+    second: Blue Knight standby Sprite-sheet 16x16_23
+  - first:
+      213: 6468995734901562342
+    second: Blue Knight standby Sprite-sheet 16x16_24
+  - first:
+      213: 7616886783190376970
+    second: Blue Knight standby Sprite-sheet 16x16_25
+  - first:
+      213: 4281915162231174354
+    second: Blue Knight standby Sprite-sheet 16x16_26
+  - first:
+      213: -7245665479286604734
+    second: Blue Knight standby Sprite-sheet 16x16_27
+  - first:
+      213: -6341658723712860279
+    second: Blue Knight standby Sprite-sheet 16x16_28
+  - first:
+      213: -1935890759686711846
+    second: Blue Knight standby Sprite-sheet 16x16_29
+  - first:
+      213: 5786936258941099637
+    second: Blue Knight standby Sprite-sheet 16x16_30
+  - first:
+      213: -5093226443745175007
+    second: Blue Knight standby Sprite-sheet 16x16_31
+  - first:
+      213: 2999075205751095173
+    second: Blue Knight standby Sprite-sheet 16x16_32
+  - first:
+      213: -5611283332826922599
+    second: Blue Knight standby Sprite-sheet 16x16_33
+  - first:
+      213: 6762724386171249356
+    second: Blue Knight standby Sprite-sheet 16x16_34
+  - first:
+      213: 188148050245325328
+    second: Blue Knight standby Sprite-sheet 16x16_35
+  - first:
+      213: 840607488230514607
+    second: Blue Knight standby Sprite-sheet 16x16_36
+  - first:
+      213: -1268654147998594218
+    second: Blue Knight standby Sprite-sheet 16x16_37
+  - first:
+      213: 2203073603401909961
+    second: Blue Knight standby Sprite-sheet 16x16_38
+  - first:
+      213: -538297317317137032
+    second: Blue Knight standby Sprite-sheet 16x16_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8d2239771960f70800000000000000
+      internalID: 9153163235432782008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ea21d1857548a90800000000000000
+      internalID: -7312623858986340785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8cd138d73a4c920800000000000000
+      internalID: 3009710210456340705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6401e9d04cefe70800000000000000
+      internalID: 9150967055628912340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3842dd4143fce970800000000000000
+      internalID: 8785664434897045567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c020e5db54bccdf0800000000000000
+      internalID: -158553580341550909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5393fc78938ae8000800000000000000
+      internalID: 40154411738020149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d3c723cae06a3d0800000000000000
+      internalID: -3195850752828621534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9c4dbcf63d59200800000000000000
+      internalID: 186287436720294357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee47b04349d6b4b0800000000000000
+      internalID: -5424909818249392405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be9ab7dace225960800000000000000
+      internalID: 7589179770810310323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615a50cf3d35658c0800000000000000
+      internalID: -4010926248195414762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a20ac3165bd42f0800000000000000
+      internalID: -986933314090685878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4f0c294df080e90800000000000000
+      internalID: -7059375010233649998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb468d9ab5ff45410800000000000000
+      internalID: 1465076547958891708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f628f17376a072790800000000000000
+      internalID: -7555058411467996561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9124e06ebf9cf5470800000000000000
+      internalID: 8385643114920821273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100e2a64741d20d60800000000000000
+      internalID: 7855070804145528833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6138d7358552430800000000000000
+      internalID: 3757506579721819886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dae0926d820a49e0800000000000000
+      internalID: -1636492708328445226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315225e1af8eeb6a0800000000000000
+      internalID: -6431447056890321645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c947f46d8235270800000000000000
+      internalID: 8237973044311923726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045393c25f11b5aa0800000000000000
+      internalID: -6171319119674526400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95ee5648c3e4b3a0800000000000000
+      internalID: -6650440300405791334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb1350c85d76c950800000000000000
+      internalID: 6468995734901562342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a022e6e5c2e94b960800000000000000
+      internalID: 7616886783190376970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4f52b472b6c6b30800000000000000
+      internalID: 4281915162231174354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cbfc1c2a9327b90800000000000000
+      internalID: -7245665479286604734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f76568df6edf7a0800000000000000
+      internalID: -6341658723712860279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad599e06c955225e0800000000000000
+      internalID: -1935890759686711846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e1304fdd35f4050800000000000000
+      internalID: 5786936258941099637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a51f3d8893159b0800000000000000
+      internalID: -5093226443745175007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fb975820bde9920800000000000000
+      internalID: 2999075205751095173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99108c4e987b022b0800000000000000
+      internalID: -5611283332826922599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2eb9faff50add50800000000000000
+      internalID: 6762724386171249356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0121e04a7af6c9200800000000000000
+      internalID: 188148050245325328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf538b8e007aab00800000000000000
+      internalID: 840607488230514607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bc7b526c5d46ee0800000000000000
+      internalID: -1268654147998594218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c68fc815c3e29e10800000000000000
+      internalID: 2203073603401909961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight standby Sprite-sheet 16x16_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d24c121759788f0800000000000000
+      internalID: -538297317317137032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blue Knight standby Sprite-sheet 16x16_0: 9153163235432782008
+      Blue Knight standby Sprite-sheet 16x16_1: -7312623858986340785
+      Blue Knight standby Sprite-sheet 16x16_10: 7589179770810310323
+      Blue Knight standby Sprite-sheet 16x16_11: -4010926248195414762
+      Blue Knight standby Sprite-sheet 16x16_12: -986933314090685878
+      Blue Knight standby Sprite-sheet 16x16_13: -7059375010233649998
+      Blue Knight standby Sprite-sheet 16x16_14: 1465076547958891708
+      Blue Knight standby Sprite-sheet 16x16_15: -7555058411467996561
+      Blue Knight standby Sprite-sheet 16x16_16: 8385643114920821273
+      Blue Knight standby Sprite-sheet 16x16_17: 7855070804145528833
+      Blue Knight standby Sprite-sheet 16x16_18: 3757506579721819886
+      Blue Knight standby Sprite-sheet 16x16_19: -1636492708328445226
+      Blue Knight standby Sprite-sheet 16x16_2: 3009710210456340705
+      Blue Knight standby Sprite-sheet 16x16_20: -6431447056890321645
+      Blue Knight standby Sprite-sheet 16x16_21: 8237973044311923726
+      Blue Knight standby Sprite-sheet 16x16_22: -6171319119674526400
+      Blue Knight standby Sprite-sheet 16x16_23: -6650440300405791334
+      Blue Knight standby Sprite-sheet 16x16_24: 6468995734901562342
+      Blue Knight standby Sprite-sheet 16x16_25: 7616886783190376970
+      Blue Knight standby Sprite-sheet 16x16_26: 4281915162231174354
+      Blue Knight standby Sprite-sheet 16x16_27: -7245665479286604734
+      Blue Knight standby Sprite-sheet 16x16_28: -6341658723712860279
+      Blue Knight standby Sprite-sheet 16x16_29: -1935890759686711846
+      Blue Knight standby Sprite-sheet 16x16_3: 9150967055628912340
+      Blue Knight standby Sprite-sheet 16x16_30: 5786936258941099637
+      Blue Knight standby Sprite-sheet 16x16_31: -5093226443745175007
+      Blue Knight standby Sprite-sheet 16x16_32: 2999075205751095173
+      Blue Knight standby Sprite-sheet 16x16_33: -5611283332826922599
+      Blue Knight standby Sprite-sheet 16x16_34: 6762724386171249356
+      Blue Knight standby Sprite-sheet 16x16_35: 188148050245325328
+      Blue Knight standby Sprite-sheet 16x16_36: 840607488230514607
+      Blue Knight standby Sprite-sheet 16x16_37: -1268654147998594218
+      Blue Knight standby Sprite-sheet 16x16_38: 2203073603401909961
+      Blue Knight standby Sprite-sheet 16x16_39: -538297317317137032
+      Blue Knight standby Sprite-sheet 16x16_4: 8785664434897045567
+      Blue Knight standby Sprite-sheet 16x16_5: -158553580341550909
+      Blue Knight standby Sprite-sheet 16x16_6: 40154411738020149
+      Blue Knight standby Sprite-sheet 16x16_7: -3195850752828621534
+      Blue Knight standby Sprite-sheet 16x16_8: 186287436720294357
+      Blue Knight standby Sprite-sheet 16x16_9: -5424909818249392405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

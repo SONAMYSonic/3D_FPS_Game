@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 50fdd5c5dbf41414aa1bd7462646d87b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 649880923393725939
+    second: 16x16 Fire Items Set v2_0
+  - first:
+      213: -5614691640082802792
+    second: 16x16 Fire Items Set v2_1
+  - first:
+      213: 3983494688188395385
+    second: 16x16 Fire Items Set v2_2
+  - first:
+      213: -3085569986634870614
+    second: 16x16 Fire Items Set v2_3
+  - first:
+      213: -6349916993522782613
+    second: 16x16 Fire Items Set v2_4
+  - first:
+      213: 3931385914222748156
+    second: 16x16 Fire Items Set v2_5
+  - first:
+      213: 940235071998968085
+    second: 16x16 Fire Items Set v2_6
+  - first:
+      213: -151373140663516974
+    second: 16x16 Fire Items Set v2_7
+  - first:
+      213: -1056501071882652510
+    second: 16x16 Fire Items Set v2_8
+  - first:
+      213: -4598419596328181211
+    second: 16x16 Fire Items Set v2_9
+  - first:
+      213: -3774517974676097508
+    second: 16x16 Fire Items Set v2_10
+  - first:
+      213: 4569116620940557428
+    second: 16x16 Fire Items Set v2_11
+  - first:
+      213: 7957335696496314067
+    second: 16x16 Fire Items Set v2_12
+  - first:
+      213: -8787238682089960328
+    second: 16x16 Fire Items Set v2_13
+  - first:
+      213: 5441901182103084516
+    second: 16x16 Fire Items Set v2_14
+  - first:
+      213: 2959058442464965309
+    second: 16x16 Fire Items Set v2_15
+  - first:
+      213: 135861880124260712
+    second: 16x16 Fire Items Set v2_16
+  - first:
+      213: -9164251486298147828
+    second: 16x16 Fire Items Set v2_17
+  - first:
+      213: 386993903653481417
+    second: 16x16 Fire Items Set v2_18
+  - first:
+      213: 7828963078813199034
+    second: 16x16 Fire Items Set v2_19
+  - first:
+      213: 2641085618405471422
+    second: 16x16 Fire Items Set v2_20
+  - first:
+      213: 1458840535712045157
+    second: 16x16 Fire Items Set v2_21
+  - first:
+      213: -6482286862615673729
+    second: 16x16 Fire Items Set v2_22
+  - first:
+      213: -2909110770927419057
+    second: 16x16 Fire Items Set v2_23
+  - first:
+      213: -753264682137174536
+    second: 16x16 Fire Items Set v2_24
+  - first:
+      213: 7062733848671242727
+    second: 16x16 Fire Items Set v2_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 158
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f59f21b147d40900800000000000000
+      internalID: 649880923393725939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 158
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897528583bb9412b0800000000000000
+      internalID: -5614691640082802792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 158
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fef1e3057384730800000000000000
+      internalID: 3983494688188395385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 158
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa09509f17add25d0800000000000000
+      internalID: -3085569986634870614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 162
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6eabdf332090e7a0800000000000000
+      internalID: -6349916993522782613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1a83cd8a61f8630800000000000000
+      internalID: 3931385914222748156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 158
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511ccdff0d26c0d00800000000000000
+      internalID: 940235071998968085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 158
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0473a3ee636edf0800000000000000
+      internalID: -151373140663516974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a47d996fdd8651f0800000000000000
+      internalID: -1056501071882652510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522e9a89db12f20c0800000000000000
+      internalID: -4598419596328181211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16ba1976e73e9bc0800000000000000
+      internalID: -3774517974676097508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cbe78cb53c86f30800000000000000
+      internalID: 4569116620940557428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6c23cf7a22e6e60800000000000000
+      internalID: 7957335696496314067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cc475b9f47d0680800000000000000
+      internalID: -8787238682089960328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed580eea44858b40800000000000000
+      internalID: 5441901182103084516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2beb4c9ffa01920800000000000000
+      internalID: 2959058442464965309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 62
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861c25ff8ada2e100800000000000000
+      internalID: 135861880124260712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 62
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c047ad6d3d902d080800000000000000
+      internalID: -9164251486298147828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbe18da7e0ee5500800000000000000
+      internalID: 386993903653481417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 62
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba2f48c07016ac60800000000000000
+      internalID: 7828963078813199034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 62
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4737a706507a420800000000000000
+      internalID: 2641085618405471422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 62
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5689e0becb7de3410800000000000000
+      internalID: 1458840535712045157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f748c9d617a4a06a0800000000000000
+      internalID: -6482286862615673729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 62
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41cb9eba23c0a7d0800000000000000
+      internalID: -2909110770927419057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdbd5733cddb85f0800000000000000
+      internalID: -753264682137174536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 Fire Items Set v2_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e94d21f30fd30260800000000000000
+      internalID: 7062733848671242727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      16x16 Fire Items Set v2_0: 649880923393725939
+      16x16 Fire Items Set v2_1: -5614691640082802792
+      16x16 Fire Items Set v2_10: -3774517974676097508
+      16x16 Fire Items Set v2_11: 4569116620940557428
+      16x16 Fire Items Set v2_12: 7957335696496314067
+      16x16 Fire Items Set v2_13: -8787238682089960328
+      16x16 Fire Items Set v2_14: 5441901182103084516
+      16x16 Fire Items Set v2_15: 2959058442464965309
+      16x16 Fire Items Set v2_16: 135861880124260712
+      16x16 Fire Items Set v2_17: -9164251486298147828
+      16x16 Fire Items Set v2_18: 386993903653481417
+      16x16 Fire Items Set v2_19: 7828963078813199034
+      16x16 Fire Items Set v2_2: 3983494688188395385
+      16x16 Fire Items Set v2_20: 2641085618405471422
+      16x16 Fire Items Set v2_21: 1458840535712045157
+      16x16 Fire Items Set v2_22: -6482286862615673729
+      16x16 Fire Items Set v2_23: -2909110770927419057
+      16x16 Fire Items Set v2_24: -753264682137174536
+      16x16 Fire Items Set v2_25: 7062733848671242727
+      16x16 Fire Items Set v2_3: -3085569986634870614
+      16x16 Fire Items Set v2_4: -6349916993522782613
+      16x16 Fire Items Set v2_5: 3931385914222748156
+      16x16 Fire Items Set v2_6: 940235071998968085
+      16x16 Fire Items Set v2_7: -151373140663516974
+      16x16 Fire Items Set v2_8: -1056501071882652510
+      16x16 Fire Items Set v2_9: -4598419596328181211
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 23e74a1cc53ca854d971ff2a13905857
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4051825463241928319
+    second: Blue Dark Run_0
+  - first:
+      213: -2240242854345678326
+    second: Blue Dark Run_1
+  - first:
+      213: 812461332765967297
+    second: Blue Dark Run_2
+  - first:
+      213: -1524328190522394600
+    second: Blue Dark Run_3
+  - first:
+      213: -5818272704898788104
+    second: Blue Dark Run_4
+  - first:
+      213: 8152853769467533375
+    second: Blue Dark Run_5
+  - first:
+      213: -1507301192499083235
+    second: Blue Dark Run_6
+  - first:
+      213: 3067062803462703424
+    second: Blue Dark Run_7
+  - first:
+      213: -2078302952623091267
+    second: Blue Dark Run_8
+  - first:
+      213: -4751783729330791681
+    second: Blue Dark Run_9
+  - first:
+      213: -7704221477202509209
+    second: Blue Dark Run_10
+  - first:
+      213: -3622666197412387484
+    second: Blue Dark Run_11
+  - first:
+      213: -6442321485181341801
+    second: Blue Dark Run_12
+  - first:
+      213: -5662952291268056566
+    second: Blue Dark Run_13
+  - first:
+      213: -1206092298123496703
+    second: Blue Dark Run_14
+  - first:
+      213: 6908069719630295528
+    second: Blue Dark Run_15
+  - first:
+      213: -1718043833338154901
+    second: Blue Dark Run_16
+  - first:
+      213: 30437657445395635
+    second: Blue Dark Run_17
+  - first:
+      213: 1519575053382159880
+    second: Blue Dark Run_18
+  - first:
+      213: -7256260808576982118
+    second: Blue Dark Run_19
+  - first:
+      213: 7352316326778544157
+    second: Blue Dark Run_20
+  - first:
+      213: -7596175409219742801
+    second: Blue Dark Run_21
+  - first:
+      213: -1802396568351036847
+    second: Blue Dark Run_22
+  - first:
+      213: -3346131381597025277
+    second: Blue Dark Run_23
+  - first:
+      213: 6926855936038124048
+    second: Blue Dark Run_24
+  - first:
+      213: -2459016943982039206
+    second: Blue Dark Run_25
+  - first:
+      213: -6333530530633510042
+    second: Blue Dark Run_26
+  - first:
+      213: 6083644475052299436
+    second: Blue Dark Run_27
+  - first:
+      213: 5734497806044550750
+    second: Blue Dark Run_28
+  - first:
+      213: -8446831956460545556
+    second: Blue Dark Run_29
+  - first:
+      213: 9030104715341630812
+    second: Blue Dark Run_30
+  - first:
+      213: -682249724710563081
+    second: Blue Dark Run_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Dark Run_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181159b653605c7c0800000000000000
+      internalID: -4051825463241928319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 67
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a026e184efe09e0e0800000000000000
+      internalID: -2240242854345678326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 68
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3814d0741764b00800000000000000
+      internalID: 812461332765967297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 67
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8187cc2469f78dae0800000000000000
+      internalID: -1524328190522394600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 67
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4182a2dc7514fa0800000000000000
+      internalID: -5818272704898788104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 67
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3811d2ce41c42170800000000000000
+      internalID: 8152853769467533375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 68
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18c19b2d8df41be0800000000000000
+      internalID: -1507301192499083235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 67
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0494538ae55609a20800000000000000
+      internalID: 3067062803462703424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db15145d9726823e0800000000000000
+      internalID: -2078302952623091267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 47
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffad1cbcfd54e0eb0800000000000000
+      internalID: -4751783729330791681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762c86c926b151590800000000000000
+      internalID: -7704221477202509209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4656b638944b9bdc0800000000000000
+      internalID: -3622666197412387484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 47
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f26eafdb64896a0800000000000000
+      internalID: -6442321485181341801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 47
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0aabfa05e62961b0800000000000000
+      internalID: -5662952291268056566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103b30ce179134fe0800000000000000
+      internalID: -1206092298123496703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 47
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1323a3fc46edf50800000000000000
+      internalID: 6908069719630295528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6034557c384828e0800000000000000
+      internalID: -1718043833338154901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 27
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bce3df53e22c6000800000000000000
+      internalID: 30437657445395635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 28
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e8362c57d961510800000000000000
+      internalID: 1519575053382159880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 27
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a932e2b6d359c4b90800000000000000
+      internalID: -7256260808576982118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 27
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10a0f5bebca80660800000000000000
+      internalID: 7352316326778544157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 27
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa356e926b6f49690800000000000000
+      internalID: -7596175409219742801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 28
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aad0fded99cf6e0800000000000000
+      internalID: -1802396568351036847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 27
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c4f1cac372091d0800000000000000
+      internalID: -3346131381597025277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01abbd516c2212060800000000000000
+      internalID: 6926855936038124048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 7
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fa84d2e11dfddd0800000000000000
+      internalID: -2459016943982039206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 8
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6639f73f987ca18a0800000000000000
+      internalID: -6333530530633510042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca49243ea627d6450800000000000000
+      internalID: 6083644475052299436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56da863f57059f40800000000000000
+      internalID: 5734497806044550750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 7
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce950cdb613d6ca80800000000000000
+      internalID: -8446831956460545556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 8
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d84822560615d70800000000000000
+      internalID: 9030104715341630812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Dark Run_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2d4867d792886f0800000000000000
+      internalID: -682249724710563081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blue Dark Run_0: -4051825463241928319
+      Blue Dark Run_1: -2240242854345678326
+      Blue Dark Run_10: -7704221477202509209
+      Blue Dark Run_11: -3622666197412387484
+      Blue Dark Run_12: -6442321485181341801
+      Blue Dark Run_13: -5662952291268056566
+      Blue Dark Run_14: -1206092298123496703
+      Blue Dark Run_15: 6908069719630295528
+      Blue Dark Run_16: -1718043833338154901
+      Blue Dark Run_17: 30437657445395635
+      Blue Dark Run_18: 1519575053382159880
+      Blue Dark Run_19: -7256260808576982118
+      Blue Dark Run_2: 812461332765967297
+      Blue Dark Run_20: 7352316326778544157
+      Blue Dark Run_21: -7596175409219742801
+      Blue Dark Run_22: -1802396568351036847
+      Blue Dark Run_23: -3346131381597025277
+      Blue Dark Run_24: 6926855936038124048
+      Blue Dark Run_25: -2459016943982039206
+      Blue Dark Run_26: -6333530530633510042
+      Blue Dark Run_27: 6083644475052299436
+      Blue Dark Run_28: 5734497806044550750
+      Blue Dark Run_29: -8446831956460545556
+      Blue Dark Run_3: -1524328190522394600
+      Blue Dark Run_30: 9030104715341630812
+      Blue Dark Run_31: -682249724710563081
+      Blue Dark Run_4: -5818272704898788104
+      Blue Dark Run_5: 8152853769467533375
+      Blue Dark Run_6: -1507301192499083235
+      Blue Dark Run_7: 3067062803462703424
+      Blue Dark Run_8: -2078302952623091267
+      Blue Dark Run_9: -4751783729330791681
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

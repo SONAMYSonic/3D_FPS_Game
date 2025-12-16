@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 28fbf1e6b27aaec48af85288d54c3f0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2847608772721350551
+    second: Zombie Attack-Sheet+vfx 2 48x48_0
+  - first:
+      213: -6817827360861450140
+    second: Zombie Attack-Sheet+vfx 2 48x48_1
+  - first:
+      213: 7524348858326789683
+    second: Zombie Attack-Sheet+vfx 2 48x48_2
+  - first:
+      213: -1206095025505931290
+    second: Zombie Attack-Sheet+vfx 2 48x48_3
+  - first:
+      213: 5424304753888694681
+    second: Zombie Attack-Sheet+vfx 2 48x48_4
+  - first:
+      213: 1889857678583062671
+    second: Zombie Attack-Sheet+vfx 2 48x48_5
+  - first:
+      213: -5572317189095518225
+    second: Zombie Attack-Sheet+vfx 2 48x48_6
+  - first:
+      213: 257798789263541030
+    second: Zombie Attack-Sheet+vfx 2 48x48_7
+  - first:
+      213: -8089756429399030927
+    second: Zombie Attack-Sheet+vfx 2 48x48_8
+  - first:
+      213: -4993292970193055499
+    second: Zombie Attack-Sheet+vfx 2 48x48_9
+  - first:
+      213: 3435768758367316584
+    second: Zombie Attack-Sheet+vfx 2 48x48_10
+  - first:
+      213: 6744215450952396839
+    second: Zombie Attack-Sheet+vfx 2 48x48_11
+  - first:
+      213: 325903289087438618
+    second: Zombie Attack-Sheet+vfx 2 48x48_12
+  - first:
+      213: 4278173680957932678
+    second: Zombie Attack-Sheet+vfx 2 48x48_13
+  - first:
+      213: -256489457900114444
+    second: Zombie Attack-Sheet+vfx 2 48x48_14
+  - first:
+      213: -5666714320089248341
+    second: Zombie Attack-Sheet+vfx 2 48x48_15
+  - first:
+      213: 7537667282393057287
+    second: Zombie Attack-Sheet+vfx 2 48x48_16
+  - first:
+      213: 768456277516705735
+    second: Zombie Attack-Sheet+vfx 2 48x48_17
+  - first:
+      213: -3738392261038607874
+    second: Zombie Attack-Sheet+vfx 2 48x48_18
+  - first:
+      213: 1493315532347059133
+    second: Zombie Attack-Sheet+vfx 2 48x48_19
+  - first:
+      213: 8620755074485482003
+    second: Zombie Attack-Sheet+vfx 2 48x48_20
+  - first:
+      213: 6188733578389566398
+    second: Zombie Attack-Sheet+vfx 2 48x48_21
+  - first:
+      213: -3418626645232068747
+    second: Zombie Attack-Sheet+vfx 2 48x48_22
+  - first:
+      213: 5408227540478787223
+    second: Zombie Attack-Sheet+vfx 2 48x48_23
+  - first:
+      213: 3573307266958458195
+    second: Zombie Attack-Sheet+vfx 2 48x48_24
+  - first:
+      213: 7246346787729009340
+    second: Zombie Attack-Sheet+vfx 2 48x48_25
+  - first:
+      213: -4920362742733544661
+    second: Zombie Attack-Sheet+vfx 2 48x48_26
+  - first:
+      213: 2495214666271150902
+    second: Zombie Attack-Sheet+vfx 2 48x48_27
+  - first:
+      213: 283596477731549384
+    second: Zombie Attack-Sheet+vfx 2 48x48_28
+  - first:
+      213: -1811450968613692311
+    second: Zombie Attack-Sheet+vfx 2 48x48_29
+  - first:
+      213: -4538137594313673073
+    second: Zombie Attack-Sheet+vfx 2 48x48_30
+  - first:
+      213: -6686764807605503338
+    second: Zombie Attack-Sheet+vfx 2 48x48_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 111
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96868a298e24b78d0800000000000000
+      internalID: -2847608772721350551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 111
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4601aef33263261a0800000000000000
+      internalID: -6817827360861450140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 111
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e2fa2cb6bdb6860800000000000000
+      internalID: 7524348858326789683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 110
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef6a57e6f6134fe0800000000000000
+      internalID: -1206095025505931290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 109
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9919ff83f60074b40800000000000000
+      internalID: 5424304753888694681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 108
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80ecf7bb8f1a3a10800000000000000
+      internalID: 1889857678583062671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef88283a072ba2b0800000000000000
+      internalID: -5572317189095518225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623449902a2e39300800000000000000
+      internalID: 257798789263541030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 79
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1730d3a83696bbf80800000000000000
+      internalID: -8089756429399030927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 79
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0103ccf7244bab0800000000000000
+      internalID: -4993292970193055499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 79
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a6ed47b7d4eaf20800000000000000
+      internalID: 3435768758367316584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720f7b26834489d50800000000000000
+      internalID: 6744215450952396839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 79
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f20319057d58400800000000000000
+      internalID: 325903289087438618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 79
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6844ceccb402f5b30800000000000000
+      internalID: 4278173680957932678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 79
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd2b3d6234c07cf0800000000000000
+      internalID: -256489457900114444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 79
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad06737959cb51b0800000000000000
+      internalID: -5666714320089248341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 47
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7084f12057c2b9860800000000000000
+      internalID: 7537667282393057287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf5dc6b9ea1aaa00800000000000000
+      internalID: 768456277516705735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 47
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef179b1ab009e1cc0800000000000000
+      internalID: -3738392261038607874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 47
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbae13909259b410800000000000000
+      internalID: 1493315532347059133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 47
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3127a56c01313a770800000000000000
+      internalID: 8620755074485482003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 47
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb33175766cc2e550800000000000000
+      internalID: 6188733578389566398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 47
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577d147cd299e80d0800000000000000
+      internalID: -3418626645232068747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ef8b64b42ed0b40800000000000000
+      internalID: 5408227540478787223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 15
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d7160f600f69130800000000000000
+      internalID: 3573307266958458195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 15
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba61e9b202309460800000000000000
+      internalID: 7246346787729009340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 15
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23ec49972c57bbb0800000000000000
+      internalID: -4920362742733544661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633df6dc488c0a220800000000000000
+      internalID: 2495214666271150902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 15
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0bdb27e798fe300800000000000000
+      internalID: 283596477731549384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_29
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 15
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c5eb701fe6cd6e0800000000000000
+      internalID: -1811450968613692311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 15
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86761de6eb4501c0800000000000000
+      internalID: -4538137594313673073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Attack-Sheet+vfx 2 48x48_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 15
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a3712e5d6d333a0800000000000000
+      internalID: -6686764807605503338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Zombie Attack-Sheet+vfx 2 48x48_0: -2847608772721350551
+      Zombie Attack-Sheet+vfx 2 48x48_1: -6817827360861450140
+      Zombie Attack-Sheet+vfx 2 48x48_10: 3435768758367316584
+      Zombie Attack-Sheet+vfx 2 48x48_11: 6744215450952396839
+      Zombie Attack-Sheet+vfx 2 48x48_12: 325903289087438618
+      Zombie Attack-Sheet+vfx 2 48x48_13: 4278173680957932678
+      Zombie Attack-Sheet+vfx 2 48x48_14: -256489457900114444
+      Zombie Attack-Sheet+vfx 2 48x48_15: -5666714320089248341
+      Zombie Attack-Sheet+vfx 2 48x48_16: 7537667282393057287
+      Zombie Attack-Sheet+vfx 2 48x48_17: 768456277516705735
+      Zombie Attack-Sheet+vfx 2 48x48_18: -3738392261038607874
+      Zombie Attack-Sheet+vfx 2 48x48_19: 1493315532347059133
+      Zombie Attack-Sheet+vfx 2 48x48_2: 7524348858326789683
+      Zombie Attack-Sheet+vfx 2 48x48_20: 8620755074485482003
+      Zombie Attack-Sheet+vfx 2 48x48_21: 6188733578389566398
+      Zombie Attack-Sheet+vfx 2 48x48_22: -3418626645232068747
+      Zombie Attack-Sheet+vfx 2 48x48_23: 5408227540478787223
+      Zombie Attack-Sheet+vfx 2 48x48_24: 3573307266958458195
+      Zombie Attack-Sheet+vfx 2 48x48_25: 7246346787729009340
+      Zombie Attack-Sheet+vfx 2 48x48_26: -4920362742733544661
+      Zombie Attack-Sheet+vfx 2 48x48_27: 2495214666271150902
+      Zombie Attack-Sheet+vfx 2 48x48_28: 283596477731549384
+      Zombie Attack-Sheet+vfx 2 48x48_29: -1811450968613692311
+      Zombie Attack-Sheet+vfx 2 48x48_3: -1206095025505931290
+      Zombie Attack-Sheet+vfx 2 48x48_30: -4538137594313673073
+      Zombie Attack-Sheet+vfx 2 48x48_31: -6686764807605503338
+      Zombie Attack-Sheet+vfx 2 48x48_4: 5424304753888694681
+      Zombie Attack-Sheet+vfx 2 48x48_5: 1889857678583062671
+      Zombie Attack-Sheet+vfx 2 48x48_6: -5572317189095518225
+      Zombie Attack-Sheet+vfx 2 48x48_7: 257798789263541030
+      Zombie Attack-Sheet+vfx 2 48x48_8: -8089756429399030927
+      Zombie Attack-Sheet+vfx 2 48x48_9: -4993292970193055499
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

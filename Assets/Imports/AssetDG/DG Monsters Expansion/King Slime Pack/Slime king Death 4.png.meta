@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: a1d385fedd1db2b4a9ec37f869e945f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9094028885460019080
+    second: Slime king Death 4_0
+  - first:
+      213: -5223812011126068761
+    second: Slime king Death 4_1
+  - first:
+      213: 5841954646629013980
+    second: Slime king Death 4_2
+  - first:
+      213: -2932161077627178808
+    second: Slime king Death 4_3
+  - first:
+      213: -5889311344082196550
+    second: Slime king Death 4_4
+  - first:
+      213: -8654783611158881854
+    second: Slime king Death 4_5
+  - first:
+      213: 5462015543010865262
+    second: Slime king Death 4_6
+  - first:
+      213: 7352564544375539278
+    second: Slime king Death 4_7
+  - first:
+      213: 8568088083769651440
+    second: Slime king Death 4_8
+  - first:
+      213: -7724416581457004006
+    second: Slime king Death 4_9
+  - first:
+      213: -6032477458411829518
+    second: Slime king Death 4_10
+  - first:
+      213: 657851610918551901
+    second: Slime king Death 4_11
+  - first:
+      213: -2735222454186290065
+    second: Slime king Death 4_12
+  - first:
+      213: -5989578997499971475
+    second: Slime king Death 4_13
+  - first:
+      213: -1651809603302387605
+    second: Slime king Death 4_14
+  - first:
+      213: 7699945494757891361
+    second: Slime king Death 4_15
+  - first:
+      213: 4541250532029576989
+    second: Slime king Death 4_16
+  - first:
+      213: 6996544626414547598
+    second: Slime king Death 4_17
+  - first:
+      213: -4406996777056064951
+    second: Slime king Death 4_18
+  - first:
+      213: 3245210296387808624
+    second: Slime king Death 4_19
+  - first:
+      213: -8448535655110159266
+    second: Slime king Death 4_20
+  - first:
+      213: -5744068822372472662
+    second: Slime king Death 4_21
+  - first:
+      213: 3121002066931402875
+    second: Slime king Death 4_22
+  - first:
+      213: 5082050828080033041
+    second: Slime king Death 4_23
+  - first:
+      213: -7165223182764507631
+    second: Slime king Death 4_24
+  - first:
+      213: -5518236853258795413
+    second: Slime king Death 4_25
+  - first:
+      213: 6610535336962400615
+    second: Slime king Death 4_26
+  - first:
+      213: 7817874555068755159
+    second: Slime king Death 4_27
+  - first:
+      213: -6564702089482648256
+    second: Slime king Death 4_28
+  - first:
+      213: 2572175546337363545
+    second: Slime king Death 4_29
+  - first:
+      213: -327583123226553945
+    second: Slime king Death 4_30
+  - first:
+      213: -6224937169204616276
+    second: Slime king Death 4_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime king Death 4_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 29
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878930139e48bc180800000000000000
+      internalID: -9094028885460019080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 29
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9696f17aa4187b0800000000000000
+      internalID: -5223812011126068761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 25
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9d3429ccac21150800000000000000
+      internalID: 5841954646629013980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 21
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c03ecff80fde47d0800000000000000
+      internalID: -2932161077627178808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_4
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 16
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab76d441986f44ea0800000000000000
+      internalID: -5889311344082196550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_5
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 11
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c99001292804e780800000000000000
+      internalID: -8654783611158881854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_6
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 39
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6033d6823afccb40800000000000000
+      internalID: 5462015543010865262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_7
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 16
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46c2af5f7e890660800000000000000
+      internalID: 7352564544375539278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_8
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 91
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0f85d67b6f7e670800000000000000
+      internalID: 8568088083769651440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_9
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 91
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a3e1d7b0c5dc490800000000000000
+      internalID: -7724416581457004006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_10
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 44
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6cfc786b5584ca0800000000000000
+      internalID: -6032477458411829518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_11
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 11
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5108bffd88212900800000000000000
+      internalID: 657851610918551901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_12
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 39
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64dd847ba98a0ad0800000000000000
+      internalID: -2735222454186290065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_13
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 91
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68bfdbc2adb0eca0800000000000000
+      internalID: -5989578997499971475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_14
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 74
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60159edae79319e0800000000000000
+      internalID: -1651809603302387605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_15
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 81
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dd9e4a1a3bbda60800000000000000
+      internalID: 7699945494757891361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_16
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 37
+        width: 110
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d173dad5c43c50f30800000000000000
+      internalID: 4541250532029576989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_17
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 60
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e827b98b448b81160800000000000000
+      internalID: 6996544626414547598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_18
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 61
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a2841d7c337d2c0800000000000000
+      internalID: -4406996777056064951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_19
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 28
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07da2a9129d490d20800000000000000
+      internalID: 3245210296387808624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_20
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 29
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54dfec7595c0ca80800000000000000
+      internalID: -8448535655110159266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_21
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 28
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8a715e6d7f840b0800000000000000
+      internalID: -5744068822372472662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_22
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 36
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78c4b618d6005b20800000000000000
+      internalID: 3121002066931402875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_23
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 29
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11da0326d42178640800000000000000
+      internalID: 5082050828080033041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_24
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 15
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e7dee6a73009c90800000000000000
+      internalID: -7165223182764507631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_25
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b664a0f91d84b63b0800000000000000
+      internalID: -5518236853258795413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_26
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 15
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761afc66dd65dbb50800000000000000
+      internalID: 6610535336962400615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_27
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 18
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc2079ac7bae7c60800000000000000
+      internalID: 7817874555068755159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_28
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 10
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0454f1c1b3e75e4a0800000000000000
+      internalID: -6564702089482648256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_29
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 9
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956826b080432b320800000000000000
+      internalID: 2572175546337363545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_30
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 10
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a11ba192e0347bf0800000000000000
+      internalID: -327583123226553945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime king Death 4_31
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 9
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3ee6030a49c99a0800000000000000
+      internalID: -6224937169204616276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Slime king Death 4_0: -9094028885460019080
+      Slime king Death 4_1: -5223812011126068761
+      Slime king Death 4_10: -6032477458411829518
+      Slime king Death 4_11: 657851610918551901
+      Slime king Death 4_12: -2735222454186290065
+      Slime king Death 4_13: -5989578997499971475
+      Slime king Death 4_14: -1651809603302387605
+      Slime king Death 4_15: 7699945494757891361
+      Slime king Death 4_16: 4541250532029576989
+      Slime king Death 4_17: 6996544626414547598
+      Slime king Death 4_18: -4406996777056064951
+      Slime king Death 4_19: 3245210296387808624
+      Slime king Death 4_2: 5841954646629013980
+      Slime king Death 4_20: -8448535655110159266
+      Slime king Death 4_21: -5744068822372472662
+      Slime king Death 4_22: 3121002066931402875
+      Slime king Death 4_23: 5082050828080033041
+      Slime king Death 4_24: -7165223182764507631
+      Slime king Death 4_25: -5518236853258795413
+      Slime king Death 4_26: 6610535336962400615
+      Slime king Death 4_27: 7817874555068755159
+      Slime king Death 4_28: -6564702089482648256
+      Slime king Death 4_29: 2572175546337363545
+      Slime king Death 4_3: -2932161077627178808
+      Slime king Death 4_30: -327583123226553945
+      Slime king Death 4_31: -6224937169204616276
+      Slime king Death 4_4: -5889311344082196550
+      Slime king Death 4_5: -8654783611158881854
+      Slime king Death 4_6: 5462015543010865262
+      Slime king Death 4_7: 7352564544375539278
+      Slime king Death 4_8: 8568088083769651440
+      Slime king Death 4_9: -7724416581457004006
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

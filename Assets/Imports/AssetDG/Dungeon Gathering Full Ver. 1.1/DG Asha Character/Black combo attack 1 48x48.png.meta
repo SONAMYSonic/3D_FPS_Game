@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 0fc2e3d65d7101b44bfaad16529ecbfe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8093656473957602350
+    second: Black combo attack 1 48x48_0
+  - first:
+      213: 945402831183943052
+    second: Black combo attack 1 48x48_1
+  - first:
+      213: 7069899001631116914
+    second: Black combo attack 1 48x48_2
+  - first:
+      213: 3629109478058703160
+    second: Black combo attack 1 48x48_3
+  - first:
+      213: -7510093429756661283
+    second: Black combo attack 1 48x48_4
+  - first:
+      213: 7720083716823117613
+    second: Black combo attack 1 48x48_5
+  - first:
+      213: 5065465614857807105
+    second: Black combo attack 1 48x48_6
+  - first:
+      213: -3129697228192296008
+    second: Black combo attack 1 48x48_7
+  - first:
+      213: -280605384470388654
+    second: Black combo attack 1 48x48_8
+  - first:
+      213: -2087350996307263618
+    second: Black combo attack 1 48x48_9
+  - first:
+      213: -303857578933424814
+    second: Black combo attack 1 48x48_10
+  - first:
+      213: 8754040620070993266
+    second: Black combo attack 1 48x48_11
+  - first:
+      213: 948630029598081225
+    second: Black combo attack 1 48x48_12
+  - first:
+      213: 3354103355106755003
+    second: Black combo attack 1 48x48_13
+  - first:
+      213: 8763447056785764415
+    second: Black combo attack 1 48x48_14
+  - first:
+      213: -2329360579125562287
+    second: Black combo attack 1 48x48_15
+  - first:
+      213: 3003750709897665396
+    second: Black combo attack 1 48x48_16
+  - first:
+      213: 6497857348567249641
+    second: Black combo attack 1 48x48_17
+  - first:
+      213: -1291774059337724129
+    second: Black combo attack 1 48x48_18
+  - first:
+      213: 2143202071551141748
+    second: Black combo attack 1 48x48_19
+  - first:
+      213: 8046320327522357626
+    second: Black combo attack 1 48x48_20
+  - first:
+      213: 883496527175270150
+    second: Black combo attack 1 48x48_21
+  - first:
+      213: -1489703278741314884
+    second: Black combo attack 1 48x48_22
+  - first:
+      213: 953742482353231664
+    second: Black combo attack 1 48x48_23
+  - first:
+      213: 3990542585367805972
+    second: Black combo attack 1 48x48_24
+  - first:
+      213: -3139931958735082577
+    second: Black combo attack 1 48x48_25
+  - first:
+      213: 5109497759898077730
+    second: Black combo attack 1 48x48_26
+  - first:
+      213: -5950897920112459237
+    second: Black combo attack 1 48x48_27
+  - first:
+      213: 2408476329902029179
+    second: Black combo attack 1 48x48_28
+  - first:
+      213: 978613375468294480
+    second: Black combo attack 1 48x48_29
+  - first:
+      213: -6256481632745104754
+    second: Black combo attack 1 48x48_30
+  - first:
+      213: 3365534297254625714
+    second: Black combo attack 1 48x48_31
+  - first:
+      213: -8690105509760908937
+    second: Black combo attack 1 48x48_32
+  - first:
+      213: 9042159354137363257
+    second: Black combo attack 1 48x48_33
+  - first:
+      213: 8531509456617678224
+    second: Black combo attack 1 48x48_34
+  - first:
+      213: -8565497392384887034
+    second: Black combo attack 1 48x48_35
+  - first:
+      213: -3334548048092347949
+    second: Black combo attack 1 48x48_36
+  - first:
+      213: -9168109712333979040
+    second: Black combo attack 1 48x48_37
+  - first:
+      213: 1345677070873138317
+    second: Black combo attack 1 48x48_38
+  - first:
+      213: -941818868180261821
+    second: Black combo attack 1 48x48_39
+  - first:
+      213: 7517010421396355544
+    second: Black combo attack 1 48x48_40
+  - first:
+      213: 3394539360386152517
+    second: Black combo attack 1 48x48_41
+  - first:
+      213: -6907922701810991772
+    second: Black combo attack 1 48x48_42
+  - first:
+      213: -3180027493791135019
+    second: Black combo attack 1 48x48_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db67b7a15e8daf80800000000000000
+      internalID: -8093656473957602350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c851e52bddebe1d00800000000000000
+      internalID: 945402831183943052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 150
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e8c1e1fa35d1260800000000000000
+      internalID: 7069899001631116914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 151
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83931baa7df2d5230800000000000000
+      internalID: 3629109478058703160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 151
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1fb59d0d9c6c790800000000000000
+      internalID: -7510093429756661283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 151
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fe489dc3f332b60800000000000000
+      internalID: 7720083716823117613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 156
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1052e8383262c4640800000000000000
+      internalID: 5065465614857807105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 150
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3d21be3f41194d0800000000000000
+      internalID: -3129697228192296008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 151
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250a498b3e61b1cf0800000000000000
+      internalID: -280605384470388654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 159
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f3c8ff35d3803e0800000000000000
+      internalID: -2087350996307263618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 159
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dec51542b78cbf0800000000000000
+      internalID: -303857578933424814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 103
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dfba420999c7970800000000000000
+      internalID: 8754040620070993266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 103
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c046716cf53a2d00800000000000000
+      internalID: 948630029598081225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 100
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1851d0b3b2c8e20800000000000000
+      internalID: 3354103355106755003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 106
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3078abdaa40e9970800000000000000
+      internalID: 8763447056785764415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 111
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1543c6f05e27cafd0800000000000000
+      internalID: -2329360579125562287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 111
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b17492b577fa920800000000000000
+      internalID: 3003750709897665396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 111
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e23386d4d60d2a50800000000000000
+      internalID: 6497857348567249641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_18
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 101
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f4c1f4652b21ee0800000000000000
+      internalID: -1291774059337724129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_19
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 102
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477efaccdee2ebd10800000000000000
+      internalID: 2143202071551141748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_20
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 102
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7199f6e4b54aaf60800000000000000
+      internalID: 8046320327522357626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_21
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 102
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fb296196fc24c00800000000000000
+      internalID: 883496527175270150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2a3e1c2c2835be0800000000000000
+      internalID: -1489703278741314884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_23
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 63
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0371ddb0cbf5c3d00800000000000000
+      internalID: 953742482353231664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 58
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410caeda651416730800000000000000
+      internalID: 3990542585367805972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 54
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabe2b40588bc64d0800000000000000
+      internalID: -3139931958735082577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 54
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a016f242598e640800000000000000
+      internalID: 5109497759898077730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 54
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b120611fed92a6da0800000000000000
+      internalID: -5950897920112459237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_28
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 55
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b793fbd1670ac6120800000000000000
+      internalID: 2408476329902029179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 56
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051db391eabb49d00800000000000000
+      internalID: 978613375468294480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_30
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 63
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ad8707a138c29a0800000000000000
+      internalID: -6256481632745104754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_31
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 63
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1814bac97c4be20800000000000000
+      internalID: 3365534297254625714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_32
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 63
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771490eb41b866780800000000000000
+      internalID: -8690105509760908937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93345d176043c7d70800000000000000
+      internalID: 9042159354137363257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_34
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095259f16a2066670800000000000000
+      internalID: 8531509456617678224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_35
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 15
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6073d5ae08d312980800000000000000
+      internalID: -8565497392384887034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_36
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 15
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1cbfaa73e49b1d0800000000000000
+      internalID: -3334548048092347949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06246869ac454c080800000000000000
+      internalID: -9168109712333979040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 15
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8418cf8a2ecca210800000000000000
+      internalID: 1345677070873138317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 15
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344ea57babcfde2f0800000000000000
+      internalID: -941818868180261821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_40
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 15
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d93d34c629c15860800000000000000
+      internalID: 7517010421396355544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_41
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 13
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548f5ef2093db1f20800000000000000
+      internalID: 3394539360386152517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_42
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 12
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46df2b607e02220a0800000000000000
+      internalID: -6907922701810991772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black combo attack 1 48x48_43
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 11
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da8a98c7d54ed3d0800000000000000
+      internalID: -3180027493791135019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black combo attack 1 48x48_0: -8093656473957602350
+      Black combo attack 1 48x48_1: 945402831183943052
+      Black combo attack 1 48x48_10: -303857578933424814
+      Black combo attack 1 48x48_11: 8754040620070993266
+      Black combo attack 1 48x48_12: 948630029598081225
+      Black combo attack 1 48x48_13: 3354103355106755003
+      Black combo attack 1 48x48_14: 8763447056785764415
+      Black combo attack 1 48x48_15: -2329360579125562287
+      Black combo attack 1 48x48_16: 3003750709897665396
+      Black combo attack 1 48x48_17: 6497857348567249641
+      Black combo attack 1 48x48_18: -1291774059337724129
+      Black combo attack 1 48x48_19: 2143202071551141748
+      Black combo attack 1 48x48_2: 7069899001631116914
+      Black combo attack 1 48x48_20: 8046320327522357626
+      Black combo attack 1 48x48_21: 883496527175270150
+      Black combo attack 1 48x48_22: -1489703278741314884
+      Black combo attack 1 48x48_23: 953742482353231664
+      Black combo attack 1 48x48_24: 3990542585367805972
+      Black combo attack 1 48x48_25: -3139931958735082577
+      Black combo attack 1 48x48_26: 5109497759898077730
+      Black combo attack 1 48x48_27: -5950897920112459237
+      Black combo attack 1 48x48_28: 2408476329902029179
+      Black combo attack 1 48x48_29: 978613375468294480
+      Black combo attack 1 48x48_3: 3629109478058703160
+      Black combo attack 1 48x48_30: -6256481632745104754
+      Black combo attack 1 48x48_31: 3365534297254625714
+      Black combo attack 1 48x48_32: -8690105509760908937
+      Black combo attack 1 48x48_33: 9042159354137363257
+      Black combo attack 1 48x48_34: 8531509456617678224
+      Black combo attack 1 48x48_35: -8565497392384887034
+      Black combo attack 1 48x48_36: -3334548048092347949
+      Black combo attack 1 48x48_37: -9168109712333979040
+      Black combo attack 1 48x48_38: 1345677070873138317
+      Black combo attack 1 48x48_39: -941818868180261821
+      Black combo attack 1 48x48_4: -7510093429756661283
+      Black combo attack 1 48x48_40: 7517010421396355544
+      Black combo attack 1 48x48_41: 3394539360386152517
+      Black combo attack 1 48x48_42: -6907922701810991772
+      Black combo attack 1 48x48_43: -3180027493791135019
+      Black combo attack 1 48x48_5: 7720083716823117613
+      Black combo attack 1 48x48_6: 5065465614857807105
+      Black combo attack 1 48x48_7: -3129697228192296008
+      Black combo attack 1 48x48_8: -280605384470388654
+      Black combo attack 1 48x48_9: -2087350996307263618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

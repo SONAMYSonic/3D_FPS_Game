@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: e6ba23c4d21fc3c44a54129bc704b878
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6828985038724762793
+    second: Red Knight block Sprite-sheet 16x20_0
+  - first:
+      213: 5327050233645700626
+    second: Red Knight block Sprite-sheet 16x20_1
+  - first:
+      213: -5286808371915270694
+    second: Red Knight block Sprite-sheet 16x20_2
+  - first:
+      213: -4922729804264262051
+    second: Red Knight block Sprite-sheet 16x20_3
+  - first:
+      213: 5059221825652985233
+    second: Red Knight block Sprite-sheet 16x20_4
+  - first:
+      213: -2093977890906836685
+    second: Red Knight block Sprite-sheet 16x20_5
+  - first:
+      213: 6648025793945077555
+    second: Red Knight block Sprite-sheet 16x20_6
+  - first:
+      213: 4244440865071422718
+    second: Red Knight block Sprite-sheet 16x20_7
+  - first:
+      213: 6995506471298468652
+    second: Red Knight block Sprite-sheet 16x20_8
+  - first:
+      213: 308617595959646260
+    second: Red Knight block Sprite-sheet 16x20_9
+  - first:
+      213: -5035800869918430432
+    second: Red Knight block Sprite-sheet 16x20_10
+  - first:
+      213: -6340903055825103730
+    second: Red Knight block Sprite-sheet 16x20_11
+  - first:
+      213: -5949580747719291714
+    second: Red Knight block Sprite-sheet 16x20_12
+  - first:
+      213: -7507024252260529107
+    second: Red Knight block Sprite-sheet 16x20_13
+  - first:
+      213: -2168291859160515750
+    second: Red Knight block Sprite-sheet 16x20_14
+  - first:
+      213: -7206979983189959514
+    second: Red Knight block Sprite-sheet 16x20_15
+  - first:
+      213: -3356948777002576320
+    second: Red Knight block Sprite-sheet 16x20_16
+  - first:
+      213: -2357212249733255634
+    second: Red Knight block Sprite-sheet 16x20_17
+  - first:
+      213: 2236616819614129678
+    second: Red Knight block Sprite-sheet 16x20_18
+  - first:
+      213: -9121444532318750731
+    second: Red Knight block Sprite-sheet 16x20_19
+  - first:
+      213: -8835759120299479251
+    second: Red Knight block Sprite-sheet 16x20_20
+  - first:
+      213: -3842180766153273312
+    second: Red Knight block Sprite-sheet 16x20_21
+  - first:
+      213: 443029436214981569
+    second: Red Knight block Sprite-sheet 16x20_22
+  - first:
+      213: 5896415109866853143
+    second: Red Knight block Sprite-sheet 16x20_23
+  - first:
+      213: -2906256083166130611
+    second: Red Knight block Sprite-sheet 16x20_24
+  - first:
+      213: 3422429745088811750
+    second: Red Knight block Sprite-sheet 16x20_25
+  - first:
+      213: 5117618715943764762
+    second: Red Knight block Sprite-sheet 16x20_26
+  - first:
+      213: 2819443727385074935
+    second: Red Knight block Sprite-sheet 16x20_27
+  - first:
+      213: -42705298682855248
+    second: Red Knight block Sprite-sheet 16x20_28
+  - first:
+      213: 9190332081920548789
+    second: Red Knight block Sprite-sheet 16x20_29
+  - first:
+      213: 6182071985174524548
+    second: Red Knight block Sprite-sheet 16x20_30
+  - first:
+      213: -4909460744411232913
+    second: Red Knight block Sprite-sheet 16x20_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac85a116bd65ce50800000000000000
+      internalID: 6828985038724762793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 61
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2161d1da6fb7de940800000000000000
+      internalID: 5327050233645700626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 61
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5dd64ebcb71a6b0800000000000000
+      internalID: -5286808371915270694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 61
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56b9932353feabb0800000000000000
+      internalID: -4922729804264262051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 61
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d03fd0277f53640800000000000000
+      internalID: 5059221825652985233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 60
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331f9fcd332b0f2e0800000000000000
+      internalID: -2093977890906836685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 59
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3370bb1ac38824c50800000000000000
+      internalID: 6648025793945077555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 59
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcdbb09a7847ea30800000000000000
+      internalID: 4244440865071422718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b01b56218051160800000000000000
+      internalID: 6995506471298468652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4381c92811e684400800000000000000
+      internalID: 308617595959646260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ba8e42acd3d1ab0800000000000000
+      internalID: -5035800869918430432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e841b5a24469008a0800000000000000
+      internalID: -6340903055825103730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc40b905d7de6da0800000000000000
+      internalID: -5949580747719291714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cc4cb6731b1d790800000000000000
+      internalID: -7507024252260529107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bbd5dca0ea8e1e0800000000000000
+      internalID: -2168291859160515750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac9c96b3e9abfb90800000000000000
+      internalID: -7206979983189959514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04654998fd8b961d0800000000000000
+      internalID: -3356948777002576320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 20
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e237aa2ff794fd0800000000000000
+      internalID: -2357212249733255634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 19
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e93c7b52f0a0f10800000000000000
+      internalID: 2236616819614129678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 19
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f736bc768e1a6180800000000000000
+      internalID: -9121444532318750731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 20
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fa1a9d4e3116580800000000000000
+      internalID: -8835759120299479251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 21
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020989e23f4ddaac0800000000000000
+      internalID: -3842180766153273312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 21
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3b2aacce4f52600800000000000000
+      internalID: 443029436214981569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 21
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7131cd74d4644d150800000000000000
+      internalID: 5896415109866853143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e80988d77eaa7d0800000000000000
+      internalID: -2906256083166130611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2dfb868b9ee7f20800000000000000
+      internalID: 3422429745088811750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1308bb9b1f650740800000000000000
+      internalID: 5117618715943764762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc9dfac12da02720800000000000000
+      internalID: 2819443727385074935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b04bf1d1c7486ff0800000000000000
+      internalID: -42705298682855248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf10c6065e9a8f70800000000000000
+      internalID: 9190332081920548789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482b83c67b12bc550800000000000000
+      internalID: 6182071985174524548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight block Sprite-sheet 16x20_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65c4a2e6771edbb0800000000000000
+      internalID: -4909460744411232913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Red Knight block Sprite-sheet 16x20_0: 6828985038724762793
+      Red Knight block Sprite-sheet 16x20_1: 5327050233645700626
+      Red Knight block Sprite-sheet 16x20_10: -5035800869918430432
+      Red Knight block Sprite-sheet 16x20_11: -6340903055825103730
+      Red Knight block Sprite-sheet 16x20_12: -5949580747719291714
+      Red Knight block Sprite-sheet 16x20_13: -7507024252260529107
+      Red Knight block Sprite-sheet 16x20_14: -2168291859160515750
+      Red Knight block Sprite-sheet 16x20_15: -7206979983189959514
+      Red Knight block Sprite-sheet 16x20_16: -3356948777002576320
+      Red Knight block Sprite-sheet 16x20_17: -2357212249733255634
+      Red Knight block Sprite-sheet 16x20_18: 2236616819614129678
+      Red Knight block Sprite-sheet 16x20_19: -9121444532318750731
+      Red Knight block Sprite-sheet 16x20_2: -5286808371915270694
+      Red Knight block Sprite-sheet 16x20_20: -8835759120299479251
+      Red Knight block Sprite-sheet 16x20_21: -3842180766153273312
+      Red Knight block Sprite-sheet 16x20_22: 443029436214981569
+      Red Knight block Sprite-sheet 16x20_23: 5896415109866853143
+      Red Knight block Sprite-sheet 16x20_24: -2906256083166130611
+      Red Knight block Sprite-sheet 16x20_25: 3422429745088811750
+      Red Knight block Sprite-sheet 16x20_26: 5117618715943764762
+      Red Knight block Sprite-sheet 16x20_27: 2819443727385074935
+      Red Knight block Sprite-sheet 16x20_28: -42705298682855248
+      Red Knight block Sprite-sheet 16x20_29: 9190332081920548789
+      Red Knight block Sprite-sheet 16x20_3: -4922729804264262051
+      Red Knight block Sprite-sheet 16x20_30: 6182071985174524548
+      Red Knight block Sprite-sheet 16x20_31: -4909460744411232913
+      Red Knight block Sprite-sheet 16x20_4: 5059221825652985233
+      Red Knight block Sprite-sheet 16x20_5: -2093977890906836685
+      Red Knight block Sprite-sheet 16x20_6: 6648025793945077555
+      Red Knight block Sprite-sheet 16x20_7: 4244440865071422718
+      Red Knight block Sprite-sheet 16x20_8: 6995506471298468652
+      Red Knight block Sprite-sheet 16x20_9: 308617595959646260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 473b95894ce3a2b4f808eb1f989f2367
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4325373381043554519
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_0
+  - first:
+      213: -4344120015810646851
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_1
+  - first:
+      213: -1541541947354966049
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_2
+  - first:
+      213: 1748170309836594257
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_3
+  - first:
+      213: -7719864779421790504
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_4
+  - first:
+      213: 1498184791997518874
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_5
+  - first:
+      213: -1251166027195391021
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_6
+  - first:
+      213: 4955090093199882530
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_7
+  - first:
+      213: -5628141334837624495
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_8
+  - first:
+      213: -5547105254988525177
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_9
+  - first:
+      213: -5383794215758278991
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_10
+  - first:
+      213: -5484083714550089381
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_11
+  - first:
+      213: -7101920516163729717
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_12
+  - first:
+      213: 4618804979552524381
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_13
+  - first:
+      213: 3282091218977267435
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_14
+  - first:
+      213: -6141779880673372541
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_15
+  - first:
+      213: -4036502173824364823
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_16
+  - first:
+      213: -5086886845523028874
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_17
+  - first:
+      213: -8077208620772208044
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_18
+  - first:
+      213: -6557457050663894936
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_19
+  - first:
+      213: -5377858728558135037
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_20
+  - first:
+      213: -674309407747259276
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_21
+  - first:
+      213: -4499404115001386103
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_22
+  - first:
+      213: -5368854215113584947
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_23
+  - first:
+      213: -2371525008220433333
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_24
+  - first:
+      213: -5672611958758839313
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_25
+  - first:
+      213: -7146795084262947137
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_26
+  - first:
+      213: 5187270813986945796
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_27
+  - first:
+      213: -4350248130880757331
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_28
+  - first:
+      213: -3009918812825731939
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_29
+  - first:
+      213: -702149169337089683
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_30
+  - first:
+      213: -4788119090772583732
+    second: Dark Yellow Knight hit 2 Sprite-sheet 16x20_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 62
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8080a5c20d60c30800000000000000
+      internalID: 4325373381043554519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc21fb9cd596b3c0800000000000000
+      internalID: -4344120015810646851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd71b8d24c75b9ae0800000000000000
+      internalID: -1541541947354966049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cd1b472afb24810800000000000000
+      internalID: 1748170309836594257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dec38c72e78dd490800000000000000
+      internalID: -7719864779421790504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 62
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1497ee612f9ac410800000000000000
+      internalID: 1498184791997518874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 61
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d36bf19027f2aee0800000000000000
+      internalID: -1251166027195391021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 61
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2297c33cf2404c440800000000000000
+      internalID: 4955090093199882530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1518f4f6643d4e1b0800000000000000
+      internalID: -5628141334837624495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781d4b01929b403b0800000000000000
+      internalID: -5547105254988525177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1becce17fabe845b0800000000000000
+      internalID: -5383794215758278991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59bcb3eaee94e3b0800000000000000
+      internalID: -5484083714550089381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6800b0be8e07d90800000000000000
+      internalID: -7101920516163729717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58980d48aa491040800000000000000
+      internalID: 4618804979552524381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee919b03945c8d20800000000000000
+      internalID: 3282091218977267435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38692d33db304caa0800000000000000
+      internalID: -6141779880673372541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee4b12c8a67bf7c0800000000000000
+      internalID: -4036502173824364823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 20
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6741eff8d5fb769b0800000000000000
+      internalID: -5086886845523028874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 19
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4525626ed8df7ef80800000000000000
+      internalID: -8077208620772208044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 19
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8604c492e8b3ff4a0800000000000000
+      internalID: -6557457050663894936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 20
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309fe00caf10e55b0800000000000000
+      internalID: -5377858728558135037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 21
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47445829a2f54a6f0800000000000000
+      internalID: -674309407747259276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 21
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b5968dbc7ee81c0800000000000000
+      internalID: -4499404115001386103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 21
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcecb49698ffd75b0800000000000000
+      internalID: -5368854215113584947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44d015e196a61fd0800000000000000
+      internalID: -2371525008220433333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febeb817a75d641b0800000000000000
+      internalID: -5672611958758839313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6cff77cbb71dc90800000000000000
+      internalID: -7146795084262947137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b717d6253ecf740800000000000000
+      internalID: 5187270813986945796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1ab02af50d0a3c0800000000000000
+      internalID: -4350248130880757331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cb1c679ce9a36d0800000000000000
+      internalID: -3009918812825731939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61c356fc077146f0800000000000000
+      internalID: -702149169337089683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight hit 2 Sprite-sheet 16x20_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccadb343e0f2d8db0800000000000000
+      internalID: -4788119090772583732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_0: 4325373381043554519
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_1: -4344120015810646851
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_10: -5383794215758278991
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_11: -5484083714550089381
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_12: -7101920516163729717
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_13: 4618804979552524381
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_14: 3282091218977267435
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_15: -6141779880673372541
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_16: -4036502173824364823
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_17: -5086886845523028874
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_18: -8077208620772208044
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_19: -6557457050663894936
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_2: -1541541947354966049
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_20: -5377858728558135037
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_21: -674309407747259276
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_22: -4499404115001386103
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_23: -5368854215113584947
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_24: -2371525008220433333
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_25: -5672611958758839313
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_26: -7146795084262947137
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_27: 5187270813986945796
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_28: -4350248130880757331
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_29: -3009918812825731939
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_3: 1748170309836594257
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_30: -702149169337089683
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_31: -4788119090772583732
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_4: -7719864779421790504
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_5: 1498184791997518874
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_6: -1251166027195391021
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_7: 4955090093199882530
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_8: -5628141334837624495
+      Dark Yellow Knight hit 2 Sprite-sheet 16x20_9: -5547105254988525177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

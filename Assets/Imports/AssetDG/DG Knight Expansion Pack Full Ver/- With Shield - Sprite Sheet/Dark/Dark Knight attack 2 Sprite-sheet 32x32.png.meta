@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 975e9129d510bf6429b014956a2480d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6465716568153395289
+    second: Dark Knight attack 2 Sprite-sheet 32x32_0
+  - first:
+      213: -5450996372359118741
+    second: Dark Knight attack 2 Sprite-sheet 32x32_1
+  - first:
+      213: 6318295386852181341
+    second: Dark Knight attack 2 Sprite-sheet 32x32_2
+  - first:
+      213: -6874825549588526535
+    second: Dark Knight attack 2 Sprite-sheet 32x32_3
+  - first:
+      213: -1526699203369224502
+    second: Dark Knight attack 2 Sprite-sheet 32x32_4
+  - first:
+      213: -5853182842699913655
+    second: Dark Knight attack 2 Sprite-sheet 32x32_5
+  - first:
+      213: 2312180519395983109
+    second: Dark Knight attack 2 Sprite-sheet 32x32_6
+  - first:
+      213: -5644751264223153506
+    second: Dark Knight attack 2 Sprite-sheet 32x32_7
+  - first:
+      213: 498226013810810821
+    second: Dark Knight attack 2 Sprite-sheet 32x32_8
+  - first:
+      213: 7090707739772753281
+    second: Dark Knight attack 2 Sprite-sheet 32x32_9
+  - first:
+      213: -4272900614695510982
+    second: Dark Knight attack 2 Sprite-sheet 32x32_10
+  - first:
+      213: -3501533147844426338
+    second: Dark Knight attack 2 Sprite-sheet 32x32_11
+  - first:
+      213: -4395068942514576457
+    second: Dark Knight attack 2 Sprite-sheet 32x32_12
+  - first:
+      213: 4613999119137387199
+    second: Dark Knight attack 2 Sprite-sheet 32x32_13
+  - first:
+      213: -5998555794851731232
+    second: Dark Knight attack 2 Sprite-sheet 32x32_14
+  - first:
+      213: -2464617212271552280
+    second: Dark Knight attack 2 Sprite-sheet 32x32_15
+  - first:
+      213: 2241402910040225036
+    second: Dark Knight attack 2 Sprite-sheet 32x32_16
+  - first:
+      213: -2121174696294082064
+    second: Dark Knight attack 2 Sprite-sheet 32x32_17
+  - first:
+      213: -5759585112373600183
+    second: Dark Knight attack 2 Sprite-sheet 32x32_18
+  - first:
+      213: -1219645975903229930
+    second: Dark Knight attack 2 Sprite-sheet 32x32_19
+  - first:
+      213: -5038458917983653826
+    second: Dark Knight attack 2 Sprite-sheet 32x32_20
+  - first:
+      213: -2888851278005752575
+    second: Dark Knight attack 2 Sprite-sheet 32x32_21
+  - first:
+      213: 4916786319810367071
+    second: Dark Knight attack 2 Sprite-sheet 32x32_22
+  - first:
+      213: -5234007700637198009
+    second: Dark Knight attack 2 Sprite-sheet 32x32_23
+  - first:
+      213: -2754250442200392087
+    second: Dark Knight attack 2 Sprite-sheet 32x32_24
+  - first:
+      213: -1605381012586337406
+    second: Dark Knight attack 2 Sprite-sheet 32x32_25
+  - first:
+      213: 6602458886092798038
+    second: Dark Knight attack 2 Sprite-sheet 32x32_26
+  - first:
+      213: 8930548426682463329
+    second: Dark Knight attack 2 Sprite-sheet 32x32_27
+  - first:
+      213: 607170128251489535
+    second: Dark Knight attack 2 Sprite-sheet 32x32_28
+  - first:
+      213: -8327544486858454404
+    second: Dark Knight attack 2 Sprite-sheet 32x32_29
+  - first:
+      213: -5259968280000273466
+    second: Dark Knight attack 2 Sprite-sheet 32x32_30
+  - first:
+      213: -9085869888174291354
+    second: Dark Knight attack 2 Sprite-sheet 32x32_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 152
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950142f36f6dab950800000000000000
+      internalID: 6465716568153395289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 153
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6087911eab2a54b0800000000000000
+      internalID: -5450996372359118741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 153
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d554057bd281fa750800000000000000
+      internalID: 6318295386852181341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 148
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a0ff74696b790a0800000000000000
+      internalID: -6874825549588526535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 145
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac63e40d92310dae0800000000000000
+      internalID: -1526699203369224502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 144
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946e57f473155cea0800000000000000
+      internalID: -5853182842699913655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 143
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ffc239ee3861020800000000000000
+      internalID: 2312180519395983109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 150
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92ba82e1a0d9a1b0800000000000000
+      internalID: -5644751264223153506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf5d0b7bed0ae600800000000000000
+      internalID: 498226013810810821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 111
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18594430f11476260800000000000000
+      internalID: 7090707739772753281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c968c978b93b4c0800000000000000
+      internalID: -4272900614695510982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 111
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e954a79672e086fc0800000000000000
+      internalID: -3501533147844426338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 111
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3211635149103c0800000000000000
+      internalID: -4395068942514576457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 111
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2362ab0c7380040800000000000000
+      internalID: 4613999119137387199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_14
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 111
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8608a4949d0cca0800000000000000
+      internalID: -5998555794851731232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e89d3b14bbebcdd0800000000000000
+      internalID: -2464617212271552280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05797b32101b1f10800000000000000
+      internalID: 2241402910040225036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f918d82ad21092e0800000000000000
+      internalID: -2121174696294082064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940e75b1bd7d110b0800000000000000
+      internalID: -5759585112373600183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618ad866272f21fe0800000000000000
+      internalID: -1219645975903229930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e307f2a1f4cc31ab0800000000000000
+      internalID: -5038458917983653826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 63
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10da885811db8e7d0800000000000000
+      internalID: -2888851278005752575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 63
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e0ccc8b1feb3440800000000000000
+      internalID: 4916786319810367071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 63
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7495cdb2ab11d57b0800000000000000
+      internalID: -5234007700637198009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ede22c0dfe6c9d0800000000000000
+      internalID: -2754250442200392087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 15
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b62a7897a88b9e0800000000000000
+      internalID: -1605381012586337406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 15
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658bea52065a0ab50800000000000000
+      internalID: 6602458886092798038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 15
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164f4dd5a7eafeb70800000000000000
+      internalID: 8930548426682463329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 15
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc88a4c30a1d6800800000000000000
+      internalID: 607170128251489535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 15
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a0a81196e9e6c80800000000000000
+      internalID: -8327544486858454404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_30
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 15
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3e2c4c7b6d007b0800000000000000
+      internalID: -5259968280000273466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight attack 2 Sprite-sheet 32x32_31
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 15
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66604f7c97188e180800000000000000
+      internalID: -9085869888174291354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark Knight attack 2 Sprite-sheet 32x32_0: 6465716568153395289
+      Dark Knight attack 2 Sprite-sheet 32x32_1: -5450996372359118741
+      Dark Knight attack 2 Sprite-sheet 32x32_10: -4272900614695510982
+      Dark Knight attack 2 Sprite-sheet 32x32_11: -3501533147844426338
+      Dark Knight attack 2 Sprite-sheet 32x32_12: -4395068942514576457
+      Dark Knight attack 2 Sprite-sheet 32x32_13: 4613999119137387199
+      Dark Knight attack 2 Sprite-sheet 32x32_14: -5998555794851731232
+      Dark Knight attack 2 Sprite-sheet 32x32_15: -2464617212271552280
+      Dark Knight attack 2 Sprite-sheet 32x32_16: 2241402910040225036
+      Dark Knight attack 2 Sprite-sheet 32x32_17: -2121174696294082064
+      Dark Knight attack 2 Sprite-sheet 32x32_18: -5759585112373600183
+      Dark Knight attack 2 Sprite-sheet 32x32_19: -1219645975903229930
+      Dark Knight attack 2 Sprite-sheet 32x32_2: 6318295386852181341
+      Dark Knight attack 2 Sprite-sheet 32x32_20: -5038458917983653826
+      Dark Knight attack 2 Sprite-sheet 32x32_21: -2888851278005752575
+      Dark Knight attack 2 Sprite-sheet 32x32_22: 4916786319810367071
+      Dark Knight attack 2 Sprite-sheet 32x32_23: -5234007700637198009
+      Dark Knight attack 2 Sprite-sheet 32x32_24: -2754250442200392087
+      Dark Knight attack 2 Sprite-sheet 32x32_25: -1605381012586337406
+      Dark Knight attack 2 Sprite-sheet 32x32_26: 6602458886092798038
+      Dark Knight attack 2 Sprite-sheet 32x32_27: 8930548426682463329
+      Dark Knight attack 2 Sprite-sheet 32x32_28: 607170128251489535
+      Dark Knight attack 2 Sprite-sheet 32x32_29: -8327544486858454404
+      Dark Knight attack 2 Sprite-sheet 32x32_3: -6874825549588526535
+      Dark Knight attack 2 Sprite-sheet 32x32_30: -5259968280000273466
+      Dark Knight attack 2 Sprite-sheet 32x32_31: -9085869888174291354
+      Dark Knight attack 2 Sprite-sheet 32x32_4: -1526699203369224502
+      Dark Knight attack 2 Sprite-sheet 32x32_5: -5853182842699913655
+      Dark Knight attack 2 Sprite-sheet 32x32_6: 2312180519395983109
+      Dark Knight attack 2 Sprite-sheet 32x32_7: -5644751264223153506
+      Dark Knight attack 2 Sprite-sheet 32x32_8: 498226013810810821
+      Dark Knight attack 2 Sprite-sheet 32x32_9: 7090707739772753281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

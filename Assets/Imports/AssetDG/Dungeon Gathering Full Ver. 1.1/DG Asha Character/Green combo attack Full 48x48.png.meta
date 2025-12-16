@@ -1,0 +1,2106 @@
+fileFormatVersion: 2
+guid: db51cd477d9fbbd4e9a762907472e6f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -272227215944502940
+    second: Green combo attack Full 48x48_0
+  - first:
+      213: -2613563807563215916
+    second: Green combo attack Full 48x48_1
+  - first:
+      213: -8580353897788703573
+    second: Green combo attack Full 48x48_2
+  - first:
+      213: -2150436105531522732
+    second: Green combo attack Full 48x48_3
+  - first:
+      213: 7495866403821912677
+    second: Green combo attack Full 48x48_4
+  - first:
+      213: 736566060037001863
+    second: Green combo attack Full 48x48_5
+  - first:
+      213: 1047296990206228283
+    second: Green combo attack Full 48x48_6
+  - first:
+      213: 3822846579083586322
+    second: Green combo attack Full 48x48_7
+  - first:
+      213: -7917848670061907054
+    second: Green combo attack Full 48x48_8
+  - first:
+      213: -219812570557584074
+    second: Green combo attack Full 48x48_9
+  - first:
+      213: -7827157501359968639
+    second: Green combo attack Full 48x48_10
+  - first:
+      213: -5875698089715550474
+    second: Green combo attack Full 48x48_11
+  - first:
+      213: -1806793235408116978
+    second: Green combo attack Full 48x48_12
+  - first:
+      213: 1501501652794203577
+    second: Green combo attack Full 48x48_13
+  - first:
+      213: -4269834061575981901
+    second: Green combo attack Full 48x48_14
+  - first:
+      213: -5848806699208679030
+    second: Green combo attack Full 48x48_15
+  - first:
+      213: 5508241178339084269
+    second: Green combo attack Full 48x48_16
+  - first:
+      213: -3565074161802311468
+    second: Green combo attack Full 48x48_17
+  - first:
+      213: -4789836865964639454
+    second: Green combo attack Full 48x48_18
+  - first:
+      213: 1455504030407001861
+    second: Green combo attack Full 48x48_19
+  - first:
+      213: 8551346469811395384
+    second: Green combo attack Full 48x48_20
+  - first:
+      213: -4572498257955038293
+    second: Green combo attack Full 48x48_21
+  - first:
+      213: 6467411357766586403
+    second: Green combo attack Full 48x48_22
+  - first:
+      213: -4689456184292184770
+    second: Green combo attack Full 48x48_23
+  - first:
+      213: 5798986894020584163
+    second: Green combo attack Full 48x48_24
+  - first:
+      213: -7405752502549449381
+    second: Green combo attack Full 48x48_25
+  - first:
+      213: 443138690982728849
+    second: Green combo attack Full 48x48_26
+  - first:
+      213: -3580324735550631641
+    second: Green combo attack Full 48x48_27
+  - first:
+      213: 8512912553401219903
+    second: Green combo attack Full 48x48_28
+  - first:
+      213: -2954115409798518502
+    second: Green combo attack Full 48x48_29
+  - first:
+      213: 6324977739601795093
+    second: Green combo attack Full 48x48_30
+  - first:
+      213: 3708608421102499835
+    second: Green combo attack Full 48x48_31
+  - first:
+      213: 6366524580500217327
+    second: Green combo attack Full 48x48_32
+  - first:
+      213: -1391766849195659355
+    second: Green combo attack Full 48x48_33
+  - first:
+      213: 5858409588992545026
+    second: Green combo attack Full 48x48_34
+  - first:
+      213: 9005668333566645011
+    second: Green combo attack Full 48x48_35
+  - first:
+      213: -3665941779953282132
+    second: Green combo attack Full 48x48_36
+  - first:
+      213: 5978059434342694491
+    second: Green combo attack Full 48x48_37
+  - first:
+      213: -8196922682662506936
+    second: Green combo attack Full 48x48_38
+  - first:
+      213: -8896355667986567994
+    second: Green combo attack Full 48x48_39
+  - first:
+      213: -3827203204103503531
+    second: Green combo attack Full 48x48_40
+  - first:
+      213: -3339955627388381385
+    second: Green combo attack Full 48x48_41
+  - first:
+      213: 5811070769300114485
+    second: Green combo attack Full 48x48_42
+  - first:
+      213: 1462796662395920010
+    second: Green combo attack Full 48x48_43
+  - first:
+      213: -9123315569683479910
+    second: Green combo attack Full 48x48_44
+  - first:
+      213: -4457885979865125108
+    second: Green combo attack Full 48x48_45
+  - first:
+      213: 5640164458857218715
+    second: Green combo attack Full 48x48_46
+  - first:
+      213: 4854098356080618817
+    second: Green combo attack Full 48x48_47
+  - first:
+      213: -1550794616503728763
+    second: Green combo attack Full 48x48_48
+  - first:
+      213: -4884837572817596725
+    second: Green combo attack Full 48x48_49
+  - first:
+      213: 3871702126433937684
+    second: Green combo attack Full 48x48_50
+  - first:
+      213: -1224946331334672357
+    second: Green combo attack Full 48x48_51
+  - first:
+      213: -2716634935337742411
+    second: Green combo attack Full 48x48_52
+  - first:
+      213: 96176800571674911
+    second: Green combo attack Full 48x48_53
+  - first:
+      213: -6853241201574436222
+    second: Green combo attack Full 48x48_54
+  - first:
+      213: -2311546026057320771
+    second: Green combo attack Full 48x48_55
+  - first:
+      213: 3060890934381806907
+    second: Green combo attack Full 48x48_56
+  - first:
+      213: 8608495752910765453
+    second: Green combo attack Full 48x48_57
+  - first:
+      213: 1441179065458547019
+    second: Green combo attack Full 48x48_58
+  - first:
+      213: -8827591702515038522
+    second: Green combo attack Full 48x48_59
+  - first:
+      213: 5148546518610128483
+    second: Green combo attack Full 48x48_60
+  - first:
+      213: -2353858724311812879
+    second: Green combo attack Full 48x48_61
+  - first:
+      213: 7917131354780503686
+    second: Green combo attack Full 48x48_62
+  - first:
+      213: -5135942637235793527
+    second: Green combo attack Full 48x48_63
+  - first:
+      213: -8573124734320249173
+    second: Green combo attack Full 48x48_64
+  - first:
+      213: -3679092617948020061
+    second: Green combo attack Full 48x48_65
+  - first:
+      213: -204243316326614225
+    second: Green combo attack Full 48x48_66
+  - first:
+      213: -6477473956780659139
+    second: Green combo attack Full 48x48_67
+  - first:
+      213: -7991787962988759298
+    second: Green combo attack Full 48x48_68
+  - first:
+      213: 6885730352748187075
+    second: Green combo attack Full 48x48_69
+  - first:
+      213: -3436504772204004781
+    second: Green combo attack Full 48x48_70
+  - first:
+      213: 5729581677572532940
+    second: Green combo attack Full 48x48_71
+  - first:
+      213: 23193617861977189
+    second: Green combo attack Full 48x48_72
+  - first:
+      213: -7981363252857747045
+    second: Green combo attack Full 48x48_73
+  - first:
+      213: 2820839119279162535
+    second: Green combo attack Full 48x48_74
+  - first:
+      213: -7813509538775850455
+    second: Green combo attack Full 48x48_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4613f671acad83cf0800000000000000
+      internalID: -272227215944502940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db80647091cabbd0800000000000000
+      internalID: -2613563807563215916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 150
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac7a2337957ce880800000000000000
+      internalID: -8580353897788703573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 151
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4518e9961cd1822e0800000000000000
+      internalID: -2150436105531522732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 151
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562079b87caa60860800000000000000
+      internalID: 7495866403821912677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 151
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7825d1addeec83a00800000000000000
+      internalID: 736566060037001863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 156
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37f393501fb88e00800000000000000
+      internalID: 1047296990206228283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 150
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b281995ba7d0530800000000000000
+      internalID: 3822846579083586322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 151
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29339abc5962e1290800000000000000
+      internalID: -7917848670061907054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 159
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63defb6b1a113fcf0800000000000000
+      internalID: -219812570557584074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 159
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ea76af8b9506390800000000000000
+      internalID: -7827157501359968639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 152
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6301bd7b3557ea0800000000000000
+      internalID: -5875698089715550474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 153
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03abec002bfce6e0800000000000000
+      internalID: -1806793235408116978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 153
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdd5744cc766d410800000000000000
+      internalID: 1501501652794203577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_14
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 148
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b476e52b808eb4c0800000000000000
+      internalID: -4269834061575981901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_15
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 145
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81edbd9b4dd4dea0800000000000000
+      internalID: -5848806699208679030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 144
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de78414fa24317c40800000000000000
+      internalID: 5508241178339084269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_17
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 143
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d889db30ff468ec0800000000000000
+      internalID: -3565074161802311468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_18
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 150
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b7b108fb4178db0800000000000000
+      internalID: -4789836865964639454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 103
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5070f8d343df23410800000000000000
+      internalID: 1455504030407001861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 103
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b166cae4c7ca670800000000000000
+      internalID: 8551346469811395384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 100
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab5f7e7f093b80c0800000000000000
+      internalID: -4572498257955038293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 106
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32011043d5cd0c950800000000000000
+      internalID: 6467411357766586403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 111
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d61893274bbeeb0800000000000000
+      internalID: -4689456184292184770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 111
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e22e331bd32a7050800000000000000
+      internalID: 5798986894020584163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_25
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 111
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b557417165b793990800000000000000
+      internalID: -7405752502549449381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 101
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194d146aa48562600800000000000000
+      internalID: 443138690982728849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_27
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 102
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721d5f45f91205ec0800000000000000
+      internalID: -3580324735550631641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_28
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 102
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b717d2dd0f32670800000000000000
+      internalID: 8512912553401219903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_29
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 102
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19a375bfafd007d0800000000000000
+      internalID: -2954115409798518502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_30
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 105
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518d7353eb5d6c750800000000000000
+      internalID: 6324977739601795093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_31
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 110
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf736deb5bf977330800000000000000
+      internalID: 3708608421102499835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_32
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed128aef507a5850800000000000000
+      internalID: 6366524580500217327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_33
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 111
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af278fac637face0800000000000000
+      internalID: -1391766849195659355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_34
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 111
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20194a46b704d4150800000000000000
+      internalID: 5858409588992545026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 111
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3135933a2af8afc70800000000000000
+      internalID: 9005668333566645011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_36
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 111
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca31f96cf55ff1dc0800000000000000
+      internalID: -3665941779953282132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_37
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 111
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e3b26e16556f250800000000000000
+      internalID: 5978059434342694491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e2f80df3eae3e80800000000000000
+      internalID: -8196922682662506936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_39
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 63
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cca026a7abc98480800000000000000
+      internalID: -8896355667986567994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_40
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 58
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5518c2896fa03eac0800000000000000
+      internalID: -3827203204103503531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 54
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737d2ff7d0816a1d0800000000000000
+      internalID: -3339955627388381385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_42
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 54
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c0ac8831215a050800000000000000
+      internalID: 5811070769300114485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 54
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e5cb070d5ec4410800000000000000
+      internalID: 1462796662395920010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_44
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 55
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92c937a3d8736180800000000000000
+      internalID: -9123315569683479910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_45
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 56
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fe1f8f1586222c0800000000000000
+      internalID: -4457885979865125108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_46
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 63
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92c7f441b3e54e40800000000000000
+      internalID: 5640164458857218715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_47
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 63
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d2efa9cb83d5340800000000000000
+      internalID: 4854098356080618817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_48
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 63
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58505b343887a7ae0800000000000000
+      internalID: -1550794616503728763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_49
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcec9b6cb12953cb0800000000000000
+      internalID: -4884837572817596725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_50
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 63
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4192832229c0bb530800000000000000
+      internalID: 3871702126433937684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_51
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 63
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1001eb3dcd100fe0800000000000000
+      internalID: -1224946331334672357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_52
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 63
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf07ce6be29c4ad0800000000000000
+      internalID: -2716634935337742411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_53
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 63
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1155b16a40b55100800000000000000
+      internalID: 96176800571674911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_54
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 63
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282a51cef6564e0a0800000000000000
+      internalID: -6853241201574436222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_55
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 63
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db633eae22dbbefd0800000000000000
+      internalID: -2311546026057320771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_56
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b358a0866187a7a20800000000000000
+      internalID: 3060890934381806907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_57
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d74ba0745877770800000000000000
+      internalID: 8608495752910765453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_58
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49d26e69b8100410800000000000000
+      internalID: 1441179065458547019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_59
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 15
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6c76dfd181e7580800000000000000
+      internalID: -8827591702515038522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_60
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 15
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ea45fc7cf437740800000000000000
+      internalID: 5148546518610128483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4b0f526f9655fd0800000000000000
+      internalID: -2353858724311812879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 15
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e8cc9350d4fdd60800000000000000
+      internalID: 7917131354780503686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_63
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 15
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98117c0026779b8b0800000000000000
+      internalID: -5135942637235793527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_64
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 15
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6f9bbf974260980800000000000000
+      internalID: -8573124734320249173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_65
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 13
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a24273b1cc31fcc0800000000000000
+      internalID: -3679092617948020061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_66
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 12
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bba9239c16a2df0800000000000000
+      internalID: -204243316326614225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_67
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 11
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eae3461c36b16a0800000000000000
+      internalID: -6477473956780659139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_68
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 15
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6ffc1a037771190800000000000000
+      internalID: -7991787962988759298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_69
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 15
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd4eae06470f8f50800000000000000
+      internalID: 6885730352748187075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_70
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 15
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a78d7fd151f40d0800000000000000
+      internalID: -3436504772204004781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_71
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 15
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca2c4bdd20938f40800000000000000
+      internalID: 5729581677572532940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_72
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 15
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56428b9f876625000800000000000000
+      internalID: 23193617861977189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_73
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 15
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99ce0a98608c3190800000000000000
+      internalID: -7981363252857747045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_74
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 15
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a40929cb32a52720800000000000000
+      internalID: 2820839119279162535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green combo attack Full 48x48_75
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 15
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922a324e876d09390800000000000000
+      internalID: -7813509538775850455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green combo attack Full 48x48_0: -272227215944502940
+      Green combo attack Full 48x48_1: -2613563807563215916
+      Green combo attack Full 48x48_10: -7827157501359968639
+      Green combo attack Full 48x48_11: -5875698089715550474
+      Green combo attack Full 48x48_12: -1806793235408116978
+      Green combo attack Full 48x48_13: 1501501652794203577
+      Green combo attack Full 48x48_14: -4269834061575981901
+      Green combo attack Full 48x48_15: -5848806699208679030
+      Green combo attack Full 48x48_16: 5508241178339084269
+      Green combo attack Full 48x48_17: -3565074161802311468
+      Green combo attack Full 48x48_18: -4789836865964639454
+      Green combo attack Full 48x48_19: 1455504030407001861
+      Green combo attack Full 48x48_2: -8580353897788703573
+      Green combo attack Full 48x48_20: 8551346469811395384
+      Green combo attack Full 48x48_21: -4572498257955038293
+      Green combo attack Full 48x48_22: 6467411357766586403
+      Green combo attack Full 48x48_23: -4689456184292184770
+      Green combo attack Full 48x48_24: 5798986894020584163
+      Green combo attack Full 48x48_25: -7405752502549449381
+      Green combo attack Full 48x48_26: 443138690982728849
+      Green combo attack Full 48x48_27: -3580324735550631641
+      Green combo attack Full 48x48_28: 8512912553401219903
+      Green combo attack Full 48x48_29: -2954115409798518502
+      Green combo attack Full 48x48_3: -2150436105531522732
+      Green combo attack Full 48x48_30: 6324977739601795093
+      Green combo attack Full 48x48_31: 3708608421102499835
+      Green combo attack Full 48x48_32: 6366524580500217327
+      Green combo attack Full 48x48_33: -1391766849195659355
+      Green combo attack Full 48x48_34: 5858409588992545026
+      Green combo attack Full 48x48_35: 9005668333566645011
+      Green combo attack Full 48x48_36: -3665941779953282132
+      Green combo attack Full 48x48_37: 5978059434342694491
+      Green combo attack Full 48x48_38: -8196922682662506936
+      Green combo attack Full 48x48_39: -8896355667986567994
+      Green combo attack Full 48x48_4: 7495866403821912677
+      Green combo attack Full 48x48_40: -3827203204103503531
+      Green combo attack Full 48x48_41: -3339955627388381385
+      Green combo attack Full 48x48_42: 5811070769300114485
+      Green combo attack Full 48x48_43: 1462796662395920010
+      Green combo attack Full 48x48_44: -9123315569683479910
+      Green combo attack Full 48x48_45: -4457885979865125108
+      Green combo attack Full 48x48_46: 5640164458857218715
+      Green combo attack Full 48x48_47: 4854098356080618817
+      Green combo attack Full 48x48_48: -1550794616503728763
+      Green combo attack Full 48x48_49: -4884837572817596725
+      Green combo attack Full 48x48_5: 736566060037001863
+      Green combo attack Full 48x48_50: 3871702126433937684
+      Green combo attack Full 48x48_51: -1224946331334672357
+      Green combo attack Full 48x48_52: -2716634935337742411
+      Green combo attack Full 48x48_53: 96176800571674911
+      Green combo attack Full 48x48_54: -6853241201574436222
+      Green combo attack Full 48x48_55: -2311546026057320771
+      Green combo attack Full 48x48_56: 3060890934381806907
+      Green combo attack Full 48x48_57: 8608495752910765453
+      Green combo attack Full 48x48_58: 1441179065458547019
+      Green combo attack Full 48x48_59: -8827591702515038522
+      Green combo attack Full 48x48_6: 1047296990206228283
+      Green combo attack Full 48x48_60: 5148546518610128483
+      Green combo attack Full 48x48_61: -2353858724311812879
+      Green combo attack Full 48x48_62: 7917131354780503686
+      Green combo attack Full 48x48_63: -5135942637235793527
+      Green combo attack Full 48x48_64: -8573124734320249173
+      Green combo attack Full 48x48_65: -3679092617948020061
+      Green combo attack Full 48x48_66: -204243316326614225
+      Green combo attack Full 48x48_67: -6477473956780659139
+      Green combo attack Full 48x48_68: -7991787962988759298
+      Green combo attack Full 48x48_69: 6885730352748187075
+      Green combo attack Full 48x48_7: 3822846579083586322
+      Green combo attack Full 48x48_70: -3436504772204004781
+      Green combo attack Full 48x48_71: 5729581677572532940
+      Green combo attack Full 48x48_72: 23193617861977189
+      Green combo attack Full 48x48_73: -7981363252857747045
+      Green combo attack Full 48x48_74: 2820839119279162535
+      Green combo attack Full 48x48_75: -7813509538775850455
+      Green combo attack Full 48x48_8: -7917848670061907054
+      Green combo attack Full 48x48_9: -219812570557584074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

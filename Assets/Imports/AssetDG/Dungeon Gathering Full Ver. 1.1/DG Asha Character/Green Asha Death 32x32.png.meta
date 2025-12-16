@@ -1,0 +1,1950 @@
+fileFormatVersion: 2
+guid: 43a3a801e73e5bc4690cd918a64defaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4676962426499990562
+    second: Green Asha Death 32x32_0
+  - first:
+      213: -8059895370656879918
+    second: Green Asha Death 32x32_1
+  - first:
+      213: 3153814117736001105
+    second: Green Asha Death 32x32_2
+  - first:
+      213: 1795277086059510331
+    second: Green Asha Death 32x32_3
+  - first:
+      213: -3765209106355795474
+    second: Green Asha Death 32x32_4
+  - first:
+      213: 8749789153964671636
+    second: Green Asha Death 32x32_5
+  - first:
+      213: 6561220567743934884
+    second: Green Asha Death 32x32_6
+  - first:
+      213: 5811732357632714036
+    second: Green Asha Death 32x32_7
+  - first:
+      213: 2979738982106939650
+    second: Green Asha Death 32x32_8
+  - first:
+      213: 6594724784791476257
+    second: Green Asha Death 32x32_9
+  - first:
+      213: -8871220059436976290
+    second: Green Asha Death 32x32_10
+  - first:
+      213: 8099598360593871829
+    second: Green Asha Death 32x32_11
+  - first:
+      213: -4952875789879869121
+    second: Green Asha Death 32x32_12
+  - first:
+      213: -617109363855870801
+    second: Green Asha Death 32x32_13
+  - first:
+      213: -2230760393410778312
+    second: Green Asha Death 32x32_14
+  - first:
+      213: 1989725841710793560
+    second: Green Asha Death 32x32_15
+  - first:
+      213: -2394242905852847467
+    second: Green Asha Death 32x32_16
+  - first:
+      213: 5874742686454158206
+    second: Green Asha Death 32x32_17
+  - first:
+      213: -3881997703444672242
+    second: Green Asha Death 32x32_18
+  - first:
+      213: 1742277260861471314
+    second: Green Asha Death 32x32_19
+  - first:
+      213: 6650068771333756965
+    second: Green Asha Death 32x32_20
+  - first:
+      213: 5448186517810511028
+    second: Green Asha Death 32x32_21
+  - first:
+      213: -739717217109504289
+    second: Green Asha Death 32x32_22
+  - first:
+      213: 3899961444772697928
+    second: Green Asha Death 32x32_23
+  - first:
+      213: 6139115641818133781
+    second: Green Asha Death 32x32_24
+  - first:
+      213: -2942242197546931917
+    second: Green Asha Death 32x32_25
+  - first:
+      213: -626992746622822080
+    second: Green Asha Death 32x32_26
+  - first:
+      213: -2238719180469404571
+    second: Green Asha Death 32x32_27
+  - first:
+      213: -5201033288272147169
+    second: Green Asha Death 32x32_28
+  - first:
+      213: 2010398460341165539
+    second: Green Asha Death 32x32_29
+  - first:
+      213: -2838693640599266876
+    second: Green Asha Death 32x32_30
+  - first:
+      213: -4519599517356288061
+    second: Green Asha Death 32x32_31
+  - first:
+      213: 1962993154905192128
+    second: Green Asha Death 32x32_32
+  - first:
+      213: 3598011763919338254
+    second: Green Asha Death 32x32_33
+  - first:
+      213: 7309179452147131366
+    second: Green Asha Death 32x32_34
+  - first:
+      213: 2467858588321968709
+    second: Green Asha Death 32x32_35
+  - first:
+      213: -4636495651573339490
+    second: Green Asha Death 32x32_36
+  - first:
+      213: -6352682034925906920
+    second: Green Asha Death 32x32_37
+  - first:
+      213: 1788007827173604985
+    second: Green Asha Death 32x32_38
+  - first:
+      213: 8533049659541914775
+    second: Green Asha Death 32x32_39
+  - first:
+      213: -8110665140522616115
+    second: Green Asha Death 32x32_40
+  - first:
+      213: -1394020600654329447
+    second: Green Asha Death 32x32_41
+  - first:
+      213: 5791350445321920218
+    second: Green Asha Death 32x32_42
+  - first:
+      213: 4486836364468452450
+    second: Green Asha Death 32x32_43
+  - first:
+      213: -2956035211839303084
+    second: Green Asha Death 32x32_44
+  - first:
+      213: -2733972495110219074
+    second: Green Asha Death 32x32_45
+  - first:
+      213: 4183792639781508118
+    second: Green Asha Death 32x32_46
+  - first:
+      213: -6217502403249410329
+    second: Green Asha Death 32x32_47
+  - first:
+      213: -5263633353113641209
+    second: Green Asha Death 32x32_48
+  - first:
+      213: -6265564913851673049
+    second: Green Asha Death 32x32_49
+  - first:
+      213: 576781212754065640
+    second: Green Asha Death 32x32_50
+  - first:
+      213: 6077039873001402358
+    second: Green Asha Death 32x32_51
+  - first:
+      213: -7336693793891715731
+    second: Green Asha Death 32x32_52
+  - first:
+      213: 7863977961711529582
+    second: Green Asha Death 32x32_53
+  - first:
+      213: 6168476710073418153
+    second: Green Asha Death 32x32_54
+  - first:
+      213: -2159573176559257221
+    second: Green Asha Death 32x32_55
+  - first:
+      213: 2822627181535606405
+    second: Green Asha Death 32x32_56
+  - first:
+      213: 1158724460660834990
+    second: Green Asha Death 32x32_57
+  - first:
+      213: -2471738902877995703
+    second: Green Asha Death 32x32_58
+  - first:
+      213: -526792948343514957
+    second: Green Asha Death 32x32_59
+  - first:
+      213: -4028718853203278516
+    second: Green Asha Death 32x32_60
+  - first:
+      213: -8124838212103920274
+    second: Green Asha Death 32x32_61
+  - first:
+      213: -143314769969573548
+    second: Green Asha Death 32x32_62
+  - first:
+      213: 47179940782855177
+    second: Green Asha Death 32x32_63
+  - first:
+      213: 5831525523558724400
+    second: Green Asha Death 32x32_64
+  - first:
+      213: -3911826168839899285
+    second: Green Asha Death 32x32_65
+  - first:
+      213: -985256056858851978
+    second: Green Asha Death 32x32_66
+  - first:
+      213: -1699249276271662871
+    second: Green Asha Death 32x32_67
+  - first:
+      213: 5497766068306698293
+    second: Green Asha Death 32x32_68
+  - first:
+      213: 1241453948051333956
+    second: Green Asha Death 32x32_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224816b1c88e7e040800000000000000
+      internalID: 4676962426499990562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 103
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da6e211ddf752090800000000000000
+      internalID: -8059895370656879918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 102
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e244ffa3994cb20800000000000000
+      internalID: 3153814117736001105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ab9fb7ffa1ae810800000000000000
+      internalID: 1795277086059510331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 103
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9c896444a4fbbc0800000000000000
+      internalID: -3765209106355795474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 103
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49241ad80ee7d6970800000000000000
+      internalID: 8749789153964671636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 103
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a13d51f7532e0b50800000000000000
+      internalID: 6561220567743934884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435675299cb67a050800000000000000
+      internalID: 5811732357632714036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 97
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2014edf11d82a5920800000000000000
+      internalID: 2979738982106939650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 97
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128d5fc504b258b50800000000000000
+      internalID: 6594724784791476257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 97
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5770f09b5813e480800000000000000
+      internalID: -8871220059436976290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 96
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3b882abcd876070800000000000000
+      internalID: 8099598360593871829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 112
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f310497e5b9d34bb0800000000000000
+      internalID: -4952875789879869121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_13
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 112
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4bdcb9d469f67f0800000000000000
+      internalID: -617109363855870801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_14
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 95
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b6db3cd3fba01e0800000000000000
+      internalID: -2230760393410778312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 95
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853469b6c1dec9b10800000000000000
+      internalID: 1989725841710793560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_16
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 97
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a54aa23c0f5ced0800000000000000
+      internalID: -2394242905852847467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_17
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 97
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e739cecf857478150800000000000000
+      internalID: 5874742686454158206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 71
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e015c4b08af502ac0800000000000000
+      internalID: -3881997703444672242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 71
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a73e110ffcd2810800000000000000
+      internalID: 1742277260861471314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528544f505ac94c50800000000000000
+      internalID: 6650068771333756965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcfa20b5c8db9b40800000000000000
+      internalID: 5448186517810511028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde82f73c1ffbb5f0800000000000000
+      internalID: -739717217109504289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 71
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847556965427f1630800000000000000
+      internalID: 3899961444772697928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 71
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5153d995625823550800000000000000
+      internalID: 6139115641818133781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 71
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339ec0c5f4e0b27d0800000000000000
+      internalID: -2942242197546931917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_26
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 69
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049dccc3b697c47f0800000000000000
+      internalID: -626992746622822080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 68
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c744044c87ee0e0800000000000000
+      internalID: -2238719180469404571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_28
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 65
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d8e83d7c732d7b0800000000000000
+      internalID: -5201033288272147169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 75
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed90a58fbe56eb10800000000000000
+      internalID: 2010398460341165539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 65
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c99be58c2fea98d0800000000000000
+      internalID: -2838693640599266876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_31
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 64
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c793f05f282741c0800000000000000
+      internalID: -4519599517356288061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 63
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6b5aebfd3fd3b10800000000000000
+      internalID: 1962993154905192128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_33
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 63
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bb61ed2a4bee130800000000000000
+      internalID: 3598011763919338254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_34
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 71
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e360dc6cfb6f6560800000000000000
+      internalID: 7309179452147131366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_35
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 71
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542f3d09f489f3220800000000000000
+      internalID: 2467858588321968709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ae35525cbd7afb0800000000000000
+      internalID: -4636495651573339490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8145c31e85db6d7a0800000000000000
+      internalID: -6352682034925906920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 39
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97efc4245a740d810800000000000000
+      internalID: 1788007827173604985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 39
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79483cf847b7b6670800000000000000
+      internalID: 8533049659541914775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 39
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca710fd601217f80800000000000000
+      internalID: -8110665140522616115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 39
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9990c6846a177ace0800000000000000
+      internalID: -1394020600654329447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 39
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade963fcb820f5050800000000000000
+      internalID: 5791350445321920218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c7275b6e1744e30800000000000000
+      internalID: 4486836364468452450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 41
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45295c6f2ad0af6d0800000000000000
+      internalID: -2956035211839303084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_45
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba544b308afe0ad0800000000000000
+      internalID: -2733972495110219074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_46
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 38
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614121c3d31df0a30800000000000000
+      internalID: 4183792639781508118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_47
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 37
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee6e28818ef6b9a0800000000000000
+      internalID: -6217502403249410329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_48
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 36
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f53cf6a51d3f6b0800000000000000
+      internalID: -5263633353113641209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_49
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 35
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72658b048ed3c09a0800000000000000
+      internalID: -6265564913851673049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_50
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e833530573210800800000000000000
+      internalID: 576781212754065640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_51
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff2224219bf55450800000000000000
+      internalID: 6077039873001402358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65754dadd3de2a90800000000000000
+      internalID: -7336693793891715731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_53
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 7
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ee0518a46722d60800000000000000
+      internalID: 7863977961711529582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_54
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a14235c2e4da9550800000000000000
+      internalID: 6168476710073418153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_55
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7939b843a7a702e0800000000000000
+      internalID: -2159573176559257221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_56
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 7
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586bac8777cfb2720800000000000000
+      internalID: 2822627181535606405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 7
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2ce3ef1cd941010800000000000000
+      internalID: 1158724460660834990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d717c409e92bdd0800000000000000
+      internalID: -2471738902877995703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_59
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 7
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8ddc3ca9470b8f0800000000000000
+      internalID: -526792948343514957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_60
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 5
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4546ee4c8d1718c0800000000000000
+      internalID: -4028718853203278516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_61
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 4
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65a60e71b6ce3f80800000000000000
+      internalID: -8124838212103920274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_62
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45195ecd9f7d20ef0800000000000000
+      internalID: -143314769969573548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_63
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904d2eaf7ed97a000800000000000000
+      internalID: 47179940782855177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_64
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 11
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0337752219dbde050800000000000000
+      internalID: 5831525523558724400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_65
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67783f33d666b9c0800000000000000
+      internalID: -3911826168839899285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_66
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675402e16daa352f0800000000000000
+      internalID: -985256056858851978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_67
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8ecf649cd0b68e0800000000000000
+      internalID: -1699249276271662871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_68
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 7
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530ed975c1dfb4c40800000000000000
+      internalID: 5497766068306698293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Asha Death 32x32_69
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 7
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4432b9ac9c78a3110800000000000000
+      internalID: 1241453948051333956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green Asha Death 32x32_0: 4676962426499990562
+      Green Asha Death 32x32_1: -8059895370656879918
+      Green Asha Death 32x32_10: -8871220059436976290
+      Green Asha Death 32x32_11: 8099598360593871829
+      Green Asha Death 32x32_12: -4952875789879869121
+      Green Asha Death 32x32_13: -617109363855870801
+      Green Asha Death 32x32_14: -2230760393410778312
+      Green Asha Death 32x32_15: 1989725841710793560
+      Green Asha Death 32x32_16: -2394242905852847467
+      Green Asha Death 32x32_17: 5874742686454158206
+      Green Asha Death 32x32_18: -3881997703444672242
+      Green Asha Death 32x32_19: 1742277260861471314
+      Green Asha Death 32x32_2: 3153814117736001105
+      Green Asha Death 32x32_20: 6650068771333756965
+      Green Asha Death 32x32_21: 5448186517810511028
+      Green Asha Death 32x32_22: -739717217109504289
+      Green Asha Death 32x32_23: 3899961444772697928
+      Green Asha Death 32x32_24: 6139115641818133781
+      Green Asha Death 32x32_25: -2942242197546931917
+      Green Asha Death 32x32_26: -626992746622822080
+      Green Asha Death 32x32_27: -2238719180469404571
+      Green Asha Death 32x32_28: -5201033288272147169
+      Green Asha Death 32x32_29: 2010398460341165539
+      Green Asha Death 32x32_3: 1795277086059510331
+      Green Asha Death 32x32_30: -2838693640599266876
+      Green Asha Death 32x32_31: -4519599517356288061
+      Green Asha Death 32x32_32: 1962993154905192128
+      Green Asha Death 32x32_33: 3598011763919338254
+      Green Asha Death 32x32_34: 7309179452147131366
+      Green Asha Death 32x32_35: 2467858588321968709
+      Green Asha Death 32x32_36: -4636495651573339490
+      Green Asha Death 32x32_37: -6352682034925906920
+      Green Asha Death 32x32_38: 1788007827173604985
+      Green Asha Death 32x32_39: 8533049659541914775
+      Green Asha Death 32x32_4: -3765209106355795474
+      Green Asha Death 32x32_40: -8110665140522616115
+      Green Asha Death 32x32_41: -1394020600654329447
+      Green Asha Death 32x32_42: 5791350445321920218
+      Green Asha Death 32x32_43: 4486836364468452450
+      Green Asha Death 32x32_44: -2956035211839303084
+      Green Asha Death 32x32_45: -2733972495110219074
+      Green Asha Death 32x32_46: 4183792639781508118
+      Green Asha Death 32x32_47: -6217502403249410329
+      Green Asha Death 32x32_48: -5263633353113641209
+      Green Asha Death 32x32_49: -6265564913851673049
+      Green Asha Death 32x32_5: 8749789153964671636
+      Green Asha Death 32x32_50: 576781212754065640
+      Green Asha Death 32x32_51: 6077039873001402358
+      Green Asha Death 32x32_52: -7336693793891715731
+      Green Asha Death 32x32_53: 7863977961711529582
+      Green Asha Death 32x32_54: 6168476710073418153
+      Green Asha Death 32x32_55: -2159573176559257221
+      Green Asha Death 32x32_56: 2822627181535606405
+      Green Asha Death 32x32_57: 1158724460660834990
+      Green Asha Death 32x32_58: -2471738902877995703
+      Green Asha Death 32x32_59: -526792948343514957
+      Green Asha Death 32x32_6: 6561220567743934884
+      Green Asha Death 32x32_60: -4028718853203278516
+      Green Asha Death 32x32_61: -8124838212103920274
+      Green Asha Death 32x32_62: -143314769969573548
+      Green Asha Death 32x32_63: 47179940782855177
+      Green Asha Death 32x32_64: 5831525523558724400
+      Green Asha Death 32x32_65: -3911826168839899285
+      Green Asha Death 32x32_66: -985256056858851978
+      Green Asha Death 32x32_67: -1699249276271662871
+      Green Asha Death 32x32_68: 5497766068306698293
+      Green Asha Death 32x32_69: 1241453948051333956
+      Green Asha Death 32x32_7: 5811732357632714036
+      Green Asha Death 32x32_8: 2979738982106939650
+      Green Asha Death 32x32_9: 6594724784791476257
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 6704a7833870f854d94e650725a17c84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7524998124616850695
+    second: Blue Knight hit 1 Sprite-sheet 16x20_0
+  - first:
+      213: 3464042457701392006
+    second: Blue Knight hit 1 Sprite-sheet 16x20_1
+  - first:
+      213: 7590015983927263030
+    second: Blue Knight hit 1 Sprite-sheet 16x20_2
+  - first:
+      213: 3373645782144964027
+    second: Blue Knight hit 1 Sprite-sheet 16x20_3
+  - first:
+      213: 953816999267252034
+    second: Blue Knight hit 1 Sprite-sheet 16x20_4
+  - first:
+      213: -5149537465864742076
+    second: Blue Knight hit 1 Sprite-sheet 16x20_5
+  - first:
+      213: -7846086909657771971
+    second: Blue Knight hit 1 Sprite-sheet 16x20_6
+  - first:
+      213: -4965686786548292615
+    second: Blue Knight hit 1 Sprite-sheet 16x20_7
+  - first:
+      213: -178768971666461671
+    second: Blue Knight hit 1 Sprite-sheet 16x20_8
+  - first:
+      213: -2735577629598830832
+    second: Blue Knight hit 1 Sprite-sheet 16x20_9
+  - first:
+      213: 8637638676976206174
+    second: Blue Knight hit 1 Sprite-sheet 16x20_10
+  - first:
+      213: 7344376183032125892
+    second: Blue Knight hit 1 Sprite-sheet 16x20_11
+  - first:
+      213: 8948939832470215865
+    second: Blue Knight hit 1 Sprite-sheet 16x20_12
+  - first:
+      213: -7095101703592387948
+    second: Blue Knight hit 1 Sprite-sheet 16x20_13
+  - first:
+      213: -7724461608835228486
+    second: Blue Knight hit 1 Sprite-sheet 16x20_14
+  - first:
+      213: 4970401737664070137
+    second: Blue Knight hit 1 Sprite-sheet 16x20_15
+  - first:
+      213: -2157068862907698760
+    second: Blue Knight hit 1 Sprite-sheet 16x20_16
+  - first:
+      213: -5168422567162966825
+    second: Blue Knight hit 1 Sprite-sheet 16x20_17
+  - first:
+      213: -9178391156431980920
+    second: Blue Knight hit 1 Sprite-sheet 16x20_18
+  - first:
+      213: -5628498847221496978
+    second: Blue Knight hit 1 Sprite-sheet 16x20_19
+  - first:
+      213: -7154257483105886116
+    second: Blue Knight hit 1 Sprite-sheet 16x20_20
+  - first:
+      213: -2864660004978735596
+    second: Blue Knight hit 1 Sprite-sheet 16x20_21
+  - first:
+      213: -4138657445110419587
+    second: Blue Knight hit 1 Sprite-sheet 16x20_22
+  - first:
+      213: 7815651257003215872
+    second: Blue Knight hit 1 Sprite-sheet 16x20_23
+  - first:
+      213: 4884296595857693927
+    second: Blue Knight hit 1 Sprite-sheet 16x20_24
+  - first:
+      213: -8509381138043606510
+    second: Blue Knight hit 1 Sprite-sheet 16x20_25
+  - first:
+      213: 2714251082692832625
+    second: Blue Knight hit 1 Sprite-sheet 16x20_26
+  - first:
+      213: 4404947676954860982
+    second: Blue Knight hit 1 Sprite-sheet 16x20_27
+  - first:
+      213: -7198316346357051025
+    second: Blue Knight hit 1 Sprite-sheet 16x20_28
+  - first:
+      213: 6842222450455765269
+    second: Blue Knight hit 1 Sprite-sheet 16x20_29
+  - first:
+      213: 7656189104864858816
+    second: Blue Knight hit 1 Sprite-sheet 16x20_30
+  - first:
+      213: -8262220884263076975
+    second: Blue Knight hit 1 Sprite-sheet 16x20_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d9449dce92e6860800000000000000
+      internalID: 7524998124616850695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e99221340c21030800000000000000
+      internalID: 3464042457701392006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f7581e257255960800000000000000
+      internalID: 7590015983927263030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5debae6f891de20800000000000000
+      internalID: 3373645782144964027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247bd0ed183ac3d00800000000000000
+      internalID: 953816999267252034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 62
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b119d45fa2988b0800000000000000
+      internalID: -5149537465864742076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 61
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d309109a6891d1390800000000000000
+      internalID: -7846086909657771971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 61
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f320fd4d26561bb0800000000000000
+      internalID: -4965686786548292615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c65f24192e48df0800000000000000
+      internalID: -178768971666461671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fa14cb3a6490ad0800000000000000
+      internalID: -2735577629598830832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51875fcc9e0fd770800000000000000
+      internalID: 8637638676976206174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9187ee9377ce560800000000000000
+      internalID: 7344376183032125892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc1bb63d55013c70800000000000000
+      internalID: 8948939832470215865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a5b109792298d90800000000000000
+      internalID: -7095101703592387948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcdb3cb7133dc490800000000000000
+      internalID: -7724461608835228486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1837ccb0a6af440800000000000000
+      internalID: 4970401737664070137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1b45e3c4d8012e0800000000000000
+      internalID: -2157068862907698760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 20
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc83230f031648b0800000000000000
+      internalID: -5168422567162966825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 19
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886f8475fddcf9080800000000000000
+      internalID: -9178391156431980920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 19
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63caa89e1e83e1b0800000000000000
+      internalID: -5628498847221496978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 20
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c502bc759b8f6bc90800000000000000
+      internalID: -7154257483105886116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 21
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41649f037eeae38d0800000000000000
+      internalID: -2864660004978735596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 21
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fea213bf88096c0800000000000000
+      internalID: -4138657445110419587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 21
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c030eb865c67c60800000000000000
+      internalID: 7815651257003215872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec5fb530e188c340800000000000000
+      internalID: 4884296595857693927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a608880fa98e980800000000000000
+      internalID: -8509381138043606510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d202f9af4faa520800000000000000
+      internalID: 2714251082692832625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd9313e294812d30800000000000000
+      internalID: 4404947676954860982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61108adb617a1c90800000000000000
+      internalID: -7198316346357051025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5116e99211574fe50800000000000000
+      internalID: 6842222450455765269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c29fa83d6f304a60800000000000000
+      internalID: 7656189104864858816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Knight hit 1 Sprite-sheet 16x20_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b7fa181e1b65d80800000000000000
+      internalID: -8262220884263076975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blue Knight hit 1 Sprite-sheet 16x20_0: 7524998124616850695
+      Blue Knight hit 1 Sprite-sheet 16x20_1: 3464042457701392006
+      Blue Knight hit 1 Sprite-sheet 16x20_10: 8637638676976206174
+      Blue Knight hit 1 Sprite-sheet 16x20_11: 7344376183032125892
+      Blue Knight hit 1 Sprite-sheet 16x20_12: 8948939832470215865
+      Blue Knight hit 1 Sprite-sheet 16x20_13: -7095101703592387948
+      Blue Knight hit 1 Sprite-sheet 16x20_14: -7724461608835228486
+      Blue Knight hit 1 Sprite-sheet 16x20_15: 4970401737664070137
+      Blue Knight hit 1 Sprite-sheet 16x20_16: -2157068862907698760
+      Blue Knight hit 1 Sprite-sheet 16x20_17: -5168422567162966825
+      Blue Knight hit 1 Sprite-sheet 16x20_18: -9178391156431980920
+      Blue Knight hit 1 Sprite-sheet 16x20_19: -5628498847221496978
+      Blue Knight hit 1 Sprite-sheet 16x20_2: 7590015983927263030
+      Blue Knight hit 1 Sprite-sheet 16x20_20: -7154257483105886116
+      Blue Knight hit 1 Sprite-sheet 16x20_21: -2864660004978735596
+      Blue Knight hit 1 Sprite-sheet 16x20_22: -4138657445110419587
+      Blue Knight hit 1 Sprite-sheet 16x20_23: 7815651257003215872
+      Blue Knight hit 1 Sprite-sheet 16x20_24: 4884296595857693927
+      Blue Knight hit 1 Sprite-sheet 16x20_25: -8509381138043606510
+      Blue Knight hit 1 Sprite-sheet 16x20_26: 2714251082692832625
+      Blue Knight hit 1 Sprite-sheet 16x20_27: 4404947676954860982
+      Blue Knight hit 1 Sprite-sheet 16x20_28: -7198316346357051025
+      Blue Knight hit 1 Sprite-sheet 16x20_29: 6842222450455765269
+      Blue Knight hit 1 Sprite-sheet 16x20_3: 3373645782144964027
+      Blue Knight hit 1 Sprite-sheet 16x20_30: 7656189104864858816
+      Blue Knight hit 1 Sprite-sheet 16x20_31: -8262220884263076975
+      Blue Knight hit 1 Sprite-sheet 16x20_4: 953816999267252034
+      Blue Knight hit 1 Sprite-sheet 16x20_5: -5149537465864742076
+      Blue Knight hit 1 Sprite-sheet 16x20_6: -7846086909657771971
+      Blue Knight hit 1 Sprite-sheet 16x20_7: -4965686786548292615
+      Blue Knight hit 1 Sprite-sheet 16x20_8: -178768971666461671
+      Blue Knight hit 1 Sprite-sheet 16x20_9: -2735577629598830832
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

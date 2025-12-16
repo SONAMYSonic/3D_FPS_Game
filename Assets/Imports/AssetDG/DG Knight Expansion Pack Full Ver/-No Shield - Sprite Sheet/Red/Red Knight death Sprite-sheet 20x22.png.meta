@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 908010fc9f9c63c449a5e280a24f38cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5764858385380264914
+    second: Red Knight death Sprite-sheet 20x22_0
+  - first:
+      213: 482632854996571615
+    second: Red Knight death Sprite-sheet 20x22_1
+  - first:
+      213: -7277467895782925984
+    second: Red Knight death Sprite-sheet 20x22_2
+  - first:
+      213: -207913614695788992
+    second: Red Knight death Sprite-sheet 20x22_3
+  - first:
+      213: 3566665189217195956
+    second: Red Knight death Sprite-sheet 20x22_4
+  - first:
+      213: 3183322821834884052
+    second: Red Knight death Sprite-sheet 20x22_5
+  - first:
+      213: 8436596204026593711
+    second: Red Knight death Sprite-sheet 20x22_6
+  - first:
+      213: -458966031512725946
+    second: Red Knight death Sprite-sheet 20x22_7
+  - first:
+      213: -382933748432837196
+    second: Red Knight death Sprite-sheet 20x22_8
+  - first:
+      213: -2769456072903425203
+    second: Red Knight death Sprite-sheet 20x22_9
+  - first:
+      213: -6132964083681603075
+    second: Red Knight death Sprite-sheet 20x22_10
+  - first:
+      213: 3047866670665262109
+    second: Red Knight death Sprite-sheet 20x22_11
+  - first:
+      213: -2089174597130454831
+    second: Red Knight death Sprite-sheet 20x22_12
+  - first:
+      213: -3414457637225389267
+    second: Red Knight death Sprite-sheet 20x22_13
+  - first:
+      213: 1492815341455158757
+    second: Red Knight death Sprite-sheet 20x22_14
+  - first:
+      213: -3527999864444730903
+    second: Red Knight death Sprite-sheet 20x22_15
+  - first:
+      213: -1802316942558375232
+    second: Red Knight death Sprite-sheet 20x22_16
+  - first:
+      213: -399526760902136357
+    second: Red Knight death Sprite-sheet 20x22_17
+  - first:
+      213: 2587784148853561677
+    second: Red Knight death Sprite-sheet 20x22_18
+  - first:
+      213: -5295434495576638031
+    second: Red Knight death Sprite-sheet 20x22_19
+  - first:
+      213: 3149617852105265496
+    second: Red Knight death Sprite-sheet 20x22_20
+  - first:
+      213: -223588467213806487
+    second: Red Knight death Sprite-sheet 20x22_21
+  - first:
+      213: 6825965923490567558
+    second: Red Knight death Sprite-sheet 20x22_22
+  - first:
+      213: -1921323937494914700
+    second: Red Knight death Sprite-sheet 20x22_23
+  - first:
+      213: -669503050415393601
+    second: Red Knight death Sprite-sheet 20x22_24
+  - first:
+      213: -2569648586860022006
+    second: Red Knight death Sprite-sheet 20x22_25
+  - first:
+      213: -2252749093045567147
+    second: Red Knight death Sprite-sheet 20x22_26
+  - first:
+      213: -8160487691151661688
+    second: Red Knight death Sprite-sheet 20x22_27
+  - first:
+      213: 6186246864055311793
+    second: Red Knight death Sprite-sheet 20x22_28
+  - first:
+      213: -2758848949520877734
+    second: Red Knight death Sprite-sheet 20x22_29
+  - first:
+      213: -6381862007594020291
+    second: Red Knight death Sprite-sheet 20x22_30
+  - first:
+      213: -2884751514466078287
+    second: Red Knight death Sprite-sheet 20x22_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e243afe87db1fffa0800000000000000
+      internalID: -5764858385380264914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5d0074608a2b600800000000000000
+      internalID: 482632854996571615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 70
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0699c87a18d310b90800000000000000
+      internalID: -7277467895782925984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e07144ba75d1df0800000000000000
+      internalID: -207913614695788992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7da04b7175f7130800000000000000
+      internalID: 3566665189217195956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 65
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3ccd09d3f6d2c20800000000000000
+      internalID: 3183322821834884052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 65
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa10a6e6c8fc41570800000000000000
+      internalID: 8436596204026593711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 65
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64696b773dc61a9f0800000000000000
+      internalID: -458966031512725946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5e620e8cb8faaf0800000000000000
+      internalID: -382933748432837196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d430b89ff5ae099d0800000000000000
+      internalID: -2769456072903425203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 43
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1dde3e8a553eaa0800000000000000
+      internalID: -6132964083681603075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 43
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1461c3b6923c4a20800000000000000
+      internalID: 3047866670665262109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 43
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8f448d5c2c103e0800000000000000
+      internalID: -2089174597130454831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 43
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23af889ed86d90d0800000000000000
+      internalID: -3414457637225389267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 43
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed20bec4ab87b410800000000000000
+      internalID: 1492815341455158757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 43
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e14520c0d60a0fc0800000000000000
+      internalID: -3527999864444730903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 21
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2d3223a42ecf6e0800000000000000
+      internalID: -1802316942558375232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 21
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd6a2a1788947af0800000000000000
+      internalID: -399526760902136357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 21
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d499dc309f7a9e320800000000000000
+      internalID: 2587784148853561677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 21
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdfdc7f166d286b0800000000000000
+      internalID: -5295434495576638031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 21
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85196f4cfb0b5bb20800000000000000
+      internalID: 3149617852105265496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 21
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964d8d34977a5ecf0800000000000000
+      internalID: -223588467213806487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 21
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685939687d3babe50800000000000000
+      internalID: 6825965923490567558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_23
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 21
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4792927fe061655e0800000000000000
+      internalID: -1921323937494914700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb433f7d58275b6f0800000000000000
+      internalID: -669503050415393601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07bf9e8936c65cd0800000000000000
+      internalID: -2569648586860022006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5518feca2a0acb0e0800000000000000
+      internalID: -2252749093045567147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_27
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88525f65eaf10ce80800000000000000
+      internalID: -8160487691151661688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd14e82fb6f9d550800000000000000
+      internalID: 6186246864055311793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5739d65f7996b9d0800000000000000
+      internalID: -2758848949520877734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d321ccf01521f67a0800000000000000
+      internalID: -6381862007594020291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Knight death Sprite-sheet 20x22_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1bafa18cd47f7d0800000000000000
+      internalID: -2884751514466078287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Red Knight death Sprite-sheet 20x22_0: -5764858385380264914
+      Red Knight death Sprite-sheet 20x22_1: 482632854996571615
+      Red Knight death Sprite-sheet 20x22_10: -6132964083681603075
+      Red Knight death Sprite-sheet 20x22_11: 3047866670665262109
+      Red Knight death Sprite-sheet 20x22_12: -2089174597130454831
+      Red Knight death Sprite-sheet 20x22_13: -3414457637225389267
+      Red Knight death Sprite-sheet 20x22_14: 1492815341455158757
+      Red Knight death Sprite-sheet 20x22_15: -3527999864444730903
+      Red Knight death Sprite-sheet 20x22_16: -1802316942558375232
+      Red Knight death Sprite-sheet 20x22_17: -399526760902136357
+      Red Knight death Sprite-sheet 20x22_18: 2587784148853561677
+      Red Knight death Sprite-sheet 20x22_19: -5295434495576638031
+      Red Knight death Sprite-sheet 20x22_2: -7277467895782925984
+      Red Knight death Sprite-sheet 20x22_20: 3149617852105265496
+      Red Knight death Sprite-sheet 20x22_21: -223588467213806487
+      Red Knight death Sprite-sheet 20x22_22: 6825965923490567558
+      Red Knight death Sprite-sheet 20x22_23: -1921323937494914700
+      Red Knight death Sprite-sheet 20x22_24: -669503050415393601
+      Red Knight death Sprite-sheet 20x22_25: -2569648586860022006
+      Red Knight death Sprite-sheet 20x22_26: -2252749093045567147
+      Red Knight death Sprite-sheet 20x22_27: -8160487691151661688
+      Red Knight death Sprite-sheet 20x22_28: 6186246864055311793
+      Red Knight death Sprite-sheet 20x22_29: -2758848949520877734
+      Red Knight death Sprite-sheet 20x22_3: -207913614695788992
+      Red Knight death Sprite-sheet 20x22_30: -6381862007594020291
+      Red Knight death Sprite-sheet 20x22_31: -2884751514466078287
+      Red Knight death Sprite-sheet 20x22_4: 3566665189217195956
+      Red Knight death Sprite-sheet 20x22_5: 3183322821834884052
+      Red Knight death Sprite-sheet 20x22_6: 8436596204026593711
+      Red Knight death Sprite-sheet 20x22_7: -458966031512725946
+      Red Knight death Sprite-sheet 20x22_8: -382933748432837196
+      Red Knight death Sprite-sheet 20x22_9: -2769456072903425203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

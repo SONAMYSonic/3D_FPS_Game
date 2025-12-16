@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 035ca3c9a2a34d14b98e5a8dd540a67d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4393880104646396184
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_0
+  - first:
+      213: 4646175505527772388
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_1
+  - first:
+      213: -6951609620446856043
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_2
+  - first:
+      213: -4743052995674944839
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_3
+  - first:
+      213: -6800408583020911939
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_4
+  - first:
+      213: 3932559945112553108
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_5
+  - first:
+      213: -4014922477286894137
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_6
+  - first:
+      213: 8269396743244724524
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_7
+  - first:
+      213: 263041875615999521
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_8
+  - first:
+      213: -5097015929853659714
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_9
+  - first:
+      213: 163275891777851691
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_10
+  - first:
+      213: 5240946875981835096
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_11
+  - first:
+      213: 1966003386833590623
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_12
+  - first:
+      213: -222732219659943476
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_13
+  - first:
+      213: -278206462068475686
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_14
+  - first:
+      213: -4121648837323594960
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_15
+  - first:
+      213: -1759884141215049881
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_16
+  - first:
+      213: 6811496780491059049
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_17
+  - first:
+      213: 8634683189410486730
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_18
+  - first:
+      213: -3291495148026101460
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_19
+  - first:
+      213: -7147489597379517607
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_20
+  - first:
+      213: 8806091310334146994
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_21
+  - first:
+      213: -5733406359912690865
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_22
+  - first:
+      213: -7448496937403677038
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_23
+  - first:
+      213: 3151702185013410549
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_24
+  - first:
+      213: -1870807260350334118
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_25
+  - first:
+      213: -4377072133735426456
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_26
+  - first:
+      213: -2845035186567525658
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_27
+  - first:
+      213: -2151329480671086713
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_28
+  - first:
+      213: -1456320894103107099
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_29
+  - first:
+      213: -539768282014191367
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_30
+  - first:
+      213: 6099488510412779651
+    second: Dark-blue Knight hit 1 Sprite-sheet 16x20_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 62
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e635e8135dc503c0800000000000000
+      internalID: -4393880104646396184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e49a1b71088a7040800000000000000
+      internalID: 4646175505527772388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cb314a1ebe68f90800000000000000
+      internalID: -6951609620446856043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba41f12e6a4d2eb0800000000000000
+      internalID: -4743052995674944839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db265818c6810a1a0800000000000000
+      internalID: -6800408583020911939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 62
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4960d5a3f62439630800000000000000
+      internalID: 3932559945112553108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 61
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5559467412848c0800000000000000
+      internalID: -4014922477286894137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 61
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29bfdb568cc2c270800000000000000
+      internalID: 8269396743244724524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126e425313386a300800000000000000
+      internalID: 263041875615999521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5b0965403c349b0800000000000000
+      internalID: -5097015929853659714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21ddc9fe82144200800000000000000
+      internalID: 163275891777851691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b279d7a659bb840800000000000000
+      internalID: 5240946875981835096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f595e6bf9a5a84b10800000000000000
+      internalID: 1966003386833590623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1822fe932b8ecf0800000000000000
+      internalID: -222732219659943476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8b03e52bc932cf0800000000000000
+      internalID: -278206462068475686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 41
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033ec6a4836fcc6c0800000000000000
+      internalID: -4121648837323594960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7679805a2b2a397e0800000000000000
+      internalID: -1759884141215049881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 20
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fe2e5ab3c478e50800000000000000
+      internalID: 6811496780491059049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 19
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac959dcbc9e84d770800000000000000
+      internalID: 8634683189410486730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 19
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c218bf91a924252d0800000000000000
+      internalID: -3291495148026101460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 20
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953e46884140fcc90800000000000000
+      internalID: -7147489597379517607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 21
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9fe1cd365853a70800000000000000
+      internalID: 8806091310334146994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 21
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b4074ea49de60b0800000000000000
+      internalID: -5733406359912690865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 21
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296087fcf7f91a890800000000000000
+      internalID: -7448496937403677038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fafb8750781dbb20800000000000000
+      internalID: 3151702185013410549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bb89b65be8906e0800000000000000
+      internalID: -1870807260350334118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8665078c5148143c0800000000000000
+      internalID: -4377072133735426456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eac72b42976488d0800000000000000
+      internalID: -2845035186567525658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78736cd4c31f422e0800000000000000
+      internalID: -2151329480671086713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9410cdcdb1acbe0800000000000000
+      internalID: -1456320894103107099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f075897b9b5288f0800000000000000
+      internalID: -539768282014191367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight hit 1 Sprite-sheet 16x20_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380fab6db7cb5a450800000000000000
+      internalID: 6099488510412779651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_0: -4393880104646396184
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_1: 4646175505527772388
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_10: 163275891777851691
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_11: 5240946875981835096
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_12: 1966003386833590623
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_13: -222732219659943476
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_14: -278206462068475686
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_15: -4121648837323594960
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_16: -1759884141215049881
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_17: 6811496780491059049
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_18: 8634683189410486730
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_19: -3291495148026101460
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_2: -6951609620446856043
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_20: -7147489597379517607
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_21: 8806091310334146994
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_22: -5733406359912690865
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_23: -7448496937403677038
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_24: 3151702185013410549
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_25: -1870807260350334118
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_26: -4377072133735426456
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_27: -2845035186567525658
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_28: -2151329480671086713
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_29: -1456320894103107099
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_3: -4743052995674944839
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_30: -539768282014191367
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_31: 6099488510412779651
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_4: -6800408583020911939
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_5: 3932559945112553108
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_6: -4014922477286894137
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_7: 8269396743244724524
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_8: 263041875615999521
+      Dark-blue Knight hit 1 Sprite-sheet 16x20_9: -5097015929853659714
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

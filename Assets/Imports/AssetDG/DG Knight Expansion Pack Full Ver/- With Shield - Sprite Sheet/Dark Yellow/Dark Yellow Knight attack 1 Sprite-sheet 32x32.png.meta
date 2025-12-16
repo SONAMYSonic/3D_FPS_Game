@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: b57c4fbfa81f80d4697c73cc79fbc4a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7992235472671825255
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_0
+  - first:
+      213: -7540502041809780112
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_1
+  - first:
+      213: -5929005355986189725
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_2
+  - first:
+      213: -4681674606645887893
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_3
+  - first:
+      213: -7275899825186045052
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_4
+  - first:
+      213: 8906720886934973875
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_5
+  - first:
+      213: 6408897651344587792
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_6
+  - first:
+      213: 8531926879719359142
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_7
+  - first:
+      213: 5871899012461237536
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_8
+  - first:
+      213: 6536136025107943946
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_9
+  - first:
+      213: -3896340872960362883
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_10
+  - first:
+      213: -5251861867620666634
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_11
+  - first:
+      213: -6484888769420790270
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_12
+  - first:
+      213: 536677201104066147
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_13
+  - first:
+      213: -1388366902844045596
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_14
+  - first:
+      213: -4789418512359040005
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_15
+  - first:
+      213: 5018495644468282426
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_16
+  - first:
+      213: 6210714530029551510
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_17
+  - first:
+      213: 4150767002051394858
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_18
+  - first:
+      213: 4416841529242316942
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_19
+  - first:
+      213: 6418333831240245229
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_20
+  - first:
+      213: -1767610326647776176
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_21
+  - first:
+      213: 8944915323576857901
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_22
+  - first:
+      213: 3841389939506014243
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_23
+  - first:
+      213: -3161731892380099081
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_24
+  - first:
+      213: -4803003539660630724
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_25
+  - first:
+      213: 9169797363152428287
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_26
+  - first:
+      213: 7840857906832057430
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_27
+  - first:
+      213: -1388368353698237769
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_28
+  - first:
+      213: -6379722713238248639
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_29
+  - first:
+      213: -3334796228177075768
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_30
+  - first:
+      213: 1159254905786860808
+    second: Dark Yellow Knight attack 1 Sprite-sheet 32x32_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d51e551df1aee60800000000000000
+      internalID: 7992235472671825255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07202d12851ca5790800000000000000
+      internalID: -7540502041809780112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 150
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3620e0dba01f7bda0800000000000000
+      internalID: -5929005355986189725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 151
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cb7e4ffb9570fb0800000000000000
+      internalID: -4681674606645887893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 152
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483857a88afc60b90800000000000000
+      internalID: -7275899825186045052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 152
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdaf43f4770b9b70800000000000000
+      internalID: 8906720886934973875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 151
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cba36457af0f850800000000000000
+      internalID: 6408897651344587792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 150
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a287430b4e776670800000000000000
+      internalID: 8531926879719359142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 111
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02518ba8a0d2d7150800000000000000
+      internalID: 5871899012461237536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02513cb51505ba50800000000000000
+      internalID: 6536136025107943946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 107
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76bc57ae9a6de9c0800000000000000
+      internalID: -3896340872960362883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 103
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2fc0bf473ad17b0800000000000000
+      internalID: -5251861867620666634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 100
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206f0cac50c0106a0800000000000000
+      internalID: -6484888769420790270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 102
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366dbda2219a27700800000000000000
+      internalID: 536677201104066147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 108
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6421268a78bbce0800000000000000
+      internalID: -1388366902844045596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbd82a0d31988db0800000000000000
+      internalID: -4789418512359040005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 58
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a348063133745a540800000000000000
+      internalID: 5018495644468282426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 57
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fb4c395f3e03650800000000000000
+      internalID: 6210714530029551510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 63
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dbfaeb89c7a9930800000000000000
+      internalID: 4150767002051394858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 63
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e807eab28f5cb4d30800000000000000
+      internalID: 4416841529242316942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 63
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def52fc1d90821950800000000000000
+      internalID: 6418333831240245229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 63
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cd8dae5cf2877e0800000000000000
+      internalID: -1767610326647776176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 63
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d253fb73819b22c70800000000000000
+      internalID: 8944915323576857901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 63
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328e3042ccb5f4530800000000000000
+      internalID: 3841389939506014243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 8
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd19af68954f14d0800000000000000
+      internalID: -3161731892380099081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 8
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3595936abd485db0800000000000000
+      internalID: -4803003539660630724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 5
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc930d3e1aa14f70800000000000000
+      internalID: 9169797363152428287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 11
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654a90f39b250dc60800000000000000
+      internalID: 7840857906832057430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 15
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b23c6496568bbce0800000000000000
+      internalID: -1388368353698237769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 15
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14361f75efba677a0800000000000000
+      internalID: -6379722713238248639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_30
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 15
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1613dbf7c68b1d0800000000000000
+      internalID: -3334796228177075768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight attack 1 Sprite-sheet 32x32_31
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 15
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8050e8fd130861010800000000000000
+      internalID: 1159254905786860808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_0: 7992235472671825255
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_1: -7540502041809780112
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_10: -3896340872960362883
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_11: -5251861867620666634
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_12: -6484888769420790270
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_13: 536677201104066147
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_14: -1388366902844045596
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_15: -4789418512359040005
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_16: 5018495644468282426
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_17: 6210714530029551510
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_18: 4150767002051394858
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_19: 4416841529242316942
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_2: -5929005355986189725
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_20: 6418333831240245229
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_21: -1767610326647776176
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_22: 8944915323576857901
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_23: 3841389939506014243
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_24: -3161731892380099081
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_25: -4803003539660630724
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_26: 9169797363152428287
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_27: 7840857906832057430
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_28: -1388368353698237769
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_29: -6379722713238248639
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_3: -4681674606645887893
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_30: -3334796228177075768
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_31: 1159254905786860808
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_4: -7275899825186045052
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_5: 8906720886934973875
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_6: 6408897651344587792
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_7: 8531926879719359142
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_8: 5871899012461237536
+      Dark Yellow Knight attack 1 Sprite-sheet 32x32_9: 6536136025107943946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

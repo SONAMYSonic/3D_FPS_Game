@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 11fa54c7ee500aa43877ddca8fe454ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6609474609895457892
+    second: Yellow Knight standby Sprite-sheet 16x16_0
+  - first:
+      213: -7990056627286438792
+    second: Yellow Knight standby Sprite-sheet 16x16_1
+  - first:
+      213: 1855639985165949928
+    second: Yellow Knight standby Sprite-sheet 16x16_2
+  - first:
+      213: 3651932875410936773
+    second: Yellow Knight standby Sprite-sheet 16x16_3
+  - first:
+      213: 1814849943552002632
+    second: Yellow Knight standby Sprite-sheet 16x16_4
+  - first:
+      213: -5731916675979331941
+    second: Yellow Knight standby Sprite-sheet 16x16_5
+  - first:
+      213: -4894630940970545631
+    second: Yellow Knight standby Sprite-sheet 16x16_6
+  - first:
+      213: -149030792810865845
+    second: Yellow Knight standby Sprite-sheet 16x16_7
+  - first:
+      213: 2698170226023932024
+    second: Yellow Knight standby Sprite-sheet 16x16_8
+  - first:
+      213: -7538310637649556374
+    second: Yellow Knight standby Sprite-sheet 16x16_9
+  - first:
+      213: -8349299590189549056
+    second: Yellow Knight standby Sprite-sheet 16x16_10
+  - first:
+      213: -8431535754876477359
+    second: Yellow Knight standby Sprite-sheet 16x16_11
+  - first:
+      213: 1252512849487733866
+    second: Yellow Knight standby Sprite-sheet 16x16_12
+  - first:
+      213: 6863431006321514469
+    second: Yellow Knight standby Sprite-sheet 16x16_13
+  - first:
+      213: 6171997629897993013
+    second: Yellow Knight standby Sprite-sheet 16x16_14
+  - first:
+      213: -7516206522516731367
+    second: Yellow Knight standby Sprite-sheet 16x16_15
+  - first:
+      213: -8235785183586906218
+    second: Yellow Knight standby Sprite-sheet 16x16_16
+  - first:
+      213: -5575764800016927224
+    second: Yellow Knight standby Sprite-sheet 16x16_17
+  - first:
+      213: 1775770036965094581
+    second: Yellow Knight standby Sprite-sheet 16x16_18
+  - first:
+      213: 932116121299836576
+    second: Yellow Knight standby Sprite-sheet 16x16_19
+  - first:
+      213: 172428907070100775
+    second: Yellow Knight standby Sprite-sheet 16x16_20
+  - first:
+      213: -5508900942653532725
+    second: Yellow Knight standby Sprite-sheet 16x16_21
+  - first:
+      213: 4096572032715972589
+    second: Yellow Knight standby Sprite-sheet 16x16_22
+  - first:
+      213: 7222756880498885941
+    second: Yellow Knight standby Sprite-sheet 16x16_23
+  - first:
+      213: -4946913894140934134
+    second: Yellow Knight standby Sprite-sheet 16x16_24
+  - first:
+      213: -1033237822103752195
+    second: Yellow Knight standby Sprite-sheet 16x16_25
+  - first:
+      213: 9165046966849925585
+    second: Yellow Knight standby Sprite-sheet 16x16_26
+  - first:
+      213: -5757079626186657947
+    second: Yellow Knight standby Sprite-sheet 16x16_27
+  - first:
+      213: 8916967307103447000
+    second: Yellow Knight standby Sprite-sheet 16x16_28
+  - first:
+      213: -865110328942614179
+    second: Yellow Knight standby Sprite-sheet 16x16_29
+  - first:
+      213: -282170485052053971
+    second: Yellow Knight standby Sprite-sheet 16x16_30
+  - first:
+      213: 3292150578891653790
+    second: Yellow Knight standby Sprite-sheet 16x16_31
+  - first:
+      213: -1749148931110446006
+    second: Yellow Knight standby Sprite-sheet 16x16_32
+  - first:
+      213: -7628458291020171085
+    second: Yellow Knight standby Sprite-sheet 16x16_33
+  - first:
+      213: -3456677486134097285
+    second: Yellow Knight standby Sprite-sheet 16x16_34
+  - first:
+      213: 4915633882826618926
+    second: Yellow Knight standby Sprite-sheet 16x16_35
+  - first:
+      213: -5745232088666784856
+    second: Yellow Knight standby Sprite-sheet 16x16_36
+  - first:
+      213: -3179928779364183440
+    second: Yellow Knight standby Sprite-sheet 16x16_37
+  - first:
+      213: 928797525539393855
+    second: Yellow Knight standby Sprite-sheet 16x16_38
+  - first:
+      213: -5734437506512273439
+    second: Yellow Knight standby Sprite-sheet 16x16_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bb73d5cdd6644a0800000000000000
+      internalID: -6609474609895457892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c0653a4dd9d1190800000000000000
+      internalID: -7990056627286438792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebd3d22cbe80c910800000000000000
+      internalID: 1855639985165949928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c39076f9954ea230800000000000000
+      internalID: 3651932875410936773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a0e0e7864af2910800000000000000
+      internalID: 1814849943552002632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b963d16f6242470b0800000000000000
+      internalID: -5731916675979331941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e80d09717c21cb0800000000000000
+      internalID: -4894630940970545631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bd9e598498eedf0800000000000000
+      internalID: -149030792810865845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87021b96683d17520800000000000000
+      internalID: 2698170226023932024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c895c2a6a826790800000000000000
+      internalID: -7538310637649556374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aff6b5244512c80800000000000000
+      internalID: -8349299590189549056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150259337ea2dfa80800000000000000
+      internalID: -8431535754876477359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64245eecc1d16110800000000000000
+      internalID: 1252512849487733866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e71230e22ecf3f50800000000000000
+      internalID: 6863431006321514469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b6f9cc42757a550800000000000000
+      internalID: 6171997629897993013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a8ae68df111b790800000000000000
+      internalID: -7516206522516731367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f80e5b20d94bd80800000000000000
+      internalID: -8235785183586906218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8063ddfb477ee92b0800000000000000
+      internalID: -5575764800016927224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b43610b07dc4a810800000000000000
+      internalID: 1775770036965094581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aedd7b7caa8fec00800000000000000
+      internalID: 932116121299836576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7251cea6d27946200800000000000000
+      internalID: 172428907070100775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc55252b7c37c83b0800000000000000
+      internalID: -5508900942653532725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defd5d62f82f9d830800000000000000
+      internalID: 4096572032715972589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53505217d136c3460800000000000000
+      internalID: 7222756880498885941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08094de508095bb0800000000000000
+      internalID: -4946913894140934134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1f105dca339a1f0800000000000000
+      internalID: -1033237822103752195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d17cd868a9c03f70800000000000000
+      internalID: 9165046966849925585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f6181159eba10b0800000000000000
+      internalID: -5757079626186657947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d72cad858e6fbb70800000000000000
+      internalID: 8916967307103447000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59aad74db28ef3f0800000000000000
+      internalID: -865110328942614179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d266f585077851cf0800000000000000
+      internalID: -282170485052053971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e920fe9428110bd20800000000000000
+      internalID: 3292150578891653790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c58e58056c9b7e0800000000000000
+      internalID: -1749148931110446006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8fbd30a95422690800000000000000
+      internalID: -7628458291020171085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a03eff32a6700d0800000000000000
+      internalID: -3456677486134097285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2831c7e8f6d73440800000000000000
+      internalID: 4915633882826618926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab37dadad5d440b0800000000000000
+      internalID: -5745232088666784856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072d4f68f9f9ed3d0800000000000000
+      internalID: -3179928779364183440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f319902bd60c3ec00800000000000000
+      internalID: 928797525539393855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight standby Sprite-sheet 16x16_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efb8ad587f2b60b0800000000000000
+      internalID: -5734437506512273439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Yellow Knight standby Sprite-sheet 16x16_0: -6609474609895457892
+      Yellow Knight standby Sprite-sheet 16x16_1: -7990056627286438792
+      Yellow Knight standby Sprite-sheet 16x16_10: -8349299590189549056
+      Yellow Knight standby Sprite-sheet 16x16_11: -8431535754876477359
+      Yellow Knight standby Sprite-sheet 16x16_12: 1252512849487733866
+      Yellow Knight standby Sprite-sheet 16x16_13: 6863431006321514469
+      Yellow Knight standby Sprite-sheet 16x16_14: 6171997629897993013
+      Yellow Knight standby Sprite-sheet 16x16_15: -7516206522516731367
+      Yellow Knight standby Sprite-sheet 16x16_16: -8235785183586906218
+      Yellow Knight standby Sprite-sheet 16x16_17: -5575764800016927224
+      Yellow Knight standby Sprite-sheet 16x16_18: 1775770036965094581
+      Yellow Knight standby Sprite-sheet 16x16_19: 932116121299836576
+      Yellow Knight standby Sprite-sheet 16x16_2: 1855639985165949928
+      Yellow Knight standby Sprite-sheet 16x16_20: 172428907070100775
+      Yellow Knight standby Sprite-sheet 16x16_21: -5508900942653532725
+      Yellow Knight standby Sprite-sheet 16x16_22: 4096572032715972589
+      Yellow Knight standby Sprite-sheet 16x16_23: 7222756880498885941
+      Yellow Knight standby Sprite-sheet 16x16_24: -4946913894140934134
+      Yellow Knight standby Sprite-sheet 16x16_25: -1033237822103752195
+      Yellow Knight standby Sprite-sheet 16x16_26: 9165046966849925585
+      Yellow Knight standby Sprite-sheet 16x16_27: -5757079626186657947
+      Yellow Knight standby Sprite-sheet 16x16_28: 8916967307103447000
+      Yellow Knight standby Sprite-sheet 16x16_29: -865110328942614179
+      Yellow Knight standby Sprite-sheet 16x16_3: 3651932875410936773
+      Yellow Knight standby Sprite-sheet 16x16_30: -282170485052053971
+      Yellow Knight standby Sprite-sheet 16x16_31: 3292150578891653790
+      Yellow Knight standby Sprite-sheet 16x16_32: -1749148931110446006
+      Yellow Knight standby Sprite-sheet 16x16_33: -7628458291020171085
+      Yellow Knight standby Sprite-sheet 16x16_34: -3456677486134097285
+      Yellow Knight standby Sprite-sheet 16x16_35: 4915633882826618926
+      Yellow Knight standby Sprite-sheet 16x16_36: -5745232088666784856
+      Yellow Knight standby Sprite-sheet 16x16_37: -3179928779364183440
+      Yellow Knight standby Sprite-sheet 16x16_38: 928797525539393855
+      Yellow Knight standby Sprite-sheet 16x16_39: -5734437506512273439
+      Yellow Knight standby Sprite-sheet 16x16_4: 1814849943552002632
+      Yellow Knight standby Sprite-sheet 16x16_5: -5731916675979331941
+      Yellow Knight standby Sprite-sheet 16x16_6: -4894630940970545631
+      Yellow Knight standby Sprite-sheet 16x16_7: -149030792810865845
+      Yellow Knight standby Sprite-sheet 16x16_8: 2698170226023932024
+      Yellow Knight standby Sprite-sheet 16x16_9: -7538310637649556374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

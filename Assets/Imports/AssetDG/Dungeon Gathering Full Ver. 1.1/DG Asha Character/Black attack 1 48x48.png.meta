@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 2eb653e2de09af64183d534014aa46c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -845800125710727981
+    second: Black attack 1 48x48_0
+  - first:
+      213: 6539680453447119607
+    second: Black attack 1 48x48_1
+  - first:
+      213: 9000436564835071148
+    second: Black attack 1 48x48_2
+  - first:
+      213: 1592623271517738935
+    second: Black attack 1 48x48_3
+  - first:
+      213: -8618082855738850171
+    second: Black attack 1 48x48_4
+  - first:
+      213: 5150299282925077102
+    second: Black attack 1 48x48_5
+  - first:
+      213: -8247050656719985974
+    second: Black attack 1 48x48_6
+  - first:
+      213: -2716378022476420083
+    second: Black attack 1 48x48_7
+  - first:
+      213: -3856880048343762418
+    second: Black attack 1 48x48_8
+  - first:
+      213: 8101236037319197542
+    second: Black attack 1 48x48_9
+  - first:
+      213: -3554108238029056711
+    second: Black attack 1 48x48_10
+  - first:
+      213: 8944024153653695930
+    second: Black attack 1 48x48_11
+  - first:
+      213: 2899790144998674320
+    second: Black attack 1 48x48_12
+  - first:
+      213: -1408390716389047573
+    second: Black attack 1 48x48_13
+  - first:
+      213: 7936787617321765402
+    second: Black attack 1 48x48_14
+  - first:
+      213: 2839351132466466076
+    second: Black attack 1 48x48_15
+  - first:
+      213: -5728525165630354221
+    second: Black attack 1 48x48_16
+  - first:
+      213: -5607481886244580120
+    second: Black attack 1 48x48_17
+  - first:
+      213: 3289595651755015859
+    second: Black attack 1 48x48_18
+  - first:
+      213: 8729844798648838998
+    second: Black attack 1 48x48_19
+  - first:
+      213: 1422613182053833702
+    second: Black attack 1 48x48_20
+  - first:
+      213: -2376951460563013464
+    second: Black attack 1 48x48_21
+  - first:
+      213: -8480475632872704443
+    second: Black attack 1 48x48_22
+  - first:
+      213: 3652237903239381610
+    second: Black attack 1 48x48_23
+  - first:
+      213: -3412116274080817005
+    second: Black attack 1 48x48_24
+  - first:
+      213: 1071343438272316963
+    second: Black attack 1 48x48_25
+  - first:
+      213: -8058494180228815175
+    second: Black attack 1 48x48_26
+  - first:
+      213: 3615737565533248020
+    second: Black attack 1 48x48_27
+  - first:
+      213: 222913513404629690
+    second: Black attack 1 48x48_28
+  - first:
+      213: -6420512447079107111
+    second: Black attack 1 48x48_29
+  - first:
+      213: 2641987350363645832
+    second: Black attack 1 48x48_30
+  - first:
+      213: -9096917246511935346
+    second: Black attack 1 48x48_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black attack 1 48x48_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d40804544d1344f0800000000000000
+      internalID: -845800125710727981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2f74449bc91ca50800000000000000
+      internalID: 6539680453447119607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 150
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca47e6e8e59f7ec70800000000000000
+      internalID: 9000436564835071148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 151
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7d5d76d622a1610800000000000000
+      internalID: 1592623271517738935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 151
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5844dc2ad4b666880800000000000000
+      internalID: -8618082855738850171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 151
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62c2bd09e9897740800000000000000
+      internalID: 5150299282925077102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 151
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2ad895f179c8d80800000000000000
+      internalID: -8247050656719985974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 150
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c6d9e949c7d4ad0800000000000000
+      internalID: -2716378022476420083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 103
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0abd29d70c997ac0800000000000000
+      internalID: -3856880048343762418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 103
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6630106f04f5d6070800000000000000
+      internalID: 8101236037319197542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 100
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9351df253654daec0800000000000000
+      internalID: -3554108238029056711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 106
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5da0d849e8f1c70800000000000000
+      internalID: 8944024153653695930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 111
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f03dbe5cf1e3820800000000000000
+      internalID: 2899790144998674320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 111
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be24cacfa14647ce0800000000000000
+      internalID: -1408390716389047573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_14
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 111
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ace2c7942252e60800000000000000
+      internalID: 7936787617321765402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_15
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 111
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d444bbfc6676720800000000000000
+      internalID: 2839351132466466076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc87bf76b03080b0800000000000000
+      internalID: -5728525165630354221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_17
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 63
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e454f52fe83e22b0800000000000000
+      internalID: -5607481886244580120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 58
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bef685f0ddf6ad20800000000000000
+      internalID: 3289595651755015859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 54
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b61c77793a62970800000000000000
+      internalID: 8729844798648838998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 54
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb5b19d6232eb310800000000000000
+      internalID: 1422613182053833702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 55
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0bbc08d3f530fd0800000000000000
+      internalID: -2376951460563013464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 60
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5463448e75c4f4a80800000000000000
+      internalID: -8480475632872704443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a620dc9c50b5fa230800000000000000
+      internalID: 3652237903239381610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390651fa35ab5a0d0800000000000000
+      internalID: -3412116274080817005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326caae4e2d2ede00800000000000000
+      internalID: 1071343438272316963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 15
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6a8e22d3a7a2090800000000000000
+      internalID: -8058494180228815175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 15
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a15aaa82ead2230800000000000000
+      internalID: 3615737565533248020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab20e1ec8a2f71300800000000000000
+      internalID: 222913513404629690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 15
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d530eb52f1c5e6a0800000000000000
+      internalID: -6420512447079107111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 15
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887208f4f793aa420800000000000000
+      internalID: 2641987350363645832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black attack 1 48x48_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 15
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80188a36f141c180800000000000000
+      internalID: -9096917246511935346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black attack 1 48x48_0: -845800125710727981
+      Black attack 1 48x48_1: 6539680453447119607
+      Black attack 1 48x48_10: -3554108238029056711
+      Black attack 1 48x48_11: 8944024153653695930
+      Black attack 1 48x48_12: 2899790144998674320
+      Black attack 1 48x48_13: -1408390716389047573
+      Black attack 1 48x48_14: 7936787617321765402
+      Black attack 1 48x48_15: 2839351132466466076
+      Black attack 1 48x48_16: -5728525165630354221
+      Black attack 1 48x48_17: -5607481886244580120
+      Black attack 1 48x48_18: 3289595651755015859
+      Black attack 1 48x48_19: 8729844798648838998
+      Black attack 1 48x48_2: 9000436564835071148
+      Black attack 1 48x48_20: 1422613182053833702
+      Black attack 1 48x48_21: -2376951460563013464
+      Black attack 1 48x48_22: -8480475632872704443
+      Black attack 1 48x48_23: 3652237903239381610
+      Black attack 1 48x48_24: -3412116274080817005
+      Black attack 1 48x48_25: 1071343438272316963
+      Black attack 1 48x48_26: -8058494180228815175
+      Black attack 1 48x48_27: 3615737565533248020
+      Black attack 1 48x48_28: 222913513404629690
+      Black attack 1 48x48_29: -6420512447079107111
+      Black attack 1 48x48_3: 1592623271517738935
+      Black attack 1 48x48_30: 2641987350363645832
+      Black attack 1 48x48_31: -9096917246511935346
+      Black attack 1 48x48_4: -8618082855738850171
+      Black attack 1 48x48_5: 5150299282925077102
+      Black attack 1 48x48_6: -8247050656719985974
+      Black attack 1 48x48_7: -2716378022476420083
+      Black attack 1 48x48_8: -3856880048343762418
+      Black attack 1 48x48_9: 8101236037319197542
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

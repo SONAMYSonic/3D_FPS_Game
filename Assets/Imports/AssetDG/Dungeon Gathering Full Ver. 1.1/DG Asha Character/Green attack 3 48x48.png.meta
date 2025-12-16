@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 7ebf13e156e719549915800e8cd23eff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2987825986532567001
+    second: Green attack 3 48x48_0
+  - first:
+      213: -8986041258448162340
+    second: Green attack 3 48x48_1
+  - first:
+      213: -4331613405303028617
+    second: Green attack 3 48x48_2
+  - first:
+      213: -8727549727396779424
+    second: Green attack 3 48x48_3
+  - first:
+      213: -7067948835089079882
+    second: Green attack 3 48x48_4
+  - first:
+      213: -6641586201856440708
+    second: Green attack 3 48x48_5
+  - first:
+      213: -7929708266163898532
+    second: Green attack 3 48x48_6
+  - first:
+      213: -1663896653368437021
+    second: Green attack 3 48x48_7
+  - first:
+      213: -1111103150946511192
+    second: Green attack 3 48x48_8
+  - first:
+      213: 6021633250576939582
+    second: Green attack 3 48x48_9
+  - first:
+      213: -2474610155389363326
+    second: Green attack 3 48x48_10
+  - first:
+      213: -5850074675438977472
+    second: Green attack 3 48x48_11
+  - first:
+      213: 3636533042477505819
+    second: Green attack 3 48x48_12
+  - first:
+      213: -5834543859374296932
+    second: Green attack 3 48x48_13
+  - first:
+      213: -8635270366210938212
+    second: Green attack 3 48x48_14
+  - first:
+      213: 1626581170796660939
+    second: Green attack 3 48x48_15
+  - first:
+      213: -8828369385890275101
+    second: Green attack 3 48x48_16
+  - first:
+      213: -9175967632400361714
+    second: Green attack 3 48x48_17
+  - first:
+      213: 3093691093297962560
+    second: Green attack 3 48x48_18
+  - first:
+      213: -1598057440267926523
+    second: Green attack 3 48x48_19
+  - first:
+      213: 3085120554671910698
+    second: Green attack 3 48x48_20
+  - first:
+      213: 6346382828278415757
+    second: Green attack 3 48x48_21
+  - first:
+      213: -3867208908406155414
+    second: Green attack 3 48x48_22
+  - first:
+      213: 5835662085318398861
+    second: Green attack 3 48x48_23
+  - first:
+      213: 1265084273942803636
+    second: Green attack 3 48x48_24
+  - first:
+      213: -5027790013881304110
+    second: Green attack 3 48x48_25
+  - first:
+      213: 2507045520173686664
+    second: Green attack 3 48x48_26
+  - first:
+      213: 1816425891654209892
+    second: Green attack 3 48x48_27
+  - first:
+      213: 1041149887659537500
+    second: Green attack 3 48x48_28
+  - first:
+      213: 6998746458651701217
+    second: Green attack 3 48x48_29
+  - first:
+      213: -127228282892444267
+    second: Green attack 3 48x48_30
+  - first:
+      213: 4550950682777552445
+    second: Green attack 3 48x48_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green attack 3 48x48_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 152
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7289b0e681c1986d0800000000000000
+      internalID: -2987825986532567001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 153
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd17135e51b2b4380800000000000000
+      internalID: -8986041258448162340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 153
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774c798ce8403e3c0800000000000000
+      internalID: -4331613405303028617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 148
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a25f273c381e680800000000000000
+      internalID: -8727549727396779424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 145
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b121e96bf999ed90800000000000000
+      internalID: -7067948835089079882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76063db98854d3a0800000000000000
+      internalID: -6641586201856440708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 143
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5772d6685404f190800000000000000
+      internalID: -7929708266163898532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 150
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e653093fc6a8e8e0800000000000000
+      internalID: -1663896653368437021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 111
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6140332919490f0800000000000000
+      internalID: -1111103150946511192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ab1549983219350800000000000000
+      internalID: 6021633250576939582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b517abc2b68add0800000000000000
+      internalID: -2474610155389363326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 111
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e73f4e31c50dea0800000000000000
+      internalID: -5850074675438977472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 111
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d97d2f88f877230800000000000000
+      internalID: 3636533042477505819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 111
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90fe8bc549870fa0800000000000000
+      internalID: -5834543859374296932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 111
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a2a828a5b592880800000000000000
+      internalID: -8635270366210938212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 111
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc88ca3f4f6c29610800000000000000
+      internalID: 1626581170796660939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0a31871d45b7580800000000000000
+      internalID: -8828369385890275101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e075b400e0a68a080800000000000000
+      internalID: -9175967632400361714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e90d488affeea20800000000000000
+      internalID: 3093691093297962560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5040926993f82d9e0800000000000000
+      internalID: -1598057440267926523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fa97e7ccc80da20800000000000000
+      internalID: 3085120554671910698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 63
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d818c28ce81e21850800000000000000
+      internalID: 6346382828278415757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 63
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a679936bcf9e45ac0800000000000000
+      internalID: -3867208908406155414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d835e987fbf6cf050800000000000000
+      internalID: 5835662085318398861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b43b47c17b7e8110800000000000000
+      internalID: 1265084273942803636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db3959ee93b93ab0800000000000000
+      internalID: -5027790013881304110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 15
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fdfa12e90dac220800000000000000
+      internalID: 2507045520173686664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4611fd089bd353910800000000000000
+      internalID: 1816425891654209892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5472eb7e48e27e00800000000000000
+      internalID: 1041149887659537500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 15
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef25fcb2da802160800000000000000
+      internalID: 6998746458651701217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 15
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d10d00d8efb3ef0800000000000000
+      internalID: -127228282892444267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green attack 3 48x48_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 15
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d360745b889382f30800000000000000
+      internalID: 4550950682777552445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green attack 3 48x48_0: -2987825986532567001
+      Green attack 3 48x48_1: -8986041258448162340
+      Green attack 3 48x48_10: -2474610155389363326
+      Green attack 3 48x48_11: -5850074675438977472
+      Green attack 3 48x48_12: 3636533042477505819
+      Green attack 3 48x48_13: -5834543859374296932
+      Green attack 3 48x48_14: -8635270366210938212
+      Green attack 3 48x48_15: 1626581170796660939
+      Green attack 3 48x48_16: -8828369385890275101
+      Green attack 3 48x48_17: -9175967632400361714
+      Green attack 3 48x48_18: 3093691093297962560
+      Green attack 3 48x48_19: -1598057440267926523
+      Green attack 3 48x48_2: -4331613405303028617
+      Green attack 3 48x48_20: 3085120554671910698
+      Green attack 3 48x48_21: 6346382828278415757
+      Green attack 3 48x48_22: -3867208908406155414
+      Green attack 3 48x48_23: 5835662085318398861
+      Green attack 3 48x48_24: 1265084273942803636
+      Green attack 3 48x48_25: -5027790013881304110
+      Green attack 3 48x48_26: 2507045520173686664
+      Green attack 3 48x48_27: 1816425891654209892
+      Green attack 3 48x48_28: 1041149887659537500
+      Green attack 3 48x48_29: 6998746458651701217
+      Green attack 3 48x48_3: -8727549727396779424
+      Green attack 3 48x48_30: -127228282892444267
+      Green attack 3 48x48_31: 4550950682777552445
+      Green attack 3 48x48_4: -7067948835089079882
+      Green attack 3 48x48_5: -6641586201856440708
+      Green attack 3 48x48_6: -7929708266163898532
+      Green attack 3 48x48_7: -1663896653368437021
+      Green attack 3 48x48_8: -1111103150946511192
+      Green attack 3 48x48_9: 6021633250576939582
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

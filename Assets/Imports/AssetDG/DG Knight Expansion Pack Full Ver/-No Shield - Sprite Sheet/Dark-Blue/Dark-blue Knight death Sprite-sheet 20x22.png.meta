@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 6590fa85281706a47a071d224a62aa1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2635217971845279401
+    second: Dark-blue Knight death Sprite-sheet 20x22_0
+  - first:
+      213: 7267066204645435418
+    second: Dark-blue Knight death Sprite-sheet 20x22_1
+  - first:
+      213: -5239927645500982646
+    second: Dark-blue Knight death Sprite-sheet 20x22_2
+  - first:
+      213: 8787288592654206520
+    second: Dark-blue Knight death Sprite-sheet 20x22_3
+  - first:
+      213: -2937009590388558725
+    second: Dark-blue Knight death Sprite-sheet 20x22_4
+  - first:
+      213: 6747549735548904100
+    second: Dark-blue Knight death Sprite-sheet 20x22_5
+  - first:
+      213: -3203345482269833387
+    second: Dark-blue Knight death Sprite-sheet 20x22_6
+  - first:
+      213: 19685688725401759
+    second: Dark-blue Knight death Sprite-sheet 20x22_7
+  - first:
+      213: -3071635891967800432
+    second: Dark-blue Knight death Sprite-sheet 20x22_8
+  - first:
+      213: 5771294356354484347
+    second: Dark-blue Knight death Sprite-sheet 20x22_9
+  - first:
+      213: -5881809104287781678
+    second: Dark-blue Knight death Sprite-sheet 20x22_10
+  - first:
+      213: -2338908268372408451
+    second: Dark-blue Knight death Sprite-sheet 20x22_11
+  - first:
+      213: 732945866805896897
+    second: Dark-blue Knight death Sprite-sheet 20x22_12
+  - first:
+      213: -2780676718861264444
+    second: Dark-blue Knight death Sprite-sheet 20x22_13
+  - first:
+      213: 1405054296548642610
+    second: Dark-blue Knight death Sprite-sheet 20x22_14
+  - first:
+      213: 1788628815128328655
+    second: Dark-blue Knight death Sprite-sheet 20x22_15
+  - first:
+      213: -2755114257194498878
+    second: Dark-blue Knight death Sprite-sheet 20x22_16
+  - first:
+      213: -8981341815506025961
+    second: Dark-blue Knight death Sprite-sheet 20x22_17
+  - first:
+      213: 5419425944482768731
+    second: Dark-blue Knight death Sprite-sheet 20x22_18
+  - first:
+      213: 1760523404811548416
+    second: Dark-blue Knight death Sprite-sheet 20x22_19
+  - first:
+      213: -7270554040647397413
+    second: Dark-blue Knight death Sprite-sheet 20x22_20
+  - first:
+      213: -5797513786889732729
+    second: Dark-blue Knight death Sprite-sheet 20x22_21
+  - first:
+      213: 8840572866676888764
+    second: Dark-blue Knight death Sprite-sheet 20x22_22
+  - first:
+      213: -4409198469119135874
+    second: Dark-blue Knight death Sprite-sheet 20x22_23
+  - first:
+      213: 4654504290217416653
+    second: Dark-blue Knight death Sprite-sheet 20x22_24
+  - first:
+      213: 1805707887274205550
+    second: Dark-blue Knight death Sprite-sheet 20x22_25
+  - first:
+      213: -2771975342592284914
+    second: Dark-blue Knight death Sprite-sheet 20x22_26
+  - first:
+      213: 6147999692853584164
+    second: Dark-blue Knight death Sprite-sheet 20x22_27
+  - first:
+      213: 3671090683264790524
+    second: Dark-blue Knight death Sprite-sheet 20x22_28
+  - first:
+      213: -5244865162380022675
+    second: Dark-blue Knight death Sprite-sheet 20x22_29
+  - first:
+      213: 6254149899575256067
+    second: Dark-blue Knight death Sprite-sheet 20x22_30
+  - first:
+      213: -1522987536460453045
+    second: Dark-blue Knight death Sprite-sheet 20x22_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae209d88cc229420800000000000000
+      internalID: 2635217971845279401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a182327e53ec9d460800000000000000
+      internalID: 7267066204645435418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 70
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a3a2991990847b0800000000000000
+      internalID: -5239927645500982646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8360ffffa68b2f970800000000000000
+      internalID: 8787288592654206520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 70
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7479f6a655ad37d0800000000000000
+      internalID: -2937009590388558725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 65
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a26ca30cbc14ad50800000000000000
+      internalID: 6747549735548904100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 65
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5574474814e6b83d0800000000000000
+      internalID: -3203345482269833387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 65
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90f2a39700f54000800000000000000
+      internalID: 19685688725401759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b4be33e6b5f55d0800000000000000
+      internalID: -3071635891967800432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 43
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78c9b4b3a1c71050800000000000000
+      internalID: 5771294356354484347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 43
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dca44668cd9f5ea0800000000000000
+      internalID: -5881809104287781678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 43
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77407d62578a8fd0800000000000000
+      internalID: -2338908268372408451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 43
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c66e8ee162fb2a00800000000000000
+      internalID: 732945866805896897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 43
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c95311c14d0969d0800000000000000
+      internalID: -2780676718861264444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 43
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f0beb3071cf7310800000000000000
+      internalID: 1405054296548642610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 43
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc970c84e6c72d810800000000000000
+      internalID: 1788628815128328655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 21
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4ce482e2ed3c9d0800000000000000
+      internalID: -2755114257194498878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 21
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712c668343ddb5380800000000000000
+      internalID: -8981341815506025961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 21
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b576e63ee2ba53b40800000000000000
+      internalID: 5419425944482768731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 21
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007bd8285b2ae6810800000000000000
+      internalID: 1760523404811548416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 21
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf4eeefe9dc91b90800000000000000
+      internalID: -7270554040647397413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 21
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78df1086de71b8fa0800000000000000
+      internalID: -5797513786889732729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_22
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 21
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb49b31de2600ba70800000000000000
+      internalID: 8840572866676888764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 21
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f25ff6a516fc2c0800000000000000
+      internalID: -4409198469119135874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7d0f7cdfe189040800000000000000
+      internalID: 4654504290217416653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61a915a1c92f0910800000000000000
+      internalID: 1805707887274205550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0725aacc17f789d0800000000000000
+      internalID: -2771975342592284914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_27
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421afbba525125550800000000000000
+      internalID: 6147999692853584164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff6e32b68552f230800000000000000
+      internalID: 3671090683264790524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c648d5cee7637b0800000000000000
+      internalID: -5244865162380022675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3046a30a2343bc650800000000000000
+      internalID: 6254149899575256067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-blue Knight death Sprite-sheet 20x22_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b6deb97e24ddae0800000000000000
+      internalID: -1522987536460453045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark-blue Knight death Sprite-sheet 20x22_0: 2635217971845279401
+      Dark-blue Knight death Sprite-sheet 20x22_1: 7267066204645435418
+      Dark-blue Knight death Sprite-sheet 20x22_10: -5881809104287781678
+      Dark-blue Knight death Sprite-sheet 20x22_11: -2338908268372408451
+      Dark-blue Knight death Sprite-sheet 20x22_12: 732945866805896897
+      Dark-blue Knight death Sprite-sheet 20x22_13: -2780676718861264444
+      Dark-blue Knight death Sprite-sheet 20x22_14: 1405054296548642610
+      Dark-blue Knight death Sprite-sheet 20x22_15: 1788628815128328655
+      Dark-blue Knight death Sprite-sheet 20x22_16: -2755114257194498878
+      Dark-blue Knight death Sprite-sheet 20x22_17: -8981341815506025961
+      Dark-blue Knight death Sprite-sheet 20x22_18: 5419425944482768731
+      Dark-blue Knight death Sprite-sheet 20x22_19: 1760523404811548416
+      Dark-blue Knight death Sprite-sheet 20x22_2: -5239927645500982646
+      Dark-blue Knight death Sprite-sheet 20x22_20: -7270554040647397413
+      Dark-blue Knight death Sprite-sheet 20x22_21: -5797513786889732729
+      Dark-blue Knight death Sprite-sheet 20x22_22: 8840572866676888764
+      Dark-blue Knight death Sprite-sheet 20x22_23: -4409198469119135874
+      Dark-blue Knight death Sprite-sheet 20x22_24: 4654504290217416653
+      Dark-blue Knight death Sprite-sheet 20x22_25: 1805707887274205550
+      Dark-blue Knight death Sprite-sheet 20x22_26: -2771975342592284914
+      Dark-blue Knight death Sprite-sheet 20x22_27: 6147999692853584164
+      Dark-blue Knight death Sprite-sheet 20x22_28: 3671090683264790524
+      Dark-blue Knight death Sprite-sheet 20x22_29: -5244865162380022675
+      Dark-blue Knight death Sprite-sheet 20x22_3: 8787288592654206520
+      Dark-blue Knight death Sprite-sheet 20x22_30: 6254149899575256067
+      Dark-blue Knight death Sprite-sheet 20x22_31: -1522987536460453045
+      Dark-blue Knight death Sprite-sheet 20x22_4: -2937009590388558725
+      Dark-blue Knight death Sprite-sheet 20x22_5: 6747549735548904100
+      Dark-blue Knight death Sprite-sheet 20x22_6: -3203345482269833387
+      Dark-blue Knight death Sprite-sheet 20x22_7: 19685688725401759
+      Dark-blue Knight death Sprite-sheet 20x22_8: -3071635891967800432
+      Dark-blue Knight death Sprite-sheet 20x22_9: 5771294356354484347
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
