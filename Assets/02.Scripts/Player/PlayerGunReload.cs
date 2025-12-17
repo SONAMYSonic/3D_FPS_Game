@@ -9,7 +9,7 @@ public class PlayerGunReload : MonoBehaviour
     [SerializeField] private Vector3 _initailPlayerGunRotation;
 
     [SerializeField] private float _reloadDuration = 1.6f;
-    [SerializeField] private float _reloadTimer = 0f;
+    [SerializeField] private bool _isReloading = false;
 
     public UI_Reload ui_Reload;
 
@@ -30,16 +30,19 @@ public class PlayerGunReload : MonoBehaviour
         }
 
         // R 키를 누르면 재장전
-        if (Input.GetKeyDown(KeyCode.R) && _gunStat.Ammo.Value < _gunStat.Ammo.MaxValue)
+        if ((Input.GetKeyDown(KeyCode.R) && _gunStat.Ammo.Value < _gunStat.Ammo.MaxValue) && _isReloading == false)
         {
             // UI에 재장전 텍스트 표시
             ui_Reload.ShowReloadText();
+
+            // 재장전 중임을 표시
+            _isReloading = true;
 
             // 재장전 시 총 오브젝트를 X축으로 마구 회전 후 원래대로 돌아오게 함
             _playerGunObject.transform.DOKill();
             _playerGunObject.transform.DOLocalRotate(
                 new Vector3(_initailPlayerGunRotation.x + 3600f, _initailPlayerGunRotation.y, _initailPlayerGunRotation.z),
-                1.6f,
+                _reloadDuration,
                 RotateMode.FastBeyond360
             ).SetEase(Ease.OutQuad).OnComplete(() =>
             {
@@ -58,5 +61,8 @@ public class PlayerGunReload : MonoBehaviour
         // 탄약 재장전
         _gunStat.Ammo.Increase(ammoToReload);
         _gunStat.FullAmmo.Decrease(ammoToReload);
+
+        // 재장전 완료 후 재장전 중 상태 해제
+        _isReloading = false;
     }
 }

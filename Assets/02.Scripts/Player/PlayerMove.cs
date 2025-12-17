@@ -19,6 +19,7 @@ public class PlayerMove : MonoBehaviour
 
     private CharacterController _controller;
     private PlayerStats _stats;
+    [SerializeField] private Animator _playerAnimator;
 
     private float _yVelocity = 0f;   // 중력에 의해 누적될 y값 변수
 
@@ -53,9 +54,10 @@ public class PlayerMove : MonoBehaviour
 
         // - 글로벌 좌표 방향을 구한다. 
         Vector3 direction = new Vector3(x, 0, y);
+        _playerAnimator.SetFloat("Speed", direction.magnitude * _stats.MoveSpeed.Value);
         direction.Normalize();
 
-
+        
 
         // - 점프! : 점프 키를 누르고 && 땅이라면
         if (Input.GetButtonDown("Jump") && _controller.isGrounded)
