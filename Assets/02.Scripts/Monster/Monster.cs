@@ -448,8 +448,12 @@ public class Monster : MonoBehaviour
         // ConsumableStat의 Decrease 메서드 사용
         _health.Decrease(damage);
 
-        _agent.isStopped = true;    // 이동 일시정지
-        _agent.ResetPath();      // 경로(=목적지) 삭제
+        // NavMeshAgent가 활성화된 상태에서만 정지 처리
+        if (_agent.enabled && _agent.isOnNavMesh)
+        {
+            _agent.isStopped = true;    // 이동 일시정지
+            _agent.ResetPath();         // 경로(=목적지) 삭제
+        }
 
         // ConsumableStat의 Value 프로퍼티로 체력 확인
         if (_health.Value <= 0)

@@ -5,9 +5,15 @@ public class CameraFollow : MonoBehaviour
 {
     [Header("Targets")]
     public Transform[] CameraTargets;
+    public Transform Player; // 플레이어 Transform (탑뷰용)
 
     [Header("Settings")]
     public float CameraMoveDuration = 0.5f;
+    public int TopViewIndex = 2; // 탑뷰 카메라 인덱스
+
+    [Header("TopView Settings")]
+    public Vector3 TopViewOffset = new Vector3(6, 8, -4); // 플레이어로부터의 오프셋
+    public Vector3 TopViewRotation = new Vector3(35, -40, 0); // 탑뷰 카메라 회전 (아래를 바라봄)
 
     // 현재 카메라 인덱스
     private int _currentTargetIndex = 0;
@@ -15,8 +21,22 @@ public class CameraFollow : MonoBehaviour
     // 현재 타겟 반환
     public Transform CurrentTarget => CameraTargets[_currentTargetIndex];
 
+    // 현재 카메라 인덱스 반환
+    public int CurrentTargetIndex => _currentTargetIndex;
+
+    // 탑뷰 상태인지 확인
+    public bool IsTopView => _currentTargetIndex == TopViewIndex;
+
     // 이동 중인지 체크하는 플래그
     private bool _isTransitioning = false;
+
+    // 싱글톤 (다른 스크립트에서 쉽게 접근)
+    public static CameraFollow Instance { get; private set; }
+
+    private void Awake()
+    {
+        Instance = this;
+    }
 
     private void Start()
     {
@@ -38,10 +58,25 @@ public class CameraFollow : MonoBehaviour
             SwitchToNextCamera();
         }
 
-        // 2. 이동 중이 아닐 때만 타겟을 '딱' 붙여서 따라다님
+        // 2. 이동 중이 아닐 때만 따라다님
         if (!_isTransitioning)
         {
-            transform.position = CurrentTarget.position;
+            if (IsTopView && Player != null)
+            {
+                // 탑뷰: 플레이어 위치 + 오프셋 (월드 공간 기준, 회전 영향 없음)
+                transform.position = Player.position + TopViewOffset;
+                transform.rotation = Quaternion.Euler(TopViewRotation);
+            }
+            // FPS/TPS: 위치 업데이트 제거 - CameraTargets가 플레이어 자식이면 자동으로 따라감
+            // 만약 카메라가 플레이어 자식이 아니라면 아래 주석 해제
+            else
+            {
+                transform.position = CurrentTarget.position;
+                // Y축 회전만 타겟을 따라가고, X축은 CameraRotate가 설정한 값 유지
+                Vector3 currentEuler = transform.eulerAngles;
+                Vector3 targetEuler = CurrentTarget.eulerAngles;
+                transform.eulerAngles = new Vector3(currentEuler.x, targetEuler.y, 0);
+            }
         }
     }
 
@@ -55,8 +90,23 @@ public class CameraFollow : MonoBehaviour
         // 기존 트윈 제거 (안전장치)
         transform.DOKill();
 
+        // 목표 위치/회전 계산
+        Vector3 targetPosition;
+        Quaternion targetRotation;
+
+        if (IsTopView && Player != null)
+        {
+            targetPosition = Player.position + TopViewOffset;
+            targetRotation = Quaternion.Euler(TopViewRotation);
+        }
+        else
+        {
+            targetPosition = CurrentTarget.position;
+            targetRotation = CurrentTarget.rotation;
+        }
+
         // 위치 이동
-        transform.DOMove(CurrentTarget.position, CameraMoveDuration)
+        transform.DOMove(targetPosition, CameraMoveDuration)
             .SetEase(Ease.OutQuad)
             .SetId(this)
             .OnComplete(() =>
@@ -65,9 +115,12 @@ public class CameraFollow : MonoBehaviour
             });
 
         // 회전도 부드럽게
-        transform.DORotateQuaternion(CurrentTarget.rotation, CameraMoveDuration)
+        transform.DORotateQuaternion(targetRotation, CameraMoveDuration)
             .SetEase(Ease.OutQuad)
             .SetId(this);
+
+        // 탑뷰 전환 시 커서 상태 변경
+        UpdateCursorState();
     }
 
     /// <summary>
@@ -82,7 +135,21 @@ public class CameraFollow : MonoBehaviour
 
         transform.DOKill();
 
-        transform.DOMove(CurrentTarget.position, CameraMoveDuration)
+        Vector3 targetPosition;
+        Quaternion targetRotation;
+
+        if (IsTopView && Player != null)
+        {
+            targetPosition = Player.position + TopViewOffset;
+            targetRotation = Quaternion.Euler(TopViewRotation);
+        }
+        else
+        {
+            targetPosition = CurrentTarget.position;
+            targetRotation = CurrentTarget.rotation;
+        }
+
+        transform.DOMove(targetPosition, CameraMoveDuration)
             .SetEase(Ease.OutQuad)
             .SetId(this)
             .OnComplete(() =>
@@ -90,9 +157,25 @@ public class CameraFollow : MonoBehaviour
                 _isTransitioning = false;
             });
 
-        transform.DORotateQuaternion(CurrentTarget.rotation, CameraMoveDuration)
+        transform.DORotateQuaternion(targetRotation, CameraMoveDuration)
             .SetEase(Ease.OutQuad)
             .SetId(this);
+
+        UpdateCursorState();
+    }
+
+    private void UpdateCursorState()
+    {
+        if (IsTopView)
+        {
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
+        }
+        else
+        {
+            Cursor.lockState = CursorLockMode.Locked;
+            Cursor.visible = false;
+        }
     }
 
     private void OnDestroy()

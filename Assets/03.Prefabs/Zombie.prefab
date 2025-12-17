@@ -882,7 +882,7 @@ MonoBehaviour:
   _player: {fileID: 0}
   _agent: {fileID: 4633432189312374268}
   _initialPosition: {x: 0, y: 0, z: 0}
-  DetectDistance: 20
+  DetectDistance: 4
   AttackDistance: 1.5
   MoveSpeed: 3
   AttackSpeed: 2
