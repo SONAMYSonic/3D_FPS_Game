@@ -29,17 +29,28 @@ public class PointerAgent : MonoBehaviour
         _playerAgent.enabled = false;
     }
 
-    private void Update()
+    private void OnEnable()
     {
-        bool isTopView = CameraFollow.Instance != null && CameraFollow.Instance.IsTopView;
+        CameraFollow.OnTopViewChanged += HandleTopViewChanged;
+    }
 
-        // 모드가 변경되었을 때만 전환 (매 프레임 호출 방지)
+    private void OnDisable()
+    {
+        CameraFollow.OnTopViewChanged -= HandleTopViewChanged;
+    }
+
+    private void HandleTopViewChanged(bool isTopView)
+    {
+        // 모드가 변경되었을 때만 전환
         if (_isTopViewMode != isTopView)
         {
             _isTopViewMode = isTopView;
             SetNavMeshAgentActive(isTopView);
         }
+    }
 
+    private void Update()
+    {
         // 탑뷰가 아니면 우클릭 처리 안 함
         if (!_isTopViewMode) return;
 

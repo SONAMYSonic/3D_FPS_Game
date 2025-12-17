@@ -1,8 +1,12 @@
+using System;
 using UnityEngine;
 using DG.Tweening;
 
 public class CameraFollow : MonoBehaviour
 {
+    // 카메라 뷰 변경 이벤트 (true: 탑뷰, false: FPS/TPS)
+    public static event Action<bool> OnTopViewChanged;
+
     [Header("Targets")]
     public Transform[] CameraTargets;
     public Transform Player; // 플레이어 Transform (탑뷰용)
@@ -46,6 +50,9 @@ public class CameraFollow : MonoBehaviour
             transform.position = CurrentTarget.position;
             transform.rotation = CurrentTarget.rotation;
         }
+
+        // 초기 카메라 뷰 상태 이벤트 발생
+        NotifyViewChanged();
     }
 
     private void LateUpdate()
@@ -80,11 +87,31 @@ public class CameraFollow : MonoBehaviour
         }
     }
 
-    private void SwitchToNextCamera()
+private void SwitchToNextCamera()
     {
         // 다음 인덱스로 순환 (마지막이면 0으로 돌아감)
         _currentTargetIndex = (_currentTargetIndex + 1) % CameraTargets.Length;
+        StartCameraTransition();
+    }
 
+    /// <summary>
+    /// 특정 인덱스의 카메라로 전환
+    /// </summary>
+/// <summary>
+    /// 특정 인덱스의 카메라로 전환
+    /// </summary>
+    public void SwitchToCamera(int index)
+    {
+        if (index < 0 || index >= CameraTargets.Length) return;
+        _currentTargetIndex = index;
+        StartCameraTransition();
+    }
+
+    /// <summary>
+    /// 카메라 전환 로직 (위치/회전 보간 및 커서 상태 업데이트)
+    /// </summary>
+    private void StartCameraTransition()
+    {
         _isTransitioning = true;
 
         // 기존 트윈 제거 (안전장치)
@@ -119,63 +146,16 @@ public class CameraFollow : MonoBehaviour
             .SetEase(Ease.OutQuad)
             .SetId(this);
 
-        // 탑뷰 전환 시 커서 상태 변경
-        UpdateCursorState();
+        // 카메라 뷰 변경 이벤트 발생
+        NotifyViewChanged();
     }
 
-    /// <summary>
-    /// 특정 인덱스의 카메라로 전환
+/// <summary>
+    /// 카메라 뷰 변경 이벤트 발생
     /// </summary>
-    public void SwitchToCamera(int index)
+    private void NotifyViewChanged()
     {
-        if (index < 0 || index >= CameraTargets.Length) return;
-
-        _currentTargetIndex = index;
-        _isTransitioning = true;
-
-        transform.DOKill();
-
-        Vector3 targetPosition;
-        Quaternion targetRotation;
-
-        if (IsTopView && Player != null)
-        {
-            targetPosition = Player.position + TopViewOffset;
-            targetRotation = Quaternion.Euler(TopViewRotation);
-        }
-        else
-        {
-            targetPosition = CurrentTarget.position;
-            targetRotation = CurrentTarget.rotation;
-        }
-
-        transform.DOMove(targetPosition, CameraMoveDuration)
-            .SetEase(Ease.OutQuad)
-            .SetId(this)
-            .OnComplete(() =>
-            {
-                _isTransitioning = false;
-            });
-
-        transform.DORotateQuaternion(targetRotation, CameraMoveDuration)
-            .SetEase(Ease.OutQuad)
-            .SetId(this);
-
-        UpdateCursorState();
-    }
-
-    private void UpdateCursorState()
-    {
-        if (IsTopView)
-        {
-            Cursor.lockState = CursorLockMode.None;
-            Cursor.visible = true;
-        }
-        else
-        {
-            Cursor.lockState = CursorLockMode.Locked;
-            Cursor.visible = false;
-        }
+        OnTopViewChanged?.Invoke(IsTopView);
     }
 
     private void OnDestroy()

@@ -68,10 +68,6 @@ public class Monster : MonoBehaviour
     public float PatrolMinTime = 2f;
     public float PatrolMaxTime = 10f;
 
-    [Header("점프")]
-    public float JumpHeight = 2f;           // 점프 최대 높이
-    public float JumpDuration = 0.6f;       // 점프 소요 시간
-
     [Header("대기")]
     public float IdleDurationMin = 2f;
     public float IdleDurationMax = 5f;
@@ -80,14 +76,10 @@ public class Monster : MonoBehaviour
     [SerializeField] private float _arrivalThreshold = 0.5f;    // 목표 지점 도착 판정 거리
     [SerializeField] private float _deathDuration = 2.0f;       // 죽음 상태 지속 시간
 
-    private Vector3 _jumpStartPosition;
-    private Vector3 _jumpEndPosition;
-
     // 코루틴 중복 실행 방지용 핸들
     private Coroutine _idleCoroutine;
     private Coroutine _patrolCoroutine;
     private Coroutine _hitCoroutine;
-    private Coroutine _jumpCoroutine;
 
     // 플레이어 위치 접근용 프로퍼티 (한 곳에서만 transform 접근)
     private Vector3 PlayerPosition => _player.Position;
@@ -182,11 +174,6 @@ public class Monster : MonoBehaviour
             case EMonsterState.Attack:
                 AttackTimer = 0f;
                 break;
-            case EMonsterState.Jump:
-                StopCoroutineSafe(ref _jumpCoroutine);
-                _agent.enabled = true;
-                _agent.isStopped = false;
-                break;
         }
     }
 
@@ -219,12 +206,6 @@ public class Monster : MonoBehaviour
                 _agent.enabled = false;
                 break;
 
-            case EMonsterState.Jump:
-                _agent.isStopped = true;
-                _agent.enabled = false;
-                _jumpCoroutine = StartCoroutine(Jump_Coroutine());
-                break;
-
             case EMonsterState.Death:
                 _agent.enabled = false;
                 StopAllStateCoroutines();
@@ -253,7 +234,6 @@ public class Monster : MonoBehaviour
         StopCoroutineSafe(ref _idleCoroutine);
         StopCoroutineSafe(ref _patrolCoroutine);
         StopCoroutineSafe(ref _hitCoroutine);
-        StopCoroutineSafe(ref _jumpCoroutine);
     }
 
     #endregion
@@ -318,66 +298,12 @@ public class Monster : MonoBehaviour
         {
             ChangeState(EMonsterState.Attack);
         }
-        
-        if (_agent.isOnOffMeshLink)
-        {
-            Debug.Log("링크를 만남");
-            OffMeshLinkData linkData = _agent.currentOffMeshLinkData;
-            _jumpStartPosition = linkData.startPos;
-            _jumpEndPosition = linkData.endPos;
-
-            if (_jumpEndPosition.y > _jumpStartPosition.y)
-            {
-                Debug.Log("상태 전환: Trace -> Jump");
-                //ChangeState(EMonsterState.Jump);
-                // 점프 애니메이션 재생
-                // 점프 사운드 재생
-            }
-        }
     }
 
 /// <summary>
     /// 포물선 점프 코루틴 - 자연스러운 점프 연출
     /// </summary>
-    private IEnumerator Jump_Coroutine()
-    {
-        // OffMeshLink 완료 처리
-        _agent.CompleteOffMeshLink();
 
-        float elapsed = 0f;
-        Vector3 startPos = _jumpStartPosition;
-        Vector3 endPos = _jumpEndPosition;
-
-        // 높이 차이에 따라 점프 높이 조절
-        float heightDiff = endPos.y - startPos.y;
-        float actualJumpHeight = JumpHeight + Mathf.Max(0, heightDiff * 0.5f);
-
-        Debug.Log($"점프 시작: {startPos} -> {endPos}, 높이: {actualJumpHeight}");
-
-        while (elapsed < JumpDuration)
-        {
-            elapsed += Time.deltaTime;
-            float t = elapsed / JumpDuration;
-
-            // 수평 이동 (선형 보간)
-            Vector3 horizontalPos = Vector3.Lerp(startPos, endPos, t);
-
-            // 수직 이동 (포물선: 4 * t * (1 - t)는 t=0.5에서 최대값 1)
-            float parabola = 4f * t * (1f - t);
-            float verticalOffset = parabola * actualJumpHeight;
-
-            // 최종 위치 = 수평 위치 + 포물선 높이
-            transform.position = horizontalPos + Vector3.up * verticalOffset;
-
-            yield return null;
-        }
-
-        // 정확한 도착 위치로 보정
-        transform.position = endPos;
-
-        Debug.Log("점프 완료 -> Trace 상태로 전환");
-        ChangeState(EMonsterState.Trace);
-    }
 
     private void Comeback()
     {

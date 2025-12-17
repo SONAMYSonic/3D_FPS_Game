@@ -5,6 +5,22 @@ public class CameraRotate : MonoBehaviour
     public float RotationSpeed = 200f;
 
     private float _accumulationY = 0;
+    private bool _isTopView = false;
+
+    private void OnEnable()
+    {
+        CameraFollow.OnTopViewChanged += HandleTopViewChanged;
+    }
+
+    private void OnDisable()
+    {
+        CameraFollow.OnTopViewChanged -= HandleTopViewChanged;
+    }
+
+    private void HandleTopViewChanged(bool isTopView)
+    {
+        _isTopView = isTopView;
+    }
 
     private void Update()
     {
@@ -14,7 +30,7 @@ public class CameraRotate : MonoBehaviour
         }
 
         // 탑뷰일 때는 카메라 회전 비활성화
-        if (CameraFollow.Instance != null && CameraFollow.Instance.IsTopView)
+        if (_isTopView)
         {
             return;
         }

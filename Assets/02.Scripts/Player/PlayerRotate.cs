@@ -4,6 +4,22 @@ public class PlayerRotate : MonoBehaviour
 {
     public float RotationSpeed = 200f;
     private float _accumulationX = 0;
+    private bool _isTopView = false;
+
+    private void OnEnable()
+    {
+        CameraFollow.OnTopViewChanged += HandleTopViewChanged;
+    }
+
+    private void OnDisable()
+    {
+        CameraFollow.OnTopViewChanged -= HandleTopViewChanged;
+    }
+
+    private void HandleTopViewChanged(bool isTopView)
+    {
+        _isTopView = isTopView;
+    }
 
     private void Update()
     {
@@ -13,7 +29,7 @@ public class PlayerRotate : MonoBehaviour
         }
 
         // 탑뷰일 때는 플레이어 회전 비활성화
-        if (CameraFollow.Instance != null && CameraFollow.Instance.IsTopView)
+        if (_isTopView)
         {
             return;
         }
