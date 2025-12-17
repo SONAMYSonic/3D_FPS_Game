@@ -1,0 +1,1950 @@
+fileFormatVersion: 2
+guid: a3fcc6c01f685ce4b9c16d0fd83fcfef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2033729284873682171
+    second: Black Asha Death 32x32_0
+  - first:
+      213: -7383130263934644251
+    second: Black Asha Death 32x32_1
+  - first:
+      213: -2780980014137287260
+    second: Black Asha Death 32x32_2
+  - first:
+      213: -6695397391340469658
+    second: Black Asha Death 32x32_3
+  - first:
+      213: -9064064549843036995
+    second: Black Asha Death 32x32_4
+  - first:
+      213: -4883281014217862719
+    second: Black Asha Death 32x32_5
+  - first:
+      213: -9005371524130397056
+    second: Black Asha Death 32x32_6
+  - first:
+      213: -3386371287326079401
+    second: Black Asha Death 32x32_7
+  - first:
+      213: 823172883375763696
+    second: Black Asha Death 32x32_8
+  - first:
+      213: 8893410781304174924
+    second: Black Asha Death 32x32_9
+  - first:
+      213: -6176147654808097246
+    second: Black Asha Death 32x32_10
+  - first:
+      213: -4690191185194757118
+    second: Black Asha Death 32x32_11
+  - first:
+      213: 291620441753686741
+    second: Black Asha Death 32x32_12
+  - first:
+      213: -6709541494459168408
+    second: Black Asha Death 32x32_13
+  - first:
+      213: -3012854517417182296
+    second: Black Asha Death 32x32_14
+  - first:
+      213: 6278348974814945543
+    second: Black Asha Death 32x32_15
+  - first:
+      213: -5536898354142252006
+    second: Black Asha Death 32x32_16
+  - first:
+      213: 5418870412848398106
+    second: Black Asha Death 32x32_17
+  - first:
+      213: 5929577958569698761
+    second: Black Asha Death 32x32_18
+  - first:
+      213: 5461460249484978196
+    second: Black Asha Death 32x32_19
+  - first:
+      213: 6339299843452891276
+    second: Black Asha Death 32x32_20
+  - first:
+      213: -1509287987346311162
+    second: Black Asha Death 32x32_21
+  - first:
+      213: 1930121959408608195
+    second: Black Asha Death 32x32_22
+  - first:
+      213: -8955501119773750413
+    second: Black Asha Death 32x32_23
+  - first:
+      213: -5893033218554166914
+    second: Black Asha Death 32x32_24
+  - first:
+      213: -2757564899854851990
+    second: Black Asha Death 32x32_25
+  - first:
+      213: 5487326183586000105
+    second: Black Asha Death 32x32_26
+  - first:
+      213: 1999298604166444167
+    second: Black Asha Death 32x32_27
+  - first:
+      213: -8464097852479236816
+    second: Black Asha Death 32x32_28
+  - first:
+      213: 8735207674837430944
+    second: Black Asha Death 32x32_29
+  - first:
+      213: -673754224848404821
+    second: Black Asha Death 32x32_30
+  - first:
+      213: 9180066885907922434
+    second: Black Asha Death 32x32_31
+  - first:
+      213: 4846434149612294703
+    second: Black Asha Death 32x32_32
+  - first:
+      213: 6849150500189916684
+    second: Black Asha Death 32x32_33
+  - first:
+      213: 5173480751620103924
+    second: Black Asha Death 32x32_34
+  - first:
+      213: 409597320896715455
+    second: Black Asha Death 32x32_35
+  - first:
+      213: 5464996742924313322
+    second: Black Asha Death 32x32_36
+  - first:
+      213: -5423921607393790644
+    second: Black Asha Death 32x32_37
+  - first:
+      213: -8316346595436307578
+    second: Black Asha Death 32x32_38
+  - first:
+      213: -4220488486960780682
+    second: Black Asha Death 32x32_39
+  - first:
+      213: 1641083629760862490
+    second: Black Asha Death 32x32_40
+  - first:
+      213: -1593381710993962620
+    second: Black Asha Death 32x32_41
+  - first:
+      213: -1888767166290859711
+    second: Black Asha Death 32x32_42
+  - first:
+      213: 3986781057536452688
+    second: Black Asha Death 32x32_43
+  - first:
+      213: 5149647745496538275
+    second: Black Asha Death 32x32_44
+  - first:
+      213: -3026779870168085950
+    second: Black Asha Death 32x32_45
+  - first:
+      213: 511245261773707127
+    second: Black Asha Death 32x32_46
+  - first:
+      213: -3805594026259642668
+    second: Black Asha Death 32x32_47
+  - first:
+      213: -45420463277847549
+    second: Black Asha Death 32x32_48
+  - first:
+      213: 3396859942778034518
+    second: Black Asha Death 32x32_49
+  - first:
+      213: -1779931959840727819
+    second: Black Asha Death 32x32_50
+  - first:
+      213: 9018792777163425718
+    second: Black Asha Death 32x32_51
+  - first:
+      213: 8613445760258094794
+    second: Black Asha Death 32x32_52
+  - first:
+      213: 2153848003748161789
+    second: Black Asha Death 32x32_53
+  - first:
+      213: 715335646636435943
+    second: Black Asha Death 32x32_54
+  - first:
+      213: -391176506357114713
+    second: Black Asha Death 32x32_55
+  - first:
+      213: -2261850406858506130
+    second: Black Asha Death 32x32_56
+  - first:
+      213: -8527534841290509722
+    second: Black Asha Death 32x32_57
+  - first:
+      213: 5402520751129026861
+    second: Black Asha Death 32x32_58
+  - first:
+      213: -3385988971699919354
+    second: Black Asha Death 32x32_59
+  - first:
+      213: 2308792402681060280
+    second: Black Asha Death 32x32_60
+  - first:
+      213: -8920231609520010124
+    second: Black Asha Death 32x32_61
+  - first:
+      213: 5561204825497806459
+    second: Black Asha Death 32x32_62
+  - first:
+      213: -6434981573652564168
+    second: Black Asha Death 32x32_63
+  - first:
+      213: 4923120857963170455
+    second: Black Asha Death 32x32_64
+  - first:
+      213: -8043500465778544063
+    second: Black Asha Death 32x32_65
+  - first:
+      213: 6559057129868573715
+    second: Black Asha Death 32x32_66
+  - first:
+      213: -1991700253458163591
+    second: Black Asha Death 32x32_67
+  - first:
+      213: 7496507347133165680
+    second: Black Asha Death 32x32_68
+  - first:
+      213: 5081738725641246749
+    second: Black Asha Death 32x32_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5038bc59dfdb6c3e0800000000000000
+      internalID: -2033729284873682171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 103
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef4db7742ad98990800000000000000
+      internalID: -7383130263934644251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 102
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4add2e15969f769d0800000000000000
+      internalID: -2780980014137287260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662031bdb8b2513a0800000000000000
+      internalID: -6695397391340469658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 103
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4156db059f53280800000000000000
+      internalID: -9064064549843036995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 103
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c192215ac91b3cb0800000000000000
+      internalID: -4883281014217862719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 103
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0842ac1bf4e760380800000000000000
+      internalID: -9005371524130397056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756c85581413101d0800000000000000
+      internalID: -3386371287326079401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 97
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0b856406f7c6b00800000000000000
+      internalID: 823172883375763696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 97
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49b34d7cfdbb6b70800000000000000
+      internalID: 8893410781304174924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 97
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e2dca3e6ae94aa0800000000000000
+      internalID: -6176147654808097246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 96
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2045ccd77f719eeb0800000000000000
+      internalID: -4690191185194757118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 112
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d298f72f3b0c0400800000000000000
+      internalID: 291620441753686741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_13
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 112
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86984093f8be2e2a0800000000000000
+      internalID: -6709541494459168408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_14
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 95
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abfa6977c03036d0800000000000000
+      internalID: -3012854517417182296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 95
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70168c3e02d212750800000000000000
+      internalID: 6278348974814945543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_16
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 97
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14f7eb584cf823b0800000000000000
+      internalID: -5536898354142252006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_17
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 97
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ff3b91ee1b33b40800000000000000
+      internalID: 5418870412848398106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 71
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c56880bcb71a4250800000000000000
+      internalID: 5929577958569698761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 71
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418e77d29210bcb40800000000000000
+      internalID: 5461460249484978196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80f2bdde97b9f750800000000000000
+      internalID: 6339299843452891276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6087572729eed0be0800000000000000
+      internalID: -1509287987346311162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c32bb322bb29ca10800000000000000
+      internalID: 1930121959408608195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 71
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bc54a0e2ba7b380800000000000000
+      internalID: -8955501119773750413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 71
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e718086a28db73ea0800000000000000
+      internalID: -5893033218554166914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 71
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60e01375592bb9d0800000000000000
+      internalID: -2757564899854851990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_26
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 69
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ece7534716e62c40800000000000000
+      internalID: 5487326183586000105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 68
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784764ddc7feebb10800000000000000
+      internalID: 1999298604166444167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_28
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 65
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03514de09db798a80800000000000000
+      internalID: -8464097852479236816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_29
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 75
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a273f16911b93970800000000000000
+      internalID: 8735207674837430944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 65
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baefdf92a1856a6f0800000000000000
+      internalID: -673754224848404821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_31
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 64
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e3ed4d136266f70800000000000000
+      internalID: 9180066885907922434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 63
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2296fa7e2ef14340800000000000000
+      internalID: 4846434149612294703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_33
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 63
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e420177121d0f50800000000000000
+      internalID: 6849150500189916684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_34
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 71
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe13a45555ebc740800000000000000
+      internalID: 5173480751620103924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_35
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 71
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba100dd79e2fa500800000000000000
+      internalID: 409597320896715455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2aba8359197db40800000000000000
+      internalID: 5464996742924313322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c453ab5090c5ab4b0800000000000000
+      internalID: -5423921607393790644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 39
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b5df555d6669c80800000000000000
+      internalID: -8316346595436307578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_39
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 39
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aa31c0510dd65c0800000000000000
+      internalID: -4220488486960780682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 39
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19da9ecddc46c610800000000000000
+      internalID: 1641083629760862490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 39
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489c994a6cb23e9e0800000000000000
+      internalID: -1593381710993962620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 39
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149efc5f440c9c5e0800000000000000
+      internalID: -1888767166290859711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05867bbbf34e35730800000000000000
+      internalID: 3986781057536452688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 41
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac56bc2759377740800000000000000
+      internalID: 5149647745496538275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_45
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a0451aeb7bef5d0800000000000000
+      internalID: -3026779870168085950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_46
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 38
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7779f1d5bde481700800000000000000
+      internalID: 511245261773707127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_47
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 37
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d602716560df2bc0800000000000000
+      internalID: -3805594026259642668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_48
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 36
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c4acc4452ae5ff0800000000000000
+      internalID: -45420463277847549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_49
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 35
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659d901ee12142f20800000000000000
+      internalID: 3396859942778034518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_50
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc145120596c47e0800000000000000
+      internalID: -1779931959840727819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_51
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 40
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b74fa94f30392d70800000000000000
+      internalID: 9018792777163425718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac63740784b198770800000000000000
+      internalID: 8613445760258094794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_53
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 7
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8e79b095104ed10800000000000000
+      internalID: 2153848003748161789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_54
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e960f80bf16de900800000000000000
+      internalID: 715335646636435943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_55
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a81b1e3a03429af0800000000000000
+      internalID: -391176506357114713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_56
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 7
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60402ce90b4c90e0800000000000000
+      internalID: -2261850406858506130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 7
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662bc1f1e3c18a980800000000000000
+      internalID: -8527534841290509722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21e8b6dffb99fa40800000000000000
+      internalID: 5402520751129026861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_59
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 7
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606af6058fc8201d0800000000000000
+      internalID: -3385988971699919354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_60
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 5
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbdced257a7a0020800000000000000
+      internalID: 2308792402681060280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_61
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 4
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c4950dc98f43480800000000000000
+      internalID: -8920231609520010124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_62
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b762cf2035e5d2d40800000000000000
+      internalID: 5561204825497806459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_63
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837314e4a5a52b6a0800000000000000
+      internalID: -6434981573652564168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_64
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 11
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a06352650725440800000000000000
+      internalID: 4923120857963170455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_65
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142b49251febf5090800000000000000
+      internalID: -8043500465778544063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_66
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c3f4f45b3760b50800000000000000
+      internalID: 6559057129868573715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_67
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97812950c2f0c54e0800000000000000
+      internalID: -1991700253458163591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_68
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 7
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0707af9c6b1f80860800000000000000
+      internalID: 7496507347133165680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Asha Death 32x32_69
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 7
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18513f5276f58640800000000000000
+      internalID: 5081738725641246749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black Asha Death 32x32_0: -2033729284873682171
+      Black Asha Death 32x32_1: -7383130263934644251
+      Black Asha Death 32x32_10: -6176147654808097246
+      Black Asha Death 32x32_11: -4690191185194757118
+      Black Asha Death 32x32_12: 291620441753686741
+      Black Asha Death 32x32_13: -6709541494459168408
+      Black Asha Death 32x32_14: -3012854517417182296
+      Black Asha Death 32x32_15: 6278348974814945543
+      Black Asha Death 32x32_16: -5536898354142252006
+      Black Asha Death 32x32_17: 5418870412848398106
+      Black Asha Death 32x32_18: 5929577958569698761
+      Black Asha Death 32x32_19: 5461460249484978196
+      Black Asha Death 32x32_2: -2780980014137287260
+      Black Asha Death 32x32_20: 6339299843452891276
+      Black Asha Death 32x32_21: -1509287987346311162
+      Black Asha Death 32x32_22: 1930121959408608195
+      Black Asha Death 32x32_23: -8955501119773750413
+      Black Asha Death 32x32_24: -5893033218554166914
+      Black Asha Death 32x32_25: -2757564899854851990
+      Black Asha Death 32x32_26: 5487326183586000105
+      Black Asha Death 32x32_27: 1999298604166444167
+      Black Asha Death 32x32_28: -8464097852479236816
+      Black Asha Death 32x32_29: 8735207674837430944
+      Black Asha Death 32x32_3: -6695397391340469658
+      Black Asha Death 32x32_30: -673754224848404821
+      Black Asha Death 32x32_31: 9180066885907922434
+      Black Asha Death 32x32_32: 4846434149612294703
+      Black Asha Death 32x32_33: 6849150500189916684
+      Black Asha Death 32x32_34: 5173480751620103924
+      Black Asha Death 32x32_35: 409597320896715455
+      Black Asha Death 32x32_36: 5464996742924313322
+      Black Asha Death 32x32_37: -5423921607393790644
+      Black Asha Death 32x32_38: -8316346595436307578
+      Black Asha Death 32x32_39: -4220488486960780682
+      Black Asha Death 32x32_4: -9064064549843036995
+      Black Asha Death 32x32_40: 1641083629760862490
+      Black Asha Death 32x32_41: -1593381710993962620
+      Black Asha Death 32x32_42: -1888767166290859711
+      Black Asha Death 32x32_43: 3986781057536452688
+      Black Asha Death 32x32_44: 5149647745496538275
+      Black Asha Death 32x32_45: -3026779870168085950
+      Black Asha Death 32x32_46: 511245261773707127
+      Black Asha Death 32x32_47: -3805594026259642668
+      Black Asha Death 32x32_48: -45420463277847549
+      Black Asha Death 32x32_49: 3396859942778034518
+      Black Asha Death 32x32_5: -4883281014217862719
+      Black Asha Death 32x32_50: -1779931959840727819
+      Black Asha Death 32x32_51: 9018792777163425718
+      Black Asha Death 32x32_52: 8613445760258094794
+      Black Asha Death 32x32_53: 2153848003748161789
+      Black Asha Death 32x32_54: 715335646636435943
+      Black Asha Death 32x32_55: -391176506357114713
+      Black Asha Death 32x32_56: -2261850406858506130
+      Black Asha Death 32x32_57: -8527534841290509722
+      Black Asha Death 32x32_58: 5402520751129026861
+      Black Asha Death 32x32_59: -3385988971699919354
+      Black Asha Death 32x32_6: -9005371524130397056
+      Black Asha Death 32x32_60: 2308792402681060280
+      Black Asha Death 32x32_61: -8920231609520010124
+      Black Asha Death 32x32_62: 5561204825497806459
+      Black Asha Death 32x32_63: -6434981573652564168
+      Black Asha Death 32x32_64: 4923120857963170455
+      Black Asha Death 32x32_65: -8043500465778544063
+      Black Asha Death 32x32_66: 6559057129868573715
+      Black Asha Death 32x32_67: -1991700253458163591
+      Black Asha Death 32x32_68: 7496507347133165680
+      Black Asha Death 32x32_69: 5081738725641246749
+      Black Asha Death 32x32_7: -3386371287326079401
+      Black Asha Death 32x32_8: 823172883375763696
+      Black Asha Death 32x32_9: 8893410781304174924
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

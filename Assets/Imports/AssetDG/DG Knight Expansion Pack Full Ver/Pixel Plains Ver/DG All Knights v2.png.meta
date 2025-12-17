@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: 82393a3b67c00084782179f9de247ac1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4817202588958382519
+    second: DG All Knights v2_0
+  - first:
+      213: -6629842842369369873
+    second: DG All Knights v2_1
+  - first:
+      213: 6684490823560907149
+    second: DG All Knights v2_2
+  - first:
+      213: 6484329520745548844
+    second: DG All Knights v2_3
+  - first:
+      213: 7372384805918974867
+    second: DG All Knights v2_4
+  - first:
+      213: -7756004873391639435
+    second: DG All Knights v2_5
+  - first:
+      213: -132994811630589229
+    second: DG All Knights v2_6
+  - first:
+      213: 8231791523195544071
+    second: DG All Knights v2_7
+  - first:
+      213: 201543500464088433
+    second: DG All Knights v2_8
+  - first:
+      213: 7742710773885816857
+    second: DG All Knights v2_9
+  - first:
+      213: 454049435672288108
+    second: DG All Knights v2_10
+  - first:
+      213: 8799796297701684456
+    second: DG All Knights v2_11
+  - first:
+      213: 1026696927065689784
+    second: DG All Knights v2_12
+  - first:
+      213: 7122043491198665718
+    second: DG All Knights v2_13
+  - first:
+      213: -8145612058845009480
+    second: DG All Knights v2_14
+  - first:
+      213: 9093488290675131518
+    second: DG All Knights v2_15
+  - first:
+      213: -4371441834225482805
+    second: DG All Knights v2_16
+  - first:
+      213: 4299954113740556872
+    second: DG All Knights v2_17
+  - first:
+      213: 2589617117587868860
+    second: DG All Knights v2_18
+  - first:
+      213: -4302807001443627318
+    second: DG All Knights v2_19
+  - first:
+      213: -2001148880909694458
+    second: DG All Knights v2_20
+  - first:
+      213: -2304289729880368715
+    second: DG All Knights v2_21
+  - first:
+      213: 3921045549264112008
+    second: DG All Knights v2_22
+  - first:
+      213: 5110729621074529415
+    second: DG All Knights v2_23
+  - first:
+      213: -33632802732941169
+    second: DG All Knights v2_24
+  - first:
+      213: 8655970686565234231
+    second: DG All Knights v2_25
+  - first:
+      213: 5438325797024666231
+    second: DG All Knights v2_26
+  - first:
+      213: 6733644638585388647
+    second: DG All Knights v2_27
+  - first:
+      213: 2638347042866053593
+    second: DG All Knights v2_28
+  - first:
+      213: -562631900576788522
+    second: DG All Knights v2_29
+  - first:
+      213: -8848714745096508024
+    second: DG All Knights v2_30
+  - first:
+      213: 3825270032433004105
+    second: DG All Knights v2_31
+  - first:
+      213: -1966694370016033129
+    second: DG All Knights v2_32
+  - first:
+      213: -7478800314320683697
+    second: DG All Knights v2_33
+  - first:
+      213: 2672503746154737438
+    second: DG All Knights v2_34
+  - first:
+      213: 6786435866224674473
+    second: DG All Knights v2_35
+  - first:
+      213: 11130223679954004
+    second: DG All Knights v2_36
+  - first:
+      213: 3377311804320940236
+    second: DG All Knights v2_37
+  - first:
+      213: 8580950336422888646
+    second: DG All Knights v2_38
+  - first:
+      213: 2281767009973418753
+    second: DG All Knights v2_39
+  - first:
+      213: -8471747660048750882
+    second: DG All Knights v2_40
+  - first:
+      213: 633097713033333495
+    second: DG All Knights v2_41
+  - first:
+      213: 9111609330992040363
+    second: DG All Knights v2_42
+  - first:
+      213: -3576174785642465091
+    second: DG All Knights v2_43
+  - first:
+      213: -4271530080302424723
+    second: DG All Knights v2_44
+  - first:
+      213: 3877121209169776585
+    second: DG All Knights v2_45
+  - first:
+      213: -3425314745510639499
+    second: DG All Knights v2_46
+  - first:
+      213: 5260673758960520308
+    second: DG All Knights v2_47
+  - first:
+      213: -8339090103706570535
+    second: DG All Knights v2_48
+  - first:
+      213: 577827283178261275
+    second: DG All Knights v2_49
+  - first:
+      213: 3949676253503420182
+    second: DG All Knights v2_50
+  - first:
+      213: -8228202886260071339
+    second: DG All Knights v2_51
+  - first:
+      213: 3687278477724895463
+    second: DG All Knights v2_52
+  - first:
+      213: 4028852870205582799
+    second: DG All Knights v2_53
+  - first:
+      213: -8440800478539817594
+    second: DG All Knights v2_54
+  - first:
+      213: 6319296995723009102
+    second: DG All Knights v2_55
+  - first:
+      213: 707166206875733791
+    second: DG All Knights v2_56
+  - first:
+      213: -104052418635440333
+    second: DG All Knights v2_57
+  - first:
+      213: 8215760695843451190
+    second: DG All Knights v2_58
+  - first:
+      213: -7486447495442400566
+    second: DG All Knights v2_59
+  - first:
+      213: -4161830172241897886
+    second: DG All Knights v2_60
+  - first:
+      213: 5706701899119741297
+    second: DG All Knights v2_61
+  - first:
+      213: 4099575113312744141
+    second: DG All Knights v2_62
+  - first:
+      213: -5767030673510547026
+    second: DG All Knights v2_63
+  - first:
+      213: 7299084093073464761
+    second: DG All Knights v2_64
+  - first:
+      213: 4397133317531358654
+    second: DG All Knights v2_65
+  - first:
+      213: -1339546150221718640
+    second: DG All Knights v2_66
+  - first:
+      213: -640392506383757135
+    second: DG All Knights v2_67
+  - first:
+      213: 2722382851170188509
+    second: DG All Knights v2_68
+  - first:
+      213: -7153146479096399809
+    second: DG All Knights v2_69
+  - first:
+      213: 2031869840569204066
+    second: DG All Knights v2_70
+  - first:
+      213: -8098626987467733567
+    second: DG All Knights v2_71
+  - first:
+      213: -3043502748914944787
+    second: DG All Knights v2_72
+  - first:
+      213: 9125205472437288499
+    second: DG All Knights v2_73
+  - first:
+      213: -5507026010989172661
+    second: DG All Knights v2_74
+  - first:
+      213: 5953159240961064321
+    second: DG All Knights v2_75
+  - first:
+      213: 7546263475364252904
+    second: DG All Knights v2_76
+  - first:
+      213: 6479388344845512904
+    second: DG All Knights v2_77
+  - first:
+      213: -2969394003112599521
+    second: DG All Knights v2_78
+  - first:
+      213: -7800530801499826123
+    second: DG All Knights v2_79
+  - first:
+      213: 4573769359583301218
+    second: DG All Knights v2_80
+  - first:
+      213: -7825415611726141934
+    second: DG All Knights v2_81
+  - first:
+      213: -7053232531683058706
+    second: DG All Knights v2_82
+  - first:
+      213: -8408588108796602900
+    second: DG All Knights v2_83
+  - first:
+      213: -4852275590985227701
+    second: DG All Knights v2_84
+  - first:
+      213: 6009852839900104670
+    second: DG All Knights v2_85
+  - first:
+      213: -8226004672695915697
+    second: DG All Knights v2_86
+  - first:
+      213: 5818448750003362343
+    second: DG All Knights v2_87
+  - first:
+      213: 7221379943452991776
+    second: DG All Knights v2_88
+  - first:
+      213: 6319235326591467775
+    second: DG All Knights v2_89
+  - first:
+      213: -460077180277078126
+    second: DG All Knights v2_90
+  - first:
+      213: -2828913831032776987
+    second: DG All Knights v2_91
+  - first:
+      213: 6598110059307852491
+    second: DG All Knights v2_92
+  - first:
+      213: -1741627355919058293
+    second: DG All Knights v2_93
+  - first:
+      213: 3284618745709861260
+    second: DG All Knights v2_94
+  - first:
+      213: 7427487413296217928
+    second: DG All Knights v2_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DG All Knights v2_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 455
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9d4f56b342ad240800000000000000
+      internalID: 4817202588958382519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 455
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe858efaf011ef3a0800000000000000
+      internalID: -6629842842369369873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 455
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89c4b2fcf414cc50800000000000000
+      internalID: 6684490823560907149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 455
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c0e9af757fcf950800000000000000
+      internalID: 6484329520745548844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 455
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393a940abe8ff4660800000000000000
+      internalID: 7372384805918974867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 455
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574fa4529a22d5490800000000000000
+      internalID: -7756004873391639435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 455
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dae9c76ce1872ef0800000000000000
+      internalID: -132994811630589229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 455
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7026425c6c23d3270800000000000000
+      internalID: 8231791523195544071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 431
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17563ffeeb60cc200800000000000000
+      internalID: 201543500464088433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 432
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910dd0c1d62a37b60800000000000000
+      internalID: 7742710773885816857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 431
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b96bb5e8b1d4600800000000000000
+      internalID: 454049435672288108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 432
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e47e440c182f1a70800000000000000
+      internalID: 8799796297701684456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 409
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be4cbd5a6f8f3e00800000000000000
+      internalID: 1026696927065689784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 410
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f387cf22d496d260800000000000000
+      internalID: 7122043491198665718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 410
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9a7626df8f4fe80800000000000000
+      internalID: -8145612058845009480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 409
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e748dd6cb6f823e70800000000000000
+      internalID: 9093488290675131518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 407
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc345ba00d48553c0800000000000000
+      internalID: -4371441834225482805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 407
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a4cfbfb718cab30800000000000000
+      internalID: 4299954113740556872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 407
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc881e4c0b20f320800000000000000
+      internalID: 2589617117587868860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 407
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace83e554db5944c0800000000000000
+      internalID: -4302807001443627318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 407
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a05b202bd7a34e0800000000000000
+      internalID: -2001148880909694458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 383
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b956e603b48500e0800000000000000
+      internalID: -2304289729880368715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 359
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8898308072a5a6630800000000000000
+      internalID: 3921045549264112008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 359
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cc6373385fce640800000000000000
+      internalID: 5110729621074529415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 335
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f806d44e423888ff0800000000000000
+      internalID: -33632802732941169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 335
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7363ae66a7f202870800000000000000
+      internalID: 8655970686565234231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 335
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7729f78bf70d87b40800000000000000
+      internalID: 5438325797024666231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 335
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e78965f16b27d50800000000000000
+      internalID: 6733644638585388647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 335
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1cb3c28aa4d9420800000000000000
+      internalID: 2638347042866053593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 335
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df41d274412138f0800000000000000
+      internalID: -562631900576788522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 335
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88de2c362dc033580800000000000000
+      internalID: -8848714745096508024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 335
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ebd1dc3d6161530800000000000000
+      internalID: 3825270032433004105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 311
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7960f65f3e5e4b4e0800000000000000
+      internalID: -1966694370016033129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 312
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4df5de0db6f53890800000000000000
+      internalID: -7478800314320683697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_34
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 311
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f24726ff3a61520800000000000000
+      internalID: 2672503746154737438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_35
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 312
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6ca49d6734e2e50800000000000000
+      internalID: 6786435866224674473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cd6b421ea872000800000000000000
+      internalID: 11130223679954004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_37
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 290
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc08848313f9ede20800000000000000
+      internalID: 3377311804320940236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_38
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 290
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c441cdfdd8a51770800000000000000
+      internalID: 8580950336422888646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_39
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 289
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bbba991077aaf10800000000000000
+      internalID: 2281767009973418753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_40
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 287
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed62c00736e4e6a80800000000000000
+      internalID: -8471747660048750882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_41
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 287
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fac675040739c800800000000000000
+      internalID: 633097713033333495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 287
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba94ae14960f27e70800000000000000
+      internalID: 9111609330992040363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_43
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 287
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db87217daffde5ec0800000000000000
+      internalID: -3576174785642465091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_44
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 287
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d9d24060a78b4c0800000000000000
+      internalID: -4271530080302424723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 263
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf82b7a23d4ec530800000000000000
+      internalID: 3877121209169776585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 239
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5784ee51366d670d0800000000000000
+      internalID: -3425314745510639499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_47
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 239
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c8f0a59eaa10940800000000000000
+      internalID: 5260673758960520308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 215
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0389aabb9954c80800000000000000
+      internalID: -8339090103706570535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_49
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 215
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b8e534adad40800800000000000000
+      internalID: 577827283178261275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_50
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 215
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617fdd350a110d630800000000000000
+      internalID: 3949676253503420182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_51
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 215
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554ef90e11d8fcd80800000000000000
+      internalID: -8228202886260071339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_52
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 215
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e84cbc4d38db2330800000000000000
+      internalID: 3687278477724895463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_53
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 215
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdaae4f65c59e730800000000000000
+      internalID: 4028852870205582799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_54
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 215
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ddfa0afa04cda80800000000000000
+      internalID: -8440800478539817594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_55
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 215
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c5344f227a2b750800000000000000
+      internalID: 6319296995723009102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 191
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f0dfd1beb50d900800000000000000
+      internalID: 707166206875733791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_57
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 192
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fd63560e45e8ef0800000000000000
+      internalID: -104052418635440333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_58
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 191
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6317d5be2de340270800000000000000
+      internalID: 8215760695843451190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 192
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acafa84faabca1890800000000000000
+      internalID: -7486447495442400566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 169
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266d40832853e36c0800000000000000
+      internalID: -4161830172241897886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_61
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 170
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17944105427423f40800000000000000
+      internalID: 5706701899119741297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_62
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 170
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2b90758dd94e830800000000000000
+      internalID: 4099575113312744141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_63
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 169
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea14f90582467ffa0800000000000000
+      internalID: -5767030673510547026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_64
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 167
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd19597f4e8b4560800000000000000
+      internalID: 7299084093073464761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_65
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 167
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5dd7d8471c50d30800000000000000
+      internalID: 4397133317531358654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_66
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 167
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bdac3afd9f86de0800000000000000
+      internalID: -1339546150221718640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_67
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 167
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b09c2c886edc17f0800000000000000
+      internalID: -640392506383757135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 167
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc3d9287c8d7c520800000000000000
+      internalID: 2722382851170188509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_69
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 143
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f387f1f1d2beabc90800000000000000
+      internalID: -7153146479096399809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 119
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26df4fccad6a23c10800000000000000
+      internalID: 2031869840569204066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_71
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 119
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5089bc9a5eb9f80800000000000000
+      internalID: -8098626987467733567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 95
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4fff1006e43c5d0800000000000000
+      internalID: -3043502748914944787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_73
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e331f970e33ae70800000000000000
+      internalID: 9125205472437288499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_74
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48672e350d1393b0800000000000000
+      internalID: -5507026010989172661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_75
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d71d8d9cedd9250800000000000000
+      internalID: 5953159240961064321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_76
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 95
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec479626a6b9b860800000000000000
+      internalID: 7546263475364252904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_77
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 95
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0b250de596be950800000000000000
+      internalID: 6479388344845512904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_78
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 95
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f106c4ef2e79ac6d0800000000000000
+      internalID: -2969394003112599521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_79
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 95
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5381c15a092feb390800000000000000
+      internalID: -7800530801499826123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_80
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 71
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e478aeffa497f30800000000000000
+      internalID: 4573769359583301218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_81
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 72
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216644346f9866390800000000000000
+      internalID: -7825415611726141934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_82
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 71
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb5dcec162ed1e90800000000000000
+      internalID: -7053232531683058706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_83
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 72
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5da986aa1be4b80800000000000000
+      internalID: -8408588108796602900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42e607fe0149acb0800000000000000
+      internalID: -4852275590985227701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_85
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 50
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed74e9af059476350800000000000000
+      internalID: 6009852839900104670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_86
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ba14b555c57dd80800000000000000
+      internalID: -8226004672695915697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_87
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 49
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a14c78f484fb050800000000000000
+      internalID: 5818448750003362343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_88
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 47
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02165ad4cce773460800000000000000
+      internalID: 7221379943452991776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_89
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 47
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0859d7c0f62b750800000000000000
+      internalID: 6319235326591467775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_90
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 47
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297425cfd3a7d99f0800000000000000
+      internalID: -460077180277078126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_91
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 47
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e61a11ebddadb8d0800000000000000
+      internalID: -2828913831032776987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_92
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 47
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2e9f10422319b50800000000000000
+      internalID: 6598110059307852491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_93
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 23
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a7757b52f74d7e0800000000000000
+      internalID: -1741627355919058293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_94
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8910a8b85f459d20800000000000000
+      internalID: 3284618745709861260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DG All Knights v2_95
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fb43b237cb31760800000000000000
+      internalID: 7427487413296217928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DG All Knights v2_0: 4817202588958382519
+      DG All Knights v2_1: -6629842842369369873
+      DG All Knights v2_10: 454049435672288108
+      DG All Knights v2_11: 8799796297701684456
+      DG All Knights v2_12: 1026696927065689784
+      DG All Knights v2_13: 7122043491198665718
+      DG All Knights v2_14: -8145612058845009480
+      DG All Knights v2_15: 9093488290675131518
+      DG All Knights v2_16: -4371441834225482805
+      DG All Knights v2_17: 4299954113740556872
+      DG All Knights v2_18: 2589617117587868860
+      DG All Knights v2_19: -4302807001443627318
+      DG All Knights v2_2: 6684490823560907149
+      DG All Knights v2_20: -2001148880909694458
+      DG All Knights v2_21: -2304289729880368715
+      DG All Knights v2_22: 3921045549264112008
+      DG All Knights v2_23: 5110729621074529415
+      DG All Knights v2_24: -33632802732941169
+      DG All Knights v2_25: 8655970686565234231
+      DG All Knights v2_26: 5438325797024666231
+      DG All Knights v2_27: 6733644638585388647
+      DG All Knights v2_28: 2638347042866053593
+      DG All Knights v2_29: -562631900576788522
+      DG All Knights v2_3: 6484329520745548844
+      DG All Knights v2_30: -8848714745096508024
+      DG All Knights v2_31: 3825270032433004105
+      DG All Knights v2_32: -1966694370016033129
+      DG All Knights v2_33: -7478800314320683697
+      DG All Knights v2_34: 2672503746154737438
+      DG All Knights v2_35: 6786435866224674473
+      DG All Knights v2_36: 11130223679954004
+      DG All Knights v2_37: 3377311804320940236
+      DG All Knights v2_38: 8580950336422888646
+      DG All Knights v2_39: 2281767009973418753
+      DG All Knights v2_4: 7372384805918974867
+      DG All Knights v2_40: -8471747660048750882
+      DG All Knights v2_41: 633097713033333495
+      DG All Knights v2_42: 9111609330992040363
+      DG All Knights v2_43: -3576174785642465091
+      DG All Knights v2_44: -4271530080302424723
+      DG All Knights v2_45: 3877121209169776585
+      DG All Knights v2_46: -3425314745510639499
+      DG All Knights v2_47: 5260673758960520308
+      DG All Knights v2_48: -8339090103706570535
+      DG All Knights v2_49: 577827283178261275
+      DG All Knights v2_5: -7756004873391639435
+      DG All Knights v2_50: 3949676253503420182
+      DG All Knights v2_51: -8228202886260071339
+      DG All Knights v2_52: 3687278477724895463
+      DG All Knights v2_53: 4028852870205582799
+      DG All Knights v2_54: -8440800478539817594
+      DG All Knights v2_55: 6319296995723009102
+      DG All Knights v2_56: 707166206875733791
+      DG All Knights v2_57: -104052418635440333
+      DG All Knights v2_58: 8215760695843451190
+      DG All Knights v2_59: -7486447495442400566
+      DG All Knights v2_6: -132994811630589229
+      DG All Knights v2_60: -4161830172241897886
+      DG All Knights v2_61: 5706701899119741297
+      DG All Knights v2_62: 4099575113312744141
+      DG All Knights v2_63: -5767030673510547026
+      DG All Knights v2_64: 7299084093073464761
+      DG All Knights v2_65: 4397133317531358654
+      DG All Knights v2_66: -1339546150221718640
+      DG All Knights v2_67: -640392506383757135
+      DG All Knights v2_68: 2722382851170188509
+      DG All Knights v2_69: -7153146479096399809
+      DG All Knights v2_7: 8231791523195544071
+      DG All Knights v2_70: 2031869840569204066
+      DG All Knights v2_71: -8098626987467733567
+      DG All Knights v2_72: -3043502748914944787
+      DG All Knights v2_73: 9125205472437288499
+      DG All Knights v2_74: -5507026010989172661
+      DG All Knights v2_75: 5953159240961064321
+      DG All Knights v2_76: 7546263475364252904
+      DG All Knights v2_77: 6479388344845512904
+      DG All Knights v2_78: -2969394003112599521
+      DG All Knights v2_79: -7800530801499826123
+      DG All Knights v2_8: 201543500464088433
+      DG All Knights v2_80: 4573769359583301218
+      DG All Knights v2_81: -7825415611726141934
+      DG All Knights v2_82: -7053232531683058706
+      DG All Knights v2_83: -8408588108796602900
+      DG All Knights v2_84: -4852275590985227701
+      DG All Knights v2_85: 6009852839900104670
+      DG All Knights v2_86: -8226004672695915697
+      DG All Knights v2_87: 5818448750003362343
+      DG All Knights v2_88: 7221379943452991776
+      DG All Knights v2_89: 6319235326591467775
+      DG All Knights v2_9: 7742710773885816857
+      DG All Knights v2_90: -460077180277078126
+      DG All Knights v2_91: -2828913831032776987
+      DG All Knights v2_92: 6598110059307852491
+      DG All Knights v2_93: -1741627355919058293
+      DG All Knights v2_94: 3284618745709861260
+      DG All Knights v2_95: 7427487413296217928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

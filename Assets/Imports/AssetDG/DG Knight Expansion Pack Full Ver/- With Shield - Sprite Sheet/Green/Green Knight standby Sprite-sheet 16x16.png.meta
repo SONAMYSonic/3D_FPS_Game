@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: b44cd6e856c8dcd4a897500f7074f0e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4940893610074138738
+    second: Green Knight standby Sprite-sheet 16x16_0
+  - first:
+      213: 8036406034934984706
+    second: Green Knight standby Sprite-sheet 16x16_1
+  - first:
+      213: -5763865072829871349
+    second: Green Knight standby Sprite-sheet 16x16_2
+  - first:
+      213: 7727741016771177189
+    second: Green Knight standby Sprite-sheet 16x16_3
+  - first:
+      213: 767031962968806885
+    second: Green Knight standby Sprite-sheet 16x16_4
+  - first:
+      213: -6845931193437077744
+    second: Green Knight standby Sprite-sheet 16x16_5
+  - first:
+      213: -7261921646899447115
+    second: Green Knight standby Sprite-sheet 16x16_6
+  - first:
+      213: 6665615313055613468
+    second: Green Knight standby Sprite-sheet 16x16_7
+  - first:
+      213: -7078361787795038779
+    second: Green Knight standby Sprite-sheet 16x16_8
+  - first:
+      213: 8433717730151958140
+    second: Green Knight standby Sprite-sheet 16x16_9
+  - first:
+      213: 6394938251426141937
+    second: Green Knight standby Sprite-sheet 16x16_10
+  - first:
+      213: 7262745845736121466
+    second: Green Knight standby Sprite-sheet 16x16_11
+  - first:
+      213: 7245283050087328932
+    second: Green Knight standby Sprite-sheet 16x16_12
+  - first:
+      213: -2471262066224200796
+    second: Green Knight standby Sprite-sheet 16x16_13
+  - first:
+      213: -3908950200942150102
+    second: Green Knight standby Sprite-sheet 16x16_14
+  - first:
+      213: 7417282318433078885
+    second: Green Knight standby Sprite-sheet 16x16_15
+  - first:
+      213: 7299640555373202104
+    second: Green Knight standby Sprite-sheet 16x16_16
+  - first:
+      213: -7830858609005686471
+    second: Green Knight standby Sprite-sheet 16x16_17
+  - first:
+      213: 6375859064105216150
+    second: Green Knight standby Sprite-sheet 16x16_18
+  - first:
+      213: -1868739952048762924
+    second: Green Knight standby Sprite-sheet 16x16_19
+  - first:
+      213: 1386378088445319934
+    second: Green Knight standby Sprite-sheet 16x16_20
+  - first:
+      213: 2955185394590490198
+    second: Green Knight standby Sprite-sheet 16x16_21
+  - first:
+      213: -723500291926400252
+    second: Green Knight standby Sprite-sheet 16x16_22
+  - first:
+      213: 3286096245104366643
+    second: Green Knight standby Sprite-sheet 16x16_23
+  - first:
+      213: -415052339774693514
+    second: Green Knight standby Sprite-sheet 16x16_24
+  - first:
+      213: -5313486734146370710
+    second: Green Knight standby Sprite-sheet 16x16_25
+  - first:
+      213: -1024038449513155689
+    second: Green Knight standby Sprite-sheet 16x16_26
+  - first:
+      213: -1084584795207764153
+    second: Green Knight standby Sprite-sheet 16x16_27
+  - first:
+      213: 2596083805669046328
+    second: Green Knight standby Sprite-sheet 16x16_28
+  - first:
+      213: 2931635575337060280
+    second: Green Knight standby Sprite-sheet 16x16_29
+  - first:
+      213: 5034754744362294683
+    second: Green Knight standby Sprite-sheet 16x16_30
+  - first:
+      213: 5328730609846894608
+    second: Green Knight standby Sprite-sheet 16x16_31
+  - first:
+      213: 793216194711392225
+    second: Green Knight standby Sprite-sheet 16x16_32
+  - first:
+      213: -2193071308106683860
+    second: Green Knight standby Sprite-sheet 16x16_33
+  - first:
+      213: -1536564450769863011
+    second: Green Knight standby Sprite-sheet 16x16_34
+  - first:
+      213: 4376148060614110271
+    second: Green Knight standby Sprite-sheet 16x16_35
+  - first:
+      213: -2583509767342641226
+    second: Green Knight standby Sprite-sheet 16x16_36
+  - first:
+      213: 3113323218469703968
+    second: Green Knight standby Sprite-sheet 16x16_37
+  - first:
+      213: 5860271480701926554
+    second: Green Knight standby Sprite-sheet 16x16_38
+  - first:
+      213: 7403929981908601024
+    second: Green Knight standby Sprite-sheet 16x16_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87988a807b6e6bb0800000000000000
+      internalID: -4940893610074138738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200fa17c5bc078f60800000000000000
+      internalID: 8036406034934984706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bc1b82143a200b0800000000000000
+      internalID: -5763865072829871349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eaacdce2837e3b60800000000000000
+      internalID: 7727741016771177189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e55024a18b05aa00800000000000000
+      internalID: 767031962968806885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fba62d9dd5ef0a0800000000000000
+      internalID: -6845931193437077744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bab6d9ccb8783b90800000000000000
+      internalID: -7261921646899447115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c128510bfc5018c50800000000000000
+      internalID: 6665615313055613468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd17cee47b94cd90800000000000000
+      internalID: -7078361787795038779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c760f9187959a0570800000000000000
+      internalID: 8433717730151958140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f610d435726fb850800000000000000
+      internalID: 6394938251426141937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74ab05fdd47ac460800000000000000
+      internalID: 7262745845736121466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac2d910c8a6c8460800000000000000
+      internalID: 7245283050087328932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a30fcb7e3054bdd0800000000000000
+      internalID: -2471262066224200796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2eb624b08e90c9c0800000000000000
+      internalID: -3908950200942150102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e4dfc58fa7fe660800000000000000
+      internalID: 7417282318433078885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba0e03f8688d4560800000000000000
+      internalID: 7299640555373202104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93118e3b593335390800000000000000
+      internalID: -7830858609005686471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69822fdb90a9b7850800000000000000
+      internalID: 6375859064105216150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df8d842ae6e016e0800000000000000
+      internalID: -1868739952048762924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa1b2ea6876d3310800000000000000
+      internalID: 1386378088445319934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e1df9857de20920800000000000000
+      internalID: 2955185394590490198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403e5d8515c95f5f0800000000000000
+      internalID: -723500291926400252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334d03bdf1f8a9d20800000000000000
+      internalID: 3286096245104366643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fd88498107d3af0800000000000000
+      internalID: -415052339774693514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a638474a7f3b246b0800000000000000
+      internalID: -5313486734146370710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7933d6ca472e9c1f0800000000000000
+      internalID: -1024038449513155689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747f9d800e7c2f0f0800000000000000
+      internalID: -1084584795207764153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8383c047774270420800000000000000
+      internalID: 2596083805669046328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b70dd6f5034fa820800000000000000
+      internalID: 2931635575337060280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d5de4c3ca0fd540800000000000000
+      internalID: 5034754744362294683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010ccafb14473f940800000000000000
+      internalID: 5328730609846894608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef0cdb2de1120b00800000000000000
+      internalID: 793216194711392225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a2331c345a091e0800000000000000
+      internalID: -2193071308106683860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e7e59e5c60daae0800000000000000
+      internalID: -1536564450769863011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c2b6da9733bbc30800000000000000
+      internalID: 4376148060614110271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf2acbfd87852cd0800000000000000
+      internalID: -2583509767342641226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021dcdbd8feb43b20800000000000000
+      internalID: 3113323218469703968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c3796dcddd35150800000000000000
+      internalID: 5860271480701926554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Knight standby Sprite-sheet 16x16_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8c681471b00c660800000000000000
+      internalID: 7403929981908601024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green Knight standby Sprite-sheet 16x16_0: -4940893610074138738
+      Green Knight standby Sprite-sheet 16x16_1: 8036406034934984706
+      Green Knight standby Sprite-sheet 16x16_10: 6394938251426141937
+      Green Knight standby Sprite-sheet 16x16_11: 7262745845736121466
+      Green Knight standby Sprite-sheet 16x16_12: 7245283050087328932
+      Green Knight standby Sprite-sheet 16x16_13: -2471262066224200796
+      Green Knight standby Sprite-sheet 16x16_14: -3908950200942150102
+      Green Knight standby Sprite-sheet 16x16_15: 7417282318433078885
+      Green Knight standby Sprite-sheet 16x16_16: 7299640555373202104
+      Green Knight standby Sprite-sheet 16x16_17: -7830858609005686471
+      Green Knight standby Sprite-sheet 16x16_18: 6375859064105216150
+      Green Knight standby Sprite-sheet 16x16_19: -1868739952048762924
+      Green Knight standby Sprite-sheet 16x16_2: -5763865072829871349
+      Green Knight standby Sprite-sheet 16x16_20: 1386378088445319934
+      Green Knight standby Sprite-sheet 16x16_21: 2955185394590490198
+      Green Knight standby Sprite-sheet 16x16_22: -723500291926400252
+      Green Knight standby Sprite-sheet 16x16_23: 3286096245104366643
+      Green Knight standby Sprite-sheet 16x16_24: -415052339774693514
+      Green Knight standby Sprite-sheet 16x16_25: -5313486734146370710
+      Green Knight standby Sprite-sheet 16x16_26: -1024038449513155689
+      Green Knight standby Sprite-sheet 16x16_27: -1084584795207764153
+      Green Knight standby Sprite-sheet 16x16_28: 2596083805669046328
+      Green Knight standby Sprite-sheet 16x16_29: 2931635575337060280
+      Green Knight standby Sprite-sheet 16x16_3: 7727741016771177189
+      Green Knight standby Sprite-sheet 16x16_30: 5034754744362294683
+      Green Knight standby Sprite-sheet 16x16_31: 5328730609846894608
+      Green Knight standby Sprite-sheet 16x16_32: 793216194711392225
+      Green Knight standby Sprite-sheet 16x16_33: -2193071308106683860
+      Green Knight standby Sprite-sheet 16x16_34: -1536564450769863011
+      Green Knight standby Sprite-sheet 16x16_35: 4376148060614110271
+      Green Knight standby Sprite-sheet 16x16_36: -2583509767342641226
+      Green Knight standby Sprite-sheet 16x16_37: 3113323218469703968
+      Green Knight standby Sprite-sheet 16x16_38: 5860271480701926554
+      Green Knight standby Sprite-sheet 16x16_39: 7403929981908601024
+      Green Knight standby Sprite-sheet 16x16_4: 767031962968806885
+      Green Knight standby Sprite-sheet 16x16_5: -6845931193437077744
+      Green Knight standby Sprite-sheet 16x16_6: -7261921646899447115
+      Green Knight standby Sprite-sheet 16x16_7: 6665615313055613468
+      Green Knight standby Sprite-sheet 16x16_8: -7078361787795038779
+      Green Knight standby Sprite-sheet 16x16_9: 8433717730151958140
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

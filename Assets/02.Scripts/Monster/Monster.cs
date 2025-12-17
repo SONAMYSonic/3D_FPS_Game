@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class Monster : MonoBehaviour
 {
@@ -35,7 +36,7 @@ public class Monster : MonoBehaviour
 
     // GameObject 대신 PlayerHit 컴포넌트를 직접 참조 (디미터 법칙 준수)
     [SerializeField] private PlayerHit _player;
-    [SerializeField] private CharacterController _controller;
+    [SerializeField] private NavMeshAgent _agent;
     [SerializeField] private Vector3 _initialPosition;
 
     [Header("탐지 및 공격")]
@@ -72,7 +73,7 @@ public class Monster : MonoBehaviour
     public float IdleDurationMax = 5f;
 
     [Header("기타")]
-    [SerializeField] private float _arrivalThreshold = 0.1f;    // 목표 지점 도착 판정 거리
+    [SerializeField] private float _arrivalThreshold = 0.5f;    // 목표 지점 도착 판정 거리
     [SerializeField] private float _deathDuration = 2.0f;       // 죽음 상태 지속 시간
 
     // 코루틴 중복 실행 방지용 핸들
@@ -92,6 +93,8 @@ public class Monster : MonoBehaviour
     private void Start()
     {
         _initialPosition = transform.position;
+        _agent.speed = MoveSpeed;
+        _agent.stoppingDistance = AttackDistance;
         // 초기 상태 진입 처리
         EnterState(State);
     }
@@ -164,6 +167,8 @@ public class Monster : MonoBehaviour
 
             case EMonsterState.Hit:
                 StopCoroutineSafe(ref _hitCoroutine);
+                // 넉백 종료 후 NavMeshAgent 재활성화
+                _agent.enabled = true;
                 break;
 
             case EMonsterState.Attack:
@@ -180,6 +185,7 @@ public class Monster : MonoBehaviour
         switch (enteringState)
         {
             case EMonsterState.Idle:
+                _agent.ResetPath(); // 이동 중지
                 float idleTime = Random.Range(IdleDurationMin, IdleDurationMax);
                 _idleCoroutine = StartCoroutine(Idle_Coroutine(idleTime));
                 break;
@@ -194,7 +200,14 @@ public class Monster : MonoBehaviour
                 _patrolCoroutine = StartCoroutine(Patrol_Coroutine(patrolTarget, patrolTime));
                 break;
 
+            case EMonsterState.Hit:
+                // 넉백 시작 시 NavMeshAgent 비활성화 (직접 이동을 위해)
+                _agent.ResetPath();
+                _agent.enabled = false;
+                break;
+
             case EMonsterState.Death:
+                _agent.enabled = false;
                 StopAllStateCoroutines();
                 StartCoroutine(Death_Coroutine());
                 break;
@@ -277,38 +290,44 @@ public class Monster : MonoBehaviour
 
         float distance = GetDistanceToPlayer();
 
-        // 1. 플레이어를 향하는 방향을 구한다.
-        Vector3 direction = GetDirectionToPlayer();
-        // 2. 방향에 따라 이동한다.
-        _controller.Move(direction * MoveSpeed * Time.deltaTime);
+        // 방향 설정 필요 없이 도착지만 설정해주면 네비게이션 시스템에 의해 자동으로 이동한다.
+        _agent.SetDestination(PlayerPosition);
 
         // 플레이어와의 거리가 공격범위내라면
         if (distance <= AttackDistance)
         {
             ChangeState(EMonsterState.Attack);
         }
-        // 플레이어와의 거리가 너무 멀다면
-        else if (distance > DetectDistance)
-        {
-            ChangeState(EMonsterState.Comeback);
-        }
     }
+
+/// <summary>
+    /// 포물선 점프 코루틴 - 자연스러운 점프 연출
+    /// </summary>
+
 
     private void Comeback()
     {
-        // 과제 1. 제자리로 복귀하는 상태
-        Vector3 direction = (_initialPosition - transform.position).normalized;
-        _controller.Move(direction * MoveSpeed * Time.deltaTime);
+        // 복귀 중에도 플레이어가 가까워지면 다시 추격
+        if (GetDistanceToPlayer() <= DetectDistance)
+        {
+            ChangeState(EMonsterState.Trace);
+            return;
+        }
 
-        if (HasArrivedAt(_initialPosition))
+        _agent.SetDestination(_initialPosition);
+
+        // NavMeshAgent의 도착 판정 사용 (stoppingDistance 고려)
+        if (!_agent.pathPending && _agent.remainingDistance <= _agent.stoppingDistance)
         {
             ChangeState(EMonsterState.Idle);
+            Debug.Log("도착!");
         }
     }
 
     private void Attack()
     {
         // 플레이어를 공격하는 상태
+        _agent.ResetPath(); // 공격 중에는 이동 중지
 
         // 플레이어와의 거리가 멀다면 다시 쫒아오는 상태로 전환
         float distance = GetDistanceToPlayer();
@@ -355,6 +374,13 @@ public class Monster : MonoBehaviour
         // ConsumableStat의 Decrease 메서드 사용
         _health.Decrease(damage);
 
+        // NavMeshAgent가 활성화된 상태에서만 정지 처리
+        if (_agent.enabled && _agent.isOnNavMesh)
+        {
+            _agent.isStopped = true;    // 이동 일시정지
+            _agent.ResetPath();         // 경로(=목적지) 삭제
+        }
+
         // ConsumableStat의 Value 프로퍼티로 체력 확인
         if (_health.Value <= 0)
         {
@@ -380,9 +406,10 @@ public class Monster : MonoBehaviour
         hitDirection.y = 0f;
         hitDirection.Normalize();
 
+        // NavMeshAgent가 비활성화된 상태에서 transform으로 직접 이동
         while (timer < KnockbackDuration)
         {
-            _controller.Move(hitDirection * KnockbackForce * Time.deltaTime);
+            transform.position += hitDirection * KnockbackForce * Time.deltaTime;
             timer += Time.deltaTime;
             yield return null;
         }
@@ -400,6 +427,9 @@ public class Monster : MonoBehaviour
 
     private IEnumerator Patrol_Coroutine(Vector3 target, float duration)
     {
+        // NavMeshAgent로 목적지 설정
+        _agent.SetDestination(target);
+
         float timer = 0f;
         while (timer < duration && !HasArrivedAt(target))
         {
@@ -409,8 +439,6 @@ public class Monster : MonoBehaviour
                 yield break;
             }
 
-            Vector3 direction = (target - transform.position).normalized;
-            _controller.Move(direction * MoveSpeed * Time.deltaTime);
             timer += Time.deltaTime;
             yield return null;
         }

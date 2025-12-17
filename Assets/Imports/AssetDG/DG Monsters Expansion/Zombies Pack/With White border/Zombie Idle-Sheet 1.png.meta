@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 45a5b192d3d89c744bff6e2f77aae4b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4946067154793710979
+    second: Zombie Idle-Sheet 1_0
+  - first:
+      213: 3923592851339665533
+    second: Zombie Idle-Sheet 1_1
+  - first:
+      213: -5355785004757090162
+    second: Zombie Idle-Sheet 1_2
+  - first:
+      213: -3200616156249779311
+    second: Zombie Idle-Sheet 1_3
+  - first:
+      213: 1808396112368651800
+    second: Zombie Idle-Sheet 1_4
+  - first:
+      213: -5387028835144670803
+    second: Zombie Idle-Sheet 1_5
+  - first:
+      213: -2603920781033305982
+    second: Zombie Idle-Sheet 1_6
+  - first:
+      213: 5752473933018109826
+    second: Zombie Idle-Sheet 1_7
+  - first:
+      213: -9106981542108566354
+    second: Zombie Idle-Sheet 1_8
+  - first:
+      213: -4670465954945272580
+    second: Zombie Idle-Sheet 1_9
+  - first:
+      213: -8688144021499906712
+    second: Zombie Idle-Sheet 1_10
+  - first:
+      213: -4514320125475419690
+    second: Zombie Idle-Sheet 1_11
+  - first:
+      213: 3256995322018083585
+    second: Zombie Idle-Sheet 1_12
+  - first:
+      213: 812768553306393520
+    second: Zombie Idle-Sheet 1_13
+  - first:
+      213: 5784833839350804363
+    second: Zombie Idle-Sheet 1_14
+  - first:
+      213: 3371053921827921889
+    second: Zombie Idle-Sheet 1_15
+  - first:
+      213: -1453466697985257403
+    second: Zombie Idle-Sheet 1_16
+  - first:
+      213: 5065043725457134336
+    second: Zombie Idle-Sheet 1_17
+  - first:
+      213: 4694566472112811991
+    second: Zombie Idle-Sheet 1_18
+  - first:
+      213: -8520561034696535212
+    second: Zombie Idle-Sheet 1_19
+  - first:
+      213: 4546114132613922235
+    second: Zombie Idle-Sheet 1_20
+  - first:
+      213: 9084982698162666177
+    second: Zombie Idle-Sheet 1_21
+  - first:
+      213: -4892741483090800440
+    second: Zombie Idle-Sheet 1_22
+  - first:
+      213: -7409874731849048254
+    second: Zombie Idle-Sheet 1_23
+  - first:
+      213: 2304859875193440017
+    second: Zombie Idle-Sheet 1_24
+  - first:
+      213: 2456059267315181021
+    second: Zombie Idle-Sheet 1_25
+  - first:
+      213: 910673289322895356
+    second: Zombie Idle-Sheet 1_26
+  - first:
+      213: -3192785351642385734
+    second: Zombie Idle-Sheet 1_27
+  - first:
+      213: -3213903266045680621
+    second: Zombie Idle-Sheet 1_28
+  - first:
+      213: -1880928543708598552
+    second: Zombie Idle-Sheet 1_29
+  - first:
+      213: -4758421303111836294
+    second: Zombie Idle-Sheet 1_30
+  - first:
+      213: -1699970675444267436
+    second: Zombie Idle-Sheet 1_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a3b4bc02a0c5bb0800000000000000
+      internalID: -4946067154793710979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 111
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70ec5309e6637630800000000000000
+      internalID: 3923592851339665533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 111
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8007121aed6ca5b0800000000000000
+      internalID: -5355785004757090162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1931b5040902593d0800000000000000
+      internalID: -3200616156249779311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 111
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e4ee2dea6b81910800000000000000
+      internalID: 1808396112368651800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 111
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da16a6ee0dd6d35b0800000000000000
+      internalID: -5387028835144670803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 111
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288804788d30ddbd0800000000000000
+      internalID: -2603920781033305982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2871d3d6094e4df40800000000000000
+      internalID: 5752473933018109826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 79
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac649ec9808d9180800000000000000
+      internalID: -9106981542108566354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 79
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf47eeb85fb2f2fb0800000000000000
+      internalID: -4670465954945272580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 79
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86570115b038d6780800000000000000
+      internalID: -8688144021499906712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 79
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d904a683c9e951c0800000000000000
+      internalID: -4514320125475419690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 79
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1033ff33dfb233d20800000000000000
+      internalID: 3256995322018083585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 79
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb8f6861b8874b00800000000000000
+      internalID: 812768553306393520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 79
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fe92f3abbd74050800000000000000
+      internalID: 5784833839350804363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 79
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef9d396ea368ce20800000000000000
+      internalID: 3371053921827921889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5409abd2dbf34dbe0800000000000000
+      internalID: -1453466697985257403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00391bbbe66aa4640800000000000000
+      internalID: 5065043725457134336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df2eb06553762140800000000000000
+      internalID: 4694566472112811991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 47
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453d0eff1e2e0c980800000000000000
+      internalID: -8520561034696535212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdf5de97ba071f30800000000000000
+      internalID: 4546114132613922235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 47
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca3e8231a7541e70800000000000000
+      internalID: 9084982698162666177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c01e824b8d791cb0800000000000000
+      internalID: -4892741483090800440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 47
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f9ef9c036da2990800000000000000
+      internalID: -7409874731849048254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117c4f548d18cff10800000000000000
+      internalID: 2304859875193440017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5a0af04eca51220800000000000000
+      internalID: 2456059267315181021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 15
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7178c188c53ac00800000000000000
+      internalID: 910673289322895356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 15
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2f84783a2f0b3d0800000000000000
+      internalID: -3192785351642385734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31421ece10ce563d0800000000000000
+      internalID: -3213903266045680621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 15
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee2b50847995e5e0800000000000000
+      internalID: -1880928543708598552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d1e583901b6fdb0800000000000000
+      internalID: -4758421303111836294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie Idle-Sheet 1_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 15
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45640917dad7868e0800000000000000
+      internalID: -1699970675444267436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Zombie Idle-Sheet 1_0: -4946067154793710979
+      Zombie Idle-Sheet 1_1: 3923592851339665533
+      Zombie Idle-Sheet 1_10: -8688144021499906712
+      Zombie Idle-Sheet 1_11: -4514320125475419690
+      Zombie Idle-Sheet 1_12: 3256995322018083585
+      Zombie Idle-Sheet 1_13: 812768553306393520
+      Zombie Idle-Sheet 1_14: 5784833839350804363
+      Zombie Idle-Sheet 1_15: 3371053921827921889
+      Zombie Idle-Sheet 1_16: -1453466697985257403
+      Zombie Idle-Sheet 1_17: 5065043725457134336
+      Zombie Idle-Sheet 1_18: 4694566472112811991
+      Zombie Idle-Sheet 1_19: -8520561034696535212
+      Zombie Idle-Sheet 1_2: -5355785004757090162
+      Zombie Idle-Sheet 1_20: 4546114132613922235
+      Zombie Idle-Sheet 1_21: 9084982698162666177
+      Zombie Idle-Sheet 1_22: -4892741483090800440
+      Zombie Idle-Sheet 1_23: -7409874731849048254
+      Zombie Idle-Sheet 1_24: 2304859875193440017
+      Zombie Idle-Sheet 1_25: 2456059267315181021
+      Zombie Idle-Sheet 1_26: 910673289322895356
+      Zombie Idle-Sheet 1_27: -3192785351642385734
+      Zombie Idle-Sheet 1_28: -3213903266045680621
+      Zombie Idle-Sheet 1_29: -1880928543708598552
+      Zombie Idle-Sheet 1_3: -3200616156249779311
+      Zombie Idle-Sheet 1_30: -4758421303111836294
+      Zombie Idle-Sheet 1_31: -1699970675444267436
+      Zombie Idle-Sheet 1_4: 1808396112368651800
+      Zombie Idle-Sheet 1_5: -5387028835144670803
+      Zombie Idle-Sheet 1_6: -2603920781033305982
+      Zombie Idle-Sheet 1_7: 5752473933018109826
+      Zombie Idle-Sheet 1_8: -9106981542108566354
+      Zombie Idle-Sheet 1_9: -4670465954945272580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 85b2c59e925962c49ad8078e0bcd87b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8489841143451181884
+    second: Blue Asha Standby 32x32 (3 Rows)_0
+  - first:
+      213: -4827200093289661857
+    second: Blue Asha Standby 32x32 (3 Rows)_1
+  - first:
+      213: 8363791955153789694
+    second: Blue Asha Standby 32x32 (3 Rows)_2
+  - first:
+      213: 1671264757893567277
+    second: Blue Asha Standby 32x32 (3 Rows)_3
+  - first:
+      213: 1730860827098092353
+    second: Blue Asha Standby 32x32 (3 Rows)_4
+  - first:
+      213: 1107293866647157635
+    second: Blue Asha Standby 32x32 (3 Rows)_5
+  - first:
+      213: -4360520043061967674
+    second: Blue Asha Standby 32x32 (3 Rows)_6
+  - first:
+      213: -4512997200929819977
+    second: Blue Asha Standby 32x32 (3 Rows)_7
+  - first:
+      213: -3997602503290833449
+    second: Blue Asha Standby 32x32 (3 Rows)_8
+  - first:
+      213: -2628425584470610820
+    second: Blue Asha Standby 32x32 (3 Rows)_9
+  - first:
+      213: 1594028857003719358
+    second: Blue Asha Standby 32x32 (3 Rows)_10
+  - first:
+      213: 1881388381697021124
+    second: Blue Asha Standby 32x32 (3 Rows)_11
+  - first:
+      213: -3343130338487188199
+    second: Blue Asha Standby 32x32 (3 Rows)_12
+  - first:
+      213: 5896015550420305434
+    second: Blue Asha Standby 32x32 (3 Rows)_13
+  - first:
+      213: 989946264054332290
+    second: Blue Asha Standby 32x32 (3 Rows)_14
+  - first:
+      213: 8183571219141278989
+    second: Blue Asha Standby 32x32 (3 Rows)_15
+  - first:
+      213: -2550708258843847220
+    second: Blue Asha Standby 32x32 (3 Rows)_16
+  - first:
+      213: 544826285148212187
+    second: Blue Asha Standby 32x32 (3 Rows)_17
+  - first:
+      213: -2613329428705112907
+    second: Blue Asha Standby 32x32 (3 Rows)_18
+  - first:
+      213: -7548943858209217639
+    second: Blue Asha Standby 32x32 (3 Rows)_19
+  - first:
+      213: -1577914176191146863
+    second: Blue Asha Standby 32x32 (3 Rows)_20
+  - first:
+      213: 5276449765302486631
+    second: Blue Asha Standby 32x32 (3 Rows)_21
+  - first:
+      213: 3752671252866638272
+    second: Blue Asha Standby 32x32 (3 Rows)_22
+  - first:
+      213: -1488550119908088387
+    second: Blue Asha Standby 32x32 (3 Rows)_23
+  - first:
+      213: 5914394149578059722
+    second: Blue Asha Standby 32x32 (3 Rows)_24
+  - first:
+      213: 2177954413100652154
+    second: Blue Asha Standby 32x32 (3 Rows)_25
+  - first:
+      213: 1235009433935580759
+    second: Blue Asha Standby 32x32 (3 Rows)_26
+  - first:
+      213: 8144481621222611627
+    second: Blue Asha Standby 32x32 (3 Rows)_27
+  - first:
+      213: 5299237093569064462
+    second: Blue Asha Standby 32x32 (3 Rows)_28
+  - first:
+      213: 81149386594738287
+    second: Blue Asha Standby 32x32 (3 Rows)_29
+  - first:
+      213: 806457105270076305
+    second: Blue Asha Standby 32x32 (3 Rows)_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc981d06760e2a80800000000000000
+      internalID: -8489841143451181884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 71
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5abcbb3717520db0800000000000000
+      internalID: -4827200093289661857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2263e4878221470800000000000000
+      internalID: 8363791955153789694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 71
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2310eb4176813710800000000000000
+      internalID: 1671264757893567277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14312d270c0450810800000000000000
+      internalID: 1730860827098092353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bf87fa7e5ed5f00800000000000000
+      internalID: 1107293866647157635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c40255bf125c73c0800000000000000
+      internalID: -4360520043061967674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2fe36e4fc9e51c0800000000000000
+      internalID: -4512997200929819977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 71
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5332614b9a588c0800000000000000
+      internalID: -3997602503290833449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 71
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ca41f5bd4f58bd0800000000000000
+      internalID: -2628425584470610820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebabd67ccc02f1610800000000000000
+      internalID: 1594028857003719358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4199fd3c80c1a10800000000000000
+      internalID: 1881388381697021124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915c3a87ba0da91d0800000000000000
+      internalID: -3343130338487188199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 39
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a164bf897ead2d150800000000000000
+      internalID: 5896015550420305434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 39
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bfea7d1eefcbd00800000000000000
+      internalID: 989946264054332290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 39
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0db6075aa2e19170800000000000000
+      internalID: 8183571219141278989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc515f15a501a9cd0800000000000000
+      internalID: -2550708258843847220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb0e86ae9c9f8700800000000000000
+      internalID: 544826285148212187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc05f80bb69bbbd0800000000000000
+      internalID: -2613329428705112907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 39
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993a2169e83cc3790800000000000000
+      internalID: -7548943858209217639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 39
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194d21aba6f1a1ae0800000000000000
+      internalID: -1577914176191146863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7664c001b17b93940800000000000000
+      internalID: 5276449765302486631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1afe93f9a241430800000000000000
+      internalID: 3752671252866638272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db563887d8b975be0800000000000000
+      internalID: -1488550119908088387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfaf3ba426241250800000000000000
+      internalID: 5914394149578059722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76dbd9dff5a93e10800000000000000
+      internalID: 2177954413100652154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 7
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e8cfb6982a32110800000000000000
+      internalID: 1235009433935580759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baadba812e2070170800000000000000
+      internalID: 8144481621222611627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_28
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ee1ce5f0caa8940800000000000000
+      internalID: 5299237093569064462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6068b9efec402100800000000000000
+      internalID: 81149386594738287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue Asha Standby 32x32 (3 Rows)_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 7
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1937636e67c113b00800000000000000
+      internalID: 806457105270076305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blue Asha Standby 32x32 (3 Rows)_0: -8489841143451181884
+      Blue Asha Standby 32x32 (3 Rows)_1: -4827200093289661857
+      Blue Asha Standby 32x32 (3 Rows)_10: 1594028857003719358
+      Blue Asha Standby 32x32 (3 Rows)_11: 1881388381697021124
+      Blue Asha Standby 32x32 (3 Rows)_12: -3343130338487188199
+      Blue Asha Standby 32x32 (3 Rows)_13: 5896015550420305434
+      Blue Asha Standby 32x32 (3 Rows)_14: 989946264054332290
+      Blue Asha Standby 32x32 (3 Rows)_15: 8183571219141278989
+      Blue Asha Standby 32x32 (3 Rows)_16: -2550708258843847220
+      Blue Asha Standby 32x32 (3 Rows)_17: 544826285148212187
+      Blue Asha Standby 32x32 (3 Rows)_18: -2613329428705112907
+      Blue Asha Standby 32x32 (3 Rows)_19: -7548943858209217639
+      Blue Asha Standby 32x32 (3 Rows)_2: 8363791955153789694
+      Blue Asha Standby 32x32 (3 Rows)_20: -1577914176191146863
+      Blue Asha Standby 32x32 (3 Rows)_21: 5276449765302486631
+      Blue Asha Standby 32x32 (3 Rows)_22: 3752671252866638272
+      Blue Asha Standby 32x32 (3 Rows)_23: -1488550119908088387
+      Blue Asha Standby 32x32 (3 Rows)_24: 5914394149578059722
+      Blue Asha Standby 32x32 (3 Rows)_25: 2177954413100652154
+      Blue Asha Standby 32x32 (3 Rows)_26: 1235009433935580759
+      Blue Asha Standby 32x32 (3 Rows)_27: 8144481621222611627
+      Blue Asha Standby 32x32 (3 Rows)_28: 5299237093569064462
+      Blue Asha Standby 32x32 (3 Rows)_29: 81149386594738287
+      Blue Asha Standby 32x32 (3 Rows)_3: 1671264757893567277
+      Blue Asha Standby 32x32 (3 Rows)_30: 806457105270076305
+      Blue Asha Standby 32x32 (3 Rows)_4: 1730860827098092353
+      Blue Asha Standby 32x32 (3 Rows)_5: 1107293866647157635
+      Blue Asha Standby 32x32 (3 Rows)_6: -4360520043061967674
+      Blue Asha Standby 32x32 (3 Rows)_7: -4512997200929819977
+      Blue Asha Standby 32x32 (3 Rows)_8: -3997602503290833449
+      Blue Asha Standby 32x32 (3 Rows)_9: -2628425584470610820
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

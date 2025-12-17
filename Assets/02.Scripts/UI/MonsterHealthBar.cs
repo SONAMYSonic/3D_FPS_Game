@@ -21,7 +21,6 @@ public class MonsterHealthBar : MonoBehaviour
 
     private float _lastHealth = -1f;
     private Color _gaugeOriginalColor;
-    private Color _gaugeColor;
     private void Awake()
     {
         _monster = GetComponent<Monster>();
@@ -55,8 +54,11 @@ public class MonsterHealthBar : MonoBehaviour
             _lastHealth = _monster.CurrentHealth;
         }
 
-        // 빌보드 기법: 카메라의 위치와 회전에 상관없이 항상 정면을 바라보게 하는 기법
-        _healthBarTransform.forward = Camera.main.transform.forward;
+        // 빌보드 기법: 카메라를 바라보도록 설정
+        // Camera.main.transform.forward는 자식이어도 월드 좌표 기준이므로 정상 작동해야 함
+        // 하지만 카메라가 회전하지 않는 경우, 카메라를 직접 바라보게 설정
+        Vector3 directionToCamera = Camera.main.transform.position - _healthBarTransform.position;
+        _healthBarTransform.forward = -directionToCamera.normalized;
     }
 
     private void PlayDamageEffect(float targetFillAmount)

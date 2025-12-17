@@ -27,7 +27,7 @@ public class PlayerBombFire : MonoBehaviour
             return;
         }
 
-        if (Input.GetMouseButtonDown(1) && _stats.Bomb.TryConsume(1f))
+        if (Input.GetMouseButtonDown(2) && _stats.Bomb.TryConsume(1f))
         {
             // 폭탄 오브젝트 풀에서 폭탄 오브젝트를 가져온다.
             //GameObject bomb = PoolManager.Instance.GetBombFromPool();

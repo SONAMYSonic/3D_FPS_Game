@@ -35,6 +35,11 @@ public class PlayerMove : MonoBehaviour
             return;
         }
 
+        if (_controller.enabled == false)
+        {
+            return;
+        }
+
         // 0. 중력을 누적한다.
         _yVelocity += _config.Gravity * Time.deltaTime;
 
@@ -72,6 +77,11 @@ public class PlayerMove : MonoBehaviour
 
         // 3. 방향으로 이동시키기  
         _controller.Move(direction * moveSpeed * Time.deltaTime);
+    }
+
+    public void SetVelocity(float yVelocity)
+    {
+        _yVelocity = yVelocity;
     }
 
 }

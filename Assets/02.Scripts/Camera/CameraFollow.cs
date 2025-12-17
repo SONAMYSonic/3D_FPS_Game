@@ -1,69 +1,165 @@
+using System;
 using UnityEngine;
 using DG.Tweening;
 
 public class CameraFollow : MonoBehaviour
 {
+    // 카메라 뷰 변경 이벤트 (true: 탑뷰, false: FPS/TPS)
+    public static event Action<bool> OnTopViewChanged;
+
     [Header("Targets")]
-    public Transform FPSTarget;
-    public Transform TPSTarget;
+    public Transform[] CameraTargets;
+    public Transform Player; // 플레이어 Transform (탑뷰용)
 
     [Header("Settings")]
     public float CameraMoveDuration = 0.5f;
+    public int TopViewIndex = 2; // 탑뷰 카메라 인덱스
 
+    [Header("TopView Settings")]
+    public Vector3 TopViewOffset = new Vector3(6, 8, -4); // 플레이어로부터의 오프셋
+    public Vector3 TopViewRotation = new Vector3(35, -40, 0); // 탑뷰 카메라 회전 (아래를 바라봄)
 
+    // 현재 카메라 인덱스
+    private int _currentTargetIndex = 0;
 
-    // 상태 확인용 (public이지만 내부에서만 조작하므로 private set 권장)
-    public bool IsFPS { get; private set; } = true;
+    // 현재 타겟 반환
+    public Transform CurrentTarget => CameraTargets[_currentTargetIndex];
+
+    // 현재 카메라 인덱스 반환
+    public int CurrentTargetIndex => _currentTargetIndex;
+
+    // 탑뷰 상태인지 확인
+    public bool IsTopView => _currentTargetIndex == TopViewIndex;
 
     // 이동 중인지 체크하는 플래그
     private bool _isTransitioning = false;
 
+    // 싱글톤 (다른 스크립트에서 쉽게 접근)
+    public static CameraFollow Instance { get; private set; }
+
+    private void Awake()
+    {
+        Instance = this;
+    }
+
+    private void Start()
+    {
+        // 초기 위치 설정
+        if (CameraTargets != null && CameraTargets.Length > 0)
+        {
+            transform.position = CurrentTarget.position;
+            transform.rotation = CurrentTarget.rotation;
+        }
+
+        // 초기 카메라 뷰 상태 이벤트 발생
+        NotifyViewChanged();
+    }
+
     private void LateUpdate()
     {
+        if (CameraTargets == null || CameraTargets.Length == 0) return;
+
         // 1. 입력 처리
         if (Input.GetKeyDown(KeyCode.T))
         {
-            SwitchCamera();
+            SwitchToNextCamera();
         }
 
-        // 2. 이동 중이 아닐 때만 타겟을 '딱' 붙여서 따라다님
+        // 2. 이동 중이 아닐 때만 따라다님
         if (!_isTransitioning)
         {
-            if (IsFPS)
+            if (IsTopView && Player != null)
             {
-                transform.position = FPSTarget.position;
+                // 탑뷰: 플레이어 위치 + 오프셋 (월드 공간 기준, 회전 영향 없음)
+                transform.position = Player.position + TopViewOffset;
+                transform.rotation = Quaternion.Euler(TopViewRotation);
             }
+            // FPS/TPS: 위치 업데이트 제거 - CameraTargets가 플레이어 자식이면 자동으로 따라감
+            // 만약 카메라가 플레이어 자식이 아니라면 아래 주석 해제
             else
             {
-                transform.position = TPSTarget.position;
+                transform.position = CurrentTarget.position;
+                // Y축 회전만 타겟을 따라가고, X축은 CameraRotate가 설정한 값 유지
+                Vector3 currentEuler = transform.eulerAngles;
+                Vector3 targetEuler = CurrentTarget.eulerAngles;
+                transform.eulerAngles = new Vector3(currentEuler.x, targetEuler.y, 0);
             }
         }
     }
 
-    private void SwitchCamera()
+private void SwitchToNextCamera()
     {
-        // 상태 반전
-        IsFPS = !IsFPS;
-        _isTransitioning = true; // "이제부터 기계(DOTween)가 운전한다, 건드리지 마라"
+        // 다음 인덱스로 순환 (마지막이면 0으로 돌아감)
+        _currentTargetIndex = (_currentTargetIndex + 1) % CameraTargets.Length;
+        StartCameraTransition();
+    }
 
-        // 목표 지점 설정
-        Transform targetTransform = IsFPS ? FPSTarget : TPSTarget;
+    /// <summary>
+    /// 특정 인덱스의 카메라로 전환
+    /// </summary>
+/// <summary>
+    /// 특정 인덱스의 카메라로 전환
+    /// </summary>
+    public void SwitchToCamera(int index)
+    {
+        if (index < 0 || index >= CameraTargets.Length) return;
+        _currentTargetIndex = index;
+        StartCameraTransition();
+    }
+
+    /// <summary>
+    /// 카메라 전환 로직 (위치/회전 보간 및 커서 상태 업데이트)
+    /// </summary>
+    private void StartCameraTransition()
+    {
+        _isTransitioning = true;
 
         // 기존 트윈 제거 (안전장치)
         transform.DOKill();
 
-        // ★ 핵심: DOMove가 끝나는 순간(OnComplete) 다시 따라다니기 모드로 전환
-        transform.DOMove(targetTransform.position, CameraMoveDuration)
+        // 목표 위치/회전 계산
+        Vector3 targetPosition;
+        Quaternion targetRotation;
+
+        if (IsTopView && Player != null)
+        {
+            targetPosition = Player.position + TopViewOffset;
+            targetRotation = Quaternion.Euler(TopViewRotation);
+        }
+        else
+        {
+            targetPosition = CurrentTarget.position;
+            targetRotation = CurrentTarget.rotation;
+        }
+
+        // 위치 이동
+        transform.DOMove(targetPosition, CameraMoveDuration)
             .SetEase(Ease.OutQuad)
+            .SetId(this)
             .OnComplete(() =>
             {
-                // 이 괄호 안의 코드는 0.5초 뒤 이동이 끝났을 때 실행됩니다.
                 _isTransitioning = false;
             });
 
-        // (선택 사항) 회전도 부드럽게 하고 싶다면 같이 실행
-        transform.DORotateQuaternion(targetTransform.rotation, CameraMoveDuration)
-            .SetEase(Ease.OutQuad);
+        // 회전도 부드럽게
+        transform.DORotateQuaternion(targetRotation, CameraMoveDuration)
+            .SetEase(Ease.OutQuad)
+            .SetId(this);
+
+        // 카메라 뷰 변경 이벤트 발생
+        NotifyViewChanged();
     }
 
+/// <summary>
+    /// 카메라 뷰 변경 이벤트 발생
+    /// </summary>
+    private void NotifyViewChanged()
+    {
+        OnTopViewChanged?.Invoke(IsTopView);
+    }
+
+    private void OnDestroy()
+    {
+        DOTween.Kill(this);
+    }
 }

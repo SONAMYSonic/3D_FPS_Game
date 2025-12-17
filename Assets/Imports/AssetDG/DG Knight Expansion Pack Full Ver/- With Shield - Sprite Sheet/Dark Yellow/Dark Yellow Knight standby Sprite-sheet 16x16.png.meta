@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: cff7ec3aa6f57fe4894b9e943e0c9836
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3435929468224958447
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_0
+  - first:
+      213: -5792828149794366660
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_1
+  - first:
+      213: 2212299448201426518
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_2
+  - first:
+      213: -7783140664068221989
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_3
+  - first:
+      213: 2070619870823669236
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_4
+  - first:
+      213: 6663654203376755278
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_5
+  - first:
+      213: 3189030160208978608
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_6
+  - first:
+      213: 2355452476332069223
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_7
+  - first:
+      213: -3316906462735507158
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_8
+  - first:
+      213: -7514391087188626723
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_9
+  - first:
+      213: 5488430806839624935
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_10
+  - first:
+      213: 4363806337075124600
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_11
+  - first:
+      213: 5099116580087511373
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_12
+  - first:
+      213: 977790805305506495
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_13
+  - first:
+      213: -8331073422024464588
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_14
+  - first:
+      213: -707063316435517492
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_15
+  - first:
+      213: -2529180321451429156
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_16
+  - first:
+      213: 7971632447252202463
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_17
+  - first:
+      213: 6336724782346934561
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_18
+  - first:
+      213: 4824126736367586433
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_19
+  - first:
+      213: -5640371411247367409
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_20
+  - first:
+      213: -5420725960833330254
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_21
+  - first:
+      213: -5980117442087527799
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_22
+  - first:
+      213: 7051446866581650239
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_23
+  - first:
+      213: -5207056639712198949
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_24
+  - first:
+      213: 4283837747651548921
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_25
+  - first:
+      213: 3465570874598945226
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_26
+  - first:
+      213: -5479543330231539919
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_27
+  - first:
+      213: 2701750692221132174
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_28
+  - first:
+      213: -7180459625040597628
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_29
+  - first:
+      213: -8314488338341147880
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_30
+  - first:
+      213: 781884770315588112
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_31
+  - first:
+      213: 5174445581179374956
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_32
+  - first:
+      213: -8759158041299330812
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_33
+  - first:
+      213: -3286969597877767210
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_34
+  - first:
+      213: 2571819688843331570
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_35
+  - first:
+      213: 1473861679962587081
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_36
+  - first:
+      213: 1085958735316698106
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_37
+  - first:
+      213: 5335275536460895356
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_38
+  - first:
+      213: 9025790586254400150
+    second: Dark Yellow Knight standby Sprite-sheet 16x16_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110972d5a502150d0800000000000000
+      internalID: -3435929468224958447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b9f9e4d7dbb9fa0800000000000000
+      internalID: -5792828149794366660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656b6da70aaa3be10800000000000000
+      internalID: 2212299448201426518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3d0598dcabcf390800000000000000
+      internalID: -7783140664068221989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd5f494dc15cbc10800000000000000
+      internalID: 2070619870823669236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e426f42413e0a7c50800000000000000
+      internalID: 6663654203376755278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b26345d806b14c20800000000000000
+      internalID: 3189030160208978608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76156192c8f30b020800000000000000
+      internalID: 2355452476332069223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21e377552bf7f1d0800000000000000
+      internalID: -3316906462735507158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2b2c08e1587b790800000000000000
+      internalID: -7514391087188626723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e48cf76db2da2c40800000000000000
+      internalID: 5488430806839624935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87916fd3eba5f8c30800000000000000
+      internalID: 4363806337075124600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49bb686383b3c640800000000000000
+      internalID: 5099116580087511373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbab0ee8e8fc19d00800000000000000
+      internalID: 977790805305506495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437a882dcd4126c80800000000000000
+      internalID: -8331073422024464588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfb62ee8a10036f0800000000000000
+      internalID: -707063316435517492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2baf6d5eb86ecd0800000000000000
+      internalID: -2529180321451429156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3027aa97de0ae60800000000000000
+      internalID: 7971632447252202463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129143bbd9190f750800000000000000
+      internalID: 6336724782346934561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c87a815bdb2f240800000000000000
+      internalID: 4824126736367586433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bf45fd51069b1b0800000000000000
+      internalID: -5640371411247367409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b39ac77576b5c4b0800000000000000
+      internalID: -5420725960833330254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a5145deda520da0800000000000000
+      internalID: -5980117442087527799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bf323a095cbd160800000000000000
+      internalID: 7051446866581650239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde7d980391dcb7b0800000000000000
+      internalID: -5207056639712198949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f61e281cbf337b30800000000000000
+      internalID: 4283837747651548921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1f86c595e281030800000000000000
+      internalID: 3465570874598945226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137203e7f50c4f3b0800000000000000
+      internalID: -5479543330231539919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d9189a0fb8e7520800000000000000
+      internalID: 2701750692221132174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dab65c302e95c90800000000000000
+      internalID: -7180459625040597628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b4c0888e00d9c80800000000000000
+      internalID: -8314488338341147880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012d2f55e00d9da00800000000000000
+      internalID: 781884770315588112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d49c737d25fc740800000000000000
+      internalID: 5174445581179374956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409d8d06b28317680800000000000000
+      internalID: -8759158041299330812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3bcfad0965262d0800000000000000
+      internalID: -3286969597877767210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7ccd38160f0b320800000000000000
+      internalID: 2571819688843331570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cffa3a9365347410800000000000000
+      internalID: 1473861679962587081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3c84357b9121f00800000000000000
+      internalID: 1085958735316698106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74559935d4ba0a40800000000000000
+      internalID: 5335275536460895356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Yellow Knight standby Sprite-sheet 16x16_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a12cea7bc024d70800000000000000
+      internalID: 9025790586254400150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark Yellow Knight standby Sprite-sheet 16x16_0: -3435929468224958447
+      Dark Yellow Knight standby Sprite-sheet 16x16_1: -5792828149794366660
+      Dark Yellow Knight standby Sprite-sheet 16x16_10: 5488430806839624935
+      Dark Yellow Knight standby Sprite-sheet 16x16_11: 4363806337075124600
+      Dark Yellow Knight standby Sprite-sheet 16x16_12: 5099116580087511373
+      Dark Yellow Knight standby Sprite-sheet 16x16_13: 977790805305506495
+      Dark Yellow Knight standby Sprite-sheet 16x16_14: -8331073422024464588
+      Dark Yellow Knight standby Sprite-sheet 16x16_15: -707063316435517492
+      Dark Yellow Knight standby Sprite-sheet 16x16_16: -2529180321451429156
+      Dark Yellow Knight standby Sprite-sheet 16x16_17: 7971632447252202463
+      Dark Yellow Knight standby Sprite-sheet 16x16_18: 6336724782346934561
+      Dark Yellow Knight standby Sprite-sheet 16x16_19: 4824126736367586433
+      Dark Yellow Knight standby Sprite-sheet 16x16_2: 2212299448201426518
+      Dark Yellow Knight standby Sprite-sheet 16x16_20: -5640371411247367409
+      Dark Yellow Knight standby Sprite-sheet 16x16_21: -5420725960833330254
+      Dark Yellow Knight standby Sprite-sheet 16x16_22: -5980117442087527799
+      Dark Yellow Knight standby Sprite-sheet 16x16_23: 7051446866581650239
+      Dark Yellow Knight standby Sprite-sheet 16x16_24: -5207056639712198949
+      Dark Yellow Knight standby Sprite-sheet 16x16_25: 4283837747651548921
+      Dark Yellow Knight standby Sprite-sheet 16x16_26: 3465570874598945226
+      Dark Yellow Knight standby Sprite-sheet 16x16_27: -5479543330231539919
+      Dark Yellow Knight standby Sprite-sheet 16x16_28: 2701750692221132174
+      Dark Yellow Knight standby Sprite-sheet 16x16_29: -7180459625040597628
+      Dark Yellow Knight standby Sprite-sheet 16x16_3: -7783140664068221989
+      Dark Yellow Knight standby Sprite-sheet 16x16_30: -8314488338341147880
+      Dark Yellow Knight standby Sprite-sheet 16x16_31: 781884770315588112
+      Dark Yellow Knight standby Sprite-sheet 16x16_32: 5174445581179374956
+      Dark Yellow Knight standby Sprite-sheet 16x16_33: -8759158041299330812
+      Dark Yellow Knight standby Sprite-sheet 16x16_34: -3286969597877767210
+      Dark Yellow Knight standby Sprite-sheet 16x16_35: 2571819688843331570
+      Dark Yellow Knight standby Sprite-sheet 16x16_36: 1473861679962587081
+      Dark Yellow Knight standby Sprite-sheet 16x16_37: 1085958735316698106
+      Dark Yellow Knight standby Sprite-sheet 16x16_38: 5335275536460895356
+      Dark Yellow Knight standby Sprite-sheet 16x16_39: 9025790586254400150
+      Dark Yellow Knight standby Sprite-sheet 16x16_4: 2070619870823669236
+      Dark Yellow Knight standby Sprite-sheet 16x16_5: 6663654203376755278
+      Dark Yellow Knight standby Sprite-sheet 16x16_6: 3189030160208978608
+      Dark Yellow Knight standby Sprite-sheet 16x16_7: 2355452476332069223
+      Dark Yellow Knight standby Sprite-sheet 16x16_8: -3316906462735507158
+      Dark Yellow Knight standby Sprite-sheet 16x16_9: -7514391087188626723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

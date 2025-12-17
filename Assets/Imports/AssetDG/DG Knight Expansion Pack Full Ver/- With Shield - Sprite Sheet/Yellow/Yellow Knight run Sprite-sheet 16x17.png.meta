@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: f1475a12f3fe4ff4da10960d7b73bafb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4479992133875495189
+    second: Yellow Knight run Sprite-sheet 16x17_0
+  - first:
+      213: 4984640314962595016
+    second: Yellow Knight run Sprite-sheet 16x17_1
+  - first:
+      213: -2598674247838694286
+    second: Yellow Knight run Sprite-sheet 16x17_2
+  - first:
+      213: 7368344660797834403
+    second: Yellow Knight run Sprite-sheet 16x17_3
+  - first:
+      213: -5712860860211913246
+    second: Yellow Knight run Sprite-sheet 16x17_4
+  - first:
+      213: 2563490663506779199
+    second: Yellow Knight run Sprite-sheet 16x17_5
+  - first:
+      213: 2308359503530886164
+    second: Yellow Knight run Sprite-sheet 16x17_6
+  - first:
+      213: -477346894448831145
+    second: Yellow Knight run Sprite-sheet 16x17_7
+  - first:
+      213: -721031485308580235
+    second: Yellow Knight run Sprite-sheet 16x17_8
+  - first:
+      213: -6759277715855149161
+    second: Yellow Knight run Sprite-sheet 16x17_9
+  - first:
+      213: 2597741495399836138
+    second: Yellow Knight run Sprite-sheet 16x17_10
+  - first:
+      213: 1508094825919842766
+    second: Yellow Knight run Sprite-sheet 16x17_11
+  - first:
+      213: 4718930856871787749
+    second: Yellow Knight run Sprite-sheet 16x17_12
+  - first:
+      213: 2342729350903671706
+    second: Yellow Knight run Sprite-sheet 16x17_13
+  - first:
+      213: 1457906993589053299
+    second: Yellow Knight run Sprite-sheet 16x17_14
+  - first:
+      213: 1377857727421504763
+    second: Yellow Knight run Sprite-sheet 16x17_15
+  - first:
+      213: -5259761594029031697
+    second: Yellow Knight run Sprite-sheet 16x17_16
+  - first:
+      213: -1551800069732821204
+    second: Yellow Knight run Sprite-sheet 16x17_17
+  - first:
+      213: -726417900003966000
+    second: Yellow Knight run Sprite-sheet 16x17_18
+  - first:
+      213: -2631450825386334740
+    second: Yellow Knight run Sprite-sheet 16x17_19
+  - first:
+      213: 5809983970221099273
+    second: Yellow Knight run Sprite-sheet 16x17_20
+  - first:
+      213: 1299778805856651028
+    second: Yellow Knight run Sprite-sheet 16x17_21
+  - first:
+      213: 5701526777328597720
+    second: Yellow Knight run Sprite-sheet 16x17_22
+  - first:
+      213: -6154822664980552356
+    second: Yellow Knight run Sprite-sheet 16x17_23
+  - first:
+      213: 2448717495163042378
+    second: Yellow Knight run Sprite-sheet 16x17_24
+  - first:
+      213: -2337201459184442847
+    second: Yellow Knight run Sprite-sheet 16x17_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51171381c112c2e30800000000000000
+      internalID: 4479992133875495189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cccf6ae4fffc2540800000000000000
+      internalID: 4984640314962595016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 18
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2748e9a3a87afebd0800000000000000
+      internalID: -2598674247838694286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 51
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a440890e6e914660800000000000000
+      internalID: 7368344660797834403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed16dfc057d7b0b0800000000000000
+      internalID: -5712860860211913246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 50
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c1a5f2d29539320800000000000000
+      internalID: 2563490663506779199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 33
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4140bddfcb0f80020800000000000000
+      internalID: 2308359503530886164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 50
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755ddb1578f1069f0800000000000000
+      internalID: -477346894448831145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e4f4e2fa16ef5f0800000000000000
+      internalID: -721031485308580235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 18
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7977d38cab83232a0800000000000000
+      internalID: -6759277715855149161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 51
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9699b60280d0420800000000000000
+      internalID: 2597741495399836138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 34
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec98e820144dde410800000000000000
+      internalID: 1508094825919842766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 50
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecf873cc920d7140800000000000000
+      internalID: 4718930856871787749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 33
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bae7daeeb038020800000000000000
+      internalID: 2342729350903671706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377ee64bfa68b3410800000000000000
+      internalID: 1457906993589053299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc5cf98d422f1310800000000000000
+      internalID: 1377857727421504763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 17
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee38a892b29107b0800000000000000
+      internalID: -5259761594029031697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c271621fe06e67ae0800000000000000
+      internalID: -1551800069732821204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 16
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d347c7c4ce3be5f0800000000000000
+      internalID: -726417900003966000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce560f49a653b7bd0800000000000000
+      internalID: -2631450825386334740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9090eb763a531a050800000000000000
+      internalID: 5809983970221099273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417caa9ffedb90210800000000000000
+      internalID: 1299778805856651028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 17
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da7c006564ef1f40800000000000000
+      internalID: 5701526777328597720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55af46556da59aa0800000000000000
+      internalID: -6154822664980552356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 16
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a3a7686979bf120800000000000000
+      internalID: 2448717495163042378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow Knight run Sprite-sheet 16x17_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12269c8e7a7909fd0800000000000000
+      internalID: -2337201459184442847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Yellow Knight run Sprite-sheet 16x17_0: 4479992133875495189
+      Yellow Knight run Sprite-sheet 16x17_1: 4984640314962595016
+      Yellow Knight run Sprite-sheet 16x17_10: 2597741495399836138
+      Yellow Knight run Sprite-sheet 16x17_11: 1508094825919842766
+      Yellow Knight run Sprite-sheet 16x17_12: 4718930856871787749
+      Yellow Knight run Sprite-sheet 16x17_13: 2342729350903671706
+      Yellow Knight run Sprite-sheet 16x17_14: 1457906993589053299
+      Yellow Knight run Sprite-sheet 16x17_15: 1377857727421504763
+      Yellow Knight run Sprite-sheet 16x17_16: -5259761594029031697
+      Yellow Knight run Sprite-sheet 16x17_17: -1551800069732821204
+      Yellow Knight run Sprite-sheet 16x17_18: -726417900003966000
+      Yellow Knight run Sprite-sheet 16x17_19: -2631450825386334740
+      Yellow Knight run Sprite-sheet 16x17_2: -2598674247838694286
+      Yellow Knight run Sprite-sheet 16x17_20: 5809983970221099273
+      Yellow Knight run Sprite-sheet 16x17_21: 1299778805856651028
+      Yellow Knight run Sprite-sheet 16x17_22: 5701526777328597720
+      Yellow Knight run Sprite-sheet 16x17_23: -6154822664980552356
+      Yellow Knight run Sprite-sheet 16x17_24: 2448717495163042378
+      Yellow Knight run Sprite-sheet 16x17_25: -2337201459184442847
+      Yellow Knight run Sprite-sheet 16x17_3: 7368344660797834403
+      Yellow Knight run Sprite-sheet 16x17_4: -5712860860211913246
+      Yellow Knight run Sprite-sheet 16x17_5: 2563490663506779199
+      Yellow Knight run Sprite-sheet 16x17_6: 2308359503530886164
+      Yellow Knight run Sprite-sheet 16x17_7: -477346894448831145
+      Yellow Knight run Sprite-sheet 16x17_8: -721031485308580235
+      Yellow Knight run Sprite-sheet 16x17_9: -6759277715855149161
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

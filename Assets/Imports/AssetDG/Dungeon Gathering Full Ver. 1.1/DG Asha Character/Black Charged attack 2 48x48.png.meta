@@ -1,0 +1,2106 @@
+fileFormatVersion: 2
+guid: e186e710b8f650844b22ef8c49e994a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5706131431073252771
+    second: Black Charged attack 2 48x48_0
+  - first:
+      213: -9096620294730987251
+    second: Black Charged attack 2 48x48_1
+  - first:
+      213: 1632955091689676213
+    second: Black Charged attack 2 48x48_2
+  - first:
+      213: -7663244547537951914
+    second: Black Charged attack 2 48x48_3
+  - first:
+      213: 78160235498350862
+    second: Black Charged attack 2 48x48_4
+  - first:
+      213: 4215957555302563055
+    second: Black Charged attack 2 48x48_5
+  - first:
+      213: 2335946864540493175
+    second: Black Charged attack 2 48x48_6
+  - first:
+      213: 4204146730813437184
+    second: Black Charged attack 2 48x48_7
+  - first:
+      213: -7425896540325872020
+    second: Black Charged attack 2 48x48_8
+  - first:
+      213: -5060258483724176802
+    second: Black Charged attack 2 48x48_9
+  - first:
+      213: 870201936533862607
+    second: Black Charged attack 2 48x48_10
+  - first:
+      213: -8146260097343669099
+    second: Black Charged attack 2 48x48_11
+  - first:
+      213: -6727266219423296484
+    second: Black Charged attack 2 48x48_12
+  - first:
+      213: -2020331456968678682
+    second: Black Charged attack 2 48x48_13
+  - first:
+      213: -5597960686689477671
+    second: Black Charged attack 2 48x48_14
+  - first:
+      213: 3944884899154619722
+    second: Black Charged attack 2 48x48_15
+  - first:
+      213: 4859086842273153292
+    second: Black Charged attack 2 48x48_16
+  - first:
+      213: 5428493669792563525
+    second: Black Charged attack 2 48x48_17
+  - first:
+      213: 1519350425506923384
+    second: Black Charged attack 2 48x48_18
+  - first:
+      213: 151196302115242333
+    second: Black Charged attack 2 48x48_19
+  - first:
+      213: 4689772202938151855
+    second: Black Charged attack 2 48x48_20
+  - first:
+      213: 438583796658604847
+    second: Black Charged attack 2 48x48_21
+  - first:
+      213: 8279787227355174368
+    second: Black Charged attack 2 48x48_22
+  - first:
+      213: 4947969085064609290
+    second: Black Charged attack 2 48x48_23
+  - first:
+      213: -4175408598974750943
+    second: Black Charged attack 2 48x48_24
+  - first:
+      213: 5237441223855398830
+    second: Black Charged attack 2 48x48_25
+  - first:
+      213: -5008875270837563413
+    second: Black Charged attack 2 48x48_26
+  - first:
+      213: -4760856679946348594
+    second: Black Charged attack 2 48x48_27
+  - first:
+      213: -3334486541613704756
+    second: Black Charged attack 2 48x48_28
+  - first:
+      213: -7483866966908255083
+    second: Black Charged attack 2 48x48_29
+  - first:
+      213: 4366347897058167983
+    second: Black Charged attack 2 48x48_30
+  - first:
+      213: -7228092902991512190
+    second: Black Charged attack 2 48x48_31
+  - first:
+      213: 2050100093780469772
+    second: Black Charged attack 2 48x48_32
+  - first:
+      213: 5977966623261958720
+    second: Black Charged attack 2 48x48_33
+  - first:
+      213: -7652897707109345878
+    second: Black Charged attack 2 48x48_34
+  - first:
+      213: -7191293958488854709
+    second: Black Charged attack 2 48x48_35
+  - first:
+      213: 1908355508863632804
+    second: Black Charged attack 2 48x48_36
+  - first:
+      213: 6854205951345535885
+    second: Black Charged attack 2 48x48_37
+  - first:
+      213: -1494921956967145977
+    second: Black Charged attack 2 48x48_38
+  - first:
+      213: -5029226885493932850
+    second: Black Charged attack 2 48x48_39
+  - first:
+      213: 7609113075726635130
+    second: Black Charged attack 2 48x48_40
+  - first:
+      213: -1753653529431562193
+    second: Black Charged attack 2 48x48_41
+  - first:
+      213: -5713015434324454099
+    second: Black Charged attack 2 48x48_42
+  - first:
+      213: 3333134173680616204
+    second: Black Charged attack 2 48x48_43
+  - first:
+      213: -1703632053383259471
+    second: Black Charged attack 2 48x48_44
+  - first:
+      213: 4965070557024405238
+    second: Black Charged attack 2 48x48_45
+  - first:
+      213: -2510292575551662091
+    second: Black Charged attack 2 48x48_46
+  - first:
+      213: -3486837488941874734
+    second: Black Charged attack 2 48x48_47
+  - first:
+      213: -5071362784419265986
+    second: Black Charged attack 2 48x48_48
+  - first:
+      213: 4474200856198360519
+    second: Black Charged attack 2 48x48_49
+  - first:
+      213: -5472109650352001397
+    second: Black Charged attack 2 48x48_50
+  - first:
+      213: -774884953747420576
+    second: Black Charged attack 2 48x48_51
+  - first:
+      213: 4702790206124886963
+    second: Black Charged attack 2 48x48_52
+  - first:
+      213: -4406959692177574504
+    second: Black Charged attack 2 48x48_53
+  - first:
+      213: 7893750009245005511
+    second: Black Charged attack 2 48x48_54
+  - first:
+      213: 1954337565382452188
+    second: Black Charged attack 2 48x48_55
+  - first:
+      213: -5336480929978012278
+    second: Black Charged attack 2 48x48_56
+  - first:
+      213: 7527722332340730535
+    second: Black Charged attack 2 48x48_57
+  - first:
+      213: -9099586627706450364
+    second: Black Charged attack 2 48x48_58
+  - first:
+      213: -7782791116848797046
+    second: Black Charged attack 2 48x48_59
+  - first:
+      213: -2037779528155404555
+    second: Black Charged attack 2 48x48_60
+  - first:
+      213: -6501896224250043860
+    second: Black Charged attack 2 48x48_61
+  - first:
+      213: 835781677336648564
+    second: Black Charged attack 2 48x48_62
+  - first:
+      213: -3417198136098568288
+    second: Black Charged attack 2 48x48_63
+  - first:
+      213: -5860005233869489551
+    second: Black Charged attack 2 48x48_64
+  - first:
+      213: -2828409400916159753
+    second: Black Charged attack 2 48x48_65
+  - first:
+      213: 3428293546417629148
+    second: Black Charged attack 2 48x48_66
+  - first:
+      213: -7854288625181657344
+    second: Black Charged attack 2 48x48_67
+  - first:
+      213: -5582254357705653437
+    second: Black Charged attack 2 48x48_68
+  - first:
+      213: 66064424447300769
+    second: Black Charged attack 2 48x48_69
+  - first:
+      213: 3057608671910295589
+    second: Black Charged attack 2 48x48_70
+  - first:
+      213: 4646049494245768614
+    second: Black Charged attack 2 48x48_71
+  - first:
+      213: -6897895454985429194
+    second: Black Charged attack 2 48x48_72
+  - first:
+      213: -7466514358176556814
+    second: Black Charged attack 2 48x48_73
+  - first:
+      213: 3526843730024553910
+    second: Black Charged attack 2 48x48_74
+  - first:
+      213: 6705095664417652092
+    second: Black Charged attack 2 48x48_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 155
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5aff2122bfbfc0b0800000000000000
+      internalID: -5706131431073252771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 156
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0943f3b90052c180800000000000000
+      internalID: -9096620294730987251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 156
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd145e010c69a610800000000000000
+      internalID: 1632955091689676213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 156
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6532d058fafa6a590800000000000000
+      internalID: -7663244547537951914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 156
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09a070f15ea51100800000000000000
+      internalID: 78160235498350862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 154
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecfee73f07128a30800000000000000
+      internalID: 4215957555302563055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 153
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775af130c43fa6020800000000000000
+      internalID: 2335946864540493175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 151
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00531c95d21285a30800000000000000
+      internalID: 4204146730813437184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 149
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ef21fc07ae1f890800000000000000
+      internalID: -7425896540325872020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 150
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52b6fd28b956c9b0800000000000000
+      internalID: -5060258483724176802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 149
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc835fdfc04931c00800000000000000
+      internalID: 870201936533862607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 150
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c34e92a9ba2fe80800000000000000
+      internalID: -8146260097343669099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 149
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c141ac91403f3a2a0800000000000000
+      internalID: -6727266219423296484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_13
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 150
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2a5da7e3756f3e0800000000000000
+      internalID: -2020331456968678682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_14
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 150
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db954b2a6c0052b0800000000000000
+      internalID: -5597960686689477671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_15
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 151
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4de9e53aeb0fb630800000000000000
+      internalID: 3944884899154619722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_16
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 159
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01477e0db1fe6340800000000000000
+      internalID: 4859086842273153292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_17
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 159
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54141753b32e55b40800000000000000
+      internalID: 5428493669792563525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_18
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 159
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873cda18921d51510800000000000000
+      internalID: 1519350425506923384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 111
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d518ee65c38291200800000000000000
+      internalID: 151196302115242333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_20
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 111
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa331a998fa651140800000000000000
+      internalID: 4689772202938151855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 111
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b041ca3a9261600800000000000000
+      internalID: 438583796658604847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 111
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e552567d96b7e270800000000000000
+      internalID: 8279787227355174368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 111
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ef3eadaa7baa440800000000000000
+      internalID: 4947969085064609290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 111
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f9ff16008fd06c0800000000000000
+      internalID: -4175408598974750943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 111
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf53ef3b012fa840800000000000000
+      internalID: 5237441223855398830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 111
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef0d75ba76ec7ab0800000000000000
+      internalID: -5008875270837563413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_27
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 111
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7904dd21a0eedb0800000000000000
+      internalID: -4760856679946348594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_28
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 101
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc95bc2482689b1d0800000000000000
+      internalID: -3334486541613704756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_29
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 101
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594472315a6f32890800000000000000
+      internalID: -7483866966908255083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_30
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 102
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac0de94742689c30800000000000000
+      internalID: 4366347897058167983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_31
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 101
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d3ba10dc7a0bb90800000000000000
+      internalID: -7228092902991512190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_32
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 102
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08a7c36c2b637c10800000000000000
+      internalID: 2050100093780469772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_33
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 101
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042aba2a8f006f250800000000000000
+      internalID: 5977966623261958720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_34
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 102
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5985905127bc590800000000000000
+      internalID: -7652897707109345878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_35
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 102
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4febd0fe34633c90800000000000000
+      internalID: -7191293958488854709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_36
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 102
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a50af27937db7a10800000000000000
+      internalID: 1908355508863632804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_37
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 103
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ba1536ff70f1f50800000000000000
+      internalID: 6854205951345535885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_38
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 54
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e9a0c8668f04be0800000000000000
+      internalID: -1494921956967145977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_39
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 55
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc3a4b2bc8943ab0800000000000000
+      internalID: -5029226885493932850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_40
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 55
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70577e0700099960800000000000000
+      internalID: 7609113075726635130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 55
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f282f1ff765c9a7e0800000000000000
+      internalID: -1753653529431562193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_42
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 54
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2554c83bba47b0b0800000000000000
+      internalID: -5713015434324454099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 52
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03c2fa0fdba14e20800000000000000
+      internalID: 3333134173680616204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_44
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 51
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba1f167cab7b58e0800000000000000
+      internalID: -1703632053383259471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_45
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 49
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6c0349d5977e440800000000000000
+      internalID: 4965070557024405238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_46
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 47
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f751ffd336a92dd0800000000000000
+      internalID: -2510292575551662091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 56
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1ca1227c34c9fc0800000000000000
+      internalID: -3486837488941874734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_48
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 53
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32cd83ba66ee99b0800000000000000
+      internalID: -5071362784419265986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_49
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 54
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cda37f29fd871e30800000000000000
+      internalID: 4474200856198360519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_50
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 53
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e28c6f3492f04b0800000000000000
+      internalID: -5472109650352001397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_51
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 54
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a07167d3e0f35f0800000000000000
+      internalID: -774884953747420576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_52
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 56
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb8249a6caa34140800000000000000
+      internalID: 4702790206124886963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_53
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 63
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8957a40528557d2c0800000000000000
+      internalID: -4406959692177574504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_54
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 63
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6f8ce7fcb3c8d60800000000000000
+      internalID: 7893750009245005511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_55
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 63
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3a2d349a33f1b10800000000000000
+      internalID: 1954337565382452188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_56
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 63
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8da30a3ed201f5b0800000000000000
+      internalID: -5336480929978012278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aab1f2e397d77860800000000000000
+      internalID: 7527722332340730535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e89ac7c26c7b180800000000000000
+      internalID: -9099586627706450364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a6927d6b8fdf390800000000000000
+      internalID: -7782791116848797046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6ebb5d05a58b3e0800000000000000
+      internalID: -2037779528155404555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c226f1325df94c5a0800000000000000
+      internalID: -6501896224250043860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 15
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b5e63e10b499b00800000000000000
+      internalID: 835781677336648564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_63
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 15
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7c7ba766ca390d0800000000000000
+      internalID: -3417198136098568288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_64
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 15
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a774599441daea0800000000000000
+      internalID: -5860005233869489551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2540ba2a87fb8d0800000000000000
+      internalID: -2828409400916159753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_66
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 15
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7acfb01deb39f20800000000000000
+      internalID: 3428293546417629148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_67
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 5
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007f7a4fb16fff290800000000000000
+      internalID: -7854288625181657344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_68
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 6
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343041bdc39d782b0800000000000000
+      internalID: -5582254357705653437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_69
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 5
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4d8777e35bae000800000000000000
+      internalID: 66064424447300769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_70
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 6
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528fd5f13eece6a20800000000000000
+      internalID: 3057608671910295589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_71
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 15
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adf66136651a7040800000000000000
+      internalID: 4646049494245768614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_72
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 13
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fdfcb51a0c540a0800000000000000
+      internalID: -6897895454985429194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_73
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 12
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8588220cc916890800000000000000
+      internalID: -7466514358176556814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_74
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 11
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd5d6abfadd1f030800000000000000
+      internalID: 3526843730024553910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Charged attack 2 48x48_75
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 11
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d30ae4bf84d0d50800000000000000
+      internalID: 6705095664417652092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black Charged attack 2 48x48_0: -5706131431073252771
+      Black Charged attack 2 48x48_1: -9096620294730987251
+      Black Charged attack 2 48x48_10: 870201936533862607
+      Black Charged attack 2 48x48_11: -8146260097343669099
+      Black Charged attack 2 48x48_12: -6727266219423296484
+      Black Charged attack 2 48x48_13: -2020331456968678682
+      Black Charged attack 2 48x48_14: -5597960686689477671
+      Black Charged attack 2 48x48_15: 3944884899154619722
+      Black Charged attack 2 48x48_16: 4859086842273153292
+      Black Charged attack 2 48x48_17: 5428493669792563525
+      Black Charged attack 2 48x48_18: 1519350425506923384
+      Black Charged attack 2 48x48_19: 151196302115242333
+      Black Charged attack 2 48x48_2: 1632955091689676213
+      Black Charged attack 2 48x48_20: 4689772202938151855
+      Black Charged attack 2 48x48_21: 438583796658604847
+      Black Charged attack 2 48x48_22: 8279787227355174368
+      Black Charged attack 2 48x48_23: 4947969085064609290
+      Black Charged attack 2 48x48_24: -4175408598974750943
+      Black Charged attack 2 48x48_25: 5237441223855398830
+      Black Charged attack 2 48x48_26: -5008875270837563413
+      Black Charged attack 2 48x48_27: -4760856679946348594
+      Black Charged attack 2 48x48_28: -3334486541613704756
+      Black Charged attack 2 48x48_29: -7483866966908255083
+      Black Charged attack 2 48x48_3: -7663244547537951914
+      Black Charged attack 2 48x48_30: 4366347897058167983
+      Black Charged attack 2 48x48_31: -7228092902991512190
+      Black Charged attack 2 48x48_32: 2050100093780469772
+      Black Charged attack 2 48x48_33: 5977966623261958720
+      Black Charged attack 2 48x48_34: -7652897707109345878
+      Black Charged attack 2 48x48_35: -7191293958488854709
+      Black Charged attack 2 48x48_36: 1908355508863632804
+      Black Charged attack 2 48x48_37: 6854205951345535885
+      Black Charged attack 2 48x48_38: -1494921956967145977
+      Black Charged attack 2 48x48_39: -5029226885493932850
+      Black Charged attack 2 48x48_4: 78160235498350862
+      Black Charged attack 2 48x48_40: 7609113075726635130
+      Black Charged attack 2 48x48_41: -1753653529431562193
+      Black Charged attack 2 48x48_42: -5713015434324454099
+      Black Charged attack 2 48x48_43: 3333134173680616204
+      Black Charged attack 2 48x48_44: -1703632053383259471
+      Black Charged attack 2 48x48_45: 4965070557024405238
+      Black Charged attack 2 48x48_46: -2510292575551662091
+      Black Charged attack 2 48x48_47: -3486837488941874734
+      Black Charged attack 2 48x48_48: -5071362784419265986
+      Black Charged attack 2 48x48_49: 4474200856198360519
+      Black Charged attack 2 48x48_5: 4215957555302563055
+      Black Charged attack 2 48x48_50: -5472109650352001397
+      Black Charged attack 2 48x48_51: -774884953747420576
+      Black Charged attack 2 48x48_52: 4702790206124886963
+      Black Charged attack 2 48x48_53: -4406959692177574504
+      Black Charged attack 2 48x48_54: 7893750009245005511
+      Black Charged attack 2 48x48_55: 1954337565382452188
+      Black Charged attack 2 48x48_56: -5336480929978012278
+      Black Charged attack 2 48x48_57: 7527722332340730535
+      Black Charged attack 2 48x48_58: -9099586627706450364
+      Black Charged attack 2 48x48_59: -7782791116848797046
+      Black Charged attack 2 48x48_6: 2335946864540493175
+      Black Charged attack 2 48x48_60: -2037779528155404555
+      Black Charged attack 2 48x48_61: -6501896224250043860
+      Black Charged attack 2 48x48_62: 835781677336648564
+      Black Charged attack 2 48x48_63: -3417198136098568288
+      Black Charged attack 2 48x48_64: -5860005233869489551
+      Black Charged attack 2 48x48_65: -2828409400916159753
+      Black Charged attack 2 48x48_66: 3428293546417629148
+      Black Charged attack 2 48x48_67: -7854288625181657344
+      Black Charged attack 2 48x48_68: -5582254357705653437
+      Black Charged attack 2 48x48_69: 66064424447300769
+      Black Charged attack 2 48x48_7: 4204146730813437184
+      Black Charged attack 2 48x48_70: 3057608671910295589
+      Black Charged attack 2 48x48_71: 4646049494245768614
+      Black Charged attack 2 48x48_72: -6897895454985429194
+      Black Charged attack 2 48x48_73: -7466514358176556814
+      Black Charged attack 2 48x48_74: 3526843730024553910
+      Black Charged attack 2 48x48_75: 6705095664417652092
+      Black Charged attack 2 48x48_8: -7425896540325872020
+      Black Charged attack 2 48x48_9: -5060258483724176802
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
