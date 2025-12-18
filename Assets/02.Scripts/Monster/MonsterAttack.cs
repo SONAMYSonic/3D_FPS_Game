@@ -8,7 +8,6 @@ using UnityEngine;
 public class MonsterAttack : MonoBehaviour
 {
     [SerializeField] private Monster _monster;
-    [SerializeField] private float _attackRange = 2.0f; // 공격 판정 범위
     
     private PlayerHit _playerHit;
 
@@ -46,9 +45,9 @@ public class MonsterAttack : MonoBehaviour
             return;
         }
 
-        // 공격 범위 체크 - 애니메이션 중에 플레이어가 멀어졌을 수 있음
+        // 공격 범위 체크 - Monster의 AttackDistance 사용
         float distance = Vector3.Distance(_monster.Position, _playerHit.Position);
-        if (distance > _attackRange)
+        if (distance > _monster.AttackDistance)
         {
             Debug.Log($"MonsterAttack: 플레이어가 공격 범위 밖에 있음 (distance: {distance:F2})");
             return;

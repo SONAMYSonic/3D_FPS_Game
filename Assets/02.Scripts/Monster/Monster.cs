@@ -59,10 +59,10 @@ public class Monster : MonoBehaviour
     private Coroutine _hitCoroutine;
 
     private EMonsterState _previousState = EMonsterState.Idle;
+    private bool _isGamePlaying = false;
 
-    
     public Vector3 Position => transform.position;
-private Vector3 PlayerPosition => _player.Position;
+    private Vector3 PlayerPosition => _player.Position;
 
     private void Awake()
     {
@@ -70,12 +70,42 @@ private Vector3 PlayerPosition => _player.Position;
         _animator = GetComponentInChildren<Animator>();
     }
 
+    private void OnEnable()
+    {
+        // 게임 상태 변경 이벤트 구독
+        GameManager.OnGameStateChanged += HandleGameStateChanged;
+    }
+
+    private void OnDisable()
+    {
+        // 이벤트 구독 해제 (메모리 누수 방지)
+        GameManager.OnGameStateChanged -= HandleGameStateChanged;
+    }
+
     private void Start()
     {
         _initialPosition = transform.position;
         _agent.speed = MoveSpeed;
         _agent.stoppingDistance = AttackDistance;
+        
+        // 초기 게임 상태 확인
+        if (GameManager.Instance != null)
+        {
+            _isGamePlaying = GameManager.Instance.IsPlaying;
+        }
+        
         EnterState(State);
+    }
+
+    private void HandleGameStateChanged(EGameState newGameState)
+    {
+        _isGamePlaying = (newGameState == EGameState.Playing);
+
+        // 게임이 끝났으면 Idle로 전환
+        if (!_isGamePlaying && State != EMonsterState.Death)
+        {
+            ChangeState(EMonsterState.Idle);
+        }
     }
 
     private void Update()
@@ -83,10 +113,9 @@ private Vector3 PlayerPosition => _player.Position;
         // 죽은 상태면 아무것도 안 함
         if (State == EMonsterState.Death) return;
         
-        // 게임이 끝났거나 플레이어가 죽었으면 Idle로 전환
-        if (GameManager.Instance.State != EGameState.Playing || _player.IsDead)
+        // 게임이 진행 중이 아니거나 플레이어가 죽었으면 Idle로 전환
+        if (!_isGamePlaying || _player.IsDead)
         {
-            // 현재 Idle이 아니면 Idle로 전환 (ChangeState가 동일 상태 전환은 무시함)
             ChangeState(EMonsterState.Idle);
             return;
         }
@@ -128,9 +157,8 @@ private Vector3 PlayerPosition => _player.Position;
         EnterState(newState);
     }
 
-private void PlayTransitionAnimation(EMonsterState from, EMonsterState to)
+    private void PlayTransitionAnimation(EMonsterState from, EMonsterState to)
     {
-        // CrossFadeInFixedTime으로 직접 State 전환 (Trigger 대신)
         string stateName = GetAnimationStateName(to);
         if (!string.IsNullOrEmpty(stateName))
         {
@@ -139,7 +167,7 @@ private void PlayTransitionAnimation(EMonsterState from, EMonsterState to)
         }
     }
 
-private string GetAnimationStateName(EMonsterState state)
+    private string GetAnimationStateName(EMonsterState state)
     {
         switch (state)
         {
@@ -230,8 +258,6 @@ private string GetAnimationStateName(EMonsterState state)
         }
     }
 
-
-
     #endregion
 
     #region State Updates
@@ -245,9 +271,8 @@ private string GetAnimationStateName(EMonsterState state)
         }
     }
 
-private void UpdateTrace()
+    private void UpdateTrace()
     {
-        // 플레이어가 죽으면 복귀
         if (_player.IsDead)
         {
             ChangeState(EMonsterState.Comeback);
@@ -256,7 +281,6 @@ private void UpdateTrace()
         
         float distance = GetDistanceToPlayer();
         
-        // 플레이어가 너무 멀어지면 복귀
         if (distance > ComebackDistance)
         {
             Debug.Log("플레이어가 너무 멀어짐. 복귀 시작.");
@@ -288,9 +312,8 @@ private void UpdateTrace()
         }
     }
 
-private void UpdateAttack()
-{
-        // 플레이어가 죽으면 복귀
+    private void UpdateAttack()
+    {
         if (_player.IsDead)
         {
             ChangeState(EMonsterState.Comeback);
@@ -395,22 +418,21 @@ private void UpdateAttack()
         Destroy(gameObject);
     }
 
-private IEnumerator PatrolCoroutine(Vector3 target)
+    private IEnumerator PatrolCoroutine(Vector3 target)
     {
         _agent.SetDestination(target);
 
-        float timeout = 4f; // 2초 타임아웃
+        float timeout = 4f;
         float timer = 0f;
 
         while (timer < timeout)
         {
             if (State != EMonsterState.Patrol) yield break;
             
-            // 도착 판정: 속도가 거의 0이거나 목적지 근처
             bool hasArrived = !_agent.pathPending && 
                               (_agent.remainingDistance <= 0.3f || _agent.velocity.magnitude < 0.1f);
             
-            if (hasArrived && timer > 0.3f) // 최소 0.3초 후 판정
+            if (hasArrived && timer > 0.3f)
             {
                 break;
             }
