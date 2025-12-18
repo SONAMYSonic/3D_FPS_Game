@@ -31,7 +31,7 @@ public class MonsterAttack : MonoBehaviour
     /// 애니메이션 이벤트에서 호출되는 메서드
     /// Z_Attack 애니메이션의 타격 타이밍에 이벤트로 추가
     /// </summary>
-public void PlayerAttack()
+    public void OnAttackFrame()
     {
         // 널 체크
         if (_monster == null || _playerHit == null)

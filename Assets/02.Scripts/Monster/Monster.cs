@@ -16,6 +16,8 @@ public class Monster : MonoBehaviour
     public float AttackDistance = 1.2f;
     [Tooltip("이 거리 이상 멀어지면 추적 포기하고 복귀")]
     public float ComebackDistance = 15f;
+    [Tooltip("공격 중 이 배율만큼 멀어지면 다시 추적 (AttackDistance * 이 값)")]
+    [SerializeField] private float _attackRangeMultiplier = 1.5f;
 
     [Header("이동")]
     [Tooltip("추적(Trace) 시 이동 속도 - Run 애니메이션")]
@@ -84,11 +86,8 @@ private Vector3 PlayerPosition => _player.Position;
         // 게임이 끝났거나 플레이어가 죽었으면 Idle로 전환
         if (GameManager.Instance.State != EGameState.Playing || _player.IsDead)
         {
-            // 공격/추적 중이었으면 Idle로 전환 (ChangeState를 통해 ExitState 정리 실행)
-            if (State == EMonsterState.Attack || State == EMonsterState.Trace || State == EMonsterState.Hit)
-            {
-                ChangeState(EMonsterState.Idle);
-            }
+            // 현재 Idle이 아니면 Idle로 전환 (ChangeState가 동일 상태 전환은 무시함)
+            ChangeState(EMonsterState.Idle);
             return;
         }
 
@@ -290,7 +289,7 @@ private void UpdateTrace()
     }
 
 private void UpdateAttack()
-    {
+{
         // 플레이어가 죽으면 복귀
         if (_player.IsDead)
         {
@@ -308,7 +307,7 @@ private void UpdateAttack()
         }
 
         float distance = GetDistanceToPlayer();
-        if (distance > AttackDistance * 1.5f)
+        if (distance > AttackDistance * _attackRangeMultiplier)
         {
             ChangeState(EMonsterState.Trace);
             return;
