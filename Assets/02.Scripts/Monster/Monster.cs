@@ -76,7 +76,22 @@ public class Monster : MonoBehaviour
 
     private void Update()
     {
-        if (GameManager.Instance.State != EGameState.Playing) return;
+        // 죽은 상태면 아무것도 안 함
+        if (State == EMonsterState.Death) return;
+        
+        // 게임이 끝났거나 플레이어가 죽었으면 Idle로 전환
+        if (GameManager.Instance.State != EGameState.Playing || _player.IsDead)
+        {
+            if (State != EMonsterState.Idle && State != EMonsterState.Patrol && State != EMonsterState.Comeback)
+            {
+                // 공격/추적 중이었으면 멈추고 Idle로
+                _agent.ResetPath();
+                _isAttacking = false;
+                State = EMonsterState.Idle;
+                _animator.CrossFadeInFixedTime("Idle", 0.1f);
+            }
+            return;
+        }
 
         switch (State)
         {
@@ -234,6 +249,13 @@ private string GetAnimationStateName(EMonsterState state)
 
 private void UpdateTrace()
     {
+        // 플레이어가 죽으면 복귀
+        if (_player.IsDead)
+        {
+            ChangeState(EMonsterState.Comeback);
+            return;
+        }
+        
         float distance = GetDistanceToPlayer();
         
         // 플레이어가 너무 멀어지면 복귀
@@ -268,8 +290,15 @@ private void UpdateTrace()
         }
     }
 
-    private void UpdateAttack()
+private void UpdateAttack()
     {
+        // 플레이어가 죽으면 복귀
+        if (_player.IsDead)
+        {
+            ChangeState(EMonsterState.Comeback);
+            return;
+        }
+        
         _agent.ResetPath();
 
         Vector3 lookDir = GetDirectionToPlayer();

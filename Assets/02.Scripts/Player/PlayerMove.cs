@@ -19,7 +19,7 @@ public class PlayerMove : MonoBehaviour
 
     private CharacterController _controller;
     private PlayerStats _stats;
-    [SerializeField] private Animator _playerAnimator;
+    [SerializeField] private Animator _soliderAnimator;
 
     private float _yVelocity = 0f;   // 중력에 의해 누적될 y값 변수
 
@@ -54,7 +54,7 @@ public class PlayerMove : MonoBehaviour
 
         // - 글로벌 좌표 방향을 구한다. 
         Vector3 direction = new Vector3(x, 0, y);
-        _playerAnimator.SetFloat("Speed", direction.magnitude * _stats.MoveSpeed.Value);
+        _soliderAnimator.SetFloat("Speed", direction.magnitude * _stats.MoveSpeed.Value);
         direction.Normalize();
 
         
@@ -63,6 +63,7 @@ public class PlayerMove : MonoBehaviour
         if (Input.GetButtonDown("Jump") && _controller.isGrounded)
         {
             _yVelocity = _stats.JumpPower.Value;
+            _soliderAnimator.SetTrigger("Jump");
         }
 
         // - 카메라가 쳐다보는 방향으로 변환한다. (월드 -> 로컬)

@@ -36,12 +36,18 @@ public class MonsterAttack : MonoBehaviour
     /// 애니메이션 이벤트에서 호출되는 메서드
     /// Z_Attack 애니메이션의 타격 타이밍에 이벤트로 추가
     /// </summary>
-    public void PlayerAttack()
+public void PlayerAttack()
     {
         // 널 체크
         if (_monster == null || _playerHit == null)
         {
             Debug.LogWarning("MonsterAttack: Monster 또는 Player 참조가 없습니다.");
+            return;
+        }
+
+        // 게임이 끝났거나 플레이어가 죽었으면 공격 안 함
+        if (GameManager.Instance.State != EGameState.Playing || _playerHit.IsDead)
+        {
             return;
         }
 

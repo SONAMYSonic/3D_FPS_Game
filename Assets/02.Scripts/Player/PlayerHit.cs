@@ -14,12 +14,17 @@ public class PlayerHit : MonoBehaviour
     [SerializeField] private float _flashAlpha = 0.8f;
     [SerializeField] private float _lowHealthThreshold = 0.3f; // 체력 30% 이하일 때 LowHealthScreen 활성화
 
+    [Header("플레이어 애니메이터")]
+    [SerializeField] private Animator _soliderAnimator;
+
     private float _previousHealthPercent;
 
     /// <summary>
     /// 플레이어의 월드 위치를 반환합니다.
     /// </summary>
     public Vector3 Position => transform.position;
+    public bool IsDead => _stats.Health.Value <= 0f;
+
 
     private void Awake()
     {
@@ -84,6 +89,7 @@ public class PlayerHit : MonoBehaviour
         {
             Debug.Log("플레이어가 사망했다!");
             GameManager.Instance.GameOver();
+            _soliderAnimator.SetTrigger("Death");
         }
     }
 
