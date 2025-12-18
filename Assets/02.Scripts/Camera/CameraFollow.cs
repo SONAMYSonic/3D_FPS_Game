@@ -94,12 +94,7 @@ private void SwitchToNextCamera()
         StartCameraTransition();
     }
 
-    /// <summary>
-    /// 특정 인덱스의 카메라로 전환
-    /// </summary>
-/// <summary>
-    /// 특정 인덱스의 카메라로 전환
-    /// </summary>
+    // 특정 인덱스의 카메라로 전환
     public void SwitchToCamera(int index)
     {
         if (index < 0 || index >= CameraTargets.Length) return;
@@ -107,9 +102,7 @@ private void SwitchToNextCamera()
         StartCameraTransition();
     }
 
-    /// <summary>
-    /// 카메라 전환 로직 (위치/회전 보간 및 커서 상태 업데이트)
-    /// </summary>
+    // 카메라 전환 로직 (위치/회전 보간 및 커서 상태 업데이트)
     private void StartCameraTransition()
     {
         _isTransitioning = true;
@@ -150,9 +143,7 @@ private void SwitchToNextCamera()
         NotifyViewChanged();
     }
 
-/// <summary>
-    /// 카메라 뷰 변경 이벤트 발생
-    /// </summary>
+    // 카메라 뷰 변경 이벤트 발생
     private void NotifyViewChanged()
     {
         OnTopViewChanged?.Invoke(IsTopView);

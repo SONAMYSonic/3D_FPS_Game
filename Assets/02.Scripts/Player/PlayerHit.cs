@@ -12,7 +12,10 @@ public class PlayerHit : MonoBehaviour
     [Header("대미지 이펙트 설정")]
     [SerializeField] private float _flashDuration = 0.2f;
     [SerializeField] private float _flashAlpha = 0.8f;
-    [SerializeField] private float _lowHealthThreshold = 0.3f; // 체력 30% 이하일 때 LowHealthScreen 활성화
+    [SerializeField] private float _lowHealthThreshold = 0.3f;
+
+    [Header("플레이어 애니메이터")]
+    [SerializeField] private Animator _soliderAnimator;
 
     private float _previousHealthPercent;
 
@@ -20,6 +23,7 @@ public class PlayerHit : MonoBehaviour
     /// 플레이어의 월드 위치를 반환합니다.
     /// </summary>
     public Vector3 Position => transform.position;
+    public bool IsDead => _stats.IsDead;
 
     private void Awake()
     {
@@ -34,12 +38,12 @@ public class PlayerHit : MonoBehaviour
         DamageGlowScreen.gameObject.SetActive(false);
         LowHealthScreen.gameObject.SetActive(false);
 
-        _previousHealthPercent = _stats.Health.Value / _stats.Health.MaxValue;
+        _previousHealthPercent = _stats.HealthPercent;
     }
 
     private void Update()
     {
-        float healthPercent = _stats.Health.Value / _stats.Health.MaxValue;
+        float healthPercent = _stats.HealthPercent;
 
         // 체력이 회복되었을 때 LowHealthScreen 업데이트
         if (healthPercent > _previousHealthPercent)
@@ -74,22 +78,23 @@ public class PlayerHit : MonoBehaviour
 
     public void TakeDamage(float damage)
     {
-        _stats.Health.Decrease(damage);
+        _stats.DecreaseHealth(damage);
         Debug.Log("플레이어가 대미지를 입었다!");
 
         // 대미지 피드백 UI 효과
         PlayDamageEffect();
 
-        if (_stats.Health.Value <= 0f)
+        if (_stats.IsDead)
         {
             Debug.Log("플레이어가 사망했다!");
             GameManager.Instance.GameOver();
+            _soliderAnimator.SetTrigger("Death");
         }
     }
 
     private void PlayDamageEffect()
     {
-        float healthPercent = _stats.Health.Value / _stats.Health.MaxValue;
+        float healthPercent = _stats.HealthPercent;
         float targetAlpha = 1f - healthPercent; // 체력이 낮을수록 진해짐
 
         // DamageGlowScreen 반짝임 효과

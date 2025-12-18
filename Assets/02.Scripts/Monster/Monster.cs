@@ -4,57 +4,34 @@ using UnityEngine.AI;
 
 public class Monster : MonoBehaviour
 {
-    #region Comment
-    // 목표: 처음에는 가만히 있지만 플레이어가 다가가면 쫓아오는 좀비 몬스터를 만들고 싶다.
-    //       ㄴ 쫓아 오다가 너무 멀어지면 제자리로 돌아간다.
-
-    // Idle   : 가만히 있는다.
-    //   I  (플레이어가 가까이 오면) (컨디션, 트랜지션)
-    // Trace  : 플레이러를 쫒아간다.
-    //   I  (플레이어와 너무 멀어지면)
-    // Return : 제자리로 돌아가는 상태
-    //   I  (제자리에 도착했다면)
-    //  Idle
-    // 공격
-    // 피격
-    // 죽음
-
-
-
-    // 몬스터 인공지능(AI) : 사람처럼 행동하는 똑똑한 시스템/알고리즘
-    // - 규칙 기반 인공지능 : 정해진 규칙에 따라 조건문/반복문등을 이용해서 코딩하는 것
-    //                     -> ex) FSM(유한 상태머신), BT(행동 트리)
-    // - 학습 기반 인공지능: 머신러닝(딥러닝, 강화학습 .. )
-
-    // Finite State Machine(유한 상태 머신)
-    // N개의 상태를 가지고 있고, 상태마다 행동이 다르다.
-
-
-    #endregion
-
     public EMonsterState State { get; private set; } = EMonsterState.Idle;
 
-    // GameObject 대신 PlayerHit 컴포넌트를 직접 참조 (디미터 법칙 준수)
     [SerializeField] private PlayerHit _player;
     [SerializeField] private NavMeshAgent _agent;
     [SerializeField] private Vector3 _initialPosition;
+    [SerializeField] private Animator _animator;
 
     [Header("탐지 및 공격")]
     public float DetectDistance = 4f;
     public float AttackDistance = 1.2f;
+    [Tooltip("이 거리 이상 멀어지면 추적 포기하고 복귀")]
+    public float ComebackDistance = 15f;
+    [Tooltip("공격 중 이 배율만큼 멀어지면 다시 추적 (AttackDistance * 이 값)")]
+    [SerializeField] private float _attackRangeMultiplier = 1.5f;
 
     [Header("이동")]
-    public float MoveSpeed = 5f;
+    [Tooltip("추적(Trace) 시 이동 속도 - Run 애니메이션")]
+    public float MoveSpeed = 3f;
     
     [Header("공격")]
     public float AttackSpeed = 2f;
     public float AttackTimer = 0f;
+    private bool _isAttacking = false;
 
     [Header("체력 및 데미지")]
     [SerializeField] private ConsumableStat _health;
     public float MonsterDamage = 10f;
 
-    // 디미터 법칙 준수: 체력 관련 프로퍼티 직접 노출
     public float CurrentHealth => _health.Value;
     public float MaxHealth => _health.MaxValue;
     public float HealthRatio => _health.Value / _health.MaxValue;
@@ -64,30 +41,45 @@ public class Monster : MonoBehaviour
     public float KnockbackDuration = 0.2f;
 
     [Header("순찰")]
-    public float PatrolSquareRange = 3f;
-    public float PatrolMinTime = 2f;
-    public float PatrolMaxTime = 10f;
+    [Tooltip("순찰 범위 - 초기 위치 기준")]
+    public float PatrolSquareRange = 10f;
+    [Tooltip("순찰(Patrol) 시 이동 속도 - Walk 애니메이션")]
+    public float PatrolSpeed = 1.5f;
 
     [Header("대기")]
     public float IdleDurationMin = 2f;
     public float IdleDurationMax = 5f;
 
     [Header("기타")]
-    [SerializeField] private float _arrivalThreshold = 0.5f;    // 목표 지점 도착 판정 거리
-    [SerializeField] private float _deathDuration = 2.0f;       // 죽음 상태 지속 시간
+    [SerializeField] private float _arrivalThreshold = 0.5f;
+    [SerializeField] private float _deathDuration = 2.0f;
 
-    // 코루틴 중복 실행 방지용 핸들
     private Coroutine _idleCoroutine;
     private Coroutine _patrolCoroutine;
     private Coroutine _hitCoroutine;
 
-    // 플레이어 위치 접근용 프로퍼티 (한 곳에서만 transform 접근)
+    private EMonsterState _previousState = EMonsterState.Idle;
+    private bool _isGamePlaying = false;
+
+    public Vector3 Position => transform.position;
     private Vector3 PlayerPosition => _player.Position;
 
     private void Awake()
     {
-        // ConsumableStat 초기화
         _health.Initialize();
+        _animator = GetComponentInChildren<Animator>();
+    }
+
+    private void OnEnable()
+    {
+        // 게임 상태 변경 이벤트 구독
+        GameManager.OnGameStateChanged += HandleGameStateChanged;
+    }
+
+    private void OnDisable()
+    {
+        // 이벤트 구독 해제 (메모리 누수 방지)
+        GameManager.OnGameStateChanged -= HandleGameStateChanged;
     }
 
     private void Start()
@@ -95,64 +87,101 @@ public class Monster : MonoBehaviour
         _initialPosition = transform.position;
         _agent.speed = MoveSpeed;
         _agent.stoppingDistance = AttackDistance;
-        // 초기 상태 진입 처리
+        
+        // 초기 게임 상태 확인
+        if (GameManager.Instance != null)
+        {
+            _isGamePlaying = GameManager.Instance.IsPlaying;
+        }
+        
         EnterState(State);
+    }
+
+    private void HandleGameStateChanged(EGameState newGameState)
+    {
+        _isGamePlaying = (newGameState == EGameState.Playing);
+
+        // 게임이 끝났으면 Idle로 전환
+        if (!_isGamePlaying && State != EMonsterState.Death)
+        {
+            ChangeState(EMonsterState.Idle);
+        }
     }
 
     private void Update()
     {
-        if (GameManager.Instance.State != EGameState.Playing)
+        // 죽은 상태면 아무것도 안 함
+        if (State == EMonsterState.Death) return;
+        
+        // 게임이 진행 중이 아니거나 플레이어가 죽었으면 Idle로 전환
+        if (!_isGamePlaying || _player.IsDead)
         {
+            ChangeState(EMonsterState.Idle);
             return;
         }
 
-        // 몬스터의 상태에 따라 다른 행동을한다. (다른 메서드를 호출한다.)
         switch (State)
         {
             case EMonsterState.Idle:
-                Idle();
+                UpdateIdle();
                 break;
-
             case EMonsterState.Trace:
-                Trace();
+                UpdateTrace();
                 break;
-
             case EMonsterState.Comeback:
-                Comeback();
+                UpdateComeback();
                 break;
             case EMonsterState.Attack:
-                Attack();
+                UpdateAttack();
                 break;
             case EMonsterState.Patrol:
-                Patrol();
+                UpdatePatrol();
                 break;
         }
     }
 
-    #region 상태 전환 중앙 관리
+    #region State Machine
 
-    /// <summary>
-    /// 상태 전환을 중앙에서 관리하는 메서드.
-    /// 이전 상태의 코루틴을 정리하고, 새 상태로 전환합니다.
-    /// </summary>
     private void ChangeState(EMonsterState newState)
     {
-        // 같은 상태로의 전환은 무시
         if (State == newState) return;
 
-        // 이전 상태 정리 (Exit)
+        Debug.Log($"상태 전환: {State} → {newState}");
+
+        PlayTransitionAnimation(State, newState);
         ExitState(State);
 
-        // 새 상태로 전환
+        _previousState = State;
         State = newState;
 
-        // 새 상태 진입 (Enter)
         EnterState(newState);
     }
 
-    /// <summary>
-    /// 이전 상태를 빠져나올 때 정리 작업 수행
-    /// </summary>
+    private void PlayTransitionAnimation(EMonsterState from, EMonsterState to)
+    {
+        string stateName = GetAnimationStateName(to);
+        if (!string.IsNullOrEmpty(stateName))
+        {
+            _animator.CrossFadeInFixedTime(stateName, 0.1f);
+            Debug.Log($"애니메이션 전환: {stateName}");
+        }
+    }
+
+    private string GetAnimationStateName(EMonsterState state)
+    {
+        switch (state)
+        {
+            case EMonsterState.Idle: return "Idle";
+            case EMonsterState.Patrol: return "Walk";
+            case EMonsterState.Comeback: return "Walk";
+            case EMonsterState.Trace: return "Trace";
+            case EMonsterState.Attack: return "Attack";
+            case EMonsterState.Hit: return "Hit";
+            case EMonsterState.Death: return "Death";
+            default: return null;
+        }
+    }
+
     private void ExitState(EMonsterState exitingState)
     {
         switch (exitingState)
@@ -160,154 +189,115 @@ public class Monster : MonoBehaviour
             case EMonsterState.Idle:
                 StopCoroutineSafe(ref _idleCoroutine);
                 break;
-
             case EMonsterState.Patrol:
                 StopCoroutineSafe(ref _patrolCoroutine);
                 break;
-
             case EMonsterState.Hit:
                 StopCoroutineSafe(ref _hitCoroutine);
-                // 넉백 종료 후 NavMeshAgent 재활성화
                 _agent.enabled = true;
                 break;
-
             case EMonsterState.Attack:
                 AttackTimer = 0f;
+                _isAttacking = false;
                 break;
         }
     }
 
-    /// <summary>
-    /// 새 상태에 진입할 때 초기화 작업 수행
-    /// </summary>
     private void EnterState(EMonsterState enteringState)
     {
         switch (enteringState)
         {
             case EMonsterState.Idle:
-                _agent.ResetPath(); // 이동 중지
+                _agent.ResetPath();
                 float idleTime = Random.Range(IdleDurationMin, IdleDurationMax);
-                _idleCoroutine = StartCoroutine(Idle_Coroutine(idleTime));
+                _idleCoroutine = StartCoroutine(IdleCoroutine(idleTime));
+                break;
+
+            case EMonsterState.Trace:
+                _agent.speed = MoveSpeed;
+                _agent.stoppingDistance = AttackDistance;
                 break;
 
             case EMonsterState.Patrol:
-                float patrolTime = Random.Range(PatrolMinTime, PatrolMaxTime);
-                Vector3 patrolTarget = _initialPosition + new Vector3(
-                    Random.Range(-PatrolSquareRange, PatrolSquareRange),
-                    0,
-                    Random.Range(-PatrolSquareRange, PatrolSquareRange)
-                );
-                _patrolCoroutine = StartCoroutine(Patrol_Coroutine(patrolTarget, patrolTime));
+                _agent.speed = PatrolSpeed;
+                _agent.stoppingDistance = 0.1f;
+                Vector3 patrolTarget = GetValidPatrolTarget();
+                if (patrolTarget != Vector3.zero)
+                {
+                    _patrolCoroutine = StartCoroutine(PatrolCoroutine(patrolTarget));
+                }
+                else
+                {
+                    Debug.LogWarning("순찰 목적지를 찾지 못함. Idle로 전환.");
+                    _idleCoroutine = StartCoroutine(IdleCoroutine(1f));
+                }
+                break;
+
+            case EMonsterState.Comeback:
+                _agent.speed = PatrolSpeed;
+                _agent.stoppingDistance = 0.1f;
+                break;
+
+            case EMonsterState.Attack:
+                _agent.ResetPath();
+                _isAttacking = false;
                 break;
 
             case EMonsterState.Hit:
-                // 넉백 시작 시 NavMeshAgent 비활성화 (직접 이동을 위해)
+                _animator.CrossFadeInFixedTime("Hit", 0.1f);
                 _agent.ResetPath();
                 _agent.enabled = false;
                 break;
 
             case EMonsterState.Death:
+                _animator.CrossFadeInFixedTime("Death", 0.1f);
                 _agent.enabled = false;
-                StopAllStateCoroutines();
-                StartCoroutine(Death_Coroutine());
+                StopAllCoroutines();
+                StartCoroutine(DeathCoroutine());
                 break;
         }
     }
 
-    /// <summary>
-    /// 코루틴을 안전하게 중지하고 핸들을 null로 초기화
-    /// </summary>
-    private void StopCoroutineSafe(ref Coroutine coroutine)
-    {
-        if (coroutine != null)
-        {
-            StopCoroutine(coroutine);
-            coroutine = null;
-        }
-    }
-
-    /// <summary>
-    /// 모든 상태 관련 코루틴을 중지
-    /// </summary>
-    private void StopAllStateCoroutines()
-    {
-        StopCoroutineSafe(ref _idleCoroutine);
-        StopCoroutineSafe(ref _patrolCoroutine);
-        StopCoroutineSafe(ref _hitCoroutine);
-    }
-
     #endregion
 
-    #region 거리 계산 헬퍼
+    #region State Updates
 
-    /// <summary>
-    /// 플레이어와의 거리를 반환
-    /// </summary>
-    private float GetDistanceToPlayer()
+    private void UpdateIdle()
     {
-        return Vector3.Distance(transform.position, PlayerPosition);
-    }
-
-    /// <summary>
-    /// 플레이어를 향하는 방향을 반환
-    /// </summary>
-    private Vector3 GetDirectionToPlayer()
-    {
-        return (PlayerPosition - transform.position).normalized;
-    }
-
-    /// <summary>
-    /// 지정한 위치까지의 거리가 도착 임계값 이하인지 확인
-    /// </summary>
-    private bool HasArrivedAt(Vector3 target)
-    {
-        return Vector3.Distance(transform.position, target) <= _arrivalThreshold;
-    }
-
-    #endregion
-
-    #region 상태별 Update 로직 (전환 조건 검사에 집중)
-
-    // 1. 함수는 한 가지 일만 잘해야 한다.
-    // 2. 상태별 행동을 함수로 만든다.
-    private void Idle()
-    {
-        // 대기하는 상태
-        // Todo. Idle 애니메이션 실행
-
-        // 플레이어가 탐지범위 안에 있다면...
         if (GetDistanceToPlayer() <= DetectDistance)
         {
+            Debug.Log("플레이어 발견! 추적 시작!");
             ChangeState(EMonsterState.Trace);
         }
-        // 코루틴 시작은 EnterState에서 처리됨
     }
 
-    private void Trace()
+    private void UpdateTrace()
     {
-        // 플레이어를 쫓아가는 상태
-        // Todo. Run 애니메이션 실행
-
+        if (_player.IsDead)
+        {
+            ChangeState(EMonsterState.Comeback);
+            return;
+        }
+        
         float distance = GetDistanceToPlayer();
-
-        // 방향 설정 필요 없이 도착지만 설정해주면 네비게이션 시스템에 의해 자동으로 이동한다.
+        
+        if (distance > ComebackDistance)
+        {
+            Debug.Log("플레이어가 너무 멀어짐. 복귀 시작.");
+            ChangeState(EMonsterState.Comeback);
+            return;
+        }
+        
         _agent.SetDestination(PlayerPosition);
 
-        // 플레이어와의 거리가 공격범위내라면
         if (distance <= AttackDistance)
         {
             ChangeState(EMonsterState.Attack);
         }
     }
 
-/// <summary>
-    /// 포물선 점프 코루틴 - 자연스러운 점프 연출
-    /// </summary>
-
-
-    private void Comeback()
+    private void UpdateComeback()
     {
-        // 복귀 중에도 플레이어가 가까워지면 다시 추격
         if (GetDistanceToPlayer() <= DetectDistance)
         {
             ChangeState(EMonsterState.Trace);
@@ -316,97 +306,95 @@ public class Monster : MonoBehaviour
 
         _agent.SetDestination(_initialPosition);
 
-        // NavMeshAgent의 도착 판정 사용 (stoppingDistance 고려)
-        if (!_agent.pathPending && _agent.remainingDistance <= _agent.stoppingDistance)
+        if (!_agent.pathPending && _agent.remainingDistance <= _agent.stoppingDistance + 0.1f)
         {
             ChangeState(EMonsterState.Idle);
-            Debug.Log("도착!");
         }
     }
 
-    private void Attack()
+    private void UpdateAttack()
     {
-        // 플레이어를 공격하는 상태
-        _agent.ResetPath(); // 공격 중에는 이동 중지
+        if (_player.IsDead)
+        {
+            ChangeState(EMonsterState.Comeback);
+            return;
+        }
+        
+        _agent.ResetPath();
 
-        // 플레이어와의 거리가 멀다면 다시 쫒아오는 상태로 전환
+        Vector3 lookDir = GetDirectionToPlayer();
+        if (lookDir != Vector3.zero)
+        {
+            lookDir.y = 0;
+            transform.rotation = Quaternion.LookRotation(lookDir);
+        }
+
         float distance = GetDistanceToPlayer();
-        if (distance > AttackDistance)
+        if (distance > AttackDistance * _attackRangeMultiplier)
         {
             ChangeState(EMonsterState.Trace);
             return;
         }
 
         AttackTimer += Time.deltaTime;
-        if (AttackTimer >= AttackSpeed)
+        if (AttackTimer >= AttackSpeed && !_isAttacking)
         {
             AttackTimer = 0f;
-            Debug.Log("플레이어 공격!");
-
-            // 과제 2번. 플레이어 공격하기
-            // PlayerHit을 직접 참조하므로 GetComponent 불필요
-            _player.TakeDamage(MonsterDamage);
+            _isAttacking = true;
+            _animator.CrossFadeInFixedTime("Attack", 0.1f);
         }
     }
 
-    private void Patrol()
+    private void UpdatePatrol()
     {
-        // 순찰 상태의 매 프레임 로직
-        // 실제 이동은 코루틴에서 처리되고, 여기서는 전환 조건만 검사
         if (GetDistanceToPlayer() <= DetectDistance)
         {
             ChangeState(EMonsterState.Trace);
         }
-        // 코루틴 시작은 EnterState에서 처리됨
     }
 
     #endregion
 
-    #region 데미지 및 코루틴
+    #region Animation Events
+
+    public void OnAttackAnimationEnd()
+    {
+        _isAttacking = false;
+    }
+
+    #endregion
+
+    #region Damage & Coroutines
 
     public bool TryTakeDamage(float damage, Vector3 hitDirection)
     {
-        if (State == EMonsterState.Death)
-        {
-            return false;
-        }
+        if (State == EMonsterState.Death) return false;
 
-        // ConsumableStat의 Decrease 메서드 사용
         _health.Decrease(damage);
 
-        // NavMeshAgent가 활성화된 상태에서만 정지 처리
         if (_agent.enabled && _agent.isOnNavMesh)
         {
-            _agent.isStopped = true;    // 이동 일시정지
-            _agent.ResetPath();         // 경로(=목적지) 삭제
+            _agent.isStopped = true;
+            _agent.ResetPath();
         }
 
-        // ConsumableStat의 Value 프로퍼티로 체력 확인
         if (_health.Value <= 0)
         {
             ChangeState(EMonsterState.Death);
             return true;
         }
 
-        // Hit 상태로 전환 (ChangeState가 기존 Hit 코루틴도 정리함)
         ChangeState(EMonsterState.Hit);
-
-        // 넉백 코루틴 시작
-        _hitCoroutine = StartCoroutine(Hit_Coroutine(hitDirection));
-
+        _hitCoroutine = StartCoroutine(HitCoroutine(hitDirection));
         return true;
     }
 
-    private IEnumerator Hit_Coroutine(Vector3 hitDirection)
+    private IEnumerator HitCoroutine(Vector3 hitDirection)
     {
-        // Todo. Hit 애니메이션 실행
-
         float timer = 0f;
-
         hitDirection.y = 0f;
         hitDirection.Normalize();
 
-        // NavMeshAgent가 비활성화된 상태에서 transform으로 직접 이동
         while (timer < KnockbackDuration)
         {
             transform.position += hitDirection * KnockbackForce * Time.deltaTime;
@@ -414,51 +402,108 @@ public class Monster : MonoBehaviour
             yield return null;
         }
 
-        // 코루틴 핸들 정리는 ChangeState -> ExitState에서 처리됨
-        ChangeState(EMonsterState.Trace);
+        if (GetDistanceToPlayer() <= DetectDistance)
+        {
+            ChangeState(EMonsterState.Trace);
+        }
+        else
+        {
+            ChangeState(EMonsterState.Idle);
+        }
     }
 
-    private IEnumerator Death_Coroutine()
+    private IEnumerator DeathCoroutine()
     {
-        // Todo. Death 애니메이션 실행
         yield return new WaitForSeconds(_deathDuration);
         Destroy(gameObject);
     }
 
-    private IEnumerator Patrol_Coroutine(Vector3 target, float duration)
+    private IEnumerator PatrolCoroutine(Vector3 target)
     {
-        // NavMeshAgent로 목적지 설정
         _agent.SetDestination(target);
 
+        float timeout = 4f;
         float timer = 0f;
-        while (timer < duration && !HasArrivedAt(target))
-        {
-            // 플레이어 감지는 Patrol() Update 메서드에서 처리됨
-            if (State != EMonsterState.Patrol)
-            {
-                yield break;
-            }
 
+        while (timer < timeout)
+        {
+            if (State != EMonsterState.Patrol) yield break;
+            
+            bool hasArrived = !_agent.pathPending && 
+                              (_agent.remainingDistance <= 0.3f || _agent.velocity.magnitude < 0.1f);
+            
+            if (hasArrived && timer > 0.3f)
+            {
+                break;
+            }
+            
             timer += Time.deltaTime;
             yield return null;
         }
 
-        // 코루틴 핸들 정리는 ChangeState -> ExitState에서 처리됨
         if (State == EMonsterState.Patrol)
         {
             ChangeState(EMonsterState.Idle);
         }
     }
 
-    private IEnumerator Idle_Coroutine(float duration)
+    private IEnumerator IdleCoroutine(float duration)
     {
         yield return new WaitForSeconds(duration);
-
-        // 코루틴 핸들 정리는 ChangeState -> ExitState에서 처리됨
-        // 여전히 Idle 상태라면 순찰로 전환
         if (State == EMonsterState.Idle)
         {
             ChangeState(EMonsterState.Patrol);
+        }
+    }
+
+    #endregion
+
+    #region Helpers
+
+    private Vector3 GetValidPatrolTarget()
+    {
+        int maxAttempts = 10;
+        float sampleRadius = 2f;
+
+        for (int i = 0; i < maxAttempts; i++)
+        {
+            Vector3 randomOffset = new Vector3(
+                Random.Range(-PatrolSquareRange, PatrolSquareRange),
+                0,
+                Random.Range(-PatrolSquareRange, PatrolSquareRange)
+            );
+            Vector3 candidatePosition = _initialPosition + randomOffset;
+
+            if (NavMesh.SamplePosition(candidatePosition, out NavMeshHit hit, sampleRadius, NavMesh.AllAreas))
+            {
+                return hit.position;
+            }
+        }
+
+        return Vector3.zero;
+    }
+
+    private float GetDistanceToPlayer()
+    {
+        return Vector3.Distance(transform.position, PlayerPosition);
+    }
+
+    private Vector3 GetDirectionToPlayer()
+    {
+        return (PlayerPosition - transform.position).normalized;
+    }
+
+    private bool HasArrivedAt(Vector3 target)
+    {
+        return Vector3.Distance(transform.position, target) <= _arrivalThreshold;
+    }
+
+    private void StopCoroutineSafe(ref Coroutine coroutine)
+    {
+        if (coroutine != null)
+        {
+            StopCoroutine(coroutine);
+            coroutine = null;
         }
     }
 

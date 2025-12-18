@@ -12,6 +12,7 @@ public class PlayerBombFire : MonoBehaviour
     [SerializeField] private Transform _fireTransform;
     [SerializeField] private Bomb _bombPrefab;
     [SerializeField] private float _throwPower = 15f;
+    [SerializeField] private Animator _soliderAnimator;
 
     private PlayerStats _stats;
 
@@ -31,6 +32,8 @@ public class PlayerBombFire : MonoBehaviour
         {
             // 폭탄 오브젝트 풀에서 폭탄 오브젝트를 가져온다.
             //GameObject bomb = PoolManager.Instance.GetBombFromPool();
+
+            _soliderAnimator.SetTrigger("Throw");
 
             // 유니티 오브젝트 풀에서 폭탄 오브젝트를 가져온다.
             GameObject bomb = PoolManager.Instance.GetBombFromUnityPool();

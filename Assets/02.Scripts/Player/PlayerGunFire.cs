@@ -1,6 +1,8 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 using DG.Tweening;
+using System.Collections.Generic;
+using System.Collections;
 
 public class PlayerGunFire : MonoBehaviour
 {
@@ -9,6 +11,7 @@ public class PlayerGunFire : MonoBehaviour
     [SerializeField] private ParticleSystem _hitEffectPrefab;
     [SerializeField] private float _fireDuration = 0.5f;
     [SerializeField] private float _fireTimer = 0f;
+    [SerializeField] private List<GameObject> _muzzleEffects;
 
     [Header("총 반동 효과 설정")]
     public GameObject PlayerGunObject;
@@ -21,6 +24,7 @@ public class PlayerGunFire : MonoBehaviour
     [SerializeField] private float _cameraRecoilDuration = 0.1f;
 
     [SerializeField] private UI_Crosshair _uiCrosshair;
+    [SerializeField] private Animator _soliderAnimator;
 
     private ParticleSystem _hitEffect;
     private GunStat _gunStat;
@@ -59,49 +63,25 @@ public class PlayerGunFire : MonoBehaviour
         // 1. 마우스 왼쪽 버튼이 눌림과 탄약이 0개 이상인지 확인하고 true 면 1개 감소, 레이어 UI 클릭 시에는 발사 안되게
         if (Input.GetMouseButton(0) && _fireTimer > _fireDuration && _gunStat.Ammo.TryConsume(1))
         {
-            // 1. 타이머 초기화
-            _fireTimer = 0f;
-
-            if (_uiCrosshair != null)
-            {  
-                _uiCrosshair.ReactToFire();
-            }
-
-            // 2. Ray를 생성하고 발사할 위치와 방향, 거리를 설정한다. (쏜다)
-            Ray ray = new Ray(_fireTransform.position, Camera.main.transform.forward);
-
-            // 3. RayCastHit(충돌한 대상의 정보)를 저장할 변수를 생성한다.
-            RaycastHit hitInfo = new RaycastHit();
-
-            // 총 반동 효과 적용
-            ApplyRecoil();
-
-            // 4. 발사하고
-            bool isHit = Physics.Raycast(ray, out hitInfo);
-            if (isHit)
-            {
-                // 5. 충돌했다면... 피격 이펙트 표시
-                Debug.Log(hitInfo.transform.name);
-
-                // 파티클 생성과 플레이 방식
-                // 1. Instantiate 방식 (+풀링) -> 한 화면에 여러가지 수정 후 여러 개 그릴경우
-                // 2. 하나를 캐싱해두고 Play -> 인스펙터 설정 그대로 그릴 경우
-                // 3. 하나를 캐싱해두고 Emit -> 인스펙터 설정을 수정 후 그릴 경우
-
-                _hitEffect.transform.position = hitInfo.point;
-                _hitEffect.transform.forward = hitInfo.normal;
-                _hitEffect.Play();
-
-                // 대미지 처리
-                ApplyDamage(hitInfo.collider.gameObject, ray.direction);
-            }
-
+            Shoot();
+            StartCoroutine(MuzzleEffect_Coroutine());
         }
 
         // Ray: 레이저 (시작위치, 방향, 거리)
         // RayCast: 레이저를 발사
         // RayCastHit: 레이저가 물체에 충돌했다면 그 정보를 저장하는 구조ㅇㄴ체
 
+    }
+
+    private IEnumerator MuzzleEffect_Coroutine()
+    {
+        GameObject muzzleEffect = _muzzleEffects[Random.Range(0, _muzzleEffects.Count)];
+
+        muzzleEffect.SetActive(true);
+
+        yield return new WaitForSeconds(0.06f);
+
+        muzzleEffect.SetActive(false);
     }
 
     /// <summary>
@@ -149,5 +129,55 @@ public class PlayerGunFire : MonoBehaviour
         {
             playerCamera.transform.DOLocalRotate(_cameraInitialRotation, _cameraRecoilDuration / 2).SetEase(Ease.InQuad);
         });
+    }
+
+    private void Shoot()
+    {
+        // 1. 타이머 초기화
+        _fireTimer = 0f;
+
+        if (_uiCrosshair != null)
+        {
+            _uiCrosshair.ReactToFire();
+        }
+
+        // 총 쏘는 애니메이션 재생
+        if (_soliderAnimator != null)
+        {
+            _soliderAnimator.SetTrigger("Shoot");
+        }
+        else
+        {
+            Debug.LogWarning("Solider Animator is not assigned.");
+        }
+
+        // 2. Ray를 생성하고 발사할 위치와 방향, 거리를 설정한다. (쏜다)
+        Ray ray = new Ray(_fireTransform.position, Camera.main.transform.forward);
+
+        // 3. RayCastHit(충돌한 대상의 정보)를 저장할 변수를 생성한다.
+        RaycastHit hitInfo = new RaycastHit();
+
+        // 총 반동 효과 적용
+        ApplyRecoil();
+
+        // 4. 발사하고
+        bool isHit = Physics.Raycast(ray, out hitInfo);
+        if (isHit)
+        {
+            // 5. 충돌했다면... 피격 이펙트 표시
+            Debug.Log(hitInfo.transform.name);
+
+            // 파티클 생성과 플레이 방식
+            // 1. Instantiate 방식 (+풀링) -> 한 화면에 여러가지 수정 후 여러 개 그릴경우
+            // 2. 하나를 캐싱해두고 Play -> 인스펙터 설정 그대로 그릴 경우
+            // 3. 하나를 캐싱해두고 Emit -> 인스펙터 설정을 수정 후 그릴 경우
+
+            _hitEffect.transform.position = hitInfo.point;
+            _hitEffect.transform.forward = hitInfo.normal;
+            _hitEffect.Play();
+
+            // 대미지 처리
+            ApplyDamage(hitInfo.collider.gameObject, ray.direction);
+        }
     }
 }

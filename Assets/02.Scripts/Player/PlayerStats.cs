@@ -15,6 +15,21 @@ public class PlayerStats : MonoBehaviour
     public ValueStat RunSpeed;
     public ValueStat JumpPower;
 
+    // 디미터 법칙 준수: 체력 관련 프로퍼티
+    public bool IsDead => Health.Value <= 0f;
+    public float CurrentHealth => Health.Value;
+    public float MaxHealth => Health.MaxValue;
+    public float HealthPercent => Health.Value / Health.MaxValue;
+    public void DecreaseHealth(float amount) => Health.Decrease(amount);
+
+    // 디미터 법칙 준수: 이동 관련 프로퍼티
+    public float MoveSpeedValue => MoveSpeed.Value;
+    public float RunSpeedValue => RunSpeed.Value;
+    public float JumpPowerValue => JumpPower.Value;
+
+    // 디미터 법칙 준수: 스태미나 관련 프로퍼티/메서드
+    public bool TryConsumeStamina(float amount) => Stamina.TryConsume(amount);
+
     private void Start()
     {
         Health.Initialize();
