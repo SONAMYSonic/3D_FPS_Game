@@ -21,6 +21,7 @@ public class PlayerGunFire : MonoBehaviour
     [SerializeField] private float _cameraRecoilDuration = 0.1f;
 
     [SerializeField] private UI_Crosshair _uiCrosshair;
+    [SerializeField] private Animator _soliderAnimator;
 
     private ParticleSystem _hitEffect;
     private GunStat _gunStat;
@@ -65,6 +66,16 @@ public class PlayerGunFire : MonoBehaviour
             if (_uiCrosshair != null)
             {  
                 _uiCrosshair.ReactToFire();
+            }
+
+            // 총 쏘는 애니메이션 재생
+            if (_soliderAnimator != null)
+            {
+                _soliderAnimator.SetTrigger("Shoot");
+            }
+            else
+            {
+                Debug.LogWarning("Solider Animator is not assigned.");
             }
 
             // 2. Ray를 생성하고 발사할 위치와 방향, 거리를 설정한다. (쏜다)

@@ -136,7 +136,7 @@ private string GetAnimationStateName(EMonsterState state)
             case EMonsterState.Trace: return "Trace";
             case EMonsterState.Attack: return "Attack";
             case EMonsterState.Hit: return "Hit";
-            case EMonsterState.Death: return "Hit"; // Death 애니메이션이 없으면 Hit 사용
+            case EMonsterState.Death: return "Death";
             default: return null;
         }
     }
@@ -209,6 +209,7 @@ private string GetAnimationStateName(EMonsterState state)
                 break;
 
             case EMonsterState.Death:
+                _animator.CrossFadeInFixedTime("Death", 0.1f);
                 _agent.enabled = false;
                 StopAllCoroutines();
                 StartCoroutine(DeathCoroutine());

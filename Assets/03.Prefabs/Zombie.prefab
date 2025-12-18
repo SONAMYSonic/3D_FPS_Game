@@ -507,6 +507,7 @@ MonoBehaviour:
   _animator: {fileID: 7665493321879118143}
   DetectDistance: 6
   AttackDistance: 2.5
+  ComebackDistance: 15
   MoveSpeed: 3
   AttackSpeed: 2
   AttackTimer: 0
@@ -604,6 +605,9 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+  _animator: {fileID: 7665493321879118143}
+  JumpHeight: 2
+  JumpDuration: 1.07
 --- !u!1001 &4724833045452351327
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -616,6 +620,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 0295affcc1c15b742860a7b2854cb5af, type: 2}
+    - target: {fileID: -6057140222963153312, guid: 8f7380da49034cd488ddff94b1ac35d1, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 8f7380da49034cd488ddff94b1ac35d1, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
