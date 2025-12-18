@@ -58,7 +58,9 @@ public class Monster : MonoBehaviour
 
     private EMonsterState _previousState = EMonsterState.Idle;
 
-    private Vector3 PlayerPosition => _player.Position;
+    
+    public Vector3 Position => transform.position;
+private Vector3 PlayerPosition => _player.Position;
 
     private void Awake()
     {
@@ -82,13 +84,10 @@ public class Monster : MonoBehaviour
         // 게임이 끝났거나 플레이어가 죽었으면 Idle로 전환
         if (GameManager.Instance.State != EGameState.Playing || _player.IsDead)
         {
-            if (State != EMonsterState.Idle && State != EMonsterState.Patrol && State != EMonsterState.Comeback)
+            // 공격/추적 중이었으면 Idle로 전환 (ChangeState를 통해 ExitState 정리 실행)
+            if (State == EMonsterState.Attack || State == EMonsterState.Trace || State == EMonsterState.Hit)
             {
-                // 공격/추적 중이었으면 멈추고 Idle로
-                _agent.ResetPath();
-                _isAttacking = false;
-                State = EMonsterState.Idle;
-                _animator.CrossFadeInFixedTime("Idle", 0.1f);
+                ChangeState(EMonsterState.Idle);
             }
             return;
         }

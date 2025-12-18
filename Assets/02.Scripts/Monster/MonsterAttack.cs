@@ -11,7 +11,6 @@ public class MonsterAttack : MonoBehaviour
     [SerializeField] private float _attackRange = 2.0f; // 공격 판정 범위
     
     private PlayerHit _playerHit;
-    private Transform _playerTransform;
 
     private void Awake()
     {
@@ -26,10 +25,6 @@ public class MonsterAttack : MonoBehaviour
     {
         // 플레이어 참조 캐싱 (FindAnyObjectByType는 매우 비용이 큰 연산)
         _playerHit = FindAnyObjectByType<PlayerHit>();
-        if (_playerHit != null)
-        {
-            _playerTransform = _playerHit.transform;
-        }
     }
 
     /// <summary>
@@ -52,7 +47,7 @@ public void PlayerAttack()
         }
 
         // 공격 범위 체크 - 애니메이션 중에 플레이어가 멀어졌을 수 있음
-        float distance = Vector3.Distance(_monster.transform.position, _playerTransform.position);
+        float distance = Vector3.Distance(_monster.Position, _playerHit.Position);
         if (distance > _attackRange)
         {
             Debug.Log($"MonsterAttack: 플레이어가 공격 범위 밖에 있음 (distance: {distance:F2})");
