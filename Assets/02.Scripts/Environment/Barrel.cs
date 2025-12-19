@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Barrel : MonoBehaviour
+public class Barrel : MonoBehaviour, IDamageable
 {
     [Header("체력")]
     [SerializeField] private ConsumableStat _health;
@@ -28,18 +28,20 @@ public class Barrel : MonoBehaviour
     }
 
     /// <summary>
-    /// 드럼통에 대미지를 주는 메서드
+    /// IDamageable 인터페이스 구현
     /// </summary>
-    public void TakeDamage(float damage)
+    public bool TryTakeDamage(Damage damage)
     {
-        if (_isExploded) return;
+        if (_isExploded) return false;
 
-        _health.Decrease(damage);
+        _health.Decrease(damage.Value);
 
         if (_health.Value <= 0)
         {
             Explode();
         }
+
+        return true;
     }
 
     /// <summary>
@@ -108,34 +110,30 @@ public class Barrel : MonoBehaviour
             // 자기 자신은 제외
             if (colliders[i].gameObject == gameObject) continue;
 
-            float finalDamage = _explosionDamage;
-
             // 피격 방향 계산 (넉백용)
             Vector3 hitDirection = (colliders[i].transform.position - transform.position).normalized;
 
-            // 대상 타입에 따라 대미지 적용
-            // 몬스터
-            Monster monster = colliders[i].GetComponent<Monster>();
-            if (monster != null)
+            // IDamageable 인터페이스로 통합 처리
+            IDamageable damageable = colliders[i].GetComponent<IDamageable>();
+            if (damageable != null)
             {
-                monster.TryTakeDamage(finalDamage, hitDirection);
+                Damage damage = new Damage
+                {
+                    Value = _explosionDamage,
+                    HitDirection = hitDirection,
+                    HitPoint = colliders[i].ClosestPoint(transform.position),
+                    Who = gameObject,
+                    Critical = false
+                };
+                damageable.TryTakeDamage(damage);
                 continue;
             }
 
-            // 플레이어
+            // 플레이어 (IDamageable 미구현 시)
             PlayerHit playerHit = colliders[i].GetComponent<PlayerHit>();
             if (playerHit != null)
             {
-                playerHit.TakeDamage(finalDamage);
-                continue;
-            }
-
-            // 다른 드럼통 (연쇄 폭발)
-            Barrel barrel = colliders[i].GetComponent<Barrel>();
-            if (barrel != null)
-            {
-                barrel.TakeDamage(finalDamage);
-                continue;
+                playerHit.TakeDamage(_explosionDamage);
             }
         }
     }

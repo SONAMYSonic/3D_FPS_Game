@@ -13,6 +13,10 @@ public class PlayerGunFire : MonoBehaviour
     [SerializeField] private float _fireTimer = 0f;
     [SerializeField] private List<GameObject> _muzzleEffects;
 
+    private EZoomMode _zoomMode = EZoomMode.Normal;
+    [SerializeField] private GameObject _normalCrosshair;
+    [SerializeField] private GameObject _zoomInCrosshair;
+
     [Header("총 반동 효과 설정")]
     public GameObject PlayerGunObject;
     [SerializeField] private Vector3 _initialPlayerGunRotation = new Vector3(0, 0, 0);
@@ -23,11 +27,21 @@ public class PlayerGunFire : MonoBehaviour
     [SerializeField] private float _cameraRecoilAmount = 0.1f;
     [SerializeField] private float _cameraRecoilDuration = 0.1f;
 
+    [Header("총알 진행 효과")]
+    [SerializeField] private LineRenderer _bulletLineRendererPrefab; // 프리팹으로 변경
+    [SerializeField] private int _bulletPoolSize = 5; // 풀 사이즈
+    [SerializeField] private float _playerBulletSpeed = 100f;
+    [SerializeField] private float _maxLaserLength = 1.5f;
+    [SerializeField] private float _maxShootRange = 100f;
+
     [SerializeField] private UI_Crosshair _uiCrosshair;
     [SerializeField] private Animator _soliderAnimator;
 
     private ParticleSystem _hitEffect;
     private GunStat _gunStat;
+
+    private List<LineRenderer> _bulletPool = new List<LineRenderer>();
+    private int _currentBulletIndex = 0;
 
     private void Awake()
     {
@@ -42,10 +56,20 @@ public class PlayerGunFire : MonoBehaviour
         // 실제 초기 "로컬" 회전을 캐싱 (부모 회전 영향 제거)
         _initialPlayerGunRotation = PlayerGunObject.transform.localEulerAngles;
         _cameraInitialRotation = playerCamera.transform.localEulerAngles;
+
+        // 총알 LineRenderer 풀 생성
+        for (int i = 0; i < _bulletPoolSize; i++)
+        {
+            LineRenderer lr = Instantiate(_bulletLineRendererPrefab, transform);
+            lr.enabled = false;
+            _bulletPool.Add(lr);
+        }
     }
 
     private void Update()
     {
+        ZoomMode();
+
         if (GameManager.Instance.State != EGameState.Playing)
         {
             return;
@@ -73,6 +97,24 @@ public class PlayerGunFire : MonoBehaviour
 
     }
 
+    private void ZoomMode()
+    {
+        if (Input.GetMouseButton(1))
+        {
+            _zoomMode = EZoomMode.ZoomIn;
+            _normalCrosshair.SetActive(false);
+            _zoomInCrosshair.SetActive(true);
+            Camera.main.fieldOfView = 30f;
+        }
+        else
+        {
+            _zoomMode = EZoomMode.Normal;
+            _normalCrosshair.SetActive(true);
+            _zoomInCrosshair.SetActive(false);
+            Camera.main.fieldOfView = 60f;
+        }
+    }
+
     private IEnumerator MuzzleEffect_Coroutine()
     {
         GameObject muzzleEffect = _muzzleEffects[Random.Range(0, _muzzleEffects.Count)];
@@ -84,25 +126,24 @@ public class PlayerGunFire : MonoBehaviour
         muzzleEffect.SetActive(false);
     }
 
-    /// <summary>
-    /// 충돌한 오브젝트에 대미지 적용
-    /// </summary>
-    private void ApplyDamage(GameObject target, Vector3 hitDirection)
+    // 충돌한 오브젝트에 대미지 적용
+    private void ApplyDamage(GameObject target, Vector3 hitDirection, Vector3 hitPoint)
     {
-        // 몬스터
-        Monster monster = target.GetComponent<Monster>();
-        if (monster != null)
+        // Damage 구조체 먼저 생성
+        Damage damage = new Damage
         {
-            monster.TryTakeDamage(_gunStat.Damage, hitDirection);
-            return;
-        }
+            Value = _gunStat.Damage,
+            HitDirection = hitDirection,
+            HitPoint = hitPoint,
+            Who = gameObject,
+            Critical = false
+        };
 
-        // 드럼통
-        Barrel barrel = target.GetComponent<Barrel>();
-        if (barrel != null)
+        // IDamageable 인터페이스로 처리 (몬스터, 드럼통, 나무 등 모두 처리)
+        IDamageable damageable = target.GetComponent<IDamageable>();
+        if (damageable != null)
         {
-            barrel.TakeDamage(_gunStat.Damage);
-            return;
+            damageable.TryTakeDamage(damage);
         }
     }
 
@@ -162,6 +203,11 @@ public class PlayerGunFire : MonoBehaviour
 
         // 4. 발사하고
         bool isHit = Physics.Raycast(ray, out hitInfo);
+
+        // 총알 진행 효과 코루틴 시작
+        Vector3 targetPos = isHit ? hitInfo.point : ray.origin + ray.direction * _maxShootRange;
+        StartCoroutine(ShowLaserRoutine(targetPos));
+
         if (isHit)
         {
             // 5. 충돌했다면... 피격 이펙트 표시
@@ -177,7 +223,49 @@ public class PlayerGunFire : MonoBehaviour
             _hitEffect.Play();
 
             // 대미지 처리
-            ApplyDamage(hitInfo.collider.gameObject, ray.direction);
+            ApplyDamage(hitInfo.collider.gameObject, ray.direction, hitInfo.point);
         }
+    }
+
+    private LineRenderer GetNextBulletLineRenderer()
+    {
+        LineRenderer lr = _bulletPool[_currentBulletIndex];
+        _currentBulletIndex = (_currentBulletIndex + 1) % _bulletPoolSize;
+        return lr;
+    }
+
+    private IEnumerator ShowLaserRoutine(Vector3 endPos)
+    {
+        // 풀에서 LineRenderer 가져오기
+        LineRenderer lineRenderer = GetNextBulletLineRenderer();
+        lineRenderer.enabled = true;
+        
+        Vector3 startOrigin = _fireTransform.position;
+        Vector3 direction = (endPos - startOrigin).normalized;
+        float dist = Vector3.Distance(startOrigin, endPos);
+
+        float bulletLength = Mathf.Min(_maxLaserLength, dist);
+        float currentDist = 0f;
+
+        while (currentDist < dist + bulletLength)
+        {
+            currentDist += _playerBulletSpeed * Time.deltaTime;
+
+            float headDist = Mathf.Min(currentDist, dist);
+            Vector3 headPos = startOrigin + direction * headDist;
+
+            float tailDist = Mathf.Max(0f, currentDist - bulletLength);
+            Vector3 tailPos = startOrigin + direction * Mathf.Min(tailDist, dist);
+
+            lineRenderer.SetPosition(0, tailPos);
+            lineRenderer.SetPosition(1, headPos);
+
+            if (tailDist >= dist)
+                break;
+
+            yield return null;
+        }
+
+        lineRenderer.enabled = false;
     }
 }

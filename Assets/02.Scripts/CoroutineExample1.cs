@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class CoroutineExample1 : MonoBehaviour
 {
+    /*
     private void Update()
     {
         if (Input.GetKey(KeyCode.Space))
@@ -24,8 +25,10 @@ public class CoroutineExample1 : MonoBehaviour
         Debug.Log("Test1");
     }
 
+
     private IEnumerator Test2_Coroutine()
     {
+
         // 매우 무거운 작업
         int sum = 0;
         for (int i = 1; i <= 100; i++)
@@ -35,6 +38,7 @@ public class CoroutineExample1 : MonoBehaviour
             yield return new WaitForSeconds(3f); // 3초 대기
             yield break; // 코루틴 종료
 
+            /*
             for (int j = 1; j <= 100000; j++)
             {
                 sum += i * j;
@@ -54,4 +58,5 @@ public class CoroutineExample1 : MonoBehaviour
         }
         Debug.Log("Test3 End");
     }
+*/
 }

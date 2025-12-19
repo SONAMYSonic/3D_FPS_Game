@@ -20,7 +20,16 @@ public class Bomb : MonoBehaviour
             Monster monster = colliders[i].GetComponent<Monster>();
             if (monster == null) continue;
 
-            monster.TryTakeDamage(Damage, transform.position);
+            Vector3 hitDirection = (colliders[i].transform.position - transform.position).normalized;
+            Damage damage = new Damage
+            {
+                Value = this.Damage,
+                HitDirection = hitDirection,
+                HitPoint = colliders[i].ClosestPoint(transform.position),
+                Who = gameObject,
+                Critical = false
+            };
+            monster.TryTakeDamage(damage);
         }
 
         // 충돌하면 나 자신을 삭제(풀 반환)한다.
