@@ -15,6 +15,9 @@ public class PlayerStats : MonoBehaviour
     public ValueStat RunSpeed;
     public ValueStat JumpPower;
 
+    [Header("골드")]
+    [SerializeField] private int _currentGold = 0;
+
     // 디미터 법칙 준수: 체력 관련 프로퍼티
     public bool IsDead => Health.Value <= 0f;
     public float CurrentHealth => Health.Value;
@@ -29,6 +32,20 @@ public class PlayerStats : MonoBehaviour
 
     // 디미터 법칙 준수: 스태미나 관련 프로퍼티/메서드
     public bool TryConsumeStamina(float amount) => Stamina.TryConsume(amount);
+
+    // 디미터 법칙 준수: 골드 관련 프로퍼티/메서드
+    public int CurrentGold => _currentGold;
+    public void AddGold(int amount)
+    {
+        _currentGold += amount;
+        // TODO: UI 업데이트 이벤트 발행 (OnGoldChanged?.Invoke(_currentGold);)
+    }
+    public bool TrySpendGold(int amount)
+    {
+        if (_currentGold < amount) return false;
+        _currentGold -= amount;
+        return true;
+    }
 
     private void Start()
     {

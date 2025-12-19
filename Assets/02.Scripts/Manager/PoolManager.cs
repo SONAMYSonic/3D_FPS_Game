@@ -21,6 +21,7 @@ public class PoolManager : MonoBehaviour
     }
 
     // 1-1. 배열로 플레이어 폭탄 오브젝트 풀링
+    [Header("폭탄")]
     [SerializeField] private GameObject _bombPrefab;
     [SerializeField] private int _poolSize = 10;
     private GameObject[] _bombPool;
@@ -49,6 +50,9 @@ public class PoolManager : MonoBehaviour
 
         // 유니티 오브젝트 풀 초기화
         InitializeUnityBombPool();
+
+        // 골드 오브젝트 풀 초기화
+        InitializeGoldPool();
     }
 
     // 1-3. 폭탄 오브젝트 풀에서 가져오기
@@ -76,6 +80,7 @@ public class PoolManager : MonoBehaviour
     }
 
     // 2-1. 리스트로 플레이어 폭탄 오브젝트 이펙트 풀링
+    [Header("폭발 이펙트")]
     [SerializeField] private GameObject _explosionEffectPrefab;
     private List<GameObject> _explosionEffectPool = new List<GameObject>();
 
@@ -129,4 +134,70 @@ public class PoolManager : MonoBehaviour
     {
         _unityBombPool.Release(bomb);
     }
+
+    #region Gold Pool
+    // 4. 골드(엽전) 오브젝트 풀 - Unity ObjectPool 사용
+    [Header("골드")]
+    [SerializeField] private GameObject _goldPrefab;
+    [SerializeField] private int _goldPoolSize = 50;  // 몬스터당 10개 × 동시 5마리 기준
+
+    private ObjectPool<GameObject> _goldPool;
+
+    private void InitializeGoldPool()
+    {
+        _goldPool = new ObjectPool<GameObject>(
+            createFunc: () =>
+            {
+                GameObject gold = Instantiate(_goldPrefab);
+                gold.SetActive(false);
+                return gold;
+            },
+            actionOnGet: (gold) => { },  // Spawn()에서 직접 활성화
+            actionOnRelease: (gold) =>
+            {
+                // GoldPickup.Despawn()에서 상태 초기화
+                if (gold.TryGetComponent<GoldPickup>(out var pickup))
+                {
+                    pickup.Despawn();
+                }
+            },
+            actionOnDestroy: (gold) => Destroy(gold),
+            collectionCheck: false,
+            defaultCapacity: _goldPoolSize,
+            maxSize: _goldPoolSize * 2
+        );
+    }
+
+    /// <summary>
+    /// 골드를 풀에서 가져와서 지정 위치에 스폰
+    /// </summary>
+    public GameObject GetGoldFromPool(Vector3 spawnPosition)
+    {
+        GameObject gold = _goldPool.Get();
+        if (gold.TryGetComponent<GoldPickup>(out var pickup))
+        {
+            pickup.Spawn(spawnPosition);
+        }
+        return gold;
+    }
+
+    /// <summary>
+    /// 골드를 풀에 반환
+    /// </summary>
+    public void ReturnGoldToPool(GameObject gold)
+    {
+        _goldPool.Release(gold);
+    }
+
+    /// <summary>
+    /// 지정 위치에 여러 개의 골드를 퍼뜨려 스폰
+    /// </summary>
+    public void SpawnGoldBurst(Vector3 position, int count)
+    {
+        for (int i = 0; i < count; i++)
+        {
+            GetGoldFromPool(position);
+        }
+    }
+    #endregion
 }

@@ -841,6 +841,7 @@ MonoBehaviour:
   JumpPower:
     _value: 3
     _maxValue: 0
+  _currentGold: 0
 --- !u!114 &142320882
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2233,7 +2234,7 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
+  near clip plane: 0.15
   far clip plane: 1000
   field of view: 60
   orthographic: 0
@@ -5260,7 +5261,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9215792226154991372, guid: a16e911aa552fc84d963db048db24c1f, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6100,7 +6101,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9215792226154991372, guid: a16e911aa552fc84d963db048db24c1f, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9864,6 +9865,8 @@ MonoBehaviour:
   _bombPrefab: {fileID: 574105223468984247, guid: f5b83c4d589999945b29e2567e288aa4, type: 3}
   _poolSize: 10
   _explosionEffectPrefab: {fileID: 1007127540951276732, guid: 3ace37360f306cb4aac03640550fa9ef, type: 3}
+  _goldPrefab: {fileID: 8959531281939941489, guid: fe7e3b5e9b1e8054996b0e9f113872d3, type: 3}
+  _goldPoolSize: 50
 --- !u!114 &2098640552
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10169,18 +10172,10 @@ PrefabInstance:
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 1997252493}
-    - target: {fileID: 3299637848521025339, guid: a16e911aa552fc84d963db048db24c1f, type: 3}
-      propertyPath: JumpDuration
-      value: 0.8
-      objectReference: {fileID: 0}
     - target: {fileID: 7175554905495923632, guid: a16e911aa552fc84d963db048db24c1f, type: 3}
       propertyPath: _player
       value: 
       objectReference: {fileID: 142320888}
-    - target: {fileID: 7175554905495923632, guid: a16e911aa552fc84d963db048db24c1f, type: 3}
-      propertyPath: BloodEffectPrefab
-      value: 
-      objectReference: {fileID: 1000013355911406, guid: d32aa916f50cac94db11e6f19821a58f, type: 3}
     - target: {fileID: 8961743158216325799, guid: a16e911aa552fc84d963db048db24c1f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4.29

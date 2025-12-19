@@ -14,6 +14,7 @@ public class PlayerGunFire : MonoBehaviour
     [SerializeField] private List<GameObject> _muzzleEffects;
 
     private EZoomMode _zoomMode = EZoomMode.Normal;
+    public bool IsZoomed => _zoomMode == EZoomMode.ZoomIn;  // 외부에서 줌 상태 확인용
     [SerializeField] private GameObject _normalCrosshair;
     [SerializeField] private GameObject _zoomInCrosshair;
 

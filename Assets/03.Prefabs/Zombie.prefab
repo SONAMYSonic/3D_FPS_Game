@@ -508,6 +508,7 @@ MonoBehaviour:
   DetectDistance: 6
   AttackDistance: 2.5
   ComebackDistance: 15
+  _attackRangeMultiplier: 1.5
   MoveSpeed: 3
   AttackSpeed: 2
   AttackTimer: 0
@@ -524,6 +525,8 @@ MonoBehaviour:
   IdleDurationMax: 5
   _arrivalThreshold: 0.5
   _deathDuration: 2
+  BloodEffectPrefab: {fileID: 1000013355911406, guid: d32aa916f50cac94db11e6f19821a58f, type: 3}
+  _goldDropCount: 10
 --- !u!114 &5046467588208548970
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -607,7 +610,7 @@ MonoBehaviour:
     m_RotationOrder: 4
   _animator: {fileID: 7665493321879118143}
   JumpHeight: 2
-  JumpDuration: 1.07
+  JumpDuration: 0.8
 --- !u!1001 &4724833045452351327
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -699,7 +702,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _monster: {fileID: 7175554905495923632}
-  _attackRange: 2
 --- !u!95 &7665493321879118143 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: -6057140222963153312, guid: 8f7380da49034cd488ddff94b1ac35d1, type: 3}

@@ -55,6 +55,10 @@ public class Monster : MonoBehaviour, IDamageable
     [SerializeField] private float _deathDuration = 2.0f;
     public GameObject BloodEffectPrefab;
 
+    [Header("골드 드랍")]
+    [SerializeField, Tooltip("사망 시 드랍할 골드 개수")]
+    private int _goldDropCount = 10;
+
     private Coroutine _idleCoroutine;
     private Coroutine _patrolCoroutine;
     private Coroutine _hitCoroutine;
@@ -424,6 +428,10 @@ public class Monster : MonoBehaviour, IDamageable
 
     private IEnumerator DeathCoroutine()
     {
+        // 골드 드랍: 몸통 중앙에서 튀어나오게 스폰
+        Vector3 dropPosition = transform.position + Vector3.up * 1f;
+        PoolManager.Instance.SpawnGoldBurst(dropPosition, _goldDropCount);
+
         yield return new WaitForSeconds(_deathDuration);
         Destroy(gameObject);
     }
