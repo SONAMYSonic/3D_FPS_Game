@@ -105,6 +105,6 @@ public class GameManager : MonoBehaviour
     public void Restart()
     {
         Time.timeScale = 1f; // 시간 흐름 복구
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene("LoadingScene");
     }
 }
