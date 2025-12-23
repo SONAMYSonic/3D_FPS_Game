@@ -6121,6 +6121,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _stateText: {fileID: 789468251}
+  _optionPopupUI: {fileID: 2088267337}
 --- !u!4 &1164040158
 Transform:
   m_ObjectHideFlags: 0
@@ -10472,6 +10473,7 @@ GameObject:
   - component: {fileID: 2088267334}
   - component: {fileID: 2088267336}
   - component: {fileID: 2088267335}
+  - component: {fileID: 2088267337}
   m_Layer: 5
   m_Name: UI_OptionPopup
   m_TagString: Untagged
@@ -10538,6 +10540,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2088267333}
   m_CullTransparentMesh: 1
+--- !u!114 &2088267337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2088267333}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 904ea7bbcc4eba442849ca10f9e0b96e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2090072837
 GameObject:
   m_ObjectHideFlags: 0

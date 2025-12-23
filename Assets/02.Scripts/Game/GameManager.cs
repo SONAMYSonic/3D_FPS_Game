@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
@@ -19,6 +20,8 @@ public class GameManager : MonoBehaviour
     // 디미터 법칙 준수: 상태 확인 메서드
     public bool IsPlaying => _state == EGameState.Playing;
     public bool IsGameOver => _state == EGameState.GameOver;
+
+    [SerializeField] private UI_OptionPopup _optionPopupUI;
 
     private void Awake()
     {
@@ -65,5 +68,24 @@ public class GameManager : MonoBehaviour
         ChangeState(EGameState.Victory);
         _stateText.gameObject.SetActive(true);
         _stateText.text = "승리!";
+    }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Pause();
+        }
+    }
+
+    private void Pause()
+    {
+        Time.timeScale = 0f; // 게임 일시정지
+        _optionPopupUI.Show();
+    }
+
+    public void Resume()
+    {
+        Time.timeScale = 1f; // 게임 재개
     }
 }
