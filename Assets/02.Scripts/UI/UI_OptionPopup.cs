@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class UI_OptionPopup : MonoBehaviour
@@ -45,12 +46,27 @@ public class UI_OptionPopup : MonoBehaviour
 
     private void GameRestart()
     {
+        // UI는 중요한 (도메인/비즈니스)게임 로직을 실행하지 않는다.
+        // UI는 (매니저와의) 표현과 통신을 위한 수단일 뿐이다.
 
+        // 인벤토리 UI에서 정렬 (이름순, 업데이트순, 공격력 순 등)
+        // 정렬 버튼을 누르면 정렬 알고리즘에 의해 정렬이 될것이다...
+        // 정렬 알고리즘은 UI에 있어야할까? 아이템 매니저(인벤토리) 에 있어야 할까?
+
+        // 퀘스트에서 완료 여부를 true/false
+        // UI는 퀘스트 매니저에서 데이터 가져다가 완료/미완료
+
+        // 씬 재시작
+        GameManager.Instance.Restart();
     }
 
     private void GameExit()
     {
+        // 게임 종료
+        // 1. 데이터 저장
+        // 2. 유저 붙잡기
         
+        GameManager.Instance.Quit();
     }
 
     private void Update()

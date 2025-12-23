@@ -3,6 +3,7 @@ using System.Collections;
 using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -82,10 +83,28 @@ public class GameManager : MonoBehaviour
     {
         Time.timeScale = 0f; // 게임 일시정지
         _optionPopupUI.Show();
+        CursorManager.Instance.UnlockCursor();
     }
 
     public void Resume()
     {
         Time.timeScale = 1f; // 게임 재개
+    }
+
+    public void Quit()
+    {
+        // 게임 종료 전 필요한 로직을 실행한다.
+
+        Application.Quit(); // 빌드된 상태에서만 유효하다.
+
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false; // 에디터 모드에서 실행 중지
+#endif
+    }
+
+    public void Restart()
+    {
+        Time.timeScale = 1f; // 시간 흐름 복구
+        SceneManager.LoadScene(0);
     }
 }
