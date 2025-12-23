@@ -1,25 +1,30 @@
-using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class UI_PlayerStats : MonoBehaviour
 {
-    // 플레이어의 스탯 UI(슬라이더)를 관리하는 스크립트
-    // 체력, 스태미나
-
     [SerializeField] private PlayerStats _stats;
-    [SerializeField] private GunStat _gunStats;
     [SerializeField] private Slider _healthSlider;
     [SerializeField] private Slider _staminaSlider;
-    [SerializeField] private TextMeshProUGUI _bombText;
-    [SerializeField] private TextMeshProUGUI _playerBulletText;
 
-    private void Update()
+
+    private void Start()
     {
-        _healthSlider.value = _stats.Health.Value / _stats.Health.MaxValue;
-        _staminaSlider.value = _stats.Stamina.Value / _stats.Stamina.MaxValue;
-        _bombText.SetText("X {0}", _stats.Bomb.Value);
-        _playerBulletText.SetText("{0}/{1}", _gunStats.Ammo.Value, _gunStats.FullAmmo.Value);
+        Debug.Log("UI_PlayerStats initialized");
+
+        Refresh();
+
+        // 플레이어 스탯의 데이터의 변화가 있을때 실행할 콜백 함수를 등록
+        PlayerStats.OnDataChanged += Refresh;
     }
 
+
+    public void Refresh()
+    {
+        // 유튜브에 영상이 올라왔는지 매번 새로고침 하는것과 똑같다.
+        // 시각적인 변화가 없음에도 데이터를 참조하고 UI를 수정하므로 성능이 저하된다.
+
+        _healthSlider.value = _stats.Health.Value / _stats.Health.MaxValue;
+        _staminaSlider.value = _stats.Stamina.Value / _stats.Stamina.MaxValue;
+    }
 }

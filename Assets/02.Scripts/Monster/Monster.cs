@@ -6,10 +6,10 @@ public class Monster : MonoBehaviour, IDamageable
 {
     public EMonsterState State { get; private set; } = EMonsterState.Idle;
 
-    [SerializeField] private PlayerHit _player;
-    [SerializeField] private NavMeshAgent _agent;
+    [SerializeField] protected PlayerHit _player;
+    [SerializeField] protected NavMeshAgent _agent;
     [SerializeField] private Vector3 _initialPosition;
-    [SerializeField] private Animator _animator;
+    [SerializeField] protected Animator _animator;
 
     [Header("탐지 및 공격")]
     public float DetectDistance = 4f;
@@ -29,7 +29,7 @@ public class Monster : MonoBehaviour, IDamageable
     private bool _isAttacking = false;
 
     [Header("체력 및 데미지")]
-    [SerializeField] private ConsumableStat _health;
+    [SerializeField] protected ConsumableStat _health;
     public float MonsterDamage = 10f;
 
     public float CurrentHealth => _health.Value;
@@ -69,7 +69,7 @@ public class Monster : MonoBehaviour, IDamageable
     public Vector3 Position => transform.position;
     private Vector3 PlayerPosition => _player.Position;
 
-    private void Awake()
+    protected virtual void Awake()
     {
         _health.Initialize();
         _animator = GetComponentInChildren<Animator>();
@@ -87,7 +87,7 @@ public class Monster : MonoBehaviour, IDamageable
         GameManager.OnGameStateChanged -= HandleGameStateChanged;
     }
 
-    private void Start()
+    protected virtual void Start()
     {
         _initialPosition = transform.position;
         _agent.speed = MoveSpeed;
@@ -113,7 +113,8 @@ public class Monster : MonoBehaviour, IDamageable
         }
     }
 
-    private void Update()
+    // Update 로직을 가상 함수로 분리하여 자식이 확장 가능하게 변경
+    protected virtual void Update()
     {
         // 죽은 상태면 아무것도 안 함
         if (State == EMonsterState.Death) return;
@@ -124,6 +125,9 @@ public class Monster : MonoBehaviour, IDamageable
             ChangeState(EMonsterState.Idle);
             return;
         }
+
+        // 자식 클래스에서 처리할 상태가 있다면 처리를 넘김
+        if (HandleCustomState()) return;
 
         switch (State)
         {
@@ -145,9 +149,15 @@ public class Monster : MonoBehaviour, IDamageable
         }
     }
 
+    // 자식 클래스에서 커스텀 상태(Charging, Dash 등)를 처리하기 위한 훅(Hook) 메서드
+    protected virtual bool HandleCustomState()
+    {
+        return false; 
+    }
+
     #region State Machine
 
-    private void ChangeState(EMonsterState newState)
+    protected void ChangeState(EMonsterState newState)
     {
         if (State == newState) return;
 
@@ -187,7 +197,7 @@ public class Monster : MonoBehaviour, IDamageable
         }
     }
 
-    private void ExitState(EMonsterState exitingState)
+    protected virtual void ExitState(EMonsterState exitingState)
     {
         switch (exitingState)
         {
@@ -208,7 +218,7 @@ public class Monster : MonoBehaviour, IDamageable
         }
     }
 
-    private void EnterState(EMonsterState enteringState)
+    protected virtual void EnterState(EMonsterState enteringState)
     {
         switch (enteringState)
         {
@@ -276,7 +286,8 @@ public class Monster : MonoBehaviour, IDamageable
         }
     }
 
-    private void UpdateTrace()
+    // 추적 로직도 자식이 덮어써야 하므로 virtual
+    protected virtual void UpdateTrace()
     {
         if (_player.IsDead)
         {
@@ -371,7 +382,7 @@ public class Monster : MonoBehaviour, IDamageable
 
     #region Damage & Coroutines
 
-    public bool TryTakeDamage(Damage damage)
+    public virtual bool TryTakeDamage(Damage damage)
     {
         // 대미지를 받으면 "대미지를 받은 위치"에 혈흔 이펙트를 생성해서 플레이 하고 싶다.
         // 그런데 그 이펙트는 "몬스터를 따라다녀야" 한다.
