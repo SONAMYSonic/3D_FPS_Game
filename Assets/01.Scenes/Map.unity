@@ -11167,7 +11167,7 @@ PrefabInstance:
       objectReference: {fileID: 19800002, guid: a88869ac380871148afd947a3d325f42, type: 3}
     - target: {fileID: 4434943019539236542, guid: 8546994d705062047bbac7312f870d9b, type: 3}
       propertyPath: _combatHoverHeight
-      value: 0.5
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4434943019539236542, guid: 8546994d705062047bbac7312f870d9b, type: 3}
       propertyPath: _bulletLineRendererPrefab
