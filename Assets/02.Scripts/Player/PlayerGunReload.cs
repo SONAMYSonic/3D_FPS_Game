@@ -5,8 +5,6 @@ using DG.Tweening;
 public class PlayerGunReload : MonoBehaviour
 {
     private GunStat _gunStat;
-    [SerializeField] private GameObject _playerGunObject;
-    [SerializeField] private Vector3 _initailPlayerGunRotation;
 
     [SerializeField] private float _reloadDuration = 1.6f;
     [SerializeField] private bool _isReloading = false;
@@ -17,9 +15,6 @@ public class PlayerGunReload : MonoBehaviour
     {
         // GunStat 컴포넌트 가져오기
         _gunStat = GetComponent<GunStat>();
-
-        // 초기 "로컬" 회전 캐싱
-        _initailPlayerGunRotation = _playerGunObject.transform.localEulerAngles;
     }
 
     private void Update()
@@ -38,17 +33,7 @@ public class PlayerGunReload : MonoBehaviour
             // 재장전 중임을 표시
             _isReloading = true;
 
-            // 재장전 시 총 오브젝트를 X축으로 마구 회전 후 원래대로 돌아오게 함
-            _playerGunObject.transform.DOKill();
-            _playerGunObject.transform.DOLocalRotate(
-                new Vector3(_initailPlayerGunRotation.x + 3600f, _initailPlayerGunRotation.y, _initailPlayerGunRotation.z),
-                _reloadDuration,
-                RotateMode.FastBeyond360
-            ).SetEase(Ease.OutQuad).OnComplete(() =>
-            {
-                _playerGunObject.transform.localRotation = Quaternion.Euler(_initailPlayerGunRotation);
-                Reload();
-            });
+            Reload();
         }
     }
 
