@@ -82,7 +82,6 @@ public class StrikerDroneController : MonoBehaviour
     // --- 생명주기 메서드 ---
     private void Awake()
     {
-        // 최적화를 위해 플레이어 참조 캐싱 (실제론 GameManager 등을 통해 가져오는 것 권장)
         GameObject playerObj = GameObject.FindWithTag("Player");
         if (playerObj != null)
         {
@@ -93,22 +92,25 @@ public class StrikerDroneController : MonoBehaviour
             Debug.LogError("Player not found!");
         }
 
-        // 총알 풀 초기화
         InitializeBulletPool();
 
-        // 피격 이펙트 캐싱
         if (_hitEffectPrefab != null)
         {
             _hitEffect = Instantiate(_hitEffectPrefab);
             _hitEffect.gameObject.SetActive(false);
         }
 
-        // 초기 상태: Idle
         ChangeState(new DroneIdleState(this));
     }
 
     private void Update()
     {
+        // 게임이 Playing 상태가 아니면 드론 동작 중지
+        if (GameManager.Instance == null || GameManager.Instance.State != EGameState.Playing)
+        {
+            return;
+        }
+
         if (_currentState != null)
         {
             _currentState.Execute();
@@ -133,9 +135,6 @@ public class StrikerDroneController : MonoBehaviour
         }
     }
 
-    /// <summary>
-    /// 풀에서 다음 LineRenderer를 가져옵니다.
-    /// </summary>
     public LineRenderer GetNextBulletLineRenderer()
     {
         if (_bulletPool == null || _bulletPool.Length == 0)
@@ -148,9 +147,6 @@ public class StrikerDroneController : MonoBehaviour
         return lr;
     }
 
-    /// <summary>
-    /// 피격 이펙트를 재생합니다.
-    /// </summary>
     public void PlayHitEffect(Vector3 position, Vector3 normal)
     {
         if (_hitEffect != null)
@@ -162,9 +158,6 @@ public class StrikerDroneController : MonoBehaviour
         }
     }
 
-    /// <summary>
-    /// 총알 궤적 코루틴을 실행합니다.
-    /// </summary>
     public Coroutine StartBulletTrail(Vector3 endPos)
     {
         return StartCoroutine(ShowBulletTrailCoroutine(endPos));
@@ -190,18 +183,15 @@ public class StrikerDroneController : MonoBehaviour
         {
             currentDistance += _bulletSpeed * Time.deltaTime;
 
-            // 총알 머리 위치 (목표 지점을 넘지 않도록)
             float headDist = Mathf.Min(currentDistance, totalDistance);
             Vector3 headPos = startOrigin + direction * headDist;
 
-            // 총알 꼬리 위치
             float tailDist = Mathf.Max(0f, currentDistance - bulletLength);
             Vector3 tailPos = startOrigin + direction * Mathf.Min(tailDist, totalDistance);
 
             lineRenderer.SetPosition(0, tailPos);
             lineRenderer.SetPosition(1, headPos);
 
-            // 꼬리가 목표 지점에 도달하면 종료
             if (tailDist >= totalDistance)
             {
                 break;
@@ -213,9 +203,6 @@ public class StrikerDroneController : MonoBehaviour
         lineRenderer.enabled = false;
     }
 
-    /// <summary>
-    /// 부드러운 위치 이동을 수행합니다. (State에서 호출)
-    /// </summary>
     public void SmoothMoveToPosition(Vector3 targetPos, ref Vector3 velocity)
     {
         transform.position = Vector3.SmoothDamp(
@@ -227,9 +214,6 @@ public class StrikerDroneController : MonoBehaviour
         );
     }
 
-    // --- 공개 메서드 (API) ---
-
-    // 상태 변경
     public void ChangeState(IDroneState newState)
     {
         if (_currentState != null)
@@ -241,25 +225,21 @@ public class StrikerDroneController : MonoBehaviour
         _currentState.Enter();
     }
 
-    // 타겟 설정 (외부에서 적 지정 시 사용)
     public void SetTarget(Transform target)
     {
         _currentTarget = target;
-        // 타겟이 지정되면 즉시 접근/공격 로직으로 전환 가능
         if (_currentTarget != null && !IsRecalled())
         {
             ChangeState(new DroneApproachState(this));
         }
     }
 
-    // 복귀 명령
     public void Recall()
     {
         _isRecalled = true;
         ChangeState(new DroneReturnState(this));
     }
 
-    // 타겟 초기화
     public void ClearTarget()
     {
         _currentTarget = null;
@@ -270,7 +250,6 @@ public class StrikerDroneController : MonoBehaviour
         return _isRecalled;
     }
 
-    // 발사 이펙트 재생 (State에서 호출)
     public void PlayMuzzleFlash()
     {
         if (_muzzleFlash != null)
@@ -279,11 +258,8 @@ public class StrikerDroneController : MonoBehaviour
         }
     }
 
-    // 플레이어가 엄폐 중인지 확인 (가상 로직)
     public bool IsPlayerInCover()
     {
-        // 실제 게임 로직: PlayerController의 상태를 확인해야 함
-        // 여기서는 예시로 false 반환
         return false;
     }
 }

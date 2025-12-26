@@ -1,31 +1,7 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-/// <summary>
-/// 플레이어 스탯 UI를 관리하는 컴포넌트입니다.
-/// 체력바, 스태미나바 등을 표시합니다.
-/// 
-/// ───────────────────────────────────────────────────────────
-/// 📚 학습 포인트: 옵저버 패턴의 구독자 (Subscriber)
-/// ───────────────────────────────────────────────────────────
-/// 
-/// 비유: "유튜브 구독자"
-/// 
-/// 1. Start()에서 구독 등록 (알림 설정 ON)
-///    PlayerStats.OnDataChanged += Refresh;
-/// 
-/// 2. 스탯 변경 시 자동으로 Refresh() 호출 (알림 수신)
-/// 
-/// 3. OnDestroy()에서 구독 해제 (알림 설정 OFF)
-///    PlayerStats.OnDataChanged -= Refresh;
-/// 
-/// 구독 해제를 안 하면?
-/// - 이미 파괴된 UI가 계속 호출됨
-/// - NullReferenceException 발생!
-/// - 메모리 누수!
-/// 
-/// ───────────────────────────────────────────────────────────
-/// </summary>
 public class UI_PlayerStats : MonoBehaviour
 {
     // ═══════════════════════════════════════════════════════════
@@ -35,11 +11,20 @@ public class UI_PlayerStats : MonoBehaviour
     [SerializeField, Tooltip("플레이어 스탯 참조")]
     private PlayerStats _stats;
     
+    [SerializeField, Tooltip("총 스탯 참조 (탄창 표시용)")]
+    private GunStat _gunStat;
+    
     [SerializeField, Tooltip("체력 슬라이더")]
     private Slider _healthSlider;
     
     [SerializeField, Tooltip("스태미나 슬라이더")]
     private Slider _staminaSlider;
+
+    [SerializeField, Tooltip("탄창 UI")]
+    private TextMeshProUGUI _bulletText;
+
+    [SerializeField, Tooltip("폭탄 UI")]
+    private TextMeshProUGUI _bombText;
 
     // ═══════════════════════════════════════════════════════════
     // Unity 생명주기
@@ -56,25 +41,6 @@ public class UI_PlayerStats : MonoBehaviour
 
     private void OnDestroy()
     {
-        // ─────────────────────────────────────────────────────────
-        // 📚 핵심: 정적 이벤트 구독 해제
-        // ─────────────────────────────────────────────────────────
-        // 
-        // 왜 중요한가요?
-        // 
-        // 정적 이벤트는 씬이 바뀌어도 메모리에 남아있습니다.
-        // UI 오브젝트가 파괴되어도 이벤트에 등록된 참조는 남아있어서
-        // 이미 없어진 UI의 Refresh()를 계속 호출하려고 합니다.
-        // 
-        // 결과:
-        // - NullReferenceException 발생
-        // - 메모리 누수 (Garbage Collection 불가)
-        // 
-        // 비유: "이사 갔는데 우편물이 계속 전 주소로 감"
-        // - 새 주인: "이거 누구 거예요?" (에러)
-        // - 우편함 쌓임 (메모리 누수)
-        // 
-        // ─────────────────────────────────────────────────────────
         UnsubscribeFromEvents();
         Debug.Log("[UI_PlayerStats] 파괴됨 - 이벤트 구독 해제됨");
     }
@@ -83,14 +49,16 @@ public class UI_PlayerStats : MonoBehaviour
     // 초기화 메서드
     // ═══════════════════════════════════════════════════════════
 
-    /// <summary>
-    /// Inspector에서 참조가 제대로 설정되었는지 확인합니다.
-    /// </summary>
     private void ValidateReferences()
     {
         if (_stats == null)
         {
             Debug.LogError("[UI_PlayerStats] PlayerStats 참조가 없습니다! Inspector에서 설정해주세요.");
+        }
+        
+        if (_gunStat == null)
+        {
+            Debug.LogWarning("[UI_PlayerStats] GunStat 참조가 없습니다! 탄창 UI가 표시되지 않습니다.");
         }
         
         if (_healthSlider == null)
@@ -102,19 +70,23 @@ public class UI_PlayerStats : MonoBehaviour
         {
             Debug.LogError("[UI_PlayerStats] Stamina Slider 참조가 없습니다!");
         }
+        
+        if (_bulletText == null)
+        {
+            Debug.LogWarning("[UI_PlayerStats] Bullet Text 참조가 없습니다!");
+        }
+        
+        if (_bombText == null)
+        {
+            Debug.LogWarning("[UI_PlayerStats] Bomb Text 참조가 없습니다!");
+        }
     }
 
-    /// <summary>
-    /// 이벤트를 구독합니다.
-    /// </summary>
     private void SubscribeToEvents()
     {
         PlayerStats.OnDataChanged += Refresh;
     }
 
-    /// <summary>
-    /// 이벤트 구독을 해제합니다.
-    /// </summary>
     private void UnsubscribeFromEvents()
     {
         PlayerStats.OnDataChanged -= Refresh;
@@ -124,37 +96,6 @@ public class UI_PlayerStats : MonoBehaviour
     // UI 갱신
     // ═══════════════════════════════════════════════════════════
 
-    /// <summary>
-    /// UI를 갱신합니다.
-    /// 
-    /// ───────────────────────────────────────────────────────────
-    /// 📚 학습 포인트: 풀링(Polling) vs 이벤트(Event)
-    /// ───────────────────────────────────────────────────────────
-    /// 
-    /// Polling 방식 (비효율적):
-    /// void Update() {
-    ///     Refresh();  // 매 프레임마다 UI 갱신
-    /// }
-    /// 
-    /// 문제점:
-    /// - 60FPS라면 초당 60번 갱신
-    /// - 값이 안 바뀌어도 계속 갱신
-    /// - CPU 낭비!
-    /// 
-    /// Event 방식 (효율적 - 현재 코드):
-    /// PlayerStats.OnDataChanged += Refresh;
-    /// 
-    /// 장점:
-    /// - 값이 바뀔 때만 갱신
-    /// - 필요할 때만 CPU 사용
-    /// - 성능 최적화!
-    /// 
-    /// 비유: 
-    /// - Polling = 매 초마다 문 열어보기 "택배 왔나?"
-    /// - Event = 초인종 울리면 문 열기
-    /// 
-    /// ───────────────────────────────────────────────────────────
-    /// </summary>
     public void Refresh()
     {
         if (_stats == null)
@@ -164,11 +105,10 @@ public class UI_PlayerStats : MonoBehaviour
 
         RefreshHealthBar();
         RefreshStaminaBar();
+        RefreshBulletText();
+        RefreshBombText();
     }
 
-    /// <summary>
-    /// 체력바를 갱신합니다.
-    /// </summary>
     private void RefreshHealthBar()
     {
         if (_healthSlider == null)
@@ -176,13 +116,9 @@ public class UI_PlayerStats : MonoBehaviour
             return;
         }
         
-        // Slider.value는 0~1 범위의 정규화된 값
         _healthSlider.value = CalculatePercent(_stats.Health.Value, _stats.Health.MaxValue);
     }
 
-    /// <summary>
-    /// 스태미나바를 갱신합니다.
-    /// </summary>
     private void RefreshStaminaBar()
     {
         if (_staminaSlider == null)
@@ -194,14 +130,40 @@ public class UI_PlayerStats : MonoBehaviour
     }
 
     /// <summary>
-    /// 백분율을 계산합니다.
+    /// 탄창 UI를 갱신합니다.
+    /// 표시 형식: (현재 탄약)/(남은 탄약)
     /// </summary>
-    /// <param name="current">현재값</param>
-    /// <param name="max">최대값</param>
-    /// <returns>0~1 범위의 백분율</returns>
+    private void RefreshBulletText()
+    {
+        if (_bulletText == null || _gunStat == null)
+        {
+            return;
+        }
+        
+        int currentAmmo = Mathf.RoundToInt(_gunStat.Ammo.Value);
+        int remainingAmmo = Mathf.RoundToInt(_gunStat.FullAmmo.Value);
+        
+        _bulletText.text = $"{currentAmmo}/{remainingAmmo}";
+    }
+
+    /// <summary>
+    /// 폭탄 UI를 갱신합니다.
+    /// 표시 형식: X (폭탄 갯수)
+    /// </summary>
+    private void RefreshBombText()
+    {
+        if (_bombText == null)
+        {
+            return;
+        }
+        
+        int bombCount = Mathf.RoundToInt(_stats.Bomb.Value);
+        
+        _bombText.text = $"X {bombCount}";
+    }
+
     private float CalculatePercent(float current, float max)
     {
-        // 0으로 나누기 방지
         if (max <= 0f)
         {
             return 0f;
