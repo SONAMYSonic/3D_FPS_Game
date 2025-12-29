@@ -16,7 +16,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &191931325
 Transform:
   m_ObjectHideFlags: 0
@@ -39,7 +39,7 @@ LightProbeGroup:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 191931324}
-  m_Enabled: 1
+  m_Enabled: 0
   m_SourcePositions:
   - {x: 6.572818, y: 4.0939093, z: 24.780788}
   - {x: 6.572818, y: -6.365205, z: 24.780788}
@@ -589,7 +589,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5550497465513159471}
   - component: {fileID: 5648145365745248551}
-  - component: {fileID: 3342655024792320781}
+  - component: {fileID: 4585927521112014690}
   m_Layer: 0
   m_Name: Spot Light
   m_TagString: Untagged
@@ -629,7 +629,7 @@ Light:
   m_InnerSpotAngle: 1
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 1
+    m_Type: 2
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -672,12 +672,12 @@ Light:
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ForceVisible: 0
-  m_ShadowRadius: 0
+  m_ShadowRadius: 0.5
   m_ShadowAngle: 0
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
---- !u!114 &3342655024792320781
+--- !u!114 &4585927521112014690
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
