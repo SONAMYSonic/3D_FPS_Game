@@ -16,7 +16,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 2147483647
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &191931325
 Transform:
   m_ObjectHideFlags: 0
@@ -39,7 +39,7 @@ LightProbeGroup:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 191931324}
-  m_Enabled: 0
+  m_Enabled: 1
   m_SourcePositions:
   - {x: 6.572818, y: 4.0939093, z: 24.780788}
   - {x: 6.572818, y: -6.365205, z: 24.780788}
@@ -662,7 +662,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
