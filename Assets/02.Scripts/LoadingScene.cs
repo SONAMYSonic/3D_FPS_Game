@@ -17,7 +17,7 @@ public class LoadingScene : MonoBehaviour
     private IEnumerator LoadScene_Coroutine()
     {
         // 씬 로드상황에 대한 데이터를 가지고 있는 객체를 반환
-        AsyncOperation ao = SceneManager.LoadSceneAsync("SampleScene");
+        AsyncOperation ao = SceneManager.LoadSceneAsync("AfterScene");
 
         // 로드되는 씬의 모습이 화면에 안보이게...
         ao.allowSceneActivation = false;
